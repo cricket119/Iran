@@ -171,43 +171,56 @@ async function translateBatch(items, mode = "news") {
         type: "json_schema",
         name: "translated_items",
         schema: {
-          type: "array",
-          items: {
-            type: "object",
-            properties: {
-              id: { type: "string" },
-              titleZh: { type: "string" },
-              summaryZh: { type: "string" }
-            },
-            required: ["id", "titleZh", "summaryZh"],
-            additionalProperties: false
-          }
+          type: "object",
+          properties: {
+            items: {
+              type: "array",
+              items: {
+                type: "object",
+                properties: {
+                  id: { type: "string" },
+                  titleZh: { type: "string" },
+                  summaryZh: { type: "string" }
+                },
+                required: ["id", "titleZh", "summaryZh"],
+                additionalProperties: false
+              }
+            }
+          },
+          required: ["items"],
+          additionalProperties: false
         }
       }
     }
   };
 
-  const res = await fetch("https://api.openai.com/v1/responses", {
-    method: "POST",
-    headers: {
-      Authorization: `Bearer ${key}`,
-      "Content-Type": "application/json"
-    },
-    body: JSON.stringify(payload)
-  });
+  let map = new Map();
+  try {
+    const res = await fetch("https://api.openai.com/v1/responses", {
+      method: "POST",
+      headers: {
+        Authorization: `Bearer ${key}`,
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify(payload)
+    });
 
-  if (!res.ok) {
-    const err = await res.text();
-    throw new Error(`OpenAI API failed: ${res.status} ${err}`);
-  }
+    if (!res.ok) {
+      const err = await res.text();
+      throw new Error(`OpenAI API failed: ${res.status} ${err}`);
+    }
 
-  const data = await res.json();
-  const textOut = data?.output?.[0]?.content?.[0]?.text;
-  if (!textOut) {
-    throw new Error("OpenAI API returned empty output");
+    const data = await res.json();
+    const textOut = data?.output?.[0]?.content?.[0]?.text || data?.output_text;
+    if (!textOut) {
+      throw new Error("OpenAI API returned empty output");
+    }
+    const parsed = JSON.parse(textOut);
+    const translated = Array.isArray(parsed) ? parsed : parsed.items || [];
+    map = new Map(translated.map((x) => [x.id, x]));
+  } catch (err) {
+    console.error(`[translate:${mode}] fallback to original content:`, err.message);
   }
-  const translated = JSON.parse(textOut);
-  const map = new Map(translated.map((x) => [x.id, x]));
 
   return items.map((item) => {
     const t = map.get(item.id);
