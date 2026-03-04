@@ -56,10 +56,15 @@ function decodeXml(text = "") {
     .replaceAll("&#39;", "'");
 }
 
+function escapeRegExp(text = "") {
+  return text.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
 function extractTag(block, tag) {
-  const cdataRegex = new RegExp(`<${tag}[^>]*><!\\\\[CDATA\\\\[([\\\\s\\\\S]*?)\\\\]\\\\]><\\\\/${tag}>`, "i");
-  const plainRegex = new RegExp(`<${tag}[^>]*>([\\\\s\\\\S]*?)<\\\\/${tag}>`, "i");
-  const selfCloseRegex = new RegExp(`<${tag}[^>]*href=\"([^\"]+)\"[^>]*/?>`, "i");
+  const safeTag = escapeRegExp(tag);
+  const cdataRegex = new RegExp(`<${safeTag}[^>]*><!\\[CDATA\\[([\\s\\S]*?)\\]\\]><\\/${safeTag}>`, "i");
+  const plainRegex = new RegExp(`<${safeTag}[^>]*>([\\s\\S]*?)<\\/${safeTag}>`, "i");
+  const selfCloseRegex = new RegExp(`<${safeTag}[^>]*href="([^"]+)"[^>]*/?>`, "i");
   const cdata = block.match(cdataRegex);
   if (cdata?.[1]) return decodeXml(cdata[1].trim());
   const plain = block.match(plainRegex);
