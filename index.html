@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>伊朗局势实时追踪</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./assets/style.css" />
+  </head>
+  <body>
+    <main class="container">
+      <section class="hero">
+        <h1>伊朗局势实时更新</h1>
+        <div id="status" class="meta">正在加载数据...</div>
+        <div class="footer-note">
+          自动抓取：Reuters / BBC / Al Jazeera / 联合早报；评论板块：The New York Times / Foreign Affairs。
+          默认每 20 分钟更新一次，并保留原文链接以便核查。
+        </div>
+      </section>
+
+      <section class="grid">
+        <div class="section">
+          <h2>时间线（最新在前）</h2>
+          <div id="timeline"></div>
+        </div>
+
+        <div class="section">
+          <h2>多媒体同页对比</h2>
+          <div id="compare"></div>
+        </div>
+      </section>
+
+      <section class="section" style="margin-top: 16px;">
+        <h2>顶级期刊评论概括</h2>
+        <div id="commentary"></div>
+      </section>
+    </main>
+    <script src="./assets/app.js" type="module"></script>
+  </body>
+</html>
