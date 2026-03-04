@@ -7,19 +7,19 @@ const NEWS_SOURCES = [
   {
     id: "reuters",
     name: "Reuters",
-    feed: "https://www.reuters.com/world/middle-east/rss",
+    feed: "https://news.google.com/rss/search?q=iran+site:reuters.com&hl=en-US&gl=US&ceid=US:en",
     site: "reuters.com"
   },
   {
     id: "bbc",
     name: "BBC",
-    feed: "http://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+    feed: "https://news.google.com/rss/search?q=iran+site:bbc.com&hl=en-US&gl=US&ceid=US:en",
     site: "bbc.com"
   },
   {
     id: "aljazeera",
     name: "Al Jazeera",
-    feed: "https://www.aljazeera.com/xml/rss/all.xml",
+    feed: "https://news.google.com/rss/search?q=iran+site:aljazeera.com&hl=en-US&gl=US&ceid=US:en",
     site: "aljazeera.com"
   },
   {
@@ -34,13 +34,13 @@ const COMMENTARY_SOURCES = [
   {
     id: "nytimes",
     name: "The New York Times",
-    feed: "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+    feed: "https://news.google.com/rss/search?q=iran+site:nytimes.com+opinion&hl=en-US&gl=US&ceid=US:en",
     site: "nytimes.com"
   },
   {
     id: "foreignaffairs",
     name: "Foreign Affairs",
-    feed: "https://www.foreignaffairs.com/rss.xml",
+    feed: "https://news.google.com/rss/search?q=iran+site:foreignaffairs.com&hl=en-US&gl=US&ceid=US:en",
     site: "foreignaffairs.com"
   }
 ];
@@ -92,6 +92,20 @@ function normalizeItems(xml) {
 function includesIran(text) {
   const lowered = text.toLowerCase();
   return IRAN_KEYWORDS.some((k) => lowered.includes(k.toLowerCase()));
+}
+
+function toEntry(source, type, item, idx) {
+  return {
+    id: `${source.id}-${type}-${idx}-${(item.link || item.title).slice(0, 24)}`,
+    sourceId: source.id,
+    source: source.name,
+    sourceSite: source.site,
+    type,
+    title: item.title,
+    description: item.description,
+    url: item.link,
+    publishedAt: item.pubDate
+  };
 }
 
 async function fetchRss(url) {
@@ -206,20 +220,9 @@ async function buildNewsTimeline() {
   for (const source of NEWS_SOURCES) {
     try {
       const items = await fetchRss(source.feed);
-      const filtered = items
-        .filter((i) => includesIran(`${i.title} ${i.description}`))
-        .slice(0, 10)
-        .map((item, idx) => ({
-          id: `${source.id}-n-${idx}-${(item.link || item.title).slice(0, 24)}`,
-          sourceId: source.id,
-          source: source.name,
-          sourceSite: source.site,
-          type: "news",
-          title: item.title,
-          description: item.description,
-          url: item.link,
-          publishedAt: item.pubDate
-        }));
+      const iranFirst = items.filter((i) => includesIran(`${i.title} ${i.description}`));
+      const selected = (iranFirst.length > 0 ? iranFirst : items).slice(0, 10);
+      const filtered = selected.map((item, idx) => toEntry(source, "news", item, idx));
       all.push(...filtered);
     } catch (err) {
       console.error(`[news] ${source.name} failed:`, err.message);
@@ -244,20 +247,9 @@ async function buildCommentary() {
   for (const source of COMMENTARY_SOURCES) {
     try {
       const items = await fetchRss(source.feed);
-      const filtered = items
-        .filter((i) => includesIran(`${i.title} ${i.description}`))
-        .slice(0, 8)
-        .map((item, idx) => ({
-          id: `${source.id}-c-${idx}-${(item.link || item.title).slice(0, 24)}`,
-          sourceId: source.id,
-          source: source.name,
-          sourceSite: source.site,
-          type: "commentary",
-          title: item.title,
-          description: item.description,
-          url: item.link,
-          publishedAt: item.pubDate
-        }));
+      const iranFirst = items.filter((i) => includesIran(`${i.title} ${i.description}`));
+      const selected = (iranFirst.length > 0 ? iranFirst : items).slice(0, 8);
+      const filtered = selected.map((item, idx) => toEntry(source, "commentary", item, idx));
       commentary.push(...filtered);
     } catch (err) {
       console.error(`[commentary] ${source.name} failed:`, err.message);
