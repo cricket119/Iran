@@ -99,10 +99,10 @@ function renderCommentary(items) {
     .join("");
 }
 
-async function main() {
+async function refreshData() {
   const status = document.getElementById("status");
   try {
-    const res = await fetch("./data/latest.json", { cache: "no-store" });
+    const res = await fetch(`./data/latest.json?t=${Date.now()}`, { cache: "no-store" });
     if (!res.ok) throw new Error(`加载失败: ${res.status}`);
     const data = await res.json();
 
@@ -118,4 +118,5 @@ async function main() {
   }
 }
 
-main();
+refreshData();
+setInterval(refreshData, 60 * 1000);
