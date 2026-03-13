@@ -1,46 +1,111 @@
 {
-  "generatedAt": "2026-03-13T04:42:29.903Z",
+  "generatedAt": "2026-03-13T06:48:26.096Z",
   "totalNews": 29,
   "totalCommentary": 32,
   "timeline": [
+    {
+      "id": "bbc-news-7-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "Israel says Iran firing new missiles as US refuelling plane crashes in Iraq - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zeWhrRWJZcGg1bHR6LTJiWUhDZEt3MFVyTngyMlFGalFPYmVXSTE3U0k1dUVfbGFTSkhRZThTY2E1Tm5GNVJzaTFCTzBkZWp0SDVpeg?oc=5\" target=\"_blank\">Israel says Iran firing new missiles as US refuelling plane crashes in Iraq</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zeWhrRWJZcGg1bHR6LTJiWUhDZEt3MFVyTngyMlFGalFPYmVXSTE3U0k1dUVfbGFTSkhRZThTY2E1Tm5GNVJzaTFCTzBkZWp0SDVpeg?oc=5",
+      "publishedAt": "Fri, 13 Mar 2026 06:43:41 GMT",
+      "titleZh": "Israel says Iran firing new missiles as US refuelling plane crashes in Iraq - BBC",
+      "summaryZh": "Israel says Iran firing new missiles as US refuelling plane crashes in Iraq&nbsp;&nbsp;BBC"
+    },
     {
       "id": "aljazeera-news-0-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
       "type": "news",
-      "title": "Iran war live: Trump says war going ‘well’ as Gulf under wave of attacks - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaXczNWtBUE9tMUowWTJraUMtOXhEWlNtRmFjb0RpTGZZM18xalhXTjRmQ0ctNGpydHhCNGxNR3k2UHBfOXV4d0VxZUdJOTF1NVZIdEs1QkZfLUd6YW9vUC00RTJ6WENhRUdYaThVdldvZTZPc0JBU0I4eHRIRl9MblNBU2gtcUhxZml5TE5RVUtBLWhVeE5rcmlyN2UtY2gwSTU1Mlp3c2FtU0tvRmJneE84RWlCWHJhNHFR0gHAAUFVX3lxTE5kbk1qc1UzaXBfZnJwX0V3YUtzQ3VqdWNSU0FyNzNObTczTWM3ODNfUkhWdGZWVHVaM3JOLW1na3BVblpqaFd3dkMwTk1DWUdFSko5VXdCNzRuWHg3ZjdyNEhsZENyZlpKQU5paW1lSGpsd3pwTTZrUUVOVUtlSGJhRk9ybl9wLVYzRXZKU2RCd3E5NjQ1RWFoNURtODN4MG5VRXozSE56ZElSOXRNa0ktSkhpSnRlanVDRzVPWG1Heg?oc=5\" target=\"_blank\">Iran war live: Trump says war going ‘well’ as Gulf under wave of attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "title": "Iran war live: US-Israeli strikes across Tehran; drones near Riyadh - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaXczNWtBUE9tMUowWTJraUMtOXhEWlNtRmFjb0RpTGZZM18xalhXTjRmQ0ctNGpydHhCNGxNR3k2UHBfOXV4d0VxZUdJOTF1NVZIdEs1QkZfLUd6YW9vUC00RTJ6WENhRUdYaThVdldvZTZPc0JBU0I4eHRIRl9MblNBU2gtcUhxZml5TE5RVUtBLWhVeE5rcmlyN2UtY2gwSTU1Mlp3c2FtU0tvRmJneE84RWlCWHJhNHFR0gHAAUFVX3lxTE5kbk1qc1UzaXBfZnJwX0V3YUtzQ3VqdWNSU0FyNzNObTczTWM3ODNfUkhWdGZWVHVaM3JOLW1na3BVblpqaFd3dkMwTk1DWUdFSko5VXdCNzRuWHg3ZjdyNEhsZENyZlpKQU5paW1lSGpsd3pwTTZrUUVOVUtlSGJhRk9ybl9wLVYzRXZKU2RCd3E5NjQ1RWFoNURtODN4MG5VRXozSE56ZElSOXRNa0ktSkhpSnRlanVDRzVPWG1Heg?oc=5\" target=\"_blank\">Iran war live: US-Israeli strikes across Tehran; drones near Riyadh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaXczNWtBUE9tMUowWTJraUMtOXhEWlNtRmFjb0RpTGZZM18xalhXTjRmQ0ctNGpydHhCNGxNR3k2UHBfOXV4d0VxZUdJOTF1NVZIdEs1QkZfLUd6YW9vUC00RTJ6WENhRUdYaThVdldvZTZPc0JBU0I4eHRIRl9MblNBU2gtcUhxZml5TE5RVUtBLWhVeE5rcmlyN2UtY2gwSTU1Mlp3c2FtU0tvRmJneE84RWlCWHJhNHFR0gHAAUFVX3lxTE5kbk1qc1UzaXBfZnJwX0V3YUtzQ3VqdWNSU0FyNzNObTczTWM3ODNfUkhWdGZWVHVaM3JOLW1na3BVblpqaFd3dkMwTk1DWUdFSko5VXdCNzRuWHg3ZjdyNEhsZENyZlpKQU5paW1lSGpsd3pwTTZrUUVOVUtlSGJhRk9ybl9wLVYzRXZKU2RCd3E5NjQ1RWFoNURtODN4MG5VRXozSE56ZElSOXRNa0ktSkhpSnRlanVDRzVPWG1Heg?oc=5",
-      "publishedAt": "Fri, 13 Mar 2026 04:25:01 GMT",
-      "titleZh": "Iran war live: Trump says war going ‘well’ as Gulf under wave of attacks - Al Jazeera",
-      "summaryZh": "Iran war live: Trump says war going ‘well’ as Gulf under wave of attacks&nbsp;&nbsp;Al Jazeera"
+      "publishedAt": "Fri, 13 Mar 2026 06:15:08 GMT",
+      "titleZh": "Iran war live: US-Israeli strikes across Tehran; drones near Riyadh - Al Jazeera",
+      "summaryZh": "Iran war live: US-Israeli strikes across Tehran; drones near Riyadh&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "reuters-news-2-https://news.google.com/",
+      "id": "aljazeera-news-2-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "Iran war: What is happening on day 14 of US-Israel attacks? - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPcTg1a3dRMDlhVU9OQlE3R3VGdW0wZTllRHpicUMxOG9GLWpRdzFlZXZXSFJoN3V6azVMUUg3OVlPVmkwVU9JcV90UzVKU3pLY29ST1NmTmdtYW1QeVI3M25ZQ3hfWVd5anJDTDRwRTR4a2lwWWhjem5rdmY0SjQ4YllubngxN3pPTkhlSlhnVm16azVVa3VudkVGQlNqcDQ?oc=5\" target=\"_blank\">Iran war: What is happening on day 14 of US-Israel attacks?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcTg1a3dRMDlhVU9OQlE3R3VGdW0wZTllRHpicUMxOG9GLWpRdzFlZXZXSFJoN3V6azVMUUg3OVlPVmkwVU9JcV90UzVKU3pLY29ST1NmTmdtYW1QeVI3M25ZQ3hfWVd5anJDTDRwRTR4a2lwWWhjem5rdmY0SjQ4YllubngxN3pPTkhlSlhnVm16azVVa3VudkVGQlNqcDQ?oc=5",
+      "publishedAt": "Fri, 13 Mar 2026 06:13:36 GMT",
+      "titleZh": "Iran war: What is happening on day 14 of US-Israel attacks? - Al Jazeera",
+      "summaryZh": "Iran war: What is happening on day 14 of US-Israel attacks?&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "aljazeera-news-1-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "How Israel-US war on Iran puts $50bn in Indian remittances at risk - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc2hVZmlvenMyX3phX19RbWNFZUg5cFd2ZEpwaThJaHdaM1NFbjlPNzlUTUFMbXBtbzBxTGVSdzBHOVVMZW5fLWs2U0J6SWU4ZVpCV0VQWW1kWXotVGVKZTRvcHkwa2x1eUVPWG80UmYtWEFzeWFoRlh1VTZDUzNEVGlwclZUQVVYSWxodzMtWFQzS1plelZEVVdsSUczMjRzNmlZN3ByT0xOd9IBrwFBVV95cUxOOUJkaUpMWFBQdVhnWU5kV3hnT2RXei04VGljMlVaLXRFRGszdzQ1SHhMSUN1U2lZTzhyMzZUN1dKOHVGYTl0T3dTT3FXS3NUdXppVm1QVXhleTV4eHV5aHg0QmRpZ0RfYkMtMnVPWTRHRl9iYTNEc3RHVEVTRDkzcF9OQktPM0FiR3RzanBlenRyQkU3dE5hT0lyenlHM1M0SjlIQmhBRkNjSEJoR0Jz?oc=5\" target=\"_blank\">How Israel-US war on Iran puts $50bn in Indian remittances at risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc2hVZmlvenMyX3phX19RbWNFZUg5cFd2ZEpwaThJaHdaM1NFbjlPNzlUTUFMbXBtbzBxTGVSdzBHOVVMZW5fLWs2U0J6SWU4ZVpCV0VQWW1kWXotVGVKZTRvcHkwa2x1eUVPWG80UmYtWEFzeWFoRlh1VTZDUzNEVGlwclZUQVVYSWxodzMtWFQzS1plelZEVVdsSUczMjRzNmlZN3ByT0xOd9IBrwFBVV95cUxOOUJkaUpMWFBQdVhnWU5kV3hnT2RXei04VGljMlVaLXRFRGszdzQ1SHhMSUN1U2lZTzhyMzZUN1dKOHVGYTl0T3dTT3FXS3NUdXppVm1QVXhleTV4eHV5aHg0QmRpZ0RfYkMtMnVPWTRHRl9iYTNEc3RHVEVTRDkzcF9OQktPM0FiR3RzanBlenRyQkU3dE5hT0lyenlHM1M0SjlIQmhBRkNjSEJoR0Jz?oc=5",
+      "publishedAt": "Fri, 13 Mar 2026 06:09:46 GMT",
+      "titleZh": "How Israel-US war on Iran puts $50bn in Indian remittances at risk - Al Jazeera",
+      "summaryZh": "How Israel-US war on Iran puts $50bn in Indian remittances at risk&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "reuters-news-0-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
       "type": "news",
-      "title": "Trump says he thinks Iran's new supreme leader is alive but 'damaged' - Reuters",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNTzRhRnNrYUJ6R1QyQVFqVVQ5VmNxV2M1Q281eTZjekh5dXlaNGxPa1NvTEpJWHRZNDdfcnIySEFWR2tfdS1zMTBGcWNSbkJhYXFwejJjaU1aY08tdWNnekpaS09LU050eEhVbHBGRUhNRHFXVjVLV19xV0JCclhBZEVlWEppMkNMTzV3b0hEdjNQcFpuRGtiei10Qzd4T2UwR0JRb2JXdw?oc=5\" target=\"_blank\">Trump says he thinks Iran's new supreme leader is alive but 'damaged'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTzRhRnNrYUJ6R1QyQVFqVVQ5VmNxV2M1Q281eTZjekh5dXlaNGxPa1NvTEpJWHRZNDdfcnIySEFWR2tfdS1zMTBGcWNSbkJhYXFwejJjaU1aY08tdWNnekpaS09LU050eEhVbHBGRUhNRHFXVjVLV19xV0JCclhBZEVlWEppMkNMTzV3b0hEdjNQcFpuRGtiei10Qzd4T2UwR0JRb2JXdw?oc=5",
-      "publishedAt": "Fri, 13 Mar 2026 03:41:00 GMT",
-      "titleZh": "Trump says he thinks Iran's new supreme leader is alive but 'damaged' - Reuters",
-      "summaryZh": "Trump says he thinks Iran's new supreme leader is alive but 'damaged'&nbsp;&nbsp;Reuters"
+      "title": "Exclusive: With Iran war exit elusive, Trump aides vie to affect outcome - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPMGNvdWxQazMxelV6UklsTUloWlB3SC03cHFkOXVZdmJRMkpLYkFlVHpYODlMOTN5aHVKaUpkQnZ2UUFOazJudzVOQktqYmxFQ2pHeUNNTVBPZEFJeXRVa3NfWEpEZDBMb1o0QXZDOTY1Uk1uTjVnT2M4LUZ0dWc4a2h4WXRYeDB6VkxLOF80NjR6a3M1alpCQVJJQUVsSVJnd3FiNA?oc=5\" target=\"_blank\">Exclusive: With Iran war exit elusive, Trump aides vie to affect outcome</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMGNvdWxQazMxelV6UklsTUloWlB3SC03cHFkOXVZdmJRMkpLYkFlVHpYODlMOTN5aHVKaUpkQnZ2UUFOazJudzVOQktqYmxFQ2pHeUNNTVBPZEFJeXRVa3NfWEpEZDBMb1o0QXZDOTY1Uk1uTjVnT2M4LUZ0dWc4a2h4WXRYeDB6VkxLOF80NjR6a3M1alpCQVJJQUVsSVJnd3FiNA?oc=5",
+      "publishedAt": "Fri, 13 Mar 2026 05:02:10 GMT",
+      "titleZh": "Exclusive: With Iran war exit elusive, Trump aides vie to affect outcome - Reuters",
+      "summaryZh": "Exclusive: With Iran war exit elusive, Trump aides vie to affect outcome&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "bbc-news-0-https://news.google.com/",
-      "sourceId": "bbc",
-      "source": "BBC",
-      "sourceSite": "bbc.com",
+      "id": "aljazeera-news-7-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
       "type": "news",
-      "title": "US eases Russia oil sanctions as Iran war pushes up energy prices - BBC",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZUzhYTzcybjRfTExSNXBDRFh4ek5OMXliUjZnSElvTHRjT1Z3TjRhbXdCcGtaOER5TE9ZYVlvWFF4aS03TEp1bkRFZ1BGcEo4QkRmNVI5cDEzQQ?oc=5\" target=\"_blank\">US eases Russia oil sanctions as Iran war pushes up energy prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZUzhYTzcybjRfTExSNXBDRFh4ek5OMXliUjZnSElvTHRjT1Z3TjRhbXdCcGtaOER5TE9ZYVlvWFF4aS03TEp1bkRFZ1BGcEo4QkRmNVI5cDEzQQ?oc=5",
-      "publishedAt": "Fri, 13 Mar 2026 02:50:52 GMT",
-      "titleZh": "US eases Russia oil sanctions as Iran war pushes up energy prices - BBC",
-      "summaryZh": "US eases Russia oil sanctions as Iran war pushes up energy prices&nbsp;&nbsp;BBC"
+      "title": "Oil stays above $100 a barrel amid Iran’s stranglehold on Strait of Hormuz - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNX0FVUHpDUEt0WEo4WVgzSEY1ZXNTd1Vtb091a3ZIWXdFZzQySjlLd1JrYXFGQnpZRFBocU9HSlN0ODVHTmVzdkFQNVA1Zl9JLWlvNDY0a0YxOXgzdFdZRi1wd2dCWUFCVEN5ajEtSkZHNEZiYURhWFZLckVJVFZMbTV4LUtpWDFINDVYQm50WjlDOHZqTUt0U2VpcUNrRzFaSERlYjV4ZktRQW9vS0JvTnk1bzEzVmfSAbwBQVVfeXFMT01GNXl1SzFkY0c5bnRxQWhHM2Q0VXFOYlgwTGpWUjRDazB3UW5CbV9jaVI1cEE5ZDFGdkZOdTdPVGk1cjdWWG5zYU1VX1lSNmc5Ump0VXRQZUNEMFVrcGVnSS1yYXdxMXQ4Tm0xT2Z0cF9NWEdhNEx6WW9oMElOMjI4ZUplT0xTLTVURko3T0JxNGYtWkRQZGQ0bjF6OHQzM3dpQ0tEd2QycjJVaWpBd3E3Qk83Ykc5Y2h0cTk?oc=5\" target=\"_blank\">Oil stays above $100 a barrel amid Iran’s stranglehold on Strait of Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX0FVUHpDUEt0WEo4WVgzSEY1ZXNTd1Vtb091a3ZIWXdFZzQySjlLd1JrYXFGQnpZRFBocU9HSlN0ODVHTmVzdkFQNVA1Zl9JLWlvNDY0a0YxOXgzdFdZRi1wd2dCWUFCVEN5ajEtSkZHNEZiYURhWFZLckVJVFZMbTV4LUtpWDFINDVYQm50WjlDOHZqTUt0U2VpcUNrRzFaSERlYjV4ZktRQW9vS0JvTnk1bzEzVmfSAbwBQVVfeXFMT01GNXl1SzFkY0c5bnRxQWhHM2Q0VXFOYlgwTGpWUjRDazB3UW5CbV9jaVI1cEE5ZDFGdkZOdTdPVGk1cjdWWG5zYU1VX1lSNmc5Ump0VXRQZUNEMFVrcGVnSS1yYXdxMXQ4Tm0xT2Z0cF9NWEdhNEx6WW9oMElOMjI4ZUplT0xTLTVURko3T0JxNGYtWkRQZGQ0bjF6OHQzM3dpQ0tEd2QycjJVaWpBd3E3Qk83Ykc5Y2h0cTk?oc=5",
+      "publishedAt": "Fri, 13 Mar 2026 04:03:43 GMT",
+      "titleZh": "Oil stays above $100 a barrel amid Iran’s stranglehold on Strait of Hormuz - Al Jazeera",
+      "summaryZh": "Oil stays above $100 a barrel amid Iran’s stranglehold on Strait of Hormuz&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "reuters-news-5-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
+      "type": "news",
+      "title": "Breakingviews - Iran war shows up folly of slow energy transition - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMzVsTDBLMjZqa1hicFc2RUFKay03OVpSMlBZR3ZvTnZ3MnpIbjFCaVVQb3VlemVoRnlFWHlGOUd1WnNVUXFzdXhDTXg4dms5SjZxaEt2WHBTTWpUUnM3NnFuUjc4NTlFUG1CdE55OW9ZQmF6bU1XN3YyV20zanJBclJtTnI1QUZHOHZ6ZDRwSnVnUERlb2pjLVY3NENFM2lYQ3ZYeWx0cWluYXc?oc=5\" target=\"_blank\">Breakingviews - Iran war shows up folly of slow energy transition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMzVsTDBLMjZqa1hicFc2RUFKay03OVpSMlBZR3ZvTnZ3MnpIbjFCaVVQb3VlemVoRnlFWHlGOUd1WnNVUXFzdXhDTXg4dms5SjZxaEt2WHBTTWpUUnM3NnFuUjc4NTlFUG1CdE55OW9ZQmF6bU1XN3YyV20zanJBclJtTnI1QUZHOHZ6ZDRwSnVnUERlb2pjLVY3NENFM2lYQ3ZYeWx0cWluYXc?oc=5",
+      "publishedAt": "Fri, 13 Mar 2026 03:33:00 GMT",
+      "titleZh": "Breakingviews - Iran war shows up folly of slow energy transition - Reuters",
+      "summaryZh": "Breakingviews - Iran war shows up folly of slow energy transition&nbsp;&nbsp;Reuters"
+    },
+    {
+      "id": "reuters-news-3-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
+      "type": "news",
+      "title": "Asian stocks fall as Iran war keeps oil at $100, upends rate outlook - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9zN2lIVmZmR0pnVG5kTVpkVUVaRjVYUVI0eEZsd0c3V3I2eUdzbk9iT3diaWpuMkppMUxDSE5EOW5BWS1sZWo4bDRYZXpUT3EtQWVEQmE0dmk0NVBqbjVQRTl3WGM4ajU4QzNvQmNOam5ZODRxNXF2MWQ4SQ?oc=5\" target=\"_blank\">Asian stocks fall as Iran war keeps oil at $100, upends rate outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zN2lIVmZmR0pnVG5kTVpkVUVaRjVYUVI0eEZsd0c3V3I2eUdzbk9iT3diaWpuMkppMUxDSE5EOW5BWS1sZWo4bDRYZXpUT3EtQWVEQmE0dmk0NVBqbjVQRTl3WGM4ajU4QzNvQmNOam5ZODRxNXF2MWQ4SQ?oc=5",
+      "publishedAt": "Fri, 13 Mar 2026 02:02:00 GMT",
+      "titleZh": "Asian stocks fall as Iran war keeps oil at $100, upends rate outlook - Reuters",
+      "summaryZh": "Asian stocks fall as Iran war keeps oil at $100, upends rate outlook&nbsp;&nbsp;Reuters"
     },
     {
       "id": "bbc-news-2-https://news.google.com/",
@@ -56,7 +121,7 @@
       "summaryZh": "'There's no hiding place on a ship': The sailors stranded near Iran&nbsp;&nbsp;BBC"
     },
     {
-      "id": "reuters-news-0-https://news.google.com/",
+      "id": "reuters-news-1-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -69,7 +134,20 @@
       "summaryZh": "Both sides trade strikes and threats as the Iran war approaches the two-week mark&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "bbc-news-5-https://news.google.com/",
+      "id": "reuters-news-2-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
+      "type": "news",
+      "title": "Dollar climbs with no end in sight for Iran war; yen at 20-month low - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOcktUUkJRSnJnRjdNUV9tYm0wbktmaGkySlQ4VHB0TlVwTTEySUVySFVvcTdXWk44NURJNjl0WGRkeV96a05yRFc2UFRYRHRBeVg3eVlEVTgtZzBlUXVXeVV0a3ZoWEk0aWh3UmdYZ25GSFF6dnpjelFSWE5vRlFKdlMteGg5ZGc5LU1TRF9rVFNheG0zRDVzdmVKbDB5dU9NVFNpakUtUVFSa0VHWHZyYzBuWlM?oc=5\" target=\"_blank\">Dollar climbs with no end in sight for Iran war; yen at 20-month low</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcktUUkJRSnJnRjdNUV9tYm0wbktmaGkySlQ4VHB0TlVwTTEySUVySFVvcTdXWk44NURJNjl0WGRkeV96a05yRFc2UFRYRHRBeVg3eVlEVTgtZzBlUXVXeVV0a3ZoWEk0aWh3UmdYZ25GSFF6dnpjelFSWE5vRlFKdlMteGg5ZGc5LU1TRF9rVFNheG0zRDVzdmVKbDB5dU9NVFNpakUtUVFSa0VHWHZyYzBuWlM?oc=5",
+      "publishedAt": "Fri, 13 Mar 2026 00:34:00 GMT",
+      "titleZh": "Dollar climbs with no end in sight for Iran war; yen at 20-month low - Reuters",
+      "summaryZh": "Dollar climbs with no end in sight for Iran war; yen at 20-month low&nbsp;&nbsp;Reuters"
+    },
+    {
+      "id": "bbc-news-0-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -95,7 +173,7 @@
       "summaryZh": "Americans on Iran strikes: 'What if this turns into a forever war?'&nbsp;&nbsp;BBC"
     },
     {
-      "id": "reuters-news-3-https://news.google.com/",
+      "id": "reuters-news-6-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -121,7 +199,7 @@
       "summaryZh": "Iran's Shi'ite allies step up strikes despite weakened hand&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "aljazeera-news-7-https://news.google.com/",
+      "id": "aljazeera-news-8-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -134,7 +212,7 @@
       "summaryZh": "How will the war on Iran impact the US economy?&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-1-https://news.google.com/",
+      "id": "aljazeera-news-3-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -147,7 +225,7 @@
       "summaryZh": "Iran vows to make Trump pay for ‘grave miscalculation’ if US escalates war&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-6-https://news.google.com/",
+      "id": "aljazeera-news-9-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -173,7 +251,7 @@
       "summaryZh": "Netanyahu threatens Iran new leader, says government collapse uncertain&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "bbc-news-4-https://news.google.com/",
+      "id": "bbc-news-3-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -186,7 +264,7 @@
       "summaryZh": "Why did US and Israel attack Iran and how long could the war last?&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-6-https://news.google.com/",
+      "id": "bbc-news-5-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -199,7 +277,7 @@
       "summaryZh": "The biggest Iran polling takeaway: Americans don’t see the point of this war&nbsp;&nbsp;CNN"
     },
     {
-      "id": "aljazeera-news-2-https://news.google.com/",
+      "id": "aljazeera-news-5-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -212,7 +290,7 @@
       "summaryZh": "Iran war: What is happening on day 13 of US-Israel attacks?&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-3-https://news.google.com/",
+      "id": "aljazeera-news-4-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -225,20 +303,7 @@
       "summaryZh": "Iran’s president sets terms to end the war: Is an off-ramp in sight?&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-5-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "Caught in the crossfire: US-Israel war on Iran fractures Gulf economies - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPTXluUXVvOUNfdktBZTF4RndPckZIcEdWRWF6aF9iejRlNy1mbDFzTmZ5Smh4SVV5TWl0bnZpVW9mLUs5VzNsWXppRWJsUENUQzdrT1J6ODNEZGFCS1VDRVhXQ2NCVFpqMDlsRDhfMzduX0FPc1FvY0NrQUIxV0ROX0tpNVhRMVRDQTNrb0hOaU85eUg4WHBvdGhIUG9PeGk5ZFNjcEtPRDNDa0trTEJERko1clTSAboBQVVfeXFMTzFKQ2ZHY0hQclNDNFota3FEOVF4dzNrcGh0ZndUWjhqV2xaMThfQzN5aVYzRlpVcGZfU2J2X3k5MlVfR2VVNGFxTHhWazNhZ2U3MTNEUXpPb1ExQ3BadTk5d20xZFo1TmRtZzdIYlRXcFRiUllnV0hPRjVmaHJFSDRZVlZjTTJOOV95eG9pbGc3MEk4cGtMZURZeExqZEhDLXp1SC02aUd3M3A0UzZldjR4YUJmaDlPQlZB?oc=5\" target=\"_blank\">Caught in the crossfire: US-Israel war on Iran fractures Gulf economies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTXluUXVvOUNfdktBZTF4RndPckZIcEdWRWF6aF9iejRlNy1mbDFzTmZ5Smh4SVV5TWl0bnZpVW9mLUs5VzNsWXppRWJsUENUQzdrT1J6ODNEZGFCS1VDRVhXQ2NCVFpqMDlsRDhfMzduX0FPc1FvY0NrQUIxV0ROX0tpNVhRMVRDQTNrb0hOaU85eUg4WHBvdGhIUG9PeGk5ZFNjcEtPRDNDa0trTEJERko1clTSAboBQVVfeXFMTzFKQ2ZHY0hQclNDNFota3FEOVF4dzNrcGh0ZndUWjhqV2xaMThfQzN5aVYzRlpVcGZfU2J2X3k5MlVfR2VVNGFxTHhWazNhZ2U3MTNEUXpPb1ExQ3BadTk5d20xZFo1TmRtZzdIYlRXcFRiUllnV0hPRjVmaHJFSDRZVlZjTTJOOV95eG9pbGc3MEk4cGtMZURZeExqZEhDLXp1SC02aUd3M3A0UzZldjR4YUJmaDlPQlZB?oc=5",
-      "publishedAt": "Thu, 12 Mar 2026 14:14:25 GMT",
-      "titleZh": "Caught in the crossfire: US-Israel war on Iran fractures Gulf economies - Al Jazeera",
-      "summaryZh": "Caught in the crossfire: US-Israel war on Iran fractures Gulf economies&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "aljazeera-news-4-https://news.google.com/",
+      "id": "aljazeera-news-6-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -251,7 +316,20 @@
       "summaryZh": "Can Iran’s asymmetric warfare hold US-Israeli military power at bay?&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "bbc-news-8-https://news.google.com/",
+      "id": "bbc-news-9-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "Iran steps up attacks on energy targets as tankers hit - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aOFVQb3kzLXhKMzNlVXlzV0l5Nmc2Q3pkY1A4ZmJTVVJGYk5Yb0dJQVpXZkN1bGZaVzRZeGVPY19GUU9MUERBYkdKbHkxU01sMzBoSGlDZGdyQQ?oc=5\" target=\"_blank\">Iran steps up attacks on energy targets as tankers hit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aOFVQb3kzLXhKMzNlVXlzV0l5Nmc2Q3pkY1A4ZmJTVVJGYk5Yb0dJQVpXZkN1bGZaVzRZeGVPY19GUU9MUERBYkdKbHkxU01sMzBoSGlDZGdyQQ?oc=5",
+      "publishedAt": "Thu, 12 Mar 2026 14:02:55 GMT",
+      "titleZh": "Iran steps up attacks on energy targets as tankers hit - BBC",
+      "summaryZh": "Iran steps up attacks on energy targets as tankers hit&nbsp;&nbsp;BBC"
+    },
+    {
+      "id": "bbc-news-6-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -264,20 +342,7 @@
       "summaryZh": "How Iran war laid bare the world's reliance on Gulf oil and gas&nbsp;&nbsp;BBC"
     },
     {
-      "id": "reuters-news-5-https://news.google.com/",
-      "sourceId": "reuters",
-      "source": "Reuters",
-      "sourceSite": "reuters.com",
-      "type": "news",
-      "title": "Iran war is one 'TACO' too far - Reuters",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBGcW9vQWh0ZEdzVTRKWFJWcGdPUHYzcjRPRUU4WTJCRFNwcjJFc2ZXTDl1THJmTmluMkxjMXVsZWV6ZUVMaEl0M090WGw5X3JwUHNrTXI3QnNBNUQ0c3NpbHJQSTl6SWlBQk84VEVnUlZwOExIUEhwbEQ4NjI?oc=5\" target=\"_blank\">Iran war is one 'TACO' too far</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGcW9vQWh0ZEdzVTRKWFJWcGdPUHYzcjRPRUU4WTJCRFNwcjJFc2ZXTDl1THJmTmluMkxjMXVsZWV6ZUVMaEl0M090WGw5X3JwUHNrTXI3QnNBNUQ0c3NpbHJQSTl6SWlBQk84VEVnUlZwOExIUEhwbEQ4NjI?oc=5",
-      "publishedAt": "Thu, 12 Mar 2026 13:10:40 GMT",
-      "titleZh": "Iran war is one 'TACO' too far - Reuters",
-      "summaryZh": "Iran war is one 'TACO' too far&nbsp;&nbsp;Reuters"
-    },
-    {
-      "id": "bbc-news-3-https://news.google.com/",
+      "id": "bbc-news-4-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -290,7 +355,7 @@
       "summaryZh": "'What if we're left with ruins?': Doubts creep in for Iranians who supported war&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-7-https://news.google.com/",
+      "id": "bbc-news-8-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -301,58 +366,6 @@
       "publishedAt": "Thu, 12 Mar 2026 11:44:37 GMT",
       "titleZh": "US-Israel war with Iran: Mapping strikes across the Middle East - BBC",
       "summaryZh": "US-Israel war with Iran: Mapping strikes across the Middle East&nbsp;&nbsp;BBC"
-    },
-    {
-      "id": "aljazeera-news-9-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "The war of signals: How Russia and China help Iran see the battlefield - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOSUMtZ21TRUMyOVpMT0ppLWRmRW1Od0NlbGRRWVY2b1NZUnRxUUtRVkZWMllQX2VSeThZYy00T0g2UVZmUmwtbWwxMm9aeDJXWktjVmIyZ05tRmN1VmM1WjdlNTQyRFFGQks1TVVfRXl5WXp4WEJaY2dlbi1sb0lheHJ2bHYzSGpiZkFKTEl5VUVSZXdBVDBmc2FCWXhiV3dDR0xnVVU5NEU1YmZMQ2pGaWxxUnPSAboBQVVfeXFMTlFHTmotSEZ0QlFGYW43aEE0Mzl5ZV9hZkZwdGQxMklEY0tvQ0t0MElWV2cxYVU0QjdQaFFudHFzVVMzUGJPb1lZWUJ2WkI3Q1VyakNESTBJc3RfYkZKbWRtRHB3ZEprejlqcFc4ZGs5a21lLWtLdHFRbFhtYUN0cHg3YVhUZHlWNkNCV3Y3LWlvdzMxVFVjYThzY0E1VHlsb21GcFktSHRIc2tTMzVfRktBWFozZm1fWU5R?oc=5\" target=\"_blank\">The war of signals: How Russia and China help Iran see the battlefield</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSUMtZ21TRUMyOVpMT0ppLWRmRW1Od0NlbGRRWVY2b1NZUnRxUUtRVkZWMllQX2VSeThZYy00T0g2UVZmUmwtbWwxMm9aeDJXWktjVmIyZ05tRmN1VmM1WjdlNTQyRFFGQks1TVVfRXl5WXp4WEJaY2dlbi1sb0lheHJ2bHYzSGpiZkFKTEl5VUVSZXdBVDBmc2FCWXhiV3dDR0xnVVU5NEU1YmZMQ2pGaWxxUnPSAboBQVVfeXFMTlFHTmotSEZ0QlFGYW43aEE0Mzl5ZV9hZkZwdGQxMklEY0tvQ0t0MElWV2cxYVU0QjdQaFFudHFzVVMzUGJPb1lZWUJ2WkI3Q1VyakNESTBJc3RfYkZKbWRtRHB3ZEprejlqcFc4ZGs5a21lLWtLdHFRbFhtYUN0cHg3YVhUZHlWNkNCV3Y3LWlvdzMxVFVjYThzY0E1VHlsb21GcFktSHRIc2tTMzVfRktBWFozZm1fWU5R?oc=5",
-      "publishedAt": "Thu, 12 Mar 2026 11:20:09 GMT",
-      "titleZh": "The war of signals: How Russia and China help Iran see the battlefield - Al Jazeera",
-      "summaryZh": "The war of signals: How Russia and China help Iran see the battlefield&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "reuters-news-1-https://news.google.com/",
-      "sourceId": "reuters",
-      "source": "Reuters",
-      "sourceSite": "reuters.com",
-      "type": "news",
-      "title": "Russia calls on Israel and US to end the Iran war - Reuters",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPVWhRZ1dPLTh6bmJCX0pWMm1sT2JqMTZyZFIyT0tLd1NIRFl4Q3ZxaS1kN0o2Vnd3d2ZfUERKSzhWMWNfeFdKVHkyTGZhZ0hFV3oycXlCLV9laUdQa3JHRUE0V2xCUXA0X0N1QjdqX2twS1k4VEVHT080TVNuNmpzanlPeGFsRExFbGpMdERZX2ZUekk?oc=5\" target=\"_blank\">Russia calls on Israel and US to end the Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVWhRZ1dPLTh6bmJCX0pWMm1sT2JqMTZyZFIyT0tLd1NIRFl4Q3ZxaS1kN0o2Vnd3d2ZfUERKSzhWMWNfeFdKVHkyTGZhZ0hFV3oycXlCLV9laUdQa3JHRUE0V2xCUXA0X0N1QjdqX2twS1k4VEVHT080TVNuNmpzanlPeGFsRExFbGpMdERZX2ZUekk?oc=5",
-      "publishedAt": "Thu, 12 Mar 2026 11:06:00 GMT",
-      "titleZh": "Russia calls on Israel and US to end the Iran war - Reuters",
-      "summaryZh": "Russia calls on Israel and US to end the Iran war&nbsp;&nbsp;Reuters"
-    },
-    {
-      "id": "bbc-news-9-https://news.google.com/",
-      "sourceId": "bbc",
-      "source": "BBC",
-      "sourceSite": "bbc.com",
-      "type": "news",
-      "title": "How the Iran war may affect your money and bills - BBC",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WOG95ZFl4N01RY2V1bGRDSzZyVERwRkxVTTRxeTQ5V21sekdpaUlFRDRfWGJzREY2NnFtWTZSVkNhaGFlVEJYeHA3RDUwQ3ZBYmxicm9BSXhJUQ?oc=5\" target=\"_blank\">How the Iran war may affect your money and bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WOG95ZFl4N01RY2V1bGRDSzZyVERwRkxVTTRxeTQ5V21sekdpaUlFRDRfWGJzREY2NnFtWTZSVkNhaGFlVEJYeHA3RDUwQ3ZBYmxicm9BSXhJUQ?oc=5",
-      "publishedAt": "Thu, 12 Mar 2026 10:32:35 GMT",
-      "titleZh": "How the Iran war may affect your money and bills - BBC",
-      "summaryZh": "How the Iran war may affect your money and bills&nbsp;&nbsp;BBC"
-    },
-    {
-      "id": "aljazeera-news-8-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "Analysis: The war on Iran is at a crossroads - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQMmhnRDhzOHF1Zy05V1FHNk1QbFpzNjBpZjRCVHpBMU1RMmpVeDREckw0NWhlemh6cV9xcnFPZWNQc2w2ckhfUXZ4NUVLaTRlTnJqVE4yWmxURlJUaGtGUUtoNXNuWXYwbDFfRHQ2ZDl4NVY4THdNRjZ5dF93U3NmTjFzLUhVM2l1T1FKMdIBkgFBVV95cUxOcGFDNjBhc3FBQU9oYVRUQVVXelI3akl2X2Ywck5iNGtTTm5RcXFYNlJpMlZVVUtQVWQ4Vms4VTlkekJjY0tTYzQyUWsyd0poNWROLWZ2djA0cWFkOWU1MXM1RDZQS0xCNFFTTU5tbjJDYzQ1SXBqdWRCRkdOZUZ1NTZybFN1SWdUMTNVS3U3a2pWUQ?oc=5\" target=\"_blank\">Analysis: The war on Iran is at a crossroads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMmhnRDhzOHF1Zy05V1FHNk1QbFpzNjBpZjRCVHpBMU1RMmpVeDREckw0NWhlemh6cV9xcnFPZWNQc2w2ckhfUXZ4NUVLaTRlTnJqVE4yWmxURlJUaGtGUUtoNXNuWXYwbDFfRHQ2ZDl4NVY4THdNRjZ5dF93U3NmTjFzLUhVM2l1T1FKMdIBkgFBVV95cUxOcGFDNjBhc3FBQU9oYVRUQVVXelI3akl2X2Ywck5iNGtTTm5RcXFYNlJpMlZVVUtQVWQ4Vms4VTlkekJjY0tTYzQyUWsyd0poNWROLWZ2djA0cWFkOWU1MXM1RDZQS0xCNFFTTU5tbjJDYzQ1SXBqdWRCRkdOZUZ1NTZybFN1SWdUMTNVS3U3a2pWUQ?oc=5",
-      "publishedAt": "Thu, 12 Mar 2026 08:19:55 GMT",
-      "titleZh": "Analysis: The war on Iran is at a crossroads - Al Jazeera",
-      "summaryZh": "Analysis: The war on Iran is at a crossroads&nbsp;&nbsp;Al Jazeera"
     },
     {
       "id": "reuters-news-8-https://news.google.com/",
@@ -366,19 +379,6 @@
       "publishedAt": "Thu, 12 Mar 2026 01:28:00 GMT",
       "titleZh": "Iran's new supreme leader vows to keep Hormuz shut, Netanyahu issues threat - Reuters",
       "summaryZh": "Iran's new supreme leader vows to keep Hormuz shut, Netanyahu issues threat&nbsp;&nbsp;Reuters"
-    },
-    {
-      "id": "reuters-news-6-https://news.google.com/",
-      "sourceId": "reuters",
-      "source": "Reuters",
-      "sourceSite": "reuters.com",
-      "type": "news",
-      "title": "Iran tells world to get ready for oil at $200 a barrel as it fires on merchant ships - Reuters",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOemwxVjdIUW9kR3Q1c3p3SlhVT3J0X1pMSUdBYnJSNW1oM0dSUy1fVFVIVkc3QUJ4U0w1LU1vbjlwaTM1TEtBNFJsWkU1YmQwWk5SUVZDZ0szZjF2VVN6VzFlMUYyam9BWVViZ0tFbXgxMWs0SXRnUGFFb1dLSC1GcXBwZ1UwMTdIelp0cllUeUVqc1hDWkU0YUNrVVlPRjYyVnNLOTFQdkR5aGpQSlZKdVp1enNPTFUzYVZ6TFBtYTN6UQ?oc=5\" target=\"_blank\">Iran tells world to get ready for oil at $200 a barrel as it fires on merchant ships</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOemwxVjdIUW9kR3Q1c3p3SlhVT3J0X1pMSUdBYnJSNW1oM0dSUy1fVFVIVkc3QUJ4U0w1LU1vbjlwaTM1TEtBNFJsWkU1YmQwWk5SUVZDZ0szZjF2VVN6VzFlMUYyam9BWVViZ0tFbXgxMWs0SXRnUGFFb1dLSC1GcXBwZ1UwMTdIelp0cllUeUVqc1hDWkU0YUNrVVlPRjYyVnNLOTFQdkR5aGpQSlZKdVp1enNPTFUzYVZ6TFBtYTN6UQ?oc=5",
-      "publishedAt": "Wed, 11 Mar 2026 17:02:31 GMT",
-      "titleZh": "Iran tells world to get ready for oil at $200 a barrel as it fires on merchant ships - Reuters",
-      "summaryZh": "Iran tells world to get ready for oil at $200 a barrel as it fires on merchant ships&nbsp;&nbsp;Reuters"
     }
   ],
   "bySource": [
@@ -387,20 +387,46 @@
       "source": "Reuters",
       "items": [
         {
-          "id": "reuters-news-2-https://news.google.com/",
+          "id": "reuters-news-0-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
           "type": "news",
-          "title": "Trump says he thinks Iran's new supreme leader is alive but 'damaged' - Reuters",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNTzRhRnNrYUJ6R1QyQVFqVVQ5VmNxV2M1Q281eTZjekh5dXlaNGxPa1NvTEpJWHRZNDdfcnIySEFWR2tfdS1zMTBGcWNSbkJhYXFwejJjaU1aY08tdWNnekpaS09LU050eEhVbHBGRUhNRHFXVjVLV19xV0JCclhBZEVlWEppMkNMTzV3b0hEdjNQcFpuRGtiei10Qzd4T2UwR0JRb2JXdw?oc=5\" target=\"_blank\">Trump says he thinks Iran's new supreme leader is alive but 'damaged'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTzRhRnNrYUJ6R1QyQVFqVVQ5VmNxV2M1Q281eTZjekh5dXlaNGxPa1NvTEpJWHRZNDdfcnIySEFWR2tfdS1zMTBGcWNSbkJhYXFwejJjaU1aY08tdWNnekpaS09LU050eEhVbHBGRUhNRHFXVjVLV19xV0JCclhBZEVlWEppMkNMTzV3b0hEdjNQcFpuRGtiei10Qzd4T2UwR0JRb2JXdw?oc=5",
-          "publishedAt": "Fri, 13 Mar 2026 03:41:00 GMT",
-          "titleZh": "Trump says he thinks Iran's new supreme leader is alive but 'damaged' - Reuters",
-          "summaryZh": "Trump says he thinks Iran's new supreme leader is alive but 'damaged'&nbsp;&nbsp;Reuters"
+          "title": "Exclusive: With Iran war exit elusive, Trump aides vie to affect outcome - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPMGNvdWxQazMxelV6UklsTUloWlB3SC03cHFkOXVZdmJRMkpLYkFlVHpYODlMOTN5aHVKaUpkQnZ2UUFOazJudzVOQktqYmxFQ2pHeUNNTVBPZEFJeXRVa3NfWEpEZDBMb1o0QXZDOTY1Uk1uTjVnT2M4LUZ0dWc4a2h4WXRYeDB6VkxLOF80NjR6a3M1alpCQVJJQUVsSVJnd3FiNA?oc=5\" target=\"_blank\">Exclusive: With Iran war exit elusive, Trump aides vie to affect outcome</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMGNvdWxQazMxelV6UklsTUloWlB3SC03cHFkOXVZdmJRMkpLYkFlVHpYODlMOTN5aHVKaUpkQnZ2UUFOazJudzVOQktqYmxFQ2pHeUNNTVBPZEFJeXRVa3NfWEpEZDBMb1o0QXZDOTY1Uk1uTjVnT2M4LUZ0dWc4a2h4WXRYeDB6VkxLOF80NjR6a3M1alpCQVJJQUVsSVJnd3FiNA?oc=5",
+          "publishedAt": "Fri, 13 Mar 2026 05:02:10 GMT",
+          "titleZh": "Exclusive: With Iran war exit elusive, Trump aides vie to affect outcome - Reuters",
+          "summaryZh": "Exclusive: With Iran war exit elusive, Trump aides vie to affect outcome&nbsp;&nbsp;Reuters"
         },
         {
-          "id": "reuters-news-0-https://news.google.com/",
+          "id": "reuters-news-5-https://news.google.com/",
+          "sourceId": "reuters",
+          "source": "Reuters",
+          "sourceSite": "reuters.com",
+          "type": "news",
+          "title": "Breakingviews - Iran war shows up folly of slow energy transition - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMzVsTDBLMjZqa1hicFc2RUFKay03OVpSMlBZR3ZvTnZ3MnpIbjFCaVVQb3VlemVoRnlFWHlGOUd1WnNVUXFzdXhDTXg4dms5SjZxaEt2WHBTTWpUUnM3NnFuUjc4NTlFUG1CdE55OW9ZQmF6bU1XN3YyV20zanJBclJtTnI1QUZHOHZ6ZDRwSnVnUERlb2pjLVY3NENFM2lYQ3ZYeWx0cWluYXc?oc=5\" target=\"_blank\">Breakingviews - Iran war shows up folly of slow energy transition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMzVsTDBLMjZqa1hicFc2RUFKay03OVpSMlBZR3ZvTnZ3MnpIbjFCaVVQb3VlemVoRnlFWHlGOUd1WnNVUXFzdXhDTXg4dms5SjZxaEt2WHBTTWpUUnM3NnFuUjc4NTlFUG1CdE55OW9ZQmF6bU1XN3YyV20zanJBclJtTnI1QUZHOHZ6ZDRwSnVnUERlb2pjLVY3NENFM2lYQ3ZYeWx0cWluYXc?oc=5",
+          "publishedAt": "Fri, 13 Mar 2026 03:33:00 GMT",
+          "titleZh": "Breakingviews - Iran war shows up folly of slow energy transition - Reuters",
+          "summaryZh": "Breakingviews - Iran war shows up folly of slow energy transition&nbsp;&nbsp;Reuters"
+        },
+        {
+          "id": "reuters-news-3-https://news.google.com/",
+          "sourceId": "reuters",
+          "source": "Reuters",
+          "sourceSite": "reuters.com",
+          "type": "news",
+          "title": "Asian stocks fall as Iran war keeps oil at $100, upends rate outlook - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9zN2lIVmZmR0pnVG5kTVpkVUVaRjVYUVI0eEZsd0c3V3I2eUdzbk9iT3diaWpuMkppMUxDSE5EOW5BWS1sZWo4bDRYZXpUT3EtQWVEQmE0dmk0NVBqbjVQRTl3WGM4ajU4QzNvQmNOam5ZODRxNXF2MWQ4SQ?oc=5\" target=\"_blank\">Asian stocks fall as Iran war keeps oil at $100, upends rate outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zN2lIVmZmR0pnVG5kTVpkVUVaRjVYUVI0eEZsd0c3V3I2eUdzbk9iT3diaWpuMkppMUxDSE5EOW5BWS1sZWo4bDRYZXpUT3EtQWVEQmE0dmk0NVBqbjVQRTl3WGM4ajU4QzNvQmNOam5ZODRxNXF2MWQ4SQ?oc=5",
+          "publishedAt": "Fri, 13 Mar 2026 02:02:00 GMT",
+          "titleZh": "Asian stocks fall as Iran war keeps oil at $100, upends rate outlook - Reuters",
+          "summaryZh": "Asian stocks fall as Iran war keeps oil at $100, upends rate outlook&nbsp;&nbsp;Reuters"
+        },
+        {
+          "id": "reuters-news-1-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -413,7 +439,20 @@
           "summaryZh": "Both sides trade strikes and threats as the Iran war approaches the two-week mark&nbsp;&nbsp;Reuters"
         },
         {
-          "id": "reuters-news-3-https://news.google.com/",
+          "id": "reuters-news-2-https://news.google.com/",
+          "sourceId": "reuters",
+          "source": "Reuters",
+          "sourceSite": "reuters.com",
+          "type": "news",
+          "title": "Dollar climbs with no end in sight for Iran war; yen at 20-month low - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOcktUUkJRSnJnRjdNUV9tYm0wbktmaGkySlQ4VHB0TlVwTTEySUVySFVvcTdXWk44NURJNjl0WGRkeV96a05yRFc2UFRYRHRBeVg3eVlEVTgtZzBlUXVXeVV0a3ZoWEk0aWh3UmdYZ25GSFF6dnpjelFSWE5vRlFKdlMteGg5ZGc5LU1TRF9rVFNheG0zRDVzdmVKbDB5dU9NVFNpakUtUVFSa0VHWHZyYzBuWlM?oc=5\" target=\"_blank\">Dollar climbs with no end in sight for Iran war; yen at 20-month low</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcktUUkJRSnJnRjdNUV9tYm0wbktmaGkySlQ4VHB0TlVwTTEySUVySFVvcTdXWk44NURJNjl0WGRkeV96a05yRFc2UFRYRHRBeVg3eVlEVTgtZzBlUXVXeVV0a3ZoWEk0aWh3UmdYZ25GSFF6dnpjelFSWE5vRlFKdlMteGg5ZGc5LU1TRF9rVFNheG0zRDVzdmVKbDB5dU9NVFNpakUtUVFSa0VHWHZyYzBuWlM?oc=5",
+          "publishedAt": "Fri, 13 Mar 2026 00:34:00 GMT",
+          "titleZh": "Dollar climbs with no end in sight for Iran war; yen at 20-month low - Reuters",
+          "summaryZh": "Dollar climbs with no end in sight for Iran war; yen at 20-month low&nbsp;&nbsp;Reuters"
+        },
+        {
+          "id": "reuters-news-6-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -424,45 +463,6 @@
           "publishedAt": "Thu, 12 Mar 2026 22:09:04 GMT",
           "titleZh": "Trump demands Fed cut rates. His Iran war has investors betting otherwise - Reuters",
           "summaryZh": "Trump demands Fed cut rates. His Iran war has investors betting otherwise&nbsp;&nbsp;Reuters"
-        },
-        {
-          "id": "reuters-news-4-https://news.google.com/",
-          "sourceId": "reuters",
-          "source": "Reuters",
-          "sourceSite": "reuters.com",
-          "type": "news",
-          "title": "Iran's Shi'ite allies step up strikes despite weakened hand - Reuters",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPYjBIa0xHc2lhVDNSb0UxNDBEN0ZGM2FvZUdJd1k2c1hWQ2ZOMVo1M09ZQjJ6b1ZVNjRZMS1ld3luc1hmaWw1X0h4eVVJV1VMaGxxRFloNzNXSGdGRk4yNEVOcWxvd2RkSDA5M250UzBNcndyQ0NXWVRaUXpqZXBDcUVqTlR3UlQ4dzlzMnFlSHN6SzNjMzUxcC0xX2xwVUNrRWRXLUxwcVNOdmVPTld5LQ?oc=5\" target=\"_blank\">Iran's Shi'ite allies step up strikes despite weakened hand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYjBIa0xHc2lhVDNSb0UxNDBEN0ZGM2FvZUdJd1k2c1hWQ2ZOMVo1M09ZQjJ6b1ZVNjRZMS1ld3luc1hmaWw1X0h4eVVJV1VMaGxxRFloNzNXSGdGRk4yNEVOcWxvd2RkSDA5M250UzBNcndyQ0NXWVRaUXpqZXBDcUVqTlR3UlQ4dzlzMnFlSHN6SzNjMzUxcC0xX2xwVUNrRWRXLUxwcVNOdmVPTld5LQ?oc=5",
-          "publishedAt": "Thu, 12 Mar 2026 20:35:47 GMT",
-          "titleZh": "Iran's Shi'ite allies step up strikes despite weakened hand - Reuters",
-          "summaryZh": "Iran's Shi'ite allies step up strikes despite weakened hand&nbsp;&nbsp;Reuters"
-        },
-        {
-          "id": "reuters-news-7-https://news.google.com/",
-          "sourceId": "reuters",
-          "source": "Reuters",
-          "sourceSite": "reuters.com",
-          "type": "news",
-          "title": "Netanyahu threatens Iran new leader, says government collapse uncertain - Reuters",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQd0lZTEJESzdGTnhRWGtmckxTNDVJeTVrdEdlVV9RV0xoM3RtRzFhQ1MxaHRJOXFhc3UyYUdiYklvUDZfYWhtSzhPc2Z4c1lKOUFPaDllWnd1SXhXMk4wRDVZZEVRWTRPeU5PYnVWZ2RIV3dkT29vXzFaWG5IODZWYWF1OHhnckJKZUR5VFRneGJrWHBfWkV3aFRLUjl0VWVHS2VhM1cxajk3V0FCNEFXbnN3aDFNY1ZVNjQ0RWUyTU9rVjh1LTlJ?oc=5\" target=\"_blank\">Netanyahu threatens Iran new leader, says government collapse uncertain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd0lZTEJESzdGTnhRWGtmckxTNDVJeTVrdEdlVV9RV0xoM3RtRzFhQ1MxaHRJOXFhc3UyYUdiYklvUDZfYWhtSzhPc2Z4c1lKOUFPaDllWnd1SXhXMk4wRDVZZEVRWTRPeU5PYnVWZ2RIV3dkT29vXzFaWG5IODZWYWF1OHhnckJKZUR5VFRneGJrWHBfWkV3aFRLUjl0VWVHS2VhM1cxajk3V0FCNEFXbnN3aDFNY1ZVNjQ0RWUyTU9rVjh1LTlJ?oc=5",
-          "publishedAt": "Thu, 12 Mar 2026 19:50:22 GMT",
-          "titleZh": "Netanyahu threatens Iran new leader, says government collapse uncertain - Reuters",
-          "summaryZh": "Netanyahu threatens Iran new leader, says government collapse uncertain&nbsp;&nbsp;Reuters"
-        },
-        {
-          "id": "reuters-news-5-https://news.google.com/",
-          "sourceId": "reuters",
-          "source": "Reuters",
-          "sourceSite": "reuters.com",
-          "type": "news",
-          "title": "Iran war is one 'TACO' too far - Reuters",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBGcW9vQWh0ZEdzVTRKWFJWcGdPUHYzcjRPRUU4WTJCRFNwcjJFc2ZXTDl1THJmTmluMkxjMXVsZWV6ZUVMaEl0M090WGw5X3JwUHNrTXI3QnNBNUQ0c3NpbHJQSTl6SWlBQk84VEVnUlZwOExIUEhwbEQ4NjI?oc=5\" target=\"_blank\">Iran war is one 'TACO' too far</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGcW9vQWh0ZEdzVTRKWFJWcGdPUHYzcjRPRUU4WTJCRFNwcjJFc2ZXTDl1THJmTmluMkxjMXVsZWV6ZUVMaEl0M090WGw5X3JwUHNrTXI3QnNBNUQ0c3NpbHJQSTl6SWlBQk84VEVnUlZwOExIUEhwbEQ4NjI?oc=5",
-          "publishedAt": "Thu, 12 Mar 2026 13:10:40 GMT",
-          "titleZh": "Iran war is one 'TACO' too far - Reuters",
-          "summaryZh": "Iran war is one 'TACO' too far&nbsp;&nbsp;Reuters"
         }
       ]
     },
@@ -471,17 +471,17 @@
       "source": "BBC",
       "items": [
         {
-          "id": "bbc-news-0-https://news.google.com/",
+          "id": "bbc-news-7-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
           "type": "news",
-          "title": "US eases Russia oil sanctions as Iran war pushes up energy prices - BBC",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZUzhYTzcybjRfTExSNXBDRFh4ek5OMXliUjZnSElvTHRjT1Z3TjRhbXdCcGtaOER5TE9ZYVlvWFF4aS03TEp1bkRFZ1BGcEo4QkRmNVI5cDEzQQ?oc=5\" target=\"_blank\">US eases Russia oil sanctions as Iran war pushes up energy prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZUzhYTzcybjRfTExSNXBDRFh4ek5OMXliUjZnSElvTHRjT1Z3TjRhbXdCcGtaOER5TE9ZYVlvWFF4aS03TEp1bkRFZ1BGcEo4QkRmNVI5cDEzQQ?oc=5",
-          "publishedAt": "Fri, 13 Mar 2026 02:50:52 GMT",
-          "titleZh": "US eases Russia oil sanctions as Iran war pushes up energy prices - BBC",
-          "summaryZh": "US eases Russia oil sanctions as Iran war pushes up energy prices&nbsp;&nbsp;BBC"
+          "title": "Israel says Iran firing new missiles as US refuelling plane crashes in Iraq - BBC",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zeWhrRWJZcGg1bHR6LTJiWUhDZEt3MFVyTngyMlFGalFPYmVXSTE3U0k1dUVfbGFTSkhRZThTY2E1Tm5GNVJzaTFCTzBkZWp0SDVpeg?oc=5\" target=\"_blank\">Israel says Iran firing new missiles as US refuelling plane crashes in Iraq</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zeWhrRWJZcGg1bHR6LTJiWUhDZEt3MFVyTngyMlFGalFPYmVXSTE3U0k1dUVfbGFTSkhRZThTY2E1Tm5GNVJzaTFCTzBkZWp0SDVpeg?oc=5",
+          "publishedAt": "Fri, 13 Mar 2026 06:43:41 GMT",
+          "titleZh": "Israel says Iran firing new missiles as US refuelling plane crashes in Iraq - BBC",
+          "summaryZh": "Israel says Iran firing new missiles as US refuelling plane crashes in Iraq&nbsp;&nbsp;BBC"
         },
         {
           "id": "bbc-news-2-https://news.google.com/",
@@ -497,7 +497,7 @@
           "summaryZh": "'There's no hiding place on a ship': The sailors stranded near Iran&nbsp;&nbsp;BBC"
         },
         {
-          "id": "bbc-news-5-https://news.google.com/",
+          "id": "bbc-news-0-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -523,7 +523,7 @@
           "summaryZh": "Americans on Iran strikes: 'What if this turns into a forever war?'&nbsp;&nbsp;BBC"
         },
         {
-          "id": "bbc-news-4-https://news.google.com/",
+          "id": "bbc-news-3-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -536,7 +536,7 @@
           "summaryZh": "Why did US and Israel attack Iran and how long could the war last?&nbsp;&nbsp;BBC"
         },
         {
-          "id": "bbc-news-6-https://news.google.com/",
+          "id": "bbc-news-5-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -560,15 +560,54 @@
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
           "type": "news",
-          "title": "Iran war live: Trump says war going ‘well’ as Gulf under wave of attacks - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaXczNWtBUE9tMUowWTJraUMtOXhEWlNtRmFjb0RpTGZZM18xalhXTjRmQ0ctNGpydHhCNGxNR3k2UHBfOXV4d0VxZUdJOTF1NVZIdEs1QkZfLUd6YW9vUC00RTJ6WENhRUdYaThVdldvZTZPc0JBU0I4eHRIRl9MblNBU2gtcUhxZml5TE5RVUtBLWhVeE5rcmlyN2UtY2gwSTU1Mlp3c2FtU0tvRmJneE84RWlCWHJhNHFR0gHAAUFVX3lxTE5kbk1qc1UzaXBfZnJwX0V3YUtzQ3VqdWNSU0FyNzNObTczTWM3ODNfUkhWdGZWVHVaM3JOLW1na3BVblpqaFd3dkMwTk1DWUdFSko5VXdCNzRuWHg3ZjdyNEhsZENyZlpKQU5paW1lSGpsd3pwTTZrUUVOVUtlSGJhRk9ybl9wLVYzRXZKU2RCd3E5NjQ1RWFoNURtODN4MG5VRXozSE56ZElSOXRNa0ktSkhpSnRlanVDRzVPWG1Heg?oc=5\" target=\"_blank\">Iran war live: Trump says war going ‘well’ as Gulf under wave of attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "title": "Iran war live: US-Israeli strikes across Tehran; drones near Riyadh - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaXczNWtBUE9tMUowWTJraUMtOXhEWlNtRmFjb0RpTGZZM18xalhXTjRmQ0ctNGpydHhCNGxNR3k2UHBfOXV4d0VxZUdJOTF1NVZIdEs1QkZfLUd6YW9vUC00RTJ6WENhRUdYaThVdldvZTZPc0JBU0I4eHRIRl9MblNBU2gtcUhxZml5TE5RVUtBLWhVeE5rcmlyN2UtY2gwSTU1Mlp3c2FtU0tvRmJneE84RWlCWHJhNHFR0gHAAUFVX3lxTE5kbk1qc1UzaXBfZnJwX0V3YUtzQ3VqdWNSU0FyNzNObTczTWM3ODNfUkhWdGZWVHVaM3JOLW1na3BVblpqaFd3dkMwTk1DWUdFSko5VXdCNzRuWHg3ZjdyNEhsZENyZlpKQU5paW1lSGpsd3pwTTZrUUVOVUtlSGJhRk9ybl9wLVYzRXZKU2RCd3E5NjQ1RWFoNURtODN4MG5VRXozSE56ZElSOXRNa0ktSkhpSnRlanVDRzVPWG1Heg?oc=5\" target=\"_blank\">Iran war live: US-Israeli strikes across Tehran; drones near Riyadh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaXczNWtBUE9tMUowWTJraUMtOXhEWlNtRmFjb0RpTGZZM18xalhXTjRmQ0ctNGpydHhCNGxNR3k2UHBfOXV4d0VxZUdJOTF1NVZIdEs1QkZfLUd6YW9vUC00RTJ6WENhRUdYaThVdldvZTZPc0JBU0I4eHRIRl9MblNBU2gtcUhxZml5TE5RVUtBLWhVeE5rcmlyN2UtY2gwSTU1Mlp3c2FtU0tvRmJneE84RWlCWHJhNHFR0gHAAUFVX3lxTE5kbk1qc1UzaXBfZnJwX0V3YUtzQ3VqdWNSU0FyNzNObTczTWM3ODNfUkhWdGZWVHVaM3JOLW1na3BVblpqaFd3dkMwTk1DWUdFSko5VXdCNzRuWHg3ZjdyNEhsZENyZlpKQU5paW1lSGpsd3pwTTZrUUVOVUtlSGJhRk9ybl9wLVYzRXZKU2RCd3E5NjQ1RWFoNURtODN4MG5VRXozSE56ZElSOXRNa0ktSkhpSnRlanVDRzVPWG1Heg?oc=5",
-          "publishedAt": "Fri, 13 Mar 2026 04:25:01 GMT",
-          "titleZh": "Iran war live: Trump says war going ‘well’ as Gulf under wave of attacks - Al Jazeera",
-          "summaryZh": "Iran war live: Trump says war going ‘well’ as Gulf under wave of attacks&nbsp;&nbsp;Al Jazeera"
+          "publishedAt": "Fri, 13 Mar 2026 06:15:08 GMT",
+          "titleZh": "Iran war live: US-Israeli strikes across Tehran; drones near Riyadh - Al Jazeera",
+          "summaryZh": "Iran war live: US-Israeli strikes across Tehran; drones near Riyadh&nbsp;&nbsp;Al Jazeera"
+        },
+        {
+          "id": "aljazeera-news-2-https://news.google.com/",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "sourceSite": "aljazeera.com",
+          "type": "news",
+          "title": "Iran war: What is happening on day 14 of US-Israel attacks? - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPcTg1a3dRMDlhVU9OQlE3R3VGdW0wZTllRHpicUMxOG9GLWpRdzFlZXZXSFJoN3V6azVMUUg3OVlPVmkwVU9JcV90UzVKU3pLY29ST1NmTmdtYW1QeVI3M25ZQ3hfWVd5anJDTDRwRTR4a2lwWWhjem5rdmY0SjQ4YllubngxN3pPTkhlSlhnVm16azVVa3VudkVGQlNqcDQ?oc=5\" target=\"_blank\">Iran war: What is happening on day 14 of US-Israel attacks?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcTg1a3dRMDlhVU9OQlE3R3VGdW0wZTllRHpicUMxOG9GLWpRdzFlZXZXSFJoN3V6azVMUUg3OVlPVmkwVU9JcV90UzVKU3pLY29ST1NmTmdtYW1QeVI3M25ZQ3hfWVd5anJDTDRwRTR4a2lwWWhjem5rdmY0SjQ4YllubngxN3pPTkhlSlhnVm16azVVa3VudkVGQlNqcDQ?oc=5",
+          "publishedAt": "Fri, 13 Mar 2026 06:13:36 GMT",
+          "titleZh": "Iran war: What is happening on day 14 of US-Israel attacks? - Al Jazeera",
+          "summaryZh": "Iran war: What is happening on day 14 of US-Israel attacks?&nbsp;&nbsp;Al Jazeera"
+        },
+        {
+          "id": "aljazeera-news-1-https://news.google.com/",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "sourceSite": "aljazeera.com",
+          "type": "news",
+          "title": "How Israel-US war on Iran puts $50bn in Indian remittances at risk - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc2hVZmlvenMyX3phX19RbWNFZUg5cFd2ZEpwaThJaHdaM1NFbjlPNzlUTUFMbXBtbzBxTGVSdzBHOVVMZW5fLWs2U0J6SWU4ZVpCV0VQWW1kWXotVGVKZTRvcHkwa2x1eUVPWG80UmYtWEFzeWFoRlh1VTZDUzNEVGlwclZUQVVYSWxodzMtWFQzS1plelZEVVdsSUczMjRzNmlZN3ByT0xOd9IBrwFBVV95cUxOOUJkaUpMWFBQdVhnWU5kV3hnT2RXei04VGljMlVaLXRFRGszdzQ1SHhMSUN1U2lZTzhyMzZUN1dKOHVGYTl0T3dTT3FXS3NUdXppVm1QVXhleTV4eHV5aHg0QmRpZ0RfYkMtMnVPWTRHRl9iYTNEc3RHVEVTRDkzcF9OQktPM0FiR3RzanBlenRyQkU3dE5hT0lyenlHM1M0SjlIQmhBRkNjSEJoR0Jz?oc=5\" target=\"_blank\">How Israel-US war on Iran puts $50bn in Indian remittances at risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc2hVZmlvenMyX3phX19RbWNFZUg5cFd2ZEpwaThJaHdaM1NFbjlPNzlUTUFMbXBtbzBxTGVSdzBHOVVMZW5fLWs2U0J6SWU4ZVpCV0VQWW1kWXotVGVKZTRvcHkwa2x1eUVPWG80UmYtWEFzeWFoRlh1VTZDUzNEVGlwclZUQVVYSWxodzMtWFQzS1plelZEVVdsSUczMjRzNmlZN3ByT0xOd9IBrwFBVV95cUxOOUJkaUpMWFBQdVhnWU5kV3hnT2RXei04VGljMlVaLXRFRGszdzQ1SHhMSUN1U2lZTzhyMzZUN1dKOHVGYTl0T3dTT3FXS3NUdXppVm1QVXhleTV4eHV5aHg0QmRpZ0RfYkMtMnVPWTRHRl9iYTNEc3RHVEVTRDkzcF9OQktPM0FiR3RzanBlenRyQkU3dE5hT0lyenlHM1M0SjlIQmhBRkNjSEJoR0Jz?oc=5",
+          "publishedAt": "Fri, 13 Mar 2026 06:09:46 GMT",
+          "titleZh": "How Israel-US war on Iran puts $50bn in Indian remittances at risk - Al Jazeera",
+          "summaryZh": "How Israel-US war on Iran puts $50bn in Indian remittances at risk&nbsp;&nbsp;Al Jazeera"
         },
         {
           "id": "aljazeera-news-7-https://news.google.com/",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "sourceSite": "aljazeera.com",
+          "type": "news",
+          "title": "Oil stays above $100 a barrel amid Iran’s stranglehold on Strait of Hormuz - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNX0FVUHpDUEt0WEo4WVgzSEY1ZXNTd1Vtb091a3ZIWXdFZzQySjlLd1JrYXFGQnpZRFBocU9HSlN0ODVHTmVzdkFQNVA1Zl9JLWlvNDY0a0YxOXgzdFdZRi1wd2dCWUFCVEN5ajEtSkZHNEZiYURhWFZLckVJVFZMbTV4LUtpWDFINDVYQm50WjlDOHZqTUt0U2VpcUNrRzFaSERlYjV4ZktRQW9vS0JvTnk1bzEzVmfSAbwBQVVfeXFMT01GNXl1SzFkY0c5bnRxQWhHM2Q0VXFOYlgwTGpWUjRDazB3UW5CbV9jaVI1cEE5ZDFGdkZOdTdPVGk1cjdWWG5zYU1VX1lSNmc5Ump0VXRQZUNEMFVrcGVnSS1yYXdxMXQ4Tm0xT2Z0cF9NWEdhNEx6WW9oMElOMjI4ZUplT0xTLTVURko3T0JxNGYtWkRQZGQ0bjF6OHQzM3dpQ0tEd2QycjJVaWpBd3E3Qk83Ykc5Y2h0cTk?oc=5\" target=\"_blank\">Oil stays above $100 a barrel amid Iran’s stranglehold on Strait of Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX0FVUHpDUEt0WEo4WVgzSEY1ZXNTd1Vtb091a3ZIWXdFZzQySjlLd1JrYXFGQnpZRFBocU9HSlN0ODVHTmVzdkFQNVA1Zl9JLWlvNDY0a0YxOXgzdFdZRi1wd2dCWUFCVEN5ajEtSkZHNEZiYURhWFZLckVJVFZMbTV4LUtpWDFINDVYQm50WjlDOHZqTUt0U2VpcUNrRzFaSERlYjV4ZktRQW9vS0JvTnk1bzEzVmfSAbwBQVVfeXFMT01GNXl1SzFkY0c5bnRxQWhHM2Q0VXFOYlgwTGpWUjRDazB3UW5CbV9jaVI1cEE5ZDFGdkZOdTdPVGk1cjdWWG5zYU1VX1lSNmc5Ump0VXRQZUNEMFVrcGVnSS1yYXdxMXQ4Tm0xT2Z0cF9NWEdhNEx6WW9oMElOMjI4ZUplT0xTLTVURko3T0JxNGYtWkRQZGQ0bjF6OHQzM3dpQ0tEd2QycjJVaWpBd3E3Qk83Ykc5Y2h0cTk?oc=5",
+          "publishedAt": "Fri, 13 Mar 2026 04:03:43 GMT",
+          "titleZh": "Oil stays above $100 a barrel amid Iran’s stranglehold on Strait of Hormuz - Al Jazeera",
+          "summaryZh": "Oil stays above $100 a barrel amid Iran’s stranglehold on Strait of Hormuz&nbsp;&nbsp;Al Jazeera"
+        },
+        {
+          "id": "aljazeera-news-8-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -581,7 +620,7 @@
           "summaryZh": "How will the war on Iran impact the US economy?&nbsp;&nbsp;Al Jazeera"
         },
         {
-          "id": "aljazeera-news-1-https://news.google.com/",
+          "id": "aljazeera-news-3-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -592,45 +631,6 @@
           "publishedAt": "Thu, 12 Mar 2026 19:54:14 GMT",
           "titleZh": "Iran vows to make Trump pay for ‘grave miscalculation’ if US escalates war - Al Jazeera",
           "summaryZh": "Iran vows to make Trump pay for ‘grave miscalculation’ if US escalates war&nbsp;&nbsp;Al Jazeera"
-        },
-        {
-          "id": "aljazeera-news-6-https://news.google.com/",
-          "sourceId": "aljazeera",
-          "source": "Al Jazeera",
-          "sourceSite": "aljazeera.com",
-          "type": "news",
-          "title": "Does President Trump have an exit strategy for the war with Iran? - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNTBqWmJPajF3b0t1ZVFFR0h0eXN0U1o3THhRbFhyZXdjTWlrcEZQcUZKeHhsSlhsSTZlY1l5LXZKNlF3RUNvejJTWXo1dnFub1V1M21UZXUyRVd4dWVlU0tCWk9taXBlbkFPUnprRVZ5Q1ZrMk9PTm1NZFk4T2R6eGoxVFZoNENrbVhTUlE2UXFHTUpsVlpBRi1BUEplRXRvZTB1bXE2Si16MnZnSDVaM1FyNVVNWnRRQ2NJ0gHAAUFVX3lxTE92b3JvNi1TZUpRU3JJREo3ZnBQUUk2YURvRnVYck9sZzAtcFpGX3hiWUJJRjZfeU1QNFZtenV5RW9aRFRhVW9CcjdRUUN1SUhoSmhzN2NvOTB4OHAtUGdCVFJILUNVd2RqVXdzX1ZrbWxvOUdid3JIWDRmMFdCdmh2MUY3VE9sOWJiQ3g4bDZnZ2JEVjVmYlh2aUlqQjA3M3Ytd09Eb0Y1dlNsdTh2OTZpY3lIRlJpSGNLTXlmYWQ4RA?oc=5\" target=\"_blank\">Does President Trump have an exit strategy for the war with Iran?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNTBqWmJPajF3b0t1ZVFFR0h0eXN0U1o3THhRbFhyZXdjTWlrcEZQcUZKeHhsSlhsSTZlY1l5LXZKNlF3RUNvejJTWXo1dnFub1V1M21UZXUyRVd4dWVlU0tCWk9taXBlbkFPUnprRVZ5Q1ZrMk9PTm1NZFk4T2R6eGoxVFZoNENrbVhTUlE2UXFHTUpsVlpBRi1BUEplRXRvZTB1bXE2Si16MnZnSDVaM1FyNVVNWnRRQ2NJ0gHAAUFVX3lxTE92b3JvNi1TZUpRU3JJREo3ZnBQUUk2YURvRnVYck9sZzAtcFpGX3hiWUJJRjZfeU1QNFZtenV5RW9aRFRhVW9CcjdRUUN1SUhoSmhzN2NvOTB4OHAtUGdCVFJILUNVd2RqVXdzX1ZrbWxvOUdid3JIWDRmMFdCdmh2MUY3VE9sOWJiQ3g4bDZnZ2JEVjVmYlh2aUlqQjA3M3Ytd09Eb0Y1dlNsdTh2OTZpY3lIRlJpSGNLTXlmYWQ4RA?oc=5",
-          "publishedAt": "Thu, 12 Mar 2026 19:50:59 GMT",
-          "titleZh": "Does President Trump have an exit strategy for the war with Iran? - Al Jazeera",
-          "summaryZh": "Does President Trump have an exit strategy for the war with Iran?&nbsp;&nbsp;Al Jazeera"
-        },
-        {
-          "id": "aljazeera-news-2-https://news.google.com/",
-          "sourceId": "aljazeera",
-          "source": "Al Jazeera",
-          "sourceSite": "aljazeera.com",
-          "type": "news",
-          "title": "Iran war: What is happening on day 13 of US-Israel attacks? - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNS05TU1p3Rk5HVzVHMVNrUzJVb2ZwRjVZQjlMU3lLNENuYUwwY05ZQWV0OHhZNVE2Q0FPQVgwV2tucDBGMXNsclFsOWVtRU9sOElwSUxtRkdtUElENGw5SW9QSUdZYzREZXViVEIzbWdfRUFwdG1FNGRKSnk5QUpWNHhtaG5xaTRuZUJLdlIzR3pHWldyeXI5aEpwQU5Jd0XSAaQBQVVfeXFMTTNLVExKRjhKY2sydWM4a1dPQThsVWhPZkhfXzVNRFFoYnRHeDh1VFlrUEFlUHc2dXhqX1FwN0JDdGFIQUVnWEJCVENFOTJaWXNEcmlsLTVlWGhSX2I2akRhVmZOV2lfdEgwZGtzc1BHck9FY3c5Qm9JOVpjQnlPYVBMcUZMOFFXckF6OWZpRWNWSlFEZzBPeHU3eHRvMUV5RFZjcm8?oc=5\" target=\"_blank\">Iran war: What is happening on day 13 of US-Israel attacks?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS05TU1p3Rk5HVzVHMVNrUzJVb2ZwRjVZQjlMU3lLNENuYUwwY05ZQWV0OHhZNVE2Q0FPQVgwV2tucDBGMXNsclFsOWVtRU9sOElwSUxtRkdtUElENGw5SW9QSUdZYzREZXViVEIzbWdfRUFwdG1FNGRKSnk5QUpWNHhtaG5xaTRuZUJLdlIzR3pHWldyeXI5aEpwQU5Jd0XSAaQBQVVfeXFMTTNLVExKRjhKY2sydWM4a1dPQThsVWhPZkhfXzVNRFFoYnRHeDh1VFlrUEFlUHc2dXhqX1FwN0JDdGFIQUVnWEJCVENFOTJaWXNEcmlsLTVlWGhSX2I2akRhVmZOV2lfdEgwZGtzc1BHck9FY3c5Qm9JOVpjQnlPYVBMcUZMOFFXckF6OWZpRWNWSlFEZzBPeHU3eHRvMUV5RFZjcm8?oc=5",
-          "publishedAt": "Thu, 12 Mar 2026 16:22:44 GMT",
-          "titleZh": "Iran war: What is happening on day 13 of US-Israel attacks? - Al Jazeera",
-          "summaryZh": "Iran war: What is happening on day 13 of US-Israel attacks?&nbsp;&nbsp;Al Jazeera"
-        },
-        {
-          "id": "aljazeera-news-3-https://news.google.com/",
-          "sourceId": "aljazeera",
-          "source": "Al Jazeera",
-          "sourceSite": "aljazeera.com",
-          "type": "news",
-          "title": "Iran’s president sets terms to end the war: Is an off-ramp in sight? - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVlJwMENibHpUV2hfTFc0emxCRms5VGhfX19rNFJuUXNlS0VqemVVWVZSTHc0MEhnZGRrbFZjQVZLd3Q2YTMwa1U3NHlnS0p3RTlrdjA4YnlhVnYzcElBcUlxekVYYVNnYXd5YnRpVms0SkNiV09fbWF3QWhNVW5vYTl3MFQ2OUNBZUY3SUE3ZExKU2xpSFlGOFhmUUhkdEgyZ29ZUHVtX2p6UdIBrwFBVV95cUxPQndGRkxxZVNYeW95MXVya2t2Nmg0T3BwVWdFLWxnZE5uRzFnRmQ2aGRKa0RuSm01WGVVR0hpcmd5N0YxVE1EQ1paM19TYUt1MlFvVWY4UkxCWk5LN0RrUU44RkQ4R2hvS1pwbXpFQ05YRkJRcldQUEVuek9qNXpRVDN0b2pNLUJSbE4yU3p5NEl5V2RJdkFDa1l5SDJsR1cyU2JSWWNCOU54U0tleFRN?oc=5\" target=\"_blank\">Iran’s president sets terms to end the war: Is an off-ramp in sight?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVlJwMENibHpUV2hfTFc0emxCRms5VGhfX19rNFJuUXNlS0VqemVVWVZSTHc0MEhnZGRrbFZjQVZLd3Q2YTMwa1U3NHlnS0p3RTlrdjA4YnlhVnYzcElBcUlxekVYYVNnYXd5YnRpVms0SkNiV09fbWF3QWhNVW5vYTl3MFQ2OUNBZUY3SUE3ZExKU2xpSFlGOFhmUUhkdEgyZ29ZUHVtX2p6UdIBrwFBVV95cUxPQndGRkxxZVNYeW95MXVya2t2Nmg0T3BwVWdFLWxnZE5uRzFnRmQ2aGRKa0RuSm01WGVVR0hpcmd5N0YxVE1EQ1paM19TYUt1MlFvVWY4UkxCWk5LN0RrUU44RkQ4R2hvS1pwbXpFQ05YRkJRcldQUEVuek9qNXpRVDN0b2pNLUJSbE4yU3p5NEl5V2RJdkFDa1l5SDJsR1cyU2JSWWNCOU54U0tleFRN?oc=5",
-          "publishedAt": "Thu, 12 Mar 2026 15:53:17 GMT",
-          "titleZh": "Iran’s president sets terms to end the war: Is an off-ramp in sight? - Al Jazeera",
-          "summaryZh": "Iran’s president sets terms to end the war: Is an off-ramp in sight?&nbsp;&nbsp;Al Jazeera"
         }
       ]
     },
@@ -650,7 +650,7 @@
       "title": "Iran’s Strait of Hormuz Toolkit: Drones, Missiles, and Mines - Foreign Policy",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPY09sYTBseUIxdkN3QjZJSUNqeE1jYnlFaWtDMERTNTJHS1M3aXlSb2loSnprNnJqWkF5OW91cGxnT0ZOTy1TM2UtVDBUalBUdkNaNWhmM3N5RURabDYxbHpBMWlwZ1QwQVBaSV8yVThrdXBzdGpuNDM4NHdjLUpqbHNRNlZQRWtUdkUtX2YwaU5FUQ?oc=5\" target=\"_blank\">Iran’s Strait of Hormuz Toolkit: Drones, Missiles, and Mines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Policy</font>",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY09sYTBseUIxdkN3QjZJSUNqeE1jYnlFaWtDMERTNTJHS1M3aXlSb2loSnprNnJqWkF5OW91cGxnT0ZOTy1TM2UtVDBUalBUdkNaNWhmM3N5RURabDYxbHpBMWlwZ1QwQVBaSV8yVThrdXBzdGpuNDM4NHdjLUpqbHNRNlZQRWtUdkUtX2YwaU5FUQ?oc=5",
-      "publishedAt": "Thu, 12 Mar 2026 22:17:32 GMT",
+      "publishedAt": "Fri, 13 Mar 2026 05:48:45 GMT",
       "titleZh": "Iran’s Strait of Hormuz Toolkit: Drones, Missiles, and Mines - Foreign Policy",
       "summaryZh": "Iran’s Strait of Hormuz Toolkit: Drones, Missiles, and Mines&nbsp;&nbsp;Foreign Policy"
     },
@@ -668,7 +668,7 @@
       "summaryZh": "Iran’s New Supreme Leader Vows to Continue Blocking the Strait of Hormuz&nbsp;&nbsp;Foreign Policy"
     },
     {
-      "id": "economist-commentary-5-https://news.google.com/",
+      "id": "economist-commentary-4-https://news.google.com/",
       "sourceId": "economist",
       "source": "The Economist",
       "sourceSite": "economist.com",
@@ -694,7 +694,7 @@
       "summaryZh": "Who is Iran’s new leader?&nbsp;&nbsp;The Economist"
     },
     {
-      "id": "economist-commentary-6-https://news.google.com/",
+      "id": "economist-commentary-7-https://news.google.com/",
       "sourceId": "economist",
       "source": "The Economist",
       "sourceSite": "economist.com",
@@ -733,7 +733,7 @@
       "summaryZh": "The damage to the world economy from the Iran war will be severe, but uneven&nbsp;&nbsp;The Economist"
     },
     {
-      "id": "economist-commentary-4-https://news.google.com/",
+      "id": "economist-commentary-5-https://news.google.com/",
       "sourceId": "economist",
       "source": "The Economist",
       "sourceSite": "economist.com",
@@ -746,7 +746,7 @@
       "summaryZh": "There are no good options for Iran’s nuclear programme&nbsp;&nbsp;The Economist"
     },
     {
-      "id": "nytimes-commentary-7-https://news.google.com/",
+      "id": "nytimes-commentary-6-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -785,7 +785,7 @@
       "summaryZh": "The Dangers of a Weak Iran&nbsp;&nbsp;Foreign Affairs"
     },
     {
-      "id": "nytimes-commentary-1-https://news.google.com/",
+      "id": "nytimes-commentary-3-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -811,7 +811,7 @@
       "summaryZh": "Could special forces truly obliterate Iran’s nuclear programme?&nbsp;&nbsp;The Economist"
     },
     {
-      "id": "nytimes-commentary-3-https://news.google.com/",
+      "id": "nytimes-commentary-2-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -889,7 +889,20 @@
       "summaryZh": "Why Netanyahu Chose to Strike Iran Now&nbsp;&nbsp;Foreign Policy"
     },
     {
-      "id": "economist-commentary-7-https://news.google.com/",
+      "id": "nytimes-commentary-7-https://news.google.com/",
+      "sourceId": "nytimes",
+      "source": "The New York Times",
+      "sourceSite": "nytimes.com",
+      "type": "commentary",
+      "title": "How Trump and His Advisers Miscalculated Iran’s Response to War - The New York Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPRFBuWF9PQjcxbG8ydmNEMGRXdFI4aW5sbEh6aHIwNXlNYjBPeG83VUxlaHZqMnN6WkFPOHRNeXhmUnpCV042bGRjblE5V1R0cG1YbkhST2ptSzdtUkVubnpfMzcwVk1QcDFhVWQtYmROOGVkakN3WGI1dTBkYW9TaTVtLVd3M1J1WXp2b2ZiTDdSNUU?oc=5\" target=\"_blank\">How Trump and His Advisers Miscalculated Iran’s Response to War</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRFBuWF9PQjcxbG8ydmNEMGRXdFI4aW5sbEh6aHIwNXlNYjBPeG83VUxlaHZqMnN6WkFPOHRNeXhmUnpCV042bGRjblE5V1R0cG1YbkhST2ptSzdtUkVubnpfMzcwVk1QcDFhVWQtYmROOGVkakN3WGI1dTBkYW9TaTVtLVd3M1J1WXp2b2ZiTDdSNUU?oc=5",
+      "publishedAt": "Wed, 11 Mar 2026 01:06:02 GMT",
+      "titleZh": "How Trump and His Advisers Miscalculated Iran’s Response to War - The New York Times",
+      "summaryZh": "How Trump and His Advisers Miscalculated Iran’s Response to War&nbsp;&nbsp;The New York Times"
+    },
+    {
+      "id": "economist-commentary-6-https://news.google.com/",
       "sourceId": "economist",
       "source": "The Economist",
       "sourceSite": "economist.com",
@@ -902,7 +915,7 @@
       "summaryZh": "Can America clear the Strait of Hormuz of Iran’s drones and mines?&nbsp;&nbsp;The Economist"
     },
     {
-      "id": "nytimes-commentary-5-https://news.google.com/",
+      "id": "nytimes-commentary-4-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -915,20 +928,7 @@
       "summaryZh": "Iranian Military Shows It Knows How to Adapt, U.S. Officials Say&nbsp;&nbsp;The New York Times"
     },
     {
-      "id": "nytimes-commentary-4-https://news.google.com/",
-      "sourceId": "nytimes",
-      "source": "The New York Times",
-      "sourceSite": "nytimes.com",
-      "type": "commentary",
-      "title": "Opinion | How Does This End? Four Scenarios for What Comes Next With Iran. - The New York Times",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOMzhyNENqSEs1VkxLTmpJTi1SYmNXa2xTMG9SRndfUWw2cEVzMEY4dlFVNGNXWTgzN3BIWk0yNTBtbWpTNDRfTnE3X1Z1aERsRU0zSkJFT0JqektydVNVSTBlbVczWkRWTDZjem9EZXRDU3VqVURsRlRmMmYxZXB6S3RwYllUZHFkekJKd2VvVXM3OVc2S1hYd3RIalN6VTJ0ZVFWZVNEaDNwdGpDQXNz?oc=5\" target=\"_blank\">Opinion | How Does This End? Four Scenarios for What Comes Next With Iran.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMzhyNENqSEs1VkxLTmpJTi1SYmNXa2xTMG9SRndfUWw2cEVzMEY4dlFVNGNXWTgzN3BIWk0yNTBtbWpTNDRfTnE3X1Z1aERsRU0zSkJFT0JqektydVNVSTBlbVczWkRWTDZjem9EZXRDU3VqVURsRlRmMmYxZXB6S3RwYllUZHFkekJKd2VvVXM3OVc2S1hYd3RIalN6VTJ0ZVFWZVNEaDNwdGpDQXNz?oc=5",
-      "publishedAt": "Tue, 10 Mar 2026 21:00:06 GMT",
-      "titleZh": "Opinion | How Does This End? Four Scenarios for What Comes Next With Iran. - The New York Times",
-      "summaryZh": "Opinion | How Does This End? Four Scenarios for What Comes Next With Iran.&nbsp;&nbsp;The New York Times"
-    },
-    {
-      "id": "nytimes-commentary-2-https://news.google.com/",
+      "id": "nytimes-commentary-1-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -967,7 +967,7 @@
       "summaryZh": "The Iran War Has Rapidly Expanded Beyond the Middle East&nbsp;&nbsp;Foreign Policy"
     },
     {
-      "id": "nytimes-commentary-6-https://news.google.com/",
+      "id": "nytimes-commentary-5-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
