@@ -1,10 +1,101 @@
 {
-  "generatedAt": "2026-03-22T15:22:49.913Z",
-  "totalNews": 27,
+  "generatedAt": "2026-03-22T18:32:12.330Z",
+  "totalNews": 30,
   "totalCommentary": 32,
   "timeline": [
     {
-      "id": "aljazeera-news-0-https://news.google.com/",
+      "id": "bbc-news-0-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "US power plant threats 'show desperation', says Iran president as strikes continue across Middle East - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EajNYQzVGMkZTQ1d1UlR4d0xMYUQtUzBaNk56TjkyQlZ6aThRN2x2VldfWGdQWWN3amsxWF9nU3R4b1h6VlJvbUdvaFY1RjVxaHM4WQ?oc=5\" target=\"_blank\">US power plant threats 'show desperation', says Iran president as strikes continue across Middle East</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EajNYQzVGMkZTQ1d1UlR4d0xMYUQtUzBaNk56TjkyQlZ6aThRN2x2VldfWGdQWWN3amsxWF9nU3R4b1h6VlJvbUdvaFY1RjVxaHM4WQ?oc=5",
+      "publishedAt": "Sun, 22 Mar 2026 18:14:16 GMT",
+      "titleZh": "US power plant threats 'show desperation', says Iran president as strikes continue across Middle East - BBC",
+      "summaryZh": "US power plant threats 'show desperation', says Iran president as strikes continue across Middle East&nbsp;&nbsp;BBC"
+    },
+    {
+      "id": "aljazeera-news-3-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "Did Israel miscalculate Iranian military capabilities? - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOUjNzNzk0WXE0aWdqZ3Rzdjc3ZThiaFEyT0pWZ3d4Q0NOMlNwS0d3QncwbVV4QUhXM195RU9KTmZVTkpPamtZTnhoc0FvMFNILXRwdVZXMkNkTWU1MVNFelZaUlB2TVQ2NXJIN2UzMVZoTGlDSVk0anFLWTRvcGtNTXU0dm5jSXhPZ3RKOXhjN2VySkxhZ3lpTjJB0gGfAUFVX3lxTE0zd25HRlpKUE83RDBiNFlmTS11Q1FxNHo4THh5cnM5bW9pMWdIVGM2SzNzX0xKWlVqM2IwTi1nNC14ZzZUbFFZem1vQmxPbVhPOVhBUU5oM0ZLMF91aF8yR1lfc0tUNF8xOXlPVlQyR09maGplek9ZZVo1X29IMFJzT3NaWjdEUTNTSWliZy02SEZtd3BWUlZCdklnMWhJNA?oc=5\" target=\"_blank\">Did Israel miscalculate Iranian military capabilities?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUjNzNzk0WXE0aWdqZ3Rzdjc3ZThiaFEyT0pWZ3d4Q0NOMlNwS0d3QncwbVV4QUhXM195RU9KTmZVTkpPamtZTnhoc0FvMFNILXRwdVZXMkNkTWU1MVNFelZaUlB2TVQ2NXJIN2UzMVZoTGlDSVk0anFLWTRvcGtNTXU0dm5jSXhPZ3RKOXhjN2VySkxhZ3lpTjJB0gGfAUFVX3lxTE0zd25HRlpKUE83RDBiNFlmTS11Q1FxNHo4THh5cnM5bW9pMWdIVGM2SzNzX0xKWlVqM2IwTi1nNC14ZzZUbFFZem1vQmxPbVhPOVhBUU5oM0ZLMF91aF8yR1lfc0tUNF8xOXlPVlQyR09maGplek9ZZVo1X29IMFJzT3NaWjdEUTNTSWliZy02SEZtd3BWUlZCdklnMWhJNA?oc=5",
+      "publishedAt": "Sun, 22 Mar 2026 16:20:52 GMT",
+      "titleZh": "Did Israel miscalculate Iranian military capabilities? - Al Jazeera",
+      "summaryZh": "Did Israel miscalculate Iranian military capabilities?&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "aljazeera-news-7-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "Iran claims missile attacks on key Israeli military bases - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQTnlkTVhpWFlWaWRFYUxuaUlIVFQwd0ZZT19QWnk0WGVvWmJiMmVYTk5jUkFucmE1M1gzb1lSWmNrc0RNNnBGTzNpZFVMLW8zbDJUUmxsT3hHM285cFVhTnZYWGx2ak00U0VoMzducVBjSzhyTW52TENJejEzZWRwNkp6djFXR3U0UU1VV2cwU19CQ2FrcFV6bDM5S3Q3VlJDLU9qZEFHLXVON3lQ0gGyAUFVX3lxTFBsd1RFYV94MjZicldvLXFIZlFPLXdfR0plNUg1RFRuSXREcGhuVFEzWnRZWEdXaHFPM3pzWU9LUWdOd0taMWVSVjRhMXpINzl6a2hvaWFFRzBjYzdtRFZiTDJ5NUE4TEF2a244SlpYeGQza3h1eWhkNXBIN0d4aVhmRTRUaFNvY0NIcEFvQmtJZVQ3MzlMM3hyeW1RUXNnOGstaTBGQ0xmc0h2c0ZkdkFSQVE?oc=5\" target=\"_blank\">Iran claims missile attacks on key Israeli military bases</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTnlkTVhpWFlWaWRFYUxuaUlIVFQwd0ZZT19QWnk0WGVvWmJiMmVYTk5jUkFucmE1M1gzb1lSWmNrc0RNNnBGTzNpZFVMLW8zbDJUUmxsT3hHM285cFVhTnZYWGx2ak00U0VoMzducVBjSzhyTW52TENJejEzZWRwNkp6djFXR3U0UU1VV2cwU19CQ2FrcFV6bDM5S3Q3VlJDLU9qZEFHLXVON3lQ0gGyAUFVX3lxTFBsd1RFYV94MjZicldvLXFIZlFPLXdfR0plNUg1RFRuSXREcGhuVFEzWnRZWEdXaHFPM3pzWU9LUWdOd0taMWVSVjRhMXpINzl6a2hvaWFFRzBjYzdtRFZiTDJ5NUE4TEF2a244SlpYeGQza3h1eWhkNXBIN0d4aVhmRTRUaFNvY0NIcEFvQmtJZVQ3MzlMM3hyeW1RUXNnOGstaTBGQ0xmc0h2c0ZkdkFSQVE?oc=5",
+      "publishedAt": "Sun, 22 Mar 2026 16:02:54 GMT",
+      "titleZh": "Iran claims missile attacks on key Israeli military bases - Al Jazeera",
+      "summaryZh": "Iran claims missile attacks on key Israeli military bases&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "aljazeera-news-2-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "Iranian authorities taunt US, Israel, EU amid strikes and assassinations - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPeFNMQWlWOHhLODlSZUxnMUwzVjZxNVRiNHpUZnE4VTBWbGtuVFdVcUs5YmRGY2l0bGM3LUdfcmdpUGtsZmRUMUlJTDVrSEItYTVsWlQ3LWRNelJoQzBmUmNRdkhkUjVPZ2ZLS1h4WWdpZFNGdHZOTThZeFdNdThQNHZuWTlNTTVSYUhXd0x6THhPNVlCTjRqZEtzbERrZ3d3OXVTTnpFbTc5azQ3UGRaZdIBtgFBVV95cUxQWDBwM05yaVAyUnhvZXBDUVJLaGR3TmRrczVoN2xXa3FpWW14dWZHLWRJQXZBckl5Z1R3bGtuTVhaNGJYOXU5MWlraFBNbjUwS05lbG5wemxTd0tJZ3FmVy1EYmJIY0FaNnJ5RDc2dkZvS29PU2R6Ui1Xb0dsdjZ0UHU1ejlzdms3VU54b3B3b0dxd0xTNTAtX2ljVUFoYmpHbllWdHhDLVkwSkdQS1g3cXZTQVMyQQ?oc=5\" target=\"_blank\">Iranian authorities taunt US, Israel, EU amid strikes and assassinations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeFNMQWlWOHhLODlSZUxnMUwzVjZxNVRiNHpUZnE4VTBWbGtuVFdVcUs5YmRGY2l0bGM3LUdfcmdpUGtsZmRUMUlJTDVrSEItYTVsWlQ3LWRNelJoQzBmUmNRdkhkUjVPZ2ZLS1h4WWdpZFNGdHZOTThZeFdNdThQNHZuWTlNTTVSYUhXd0x6THhPNVlCTjRqZEtzbERrZ3d3OXVTTnpFbTc5azQ3UGRaZdIBtgFBVV95cUxQWDBwM05yaVAyUnhvZXBDUVJLaGR3TmRrczVoN2xXa3FpWW14dWZHLWRJQXZBckl5Z1R3bGtuTVhaNGJYOXU5MWlraFBNbjUwS05lbG5wemxTd0tJZ3FmVy1EYmJIY0FaNnJ5RDc2dkZvS29PU2R6Ui1Xb0dsdjZ0UHU1ejlzdms3VU54b3B3b0dxd0xTNTAtX2ljVUFoYmpHbllWdHhDLVkwSkdQS1g3cXZTQVMyQQ?oc=5",
+      "publishedAt": "Sun, 22 Mar 2026 15:29:02 GMT",
+      "titleZh": "Iranian authorities taunt US, Israel, EU amid strikes and assassinations - Al Jazeera",
+      "summaryZh": "Iranian authorities taunt US, Israel, EU amid strikes and assassinations&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "bbc-news-6-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "No assessment Iran capable of striking London, Steve Reed says - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE01VVozMDVtLWRzRk9Iekg2dHpCMFdVRW1qOGh6NXQ3VlNmSVZJdG5iZmFyTUJBMDllU1pLMW15UUVqWmZiYnFidzhyQ2dIeUxDLUJvTUlSY1NOdw?oc=5\" target=\"_blank\">No assessment Iran capable of striking London, Steve Reed says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01VVozMDVtLWRzRk9Iekg2dHpCMFdVRW1qOGh6NXQ3VlNmSVZJdG5iZmFyTUJBMDllU1pLMW15UUVqWmZiYnFidzhyQ2dIeUxDLUJvTUlSY1NOdw?oc=5",
+      "publishedAt": "Sun, 22 Mar 2026 15:22:39 GMT",
+      "titleZh": "No assessment Iran capable of striking London, Steve Reed says - BBC",
+      "summaryZh": "No assessment Iran capable of striking London, Steve Reed says&nbsp;&nbsp;BBC"
+    },
+    {
+      "id": "aljazeera-news-5-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "Iran says will hit region’s energy sites if US, Israel target power plants - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNNFd4aXJYeFRUanh2NTVzZmVpbzlKM2FyWTF4VDM1Qm12VXp2aHJHbG9yWWI2Mi10THVlZEF5MFVGRGNGT1ROaGx5cThPWFg3djlXLXI4RURiOGZuRm9YdjVpcV9vN19oZnAwcl9Cc3VPSV9VcEZDMmo5SlRybUlrN251cnRwREtDeFlmUkxDTGZjcmM5QWJWNHQ0bWtrS0hNbWFjaFBlTzhpSl9qeV9CQlczONIBuAFBVV95cUxOMWVvUGNUQkFJNnJ3V0hiY3JqYmJCTmRJQVlQMHBhUkhPeGdQMmh6V0R5MGQweFNicGNoYzJORzI5cm1BZEpGc1RQbmFzdUxjTXlfWE9lc01WdHZPZTZDdEFLUy1oM0FKY2doZ0ZLOVA2bUFCTS0xcG1PcDFRY1hOY0R1STA4LVJ6bENSeTNrWW9meEpERGRWSXZYQXJWby1RZWpWbU9oUURpTV96dWdXNjNqSWhtNFFt?oc=5\" target=\"_blank\">Iran says will hit region’s energy sites if US, Israel target power plants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNFd4aXJYeFRUanh2NTVzZmVpbzlKM2FyWTF4VDM1Qm12VXp2aHJHbG9yWWI2Mi10THVlZEF5MFVGRGNGT1ROaGx5cThPWFg3djlXLXI4RURiOGZuRm9YdjVpcV9vN19oZnAwcl9Cc3VPSV9VcEZDMmo5SlRybUlrN251cnRwREtDeFlmUkxDTGZjcmM5QWJWNHQ0bWtrS0hNbWFjaFBlTzhpSl9qeV9CQlczONIBuAFBVV95cUxOMWVvUGNUQkFJNnJ3V0hiY3JqYmJCTmRJQVlQMHBhUkhPeGdQMmh6V0R5MGQweFNicGNoYzJORzI5cm1BZEpGc1RQbmFzdUxjTXlfWE9lc01WdHZPZTZDdEFLUy1oM0FKY2doZ0ZLOVA2bUFCTS0xcG1PcDFRY1hOY0R1STA4LVJ6bENSeTNrWW9meEpERGRWSXZYQXJWby1RZWpWbU9oUURpTV96dWdXNjNqSWhtNFFt?oc=5",
+      "publishedAt": "Sun, 22 Mar 2026 15:21:24 GMT",
+      "titleZh": "Iran says will hit region’s energy sites if US, Israel target power plants - Al Jazeera",
+      "summaryZh": "Iran says will hit region’s energy sites if US, Israel target power plants&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "reuters-news-1-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
+      "type": "news",
+      "title": "Treasury's Bessent says US has 'plenty' of funds for Iran war - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPRUtRR0JwcGR3QVZ5SHp0NkFYbWc3SU5JblBISmtfNTF5Slhva1dSWFZSWDdIelVNR2VmZ01VU2FfTURUbXU3d2JURktmRExqSVlaS3N3XzF4SzNndjJ0Z1NNQWZJbFlXT3ZPSm9lNlpmRXYzU2hrRmJlYjM5N0pQXzg0Uktzck1fWVBOY0E1NDk2bjVpbXlJM0hWVFVlSE0tcTkycmdn?oc=5\" target=\"_blank\">Treasury's Bessent says US has 'plenty' of funds for Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRUtRR0JwcGR3QVZ5SHp0NkFYbWc3SU5JblBISmtfNTF5Slhva1dSWFZSWDdIelVNR2VmZ01VU2FfTURUbXU3d2JURktmRExqSVlaS3N3XzF4SzNndjJ0Z1NNQWZJbFlXT3ZPSm9lNlpmRXYzU2hrRmJlYjM5N0pQXzg0Uktzck1fWVBOY0E1NDk2bjVpbXlJM0hWVFVlSE0tcTkycmdn?oc=5",
+      "publishedAt": "Sun, 22 Mar 2026 15:12:19 GMT",
+      "titleZh": "Treasury's Bessent says US has 'plenty' of funds for Iran war - Reuters",
+      "summaryZh": "Treasury's Bessent says US has 'plenty' of funds for Iran war&nbsp;&nbsp;Reuters"
+    },
+    {
+      "id": "aljazeera-news-1-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -17,46 +108,33 @@
       "summaryZh": "Trump’s changing messages on Iran war: What does it say about US strategy?&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "bbc-news-0-https://news.google.com/",
+      "id": "bbc-news-3-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
       "type": "news",
-      "title": "Iran says Strait of Hormuz will be 'completely closed' if Trump delivers on threat to strike power plants - BBC",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EajNYQzVGMkZTQ1d1UlR4d0xMYUQtUzBaNk56TjkyQlZ6aThRN2x2VldfWGdQWWN3amsxWF9nU3R4b1h6VlJvbUdvaFY1RjVxaHM4WQ?oc=5\" target=\"_blank\">Iran says Strait of Hormuz will be 'completely closed' if Trump delivers on threat to strike power plants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EajNYQzVGMkZTQ1d1UlR4d0xMYUQtUzBaNk56TjkyQlZ6aThRN2x2VldfWGdQWWN3amsxWF9nU3R4b1h6VlJvbUdvaFY1RjVxaHM4WQ?oc=5",
-      "publishedAt": "Sun, 22 Mar 2026 14:37:32 GMT",
-      "titleZh": "Iran says Strait of Hormuz will be 'completely closed' if Trump delivers on threat to strike power plants - BBC",
-      "summaryZh": "Iran says Strait of Hormuz will be 'completely closed' if Trump delivers on threat to strike power plants&nbsp;&nbsp;BBC"
+      "title": "Iranian missiles injure 160 in towns near Israeli nuclear site - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1em8yTjMzWDJSTnp3QV85UG9RMWQza0JDYWNSQUFBaHA4WE1WMUpRM0NZLWRqRnIxNkdCQTdTNmZXQkt6RTVMZDAyNFZZa2RzMkFuczBRUUV5Zw?oc=5\" target=\"_blank\">Iranian missiles injure 160 in towns near Israeli nuclear site</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1em8yTjMzWDJSTnp3QV85UG9RMWQza0JDYWNSQUFBaHA4WE1WMUpRM0NZLWRqRnIxNkdCQTdTNmZXQkt6RTVMZDAyNFZZa2RzMkFuczBRUUV5Zw?oc=5",
+      "publishedAt": "Sun, 22 Mar 2026 14:46:17 GMT",
+      "titleZh": "Iranian missiles injure 160 in towns near Israeli nuclear site - BBC",
+      "summaryZh": "Iranian missiles injure 160 in towns near Israeli nuclear site&nbsp;&nbsp;BBC"
     },
     {
-      "id": "aljazeera-news-3-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
+      "id": "bbc-news-4-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
       "type": "news",
-      "title": "Iran says will hit region’s energy sites if US, Israel target power plants - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNNFd4aXJYeFRUanh2NTVzZmVpbzlKM2FyWTF4VDM1Qm12VXp2aHJHbG9yWWI2Mi10THVlZEF5MFVGRGNGT1ROaGx5cThPWFg3djlXLXI4RURiOGZuRm9YdjVpcV9vN19oZnAwcl9Cc3VPSV9VcEZDMmo5SlRybUlrN251cnRwREtDeFlmUkxDTGZjcmM5QWJWNHQ0bWtrS0hNbWFjaFBlTzhpSl9qeV9CQlczONIBuAFBVV95cUxOMWVvUGNUQkFJNnJ3V0hiY3JqYmJCTmRJQVlQMHBhUkhPeGdQMmh6V0R5MGQweFNicGNoYzJORzI5cm1BZEpGc1RQbmFzdUxjTXlfWE9lc01WdHZPZTZDdEFLUy1oM0FKY2doZ0ZLOVA2bUFCTS0xcG1PcDFRY1hOY0R1STA4LVJ6bENSeTNrWW9meEpERGRWSXZYQXJWby1RZWpWbU9oUURpTV96dWdXNjNqSWhtNFFt?oc=5\" target=\"_blank\">Iran says will hit region’s energy sites if US, Israel target power plants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNFd4aXJYeFRUanh2NTVzZmVpbzlKM2FyWTF4VDM1Qm12VXp2aHJHbG9yWWI2Mi10THVlZEF5MFVGRGNGT1ROaGx5cThPWFg3djlXLXI4RURiOGZuRm9YdjVpcV9vN19oZnAwcl9Cc3VPSV9VcEZDMmo5SlRybUlrN251cnRwREtDeFlmUkxDTGZjcmM5QWJWNHQ0bWtrS0hNbWFjaFBlTzhpSl9qeV9CQlczONIBuAFBVV95cUxOMWVvUGNUQkFJNnJ3V0hiY3JqYmJCTmRJQVlQMHBhUkhPeGdQMmh6V0R5MGQweFNicGNoYzJORzI5cm1BZEpGc1RQbmFzdUxjTXlfWE9lc01WdHZPZTZDdEFLUy1oM0FKY2doZ0ZLOVA2bUFCTS0xcG1PcDFRY1hOY0R1STA4LVJ6bENSeTNrWW9meEpERGRWSXZYQXJWby1RZWpWbU9oUURpTV96dWdXNjNqSWhtNFFt?oc=5",
-      "publishedAt": "Sun, 22 Mar 2026 13:46:59 GMT",
-      "titleZh": "Iran says will hit region’s energy sites if US, Israel target power plants - Al Jazeera",
-      "summaryZh": "Iran says will hit region’s energy sites if US, Israel target power plants&nbsp;&nbsp;Al Jazeera"
+      "title": "'A direct hit' - BBC visits Israeli town after Iranian strike - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfaTRfdDgwWnlYVFVmRS14cEJ1UmtkMDJlVVNjRlpUdFhTMWZxYUk2ZEZSSHVjY3R6RXUtekNBUEJDaDF0TGgtdWlkdjFtQmRZSHUycmg0UQ?oc=5\" target=\"_blank\">'A direct hit' - BBC visits Israeli town after Iranian strike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfaTRfdDgwWnlYVFVmRS14cEJ1UmtkMDJlVVNjRlpUdFhTMWZxYUk2ZEZSSHVjY3R6RXUtekNBUEJDaDF0TGgtdWlkdjFtQmRZSHUycmg0UQ?oc=5",
+      "publishedAt": "Sun, 22 Mar 2026 14:21:19 GMT",
+      "titleZh": "'A direct hit' - BBC visits Israeli town after Iranian strike - BBC",
+      "summaryZh": "'A direct hit' - BBC visits Israeli town after Iranian strike&nbsp;&nbsp;BBC"
     },
     {
-      "id": "aljazeera-news-8-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "Did Iran launch missiles at US-UK base on Diego Garcia? Here’s what to know - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNclpXV0tqN3l4dmxLZFBuS3IwUTFteTFSeGlxYUE3aENPSGdub0IyaEptN01JSnJudmZUaGlvUzktS19XOV9KTW9NVVFoWUdqRzdscjdTQUd3WWJLUTFxMWZtcTUwTXNiaExNYlFXLWpPcFEyQko1eXVHTENrQjlWYWczX1FBWDJlSHRnNjlwMXdOanBuSi1zMlZaVkk5N0lKUVR6cGE5ZDFsREdsRl9jRUp6UW7SAboBQVVfeXFMTmg3a1lwZFU0VElmREJJaUh5UjE5ekZTLTYwLUZuNU9Dci1rcDVRbXJrcWhBZUN1ck1kRWpLdldobDRqZUVnOFVDaEQtRjNoaVVNTVFoN0FlODdjNnE5dmR6TlZfNjh3Z0YwSmVsYlVYODQ0MlRMRXN2M1lVRVJabi1tbHNJRGtDX1g3YXpRV0tadXZweklUTmdlbEJTRzd1WUhGM1JxLXZVN3NvalN5ZUJKYjcyeV9mODRR?oc=5\" target=\"_blank\">Did Iran launch missiles at US-UK base on Diego Garcia? Here’s what to know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNclpXV0tqN3l4dmxLZFBuS3IwUTFteTFSeGlxYUE3aENPSGdub0IyaEptN01JSnJudmZUaGlvUzktS19XOV9KTW9NVVFoWUdqRzdscjdTQUd3WWJLUTFxMWZtcTUwTXNiaExNYlFXLWpPcFEyQko1eXVHTENrQjlWYWczX1FBWDJlSHRnNjlwMXdOanBuSi1zMlZaVkk5N0lKUVR6cGE5ZDFsREdsRl9jRUp6UW7SAboBQVVfeXFMTmg3a1lwZFU0VElmREJJaUh5UjE5ekZTLTYwLUZuNU9Dci1rcDVRbXJrcWhBZUN1ck1kRWpLdldobDRqZUVnOFVDaEQtRjNoaVVNTVFoN0FlODdjNnE5dmR6TlZfNjh3Z0YwSmVsYlVYODQ0MlRMRXN2M1lVRVJabi1tbHNJRGtDX1g3YXpRV0tadXZweklUTmdlbEJTRzd1WUhGM1JxLXZVN3NvalN5ZUJKYjcyeV9mODRR?oc=5",
-      "publishedAt": "Sun, 22 Mar 2026 13:18:06 GMT",
-      "titleZh": "Did Iran launch missiles at US-UK base on Diego Garcia? Here’s what to know - Al Jazeera",
-      "summaryZh": "Did Iran launch missiles at US-UK base on Diego Garcia? Here’s what to know&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "aljazeera-news-5-https://news.google.com/",
+      "id": "aljazeera-news-9-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -69,17 +147,17 @@
       "summaryZh": "Moment Iranian strike hits central Tel Aviv&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "bbc-news-2-https://news.google.com/",
-      "sourceId": "bbc",
-      "source": "BBC",
-      "sourceSite": "bbc.com",
+      "id": "reuters-news-4-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
       "type": "news",
-      "title": "Iranian missiles injure 160 in towns near Israeli nuclear site - BBC",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1em8yTjMzWDJSTnp3QV85UG9RMWQza0JDYWNSQUFBaHA4WE1WMUpRM0NZLWRqRnIxNkdCQTdTNmZXQkt6RTVMZDAyNFZZa2RzMkFuczBRUUV5Zw?oc=5\" target=\"_blank\">Iranian missiles injure 160 in towns near Israeli nuclear site</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1em8yTjMzWDJSTnp3QV85UG9RMWQza0JDYWNSQUFBaHA4WE1WMUpRM0NZLWRqRnIxNkdCQTdTNmZXQkt6RTVMZDAyNFZZa2RzMkFuczBRUUV5Zw?oc=5",
-      "publishedAt": "Sun, 22 Mar 2026 10:57:44 GMT",
-      "titleZh": "Iranian missiles injure 160 in towns near Israeli nuclear site - BBC",
-      "summaryZh": "Iranian missiles injure 160 in towns near Israeli nuclear site&nbsp;&nbsp;BBC"
+      "title": "Scores hurt after Iranian missiles hit Israeli desert towns - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPOW1uN1pCbWJEbzFuX3I4bjhmQXVOM3hYYXdfVzNrNkR4SlM1T0hvOHJXVjlQZXRZbXdmT0YyamtfQ0FhdHltSl9PVHJCdE9IalhyQk9qb3ZxRmhHTFRQMHFWQVlqb01qMDdmY2JTNDVjcVYyTXFFOExMWVZodE02MUc5QnJOYW5BQUw5M2syOGtxbUJ5OFVYMEgxTjNHT1FBUWhFbFRKeXhadWJLaXVtc3RMbw?oc=5\" target=\"_blank\">Scores hurt after Iranian missiles hit Israeli desert towns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOW1uN1pCbWJEbzFuX3I4bjhmQXVOM3hYYXdfVzNrNkR4SlM1T0hvOHJXVjlQZXRZbXdmT0YyamtfQ0FhdHltSl9PVHJCdE9IalhyQk9qb3ZxRmhHTFRQMHFWQVlqb01qMDdmY2JTNDVjcVYyTXFFOExMWVZodE02MUc5QnJOYW5BQUw5M2syOGtxbUJ5OFVYMEgxTjNHT1FBUWhFbFRKeXhadWJLaXVtc3RMbw?oc=5",
+      "publishedAt": "Sun, 22 Mar 2026 12:32:28 GMT",
+      "titleZh": "Scores hurt after Iranian missiles hit Israeli desert towns - Reuters",
+      "summaryZh": "Scores hurt after Iranian missiles hit Israeli desert towns&nbsp;&nbsp;Reuters"
     },
     {
       "id": "reuters-news-0-https://news.google.com/",
@@ -87,28 +165,15 @@
       "source": "Reuters",
       "sourceSite": "reuters.com",
       "type": "news",
-      "title": "Trump, Iran threaten to escalate conflict with attacks on energy and water facilities - Reuters",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQem5pR05BaElqUUtXclhzMzM1Q0JScmpvckhjUGJ6TV96TDg3OTFIaEVxUHFGN2RqdnplY3ZhLW5iSGVsUDdSNFU3REFzemJIZEwzQ0JRaTNqbmxUUk1BTEkyZnMwOEJKZUhQcWg2WWx4d0JlSDJlbGVES19NWVVCb1ZVOFRVT1BfaktFWmRCODVZYkc1SUh5NWUxNzRycTFVWU8wMkhlcUY0ZHZ2cGJWUWZB?oc=5\" target=\"_blank\">Trump, Iran threaten to escalate conflict with attacks on energy and water facilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "title": "Iran threatens to retaliate against Gulf energy and water after Trump ultimatum - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQem5pR05BaElqUUtXclhzMzM1Q0JScmpvckhjUGJ6TV96TDg3OTFIaEVxUHFGN2RqdnplY3ZhLW5iSGVsUDdSNFU3REFzemJIZEwzQ0JRaTNqbmxUUk1BTEkyZnMwOEJKZUhQcWg2WWx4d0JlSDJlbGVES19NWVVCb1ZVOFRVT1BfaktFWmRCODVZYkc1SUh5NWUxNzRycTFVWU8wMkhlcUY0ZHZ2cGJWUWZB?oc=5\" target=\"_blank\">Iran threatens to retaliate against Gulf energy and water after Trump ultimatum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQem5pR05BaElqUUtXclhzMzM1Q0JScmpvckhjUGJ6TV96TDg3OTFIaEVxUHFGN2RqdnplY3ZhLW5iSGVsUDdSNFU3REFzemJIZEwzQ0JRaTNqbmxUUk1BTEkyZnMwOEJKZUhQcWg2WWx4d0JlSDJlbGVES19NWVVCb1ZVOFRVT1BfaktFWmRCODVZYkc1SUh5NWUxNzRycTFVWU8wMkhlcUY0ZHZ2cGJWUWZB?oc=5",
       "publishedAt": "Sun, 22 Mar 2026 10:53:19 GMT",
-      "titleZh": "Trump, Iran threaten to escalate conflict with attacks on energy and water facilities - Reuters",
-      "summaryZh": "Trump, Iran threaten to escalate conflict with attacks on energy and water facilities&nbsp;&nbsp;Reuters"
+      "titleZh": "Iran threatens to retaliate against Gulf energy and water after Trump ultimatum - Reuters",
+      "summaryZh": "Iran threatens to retaliate against Gulf energy and water after Trump ultimatum&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "aljazeera-news-6-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "Aftermath of Iranian missile strikes near Israel’s nuclear facility - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNRHlGbTlfQV9VbDBKNy1aVXFDRmRmaXVxX1VoU0J1MEE5R1M1N01SYy1KY0lEYkZmOGlvX0huX3pJb21oTmJOdG5HcWk4WVNzNlJNWWlkRGZaMUFLallINm1WbWJFTUpBa3ktcWJ5cFJDNlNxcUYzY3BfUjRLZnd0Y1AyVFVzNUk0cDRoWHFUTl9pOWdtRU5uMm5WU3BtOGRjdWRWdF8xTlNJd1lkYkHSAbMBQVVfeXFMTVlYYVc3eF9HeFdDY09HSEtSWmplN0VuS2c2Nk0yVEp0Z3d3Vmk3VHBEd0hSWTR3RnFNNndTbkN3Sm9QOEtIYTh6dF9hU1pIT0JqUjk4U0p5ZzZJcDJ6UEdDXzVmaUJWS1hnR3I0YTNWTHdVM0FlR1BROE85RmNGZFB6OG52SUpZV0NUZFZydWpDOWFDUkZ2WGFXdXZUU2NtVVFIaVR1bVdKLUUwOXZuZFdKZDg?oc=5\" target=\"_blank\">Aftermath of Iranian missile strikes near Israel’s nuclear facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRHlGbTlfQV9VbDBKNy1aVXFDRmRmaXVxX1VoU0J1MEE5R1M1N01SYy1KY0lEYkZmOGlvX0huX3pJb21oTmJOdG5HcWk4WVNzNlJNWWlkRGZaMUFLallINm1WbWJFTUpBa3ktcWJ5cFJDNlNxcUYzY3BfUjRLZnd0Y1AyVFVzNUk0cDRoWHFUTl9pOWdtRU5uMm5WU3BtOGRjdWRWdF8xTlNJd1lkYkHSAbMBQVVfeXFMTVlYYVc3eF9HeFdDY09HSEtSWmplN0VuS2c2Nk0yVEp0Z3d3Vmk3VHBEd0hSWTR3RnFNNndTbkN3Sm9QOEtIYTh6dF9hU1pIT0JqUjk4U0p5ZzZJcDJ6UEdDXzVmaUJWS1hnR3I0YTNWTHdVM0FlR1BROE85RmNGZFB6OG52SUpZV0NUZFZydWpDOWFDUkZ2WGFXdXZUU2NtVVFIaVR1bVdKLUUwOXZuZFdKZDg?oc=5",
-      "publishedAt": "Sun, 22 Mar 2026 10:36:53 GMT",
-      "titleZh": "Aftermath of Iranian missile strikes near Israel’s nuclear facility - Al Jazeera",
-      "summaryZh": "Aftermath of Iranian missile strikes near Israel’s nuclear facility&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "bbc-news-5-https://news.google.com/",
+      "id": "bbc-news-2-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -121,20 +186,7 @@
       "summaryZh": "Why did US and Israel attack Iran and how long could the war last?&nbsp;&nbsp;BBC"
     },
     {
-      "id": "aljazeera-news-7-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "Iran strikes towns near Israel’s key nuclear site, at least 180 wounded - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPM3FQdXVXdmlJa2I4N19DeDZqMGI0V2QwQk44RWVFZ0lERmg3U0VHdlpoRmEwbVFSdHppVDJWeUc0b0NtZEJPMXcyWWtMU1FQdS1KendoSS1LRnFEQ3ZObVpnaEZES2daSTJpdVNTbUJqT255dzQ4dEZ1VGVsRHJIczJnQnFVWmk0S0huVGNVTG5jT0o1ZFh4NG1GMEtGTnlJWFhwdEQ5V3hjamZvRGt6ZtIBtgFBVV95cUxPZGNGVWNzTU1Yanh1aXg5Z2pwTm5mNEpoX09ha2h1c01Ca2Vqa01iVW9Yblg1YjRWZlpsR1NkZDFiS1l1eS1wQkJ6QzNMeThyVWJvbWlnTlI0TXo4UF9ZcjVjQm1XTlJzcTNBOGtFUmQ4Vl9DT21VaEhKcWtHeDJxMUZDakpCOWhRV3dZYXFyMHBmZl8xLTlKczJPMktlNXc5RXJfQ28wbzVxLXBEVVBEclExYTE0UQ?oc=5\" target=\"_blank\">Iran strikes towns near Israel’s key nuclear site, at least 180 wounded</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM3FQdXVXdmlJa2I4N19DeDZqMGI0V2QwQk44RWVFZ0lERmg3U0VHdlpoRmEwbVFSdHppVDJWeUc0b0NtZEJPMXcyWWtMU1FQdS1KendoSS1LRnFEQ3ZObVpnaEZES2daSTJpdVNTbUJqT255dzQ4dEZ1VGVsRHJIczJnQnFVWmk0S0huVGNVTG5jT0o1ZFh4NG1GMEtGTnlJWFhwdEQ5V3hjamZvRGt6ZtIBtgFBVV95cUxPZGNGVWNzTU1Yanh1aXg5Z2pwTm5mNEpoX09ha2h1c01Ca2Vqa01iVW9Yblg1YjRWZlpsR1NkZDFiS1l1eS1wQkJ6QzNMeThyVWJvbWlnTlI0TXo4UF9ZcjVjQm1XTlJzcTNBOGtFUmQ4Vl9DT21VaEhKcWtHeDJxMUZDakpCOWhRV3dZYXFyMHBmZl8xLTlKczJPMktlNXc5RXJfQ28wbzVxLXBEVVBEclExYTE0UQ?oc=5",
-      "publishedAt": "Sun, 22 Mar 2026 08:48:06 GMT",
-      "titleZh": "Iran strikes towns near Israel’s key nuclear site, at least 180 wounded - Al Jazeera",
-      "summaryZh": "Iran strikes towns near Israel’s key nuclear site, at least 180 wounded&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "aljazeera-news-1-https://news.google.com/",
+      "id": "aljazeera-news-4-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -147,7 +199,7 @@
       "summaryZh": "Iran war: What’s happening on day 23 of US-Israel attacks?&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-2-https://news.google.com/",
+      "id": "aljazeera-news-6-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -160,7 +212,7 @@
       "summaryZh": "Iran war: What’s happening on day 22 of US-Israel attacks?&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "bbc-news-8-https://news.google.com/",
+      "id": "bbc-news-7-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -171,19 +223,6 @@
       "publishedAt": "Sun, 22 Mar 2026 04:08:05 GMT",
       "titleZh": "伊朗战争：是否要采取更强硬措施？特朗普正在十字路口—分析 - BBC",
       "summaryZh": "伊朗战争：是否要采取更强硬措施？特朗普正在十字路口—分析&nbsp;&nbsp;BBC"
-    },
-    {
-      "id": "aljazeera-news-9-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "Will the Houthis join Iran in war against Israel and the US? - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2J4RVAwUEx4ZFJWdXFJV3hnVzJjUEJnWE9fVzJEcTlsNDN0Q0R1OHhpTW0yQXdMWGdsY1ZMMWhOVVlwblhGY3JodmRCRndFbEFpOTNnN1lGSDJ4T0ZVMnJteVFKQ05ha0UtVWNzejRzV3pjUDVRRGFjaWlGa0pTX1BjdFFBZl9PdDNucGhPOG5GdVdvSnUxX0U4bUZOcm1TbFRxNi1QQzVWYVJWR1QtQnZnblTSAboBQVVfeXFMUFpoNVpCVTBFQ2tLWHA0UFQ4cDJxWm5kTnRHa0NTNGxFUGoxWjhvTnFxVDZjcE85XzFGT3AxOTFmMEQtYW9HdGtwZExOaGFzOTlCRTlHWUY0aERLbzdKTUY4Q3BBNjI4UFRjSFdaX045dEFXRF9ZeG5HeGU1aG5RQXdJY0JuN2RZLWZEYmZWZUxUTmJ4T0k0WDJlYTVfMkJXNHR0TlI2cHpiVzZQVnlJZC1ORHBBMzkyMnd3?oc=5\" target=\"_blank\">Will the Houthis join Iran in war against Israel and the US?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2J4RVAwUEx4ZFJWdXFJV3hnVzJjUEJnWE9fVzJEcTlsNDN0Q0R1OHhpTW0yQXdMWGdsY1ZMMWhOVVlwblhGY3JodmRCRndFbEFpOTNnN1lGSDJ4T0ZVMnJteVFKQ05ha0UtVWNzejRzV3pjUDVRRGFjaWlGa0pTX1BjdFFBZl9PdDNucGhPOG5GdVdvSnUxX0U4bUZOcm1TbFRxNi1QQzVWYVJWR1QtQnZnblTSAboBQVVfeXFMUFpoNVpCVTBFQ2tLWHA0UFQ4cDJxWm5kTnRHa0NTNGxFUGoxWjhvTnFxVDZjcE85XzFGT3AxOTFmMEQtYW9HdGtwZExOaGFzOTlCRTlHWUY0aERLbzdKTUY4Q3BBNjI4UFRjSFdaX045dEFXRF9ZeG5HeGU1aG5RQXdJY0JuN2RZLWZEYmZWZUxUTmJ4T0k0WDJlYTVfMkJXNHR0TlI2cHpiVzZQVnlJZC1ORHBBMzkyMnd3?oc=5",
-      "publishedAt": "Sun, 22 Mar 2026 01:23:07 GMT",
-      "titleZh": "Will the Houthis join Iran in war against Israel and the US? - Al Jazeera",
-      "summaryZh": "Will the Houthis join Iran in war against Israel and the US?&nbsp;&nbsp;Al Jazeera"
     },
     {
       "id": "bbc-news-1-https://news.google.com/",
@@ -199,7 +238,7 @@
       "summaryZh": "Trump at a crossroads as US weighs tough options in Iran&nbsp;&nbsp;BBC"
     },
     {
-      "id": "aljazeera-news-4-https://news.google.com/",
+      "id": "aljazeera-news-8-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -212,20 +251,7 @@
       "summaryZh": "Trump hints at ‘winding down’ Iran war as US deploys more troops to region&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "bbc-news-3-https://news.google.com/",
-      "sourceId": "bbc",
-      "source": "BBC",
-      "sourceSite": "bbc.com",
-      "type": "news",
-      "title": "Food prices likely to rise due to Iran war, farmers' union says - BBC",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oOG94Nm1HVEhvWWdDdE40NmFkNzJiNDc2ZUNVZUVtd3d0WGc3OTJCQUhkOTQ5R0QzVFVXZDNyQ3BsYTllbjJrUUtYOUxzcHdMT0VTRmxrbWZKdw?oc=5\" target=\"_blank\">Food prices likely to rise due to Iran war, farmers' union says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oOG94Nm1HVEhvWWdDdE40NmFkNzJiNDc2ZUNVZUVtd3d0WGc3OTJCQUhkOTQ5R0QzVFVXZDNyQ3BsYTllbjJrUUtYOUxzcHdMT0VTRmxrbWZKdw?oc=5",
-      "publishedAt": "Sat, 21 Mar 2026 18:41:31 GMT",
-      "titleZh": "Food prices likely to rise due to Iran war, farmers' union says - BBC",
-      "summaryZh": "Food prices likely to rise due to Iran war, farmers' union says&nbsp;&nbsp;BBC"
-    },
-    {
-      "id": "reuters-news-1-https://news.google.com/",
+      "id": "reuters-news-2-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -238,7 +264,7 @@
       "summaryZh": "Three weeks in, Iran war escalates beyond Trump's control&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "reuters-news-4-https://news.google.com/",
+      "id": "reuters-news-7-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -251,7 +277,20 @@
       "summaryZh": "How Iran's IRGC rebooted Lebanon's Hezbollah to be ready for war&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "reuters-news-2-https://news.google.com/",
+      "id": "aljazeera-news-0-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "Iran war updates: Netanyahu threatens more attacks after strike on Arad - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQd1AwVTNycXh0U2FfMW8xNGNHdjgydnVQcVhpR1B3RnBlcXJsR0J2c0xfa1JIOHF6N2pVVG5lWlJNT2ZCd3hKYWtmRV9pMi15TFhWUVh3NEx2ODlJdUJ1OHFQUVVkUkdIS0E4TUZTQjJVSnB6dkNmR0NJYXh4aDRiVENrTXg1NHJ5UUdTZ3M5QlRQZVVLNXFKYU1OUTlOY1NnbmxScFdWUW0wQlJoY053UjFENkk5R2VNQWZfdUFR0gHDAUFVX3lxTE9rWXg1czB6Mlo3ZGVkbFdVTkhMbzQ5Tk5TejRWTU5oS1RnWUtncUpkcmluM0hQWXphMExlMDJiSUtGOW04eU5hRHg0eVRBeWN1bnJZLUkwRVowaFV4YzNZTk8zVmlRaVBxUlZCeWJsZlNRTnMtVW1wMVNSdHBGRG5KanZXS0w3Y2xYb3BlZkFHRlBha3FBeUx5Y19GLTVSSzN0NDVSYWdVcUFpZndSN2FfMjJ3Um1URUYwcDBkeDI0MThScw?oc=5\" target=\"_blank\">Iran war updates: Netanyahu threatens more attacks after strike on Arad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd1AwVTNycXh0U2FfMW8xNGNHdjgydnVQcVhpR1B3RnBlcXJsR0J2c0xfa1JIOHF6N2pVVG5lWlJNT2ZCd3hKYWtmRV9pMi15TFhWUVh3NEx2ODlJdUJ1OHFQUVVkUkdIS0E4TUZTQjJVSnB6dkNmR0NJYXh4aDRiVENrTXg1NHJ5UUdTZ3M5QlRQZVVLNXFKYU1OUTlOY1NnbmxScFdWUW0wQlJoY053UjFENkk5R2VNQWZfdUFR0gHDAUFVX3lxTE9rWXg1czB6Mlo3ZGVkbFdVTkhMbzQ5Tk5TejRWTU5oS1RnWUtncUpkcmluM0hQWXphMExlMDJiSUtGOW04eU5hRHg0eVRBeWN1bnJZLUkwRVowaFV4YzNZTk8zVmlRaVBxUlZCeWJsZlNRTnMtVW1wMVNSdHBGRG5KanZXS0w3Y2xYb3BlZkFHRlBha3FBeUx5Y19GLTVSSzN0NDVSYWdVcUFpZndSN2FfMjJ3Um1URUYwcDBkeDI0MThScw?oc=5",
+      "publishedAt": "Sat, 21 Mar 2026 08:16:24 GMT",
+      "titleZh": "Iran war updates: Netanyahu threatens more attacks after strike on Arad - Al Jazeera",
+      "summaryZh": "Iran war updates: Netanyahu threatens more attacks after strike on Arad&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "reuters-news-3-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -264,33 +303,7 @@
       "summaryZh": "Iran attacks near Israeli nuclear site, fires long-range missiles for first time&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "bbc-news-4-https://news.google.com/",
-      "sourceId": "bbc",
-      "source": "BBC",
-      "sourceSite": "bbc.com",
-      "type": "news",
-      "title": "Trump says he is considering 'winding down' Iran war - BBC",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVWXV6cmw3djNBbXBiZnJoWXdaZW5ZZGxkR1ZmNVBFb09SaVdpVGpJNFdtN1I1ZF9MTDVFcjZTR1VTMF9rOU00MVBrRzZGZ1lHRGFCQmY5VTVmdw?oc=5\" target=\"_blank\">Trump says he is considering 'winding down' Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVWXV6cmw3djNBbXBiZnJoWXdaZW5ZZGxkR1ZmNVBFb09SaVdpVGpJNFdtN1I1ZF9MTDVFcjZTR1VTMF9rOU00MVBrRzZGZ1lHRGFCQmY5VTVmdw?oc=5",
-      "publishedAt": "Sat, 21 Mar 2026 01:29:59 GMT",
-      "titleZh": "Trump says he is considering 'winding down' Iran war - BBC",
-      "summaryZh": "Trump says he is considering 'winding down' Iran war&nbsp;&nbsp;BBC"
-    },
-    {
-      "id": "bbc-news-7-https://news.google.com/",
-      "sourceId": "bbc",
-      "source": "BBC",
-      "sourceSite": "bbc.com",
-      "type": "news",
-      "title": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows - BBC",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Xa3VLREpwbERQMkNXSUZHUWhjanA0ODlOZXhoVThsMTFJOXFWRFFrX0p4bnZUXzVWQ3BEY2N1OGpPRnItT3FEa0xXeVBfd18wTGd6SUlyQjF4dw?oc=5\" target=\"_blank\">Iranian strikes on bases used by US caused $800m in damage, new analysis shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Xa3VLREpwbERQMkNXSUZHUWhjanA0ODlOZXhoVThsMTFJOXFWRFFrX0p4bnZUXzVWQ3BEY2N1OGpPRnItT3FEa0xXeVBfd18wTGd6SUlyQjF4dw?oc=5",
-      "publishedAt": "Fri, 20 Mar 2026 22:34:05 GMT",
-      "titleZh": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows - BBC",
-      "summaryZh": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows&nbsp;&nbsp;BBC"
-    },
-    {
-      "id": "bbc-news-6-https://news.google.com/",
+      "id": "bbc-news-5-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -316,7 +329,7 @@
       "summaryZh": "欧盟吁伊朗局势相关冲突方 保护平民和民用设施&nbsp;&nbsp;联合早报"
     },
     {
-      "id": "reuters-news-3-https://news.google.com/",
+      "id": "reuters-news-5-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -329,7 +342,20 @@
       "summaryZh": "Natural gas prices soar as Iran, Israel strike Middle East energy infrastructure&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "reuters-news-5-https://news.google.com/",
+      "id": "bbc-news-9-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "中国两会：外长王毅评伊朗局势避点名美国，称今年是中美关系“大年” - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XOF9idTdNbEVZdjV2VHoxMzY5akxqaWdIUlp2UDlzYjhBaXoxbGI5Z21EOXUyV1cyQTI4RkhiMkRhZDBTNGlKaE43RVFDTzc2X29JdzBub3pCZlBuN2ZFLXdVNnllQdIBa0FVX3lxTE54N0VldEV2bTJIaENoX0pNTjA3RW42dF9pWDhBakNfSkpOaWdUb29xaF81RmR2aXR4Rjg3dGlnM29jUXB1TlBZeUh3ZHdJNWpJMUI1U1phN1RBZHVlRnBhWVNOdzBqQzZTbmJz?oc=5\" target=\"_blank\">中国两会：外长王毅评伊朗局势避点名美国，称今年是中美关系“大年”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XOF9idTdNbEVZdjV2VHoxMzY5akxqaWdIUlp2UDlzYjhBaXoxbGI5Z21EOXUyV1cyQTI4RkhiMkRhZDBTNGlKaE43RVFDTzc2X29JdzBub3pCZlBuN2ZFLXdVNnllQdIBa0FVX3lxTE54N0VldEV2bTJIaENoX0pNTjA3RW42dF9pWDhBakNfSkpOaWdUb29xaF81RmR2aXR4Rjg3dGlnM29jUXB1TlBZeUh3ZHdJNWpJMUI1U1phN1RBZHVlRnBhWVNOdzBqQzZTbmJz?oc=5",
+      "publishedAt": "Sun, 08 Mar 2026 08:00:00 GMT",
+      "titleZh": "中国两会：外长王毅评伊朗局势避点名美国，称今年是中美关系“大年” - BBC",
+      "summaryZh": "中国两会：外长王毅评伊朗局势避点名美国，称今年是中美关系“大年”&nbsp;&nbsp;BBC"
+    },
+    {
+      "id": "reuters-news-6-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -342,7 +368,20 @@
       "summaryZh": "Middle East conflict widens as Israeli, US strikes again hit Iran; oil soars, shares slide&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "bbc-news-9-https://news.google.com/",
+      "id": "reuters-news-8-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
+      "type": "news",
+      "title": "How many people have been killed in the US-Israeli war on Iran? - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWEdNeEtOTWhnWU9NOGREXzhEN0RZTHg2YjhoUzQ3XzZxUkUtUFNLMFN3VlBicnFFMnRVX2pUbnRnYVFIQXFwOEduOXVVVUozeU5YY2FKWEY3TThSVHViYlE3M1NOS3pxeGxTal9pdUVCenQ0VFpzVEVQN3c4YWxhdThfZlpjQVZqbFBlTEx4TzlERmJKRlhlMVJSTTVkY2RPa2xjYk81VmE?oc=5\" target=\"_blank\">How many people have been killed in the US-Israeli war on Iran?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWEdNeEtOTWhnWU9NOGREXzhEN0RZTHg2YjhoUzQ3XzZxUkUtUFNLMFN3VlBicnFFMnRVX2pUbnRnYVFIQXFwOEduOXVVVUozeU5YY2FKWEY3TThSVHViYlE3M1NOS3pxeGxTal9pdUVCenQ0VFpzVEVQN3c4YWxhdThfZlpjQVZqbFBlTEx4TzlERmJKRlhlMVJSTTVkY2RPa2xjYk81VmE?oc=5",
+      "publishedAt": "Tue, 03 Mar 2026 08:00:00 GMT",
+      "titleZh": "How many people have been killed in the US-Israeli war on Iran? - Reuters",
+      "summaryZh": "How many people have been killed in the US-Israeli war on Iran?&nbsp;&nbsp;Reuters"
+    },
+    {
+      "id": "bbc-news-8-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -361,20 +400,46 @@
       "source": "Reuters",
       "items": [
         {
+          "id": "reuters-news-1-https://news.google.com/",
+          "sourceId": "reuters",
+          "source": "Reuters",
+          "sourceSite": "reuters.com",
+          "type": "news",
+          "title": "Treasury's Bessent says US has 'plenty' of funds for Iran war - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPRUtRR0JwcGR3QVZ5SHp0NkFYbWc3SU5JblBISmtfNTF5Slhva1dSWFZSWDdIelVNR2VmZ01VU2FfTURUbXU3d2JURktmRExqSVlaS3N3XzF4SzNndjJ0Z1NNQWZJbFlXT3ZPSm9lNlpmRXYzU2hrRmJlYjM5N0pQXzg0Uktzck1fWVBOY0E1NDk2bjVpbXlJM0hWVFVlSE0tcTkycmdn?oc=5\" target=\"_blank\">Treasury's Bessent says US has 'plenty' of funds for Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRUtRR0JwcGR3QVZ5SHp0NkFYbWc3SU5JblBISmtfNTF5Slhva1dSWFZSWDdIelVNR2VmZ01VU2FfTURUbXU3d2JURktmRExqSVlaS3N3XzF4SzNndjJ0Z1NNQWZJbFlXT3ZPSm9lNlpmRXYzU2hrRmJlYjM5N0pQXzg0Uktzck1fWVBOY0E1NDk2bjVpbXlJM0hWVFVlSE0tcTkycmdn?oc=5",
+          "publishedAt": "Sun, 22 Mar 2026 15:12:19 GMT",
+          "titleZh": "Treasury's Bessent says US has 'plenty' of funds for Iran war - Reuters",
+          "summaryZh": "Treasury's Bessent says US has 'plenty' of funds for Iran war&nbsp;&nbsp;Reuters"
+        },
+        {
+          "id": "reuters-news-4-https://news.google.com/",
+          "sourceId": "reuters",
+          "source": "Reuters",
+          "sourceSite": "reuters.com",
+          "type": "news",
+          "title": "Scores hurt after Iranian missiles hit Israeli desert towns - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPOW1uN1pCbWJEbzFuX3I4bjhmQXVOM3hYYXdfVzNrNkR4SlM1T0hvOHJXVjlQZXRZbXdmT0YyamtfQ0FhdHltSl9PVHJCdE9IalhyQk9qb3ZxRmhHTFRQMHFWQVlqb01qMDdmY2JTNDVjcVYyTXFFOExMWVZodE02MUc5QnJOYW5BQUw5M2syOGtxbUJ5OFVYMEgxTjNHT1FBUWhFbFRKeXhadWJLaXVtc3RMbw?oc=5\" target=\"_blank\">Scores hurt after Iranian missiles hit Israeli desert towns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOW1uN1pCbWJEbzFuX3I4bjhmQXVOM3hYYXdfVzNrNkR4SlM1T0hvOHJXVjlQZXRZbXdmT0YyamtfQ0FhdHltSl9PVHJCdE9IalhyQk9qb3ZxRmhHTFRQMHFWQVlqb01qMDdmY2JTNDVjcVYyTXFFOExMWVZodE02MUc5QnJOYW5BQUw5M2syOGtxbUJ5OFVYMEgxTjNHT1FBUWhFbFRKeXhadWJLaXVtc3RMbw?oc=5",
+          "publishedAt": "Sun, 22 Mar 2026 12:32:28 GMT",
+          "titleZh": "Scores hurt after Iranian missiles hit Israeli desert towns - Reuters",
+          "summaryZh": "Scores hurt after Iranian missiles hit Israeli desert towns&nbsp;&nbsp;Reuters"
+        },
+        {
           "id": "reuters-news-0-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
           "type": "news",
-          "title": "Trump, Iran threaten to escalate conflict with attacks on energy and water facilities - Reuters",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQem5pR05BaElqUUtXclhzMzM1Q0JScmpvckhjUGJ6TV96TDg3OTFIaEVxUHFGN2RqdnplY3ZhLW5iSGVsUDdSNFU3REFzemJIZEwzQ0JRaTNqbmxUUk1BTEkyZnMwOEJKZUhQcWg2WWx4d0JlSDJlbGVES19NWVVCb1ZVOFRVT1BfaktFWmRCODVZYkc1SUh5NWUxNzRycTFVWU8wMkhlcUY0ZHZ2cGJWUWZB?oc=5\" target=\"_blank\">Trump, Iran threaten to escalate conflict with attacks on energy and water facilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "title": "Iran threatens to retaliate against Gulf energy and water after Trump ultimatum - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQem5pR05BaElqUUtXclhzMzM1Q0JScmpvckhjUGJ6TV96TDg3OTFIaEVxUHFGN2RqdnplY3ZhLW5iSGVsUDdSNFU3REFzemJIZEwzQ0JRaTNqbmxUUk1BTEkyZnMwOEJKZUhQcWg2WWx4d0JlSDJlbGVES19NWVVCb1ZVOFRVT1BfaktFWmRCODVZYkc1SUh5NWUxNzRycTFVWU8wMkhlcUY0ZHZ2cGJWUWZB?oc=5\" target=\"_blank\">Iran threatens to retaliate against Gulf energy and water after Trump ultimatum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQem5pR05BaElqUUtXclhzMzM1Q0JScmpvckhjUGJ6TV96TDg3OTFIaEVxUHFGN2RqdnplY3ZhLW5iSGVsUDdSNFU3REFzemJIZEwzQ0JRaTNqbmxUUk1BTEkyZnMwOEJKZUhQcWg2WWx4d0JlSDJlbGVES19NWVVCb1ZVOFRVT1BfaktFWmRCODVZYkc1SUh5NWUxNzRycTFVWU8wMkhlcUY0ZHZ2cGJWUWZB?oc=5",
           "publishedAt": "Sun, 22 Mar 2026 10:53:19 GMT",
-          "titleZh": "Trump, Iran threaten to escalate conflict with attacks on energy and water facilities - Reuters",
-          "summaryZh": "Trump, Iran threaten to escalate conflict with attacks on energy and water facilities&nbsp;&nbsp;Reuters"
+          "titleZh": "Iran threatens to retaliate against Gulf energy and water after Trump ultimatum - Reuters",
+          "summaryZh": "Iran threatens to retaliate against Gulf energy and water after Trump ultimatum&nbsp;&nbsp;Reuters"
         },
         {
-          "id": "reuters-news-1-https://news.google.com/",
+          "id": "reuters-news-2-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -387,7 +452,7 @@
           "summaryZh": "Three weeks in, Iran war escalates beyond Trump's control&nbsp;&nbsp;Reuters"
         },
         {
-          "id": "reuters-news-4-https://news.google.com/",
+          "id": "reuters-news-7-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -400,7 +465,7 @@
           "summaryZh": "How Iran's IRGC rebooted Lebanon's Hezbollah to be ready for war&nbsp;&nbsp;Reuters"
         },
         {
-          "id": "reuters-news-2-https://news.google.com/",
+          "id": "reuters-news-3-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -411,32 +476,6 @@
           "publishedAt": "Sat, 21 Mar 2026 04:40:00 GMT",
           "titleZh": "Iran attacks near Israeli nuclear site, fires long-range missiles for first time - Reuters",
           "summaryZh": "Iran attacks near Israeli nuclear site, fires long-range missiles for first time&nbsp;&nbsp;Reuters"
-        },
-        {
-          "id": "reuters-news-3-https://news.google.com/",
-          "sourceId": "reuters",
-          "source": "Reuters",
-          "sourceSite": "reuters.com",
-          "type": "news",
-          "title": "Natural gas prices soar as Iran, Israel strike Middle East energy infrastructure - Reuters",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOck93Y2M1dEJEZU50VEZvUkxsQVdQMHZPR2dGdFBSTTA0ZVdPNEtOZ2tSa296dHhoLXg5bHdZRC14aTRtelR0OGNKdGRvMWFJd25fb01rby1MajRuUGZJZEdnU0MtX3B5QWxxMUtIdDR0c2ZkakVQOHdhM2pHVjlQTFRXeXF1UXhpd1BfaTRITk1Ja3BaT09mN2RlMTFyMkh6ZThYdXFTVk9Bb0xoZDFESWxwYXRLX2xfRk9MVnpmVUpSNmdVbF9Xb3lR?oc=5\" target=\"_blank\">Natural gas prices soar as Iran, Israel strike Middle East energy infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOck93Y2M1dEJEZU50VEZvUkxsQVdQMHZPR2dGdFBSTTA0ZVdPNEtOZ2tSa296dHhoLXg5bHdZRC14aTRtelR0OGNKdGRvMWFJd25fb01rby1MajRuUGZJZEdnU0MtX3B5QWxxMUtIdDR0c2ZkakVQOHdhM2pHVjlQTFRXeXF1UXhpd1BfaTRITk1Ja3BaT09mN2RlMTFyMkh6ZThYdXFTVk9Bb0xoZDFESWxwYXRLX2xfRk9MVnpmVUpSNmdVbF9Xb3lR?oc=5",
-          "publishedAt": "Thu, 19 Mar 2026 12:34:32 GMT",
-          "titleZh": "Natural gas prices soar as Iran, Israel strike Middle East energy infrastructure - Reuters",
-          "summaryZh": "Natural gas prices soar as Iran, Israel strike Middle East energy infrastructure&nbsp;&nbsp;Reuters"
-        },
-        {
-          "id": "reuters-news-5-https://news.google.com/",
-          "sourceId": "reuters",
-          "source": "Reuters",
-          "sourceSite": "reuters.com",
-          "type": "news",
-          "title": "Middle East conflict widens as Israeli, US strikes again hit Iran; oil soars, shares slide - Reuters",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQY3FqRW1HVEhwNDZHMlZCM3BtU1AzN0htNUJhcHY0d1JhWDFyNFRXY2tXQ29MY3ZTSUtaUloycDlGQnFxOHBQYW5ILUpoSmRCS201ZFY1eW1ZT2NvT0c1X1djdDduQnd0T0RlWG81OVFmX3NqTU5xZlc0dHZvY29ZczRCZ1I1bDZYNFNXZmFPQ1RDNFdnZmxPUlE4Q05hR09hOUxGMUVuLTJCMG9I?oc=5\" target=\"_blank\">Middle East conflict widens as Israeli, US strikes again hit Iran; oil soars, shares slide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY3FqRW1HVEhwNDZHMlZCM3BtU1AzN0htNUJhcHY0d1JhWDFyNFRXY2tXQ29MY3ZTSUtaUloycDlGQnFxOHBQYW5ILUpoSmRCS201ZFY1eW1ZT2NvT0c1X1djdDduQnd0T0RlWG81OVFmX3NqTU5xZlc0dHZvY29ZczRCZ1I1bDZYNFNXZmFPQ1RDNFdnZmxPUlE4Q05hR09hOUxGMUVuLTJCMG9I?oc=5",
-          "publishedAt": "Tue, 03 Mar 2026 08:00:00 GMT",
-          "titleZh": "Middle East conflict widens as Israeli, US strikes again hit Iran; oil soars, shares slide - Reuters",
-          "summaryZh": "Middle East conflict widens as Israeli, US strikes again hit Iran; oil soars, shares slide&nbsp;&nbsp;Reuters"
         }
       ]
     },
@@ -450,15 +489,28 @@
           "source": "BBC",
           "sourceSite": "bbc.com",
           "type": "news",
-          "title": "Iran says Strait of Hormuz will be 'completely closed' if Trump delivers on threat to strike power plants - BBC",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EajNYQzVGMkZTQ1d1UlR4d0xMYUQtUzBaNk56TjkyQlZ6aThRN2x2VldfWGdQWWN3amsxWF9nU3R4b1h6VlJvbUdvaFY1RjVxaHM4WQ?oc=5\" target=\"_blank\">Iran says Strait of Hormuz will be 'completely closed' if Trump delivers on threat to strike power plants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+          "title": "US power plant threats 'show desperation', says Iran president as strikes continue across Middle East - BBC",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EajNYQzVGMkZTQ1d1UlR4d0xMYUQtUzBaNk56TjkyQlZ6aThRN2x2VldfWGdQWWN3amsxWF9nU3R4b1h6VlJvbUdvaFY1RjVxaHM4WQ?oc=5\" target=\"_blank\">US power plant threats 'show desperation', says Iran president as strikes continue across Middle East</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EajNYQzVGMkZTQ1d1UlR4d0xMYUQtUzBaNk56TjkyQlZ6aThRN2x2VldfWGdQWWN3amsxWF9nU3R4b1h6VlJvbUdvaFY1RjVxaHM4WQ?oc=5",
-          "publishedAt": "Sun, 22 Mar 2026 14:37:32 GMT",
-          "titleZh": "Iran says Strait of Hormuz will be 'completely closed' if Trump delivers on threat to strike power plants - BBC",
-          "summaryZh": "Iran says Strait of Hormuz will be 'completely closed' if Trump delivers on threat to strike power plants&nbsp;&nbsp;BBC"
+          "publishedAt": "Sun, 22 Mar 2026 18:14:16 GMT",
+          "titleZh": "US power plant threats 'show desperation', says Iran president as strikes continue across Middle East - BBC",
+          "summaryZh": "US power plant threats 'show desperation', says Iran president as strikes continue across Middle East&nbsp;&nbsp;BBC"
         },
         {
-          "id": "bbc-news-2-https://news.google.com/",
+          "id": "bbc-news-6-https://news.google.com/",
+          "sourceId": "bbc",
+          "source": "BBC",
+          "sourceSite": "bbc.com",
+          "type": "news",
+          "title": "No assessment Iran capable of striking London, Steve Reed says - BBC",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE01VVozMDVtLWRzRk9Iekg2dHpCMFdVRW1qOGh6NXQ3VlNmSVZJdG5iZmFyTUJBMDllU1pLMW15UUVqWmZiYnFidzhyQ2dIeUxDLUJvTUlSY1NOdw?oc=5\" target=\"_blank\">No assessment Iran capable of striking London, Steve Reed says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01VVozMDVtLWRzRk9Iekg2dHpCMFdVRW1qOGh6NXQ3VlNmSVZJdG5iZmFyTUJBMDllU1pLMW15UUVqWmZiYnFidzhyQ2dIeUxDLUJvTUlSY1NOdw?oc=5",
+          "publishedAt": "Sun, 22 Mar 2026 15:22:39 GMT",
+          "titleZh": "No assessment Iran capable of striking London, Steve Reed says - BBC",
+          "summaryZh": "No assessment Iran capable of striking London, Steve Reed says&nbsp;&nbsp;BBC"
+        },
+        {
+          "id": "bbc-news-3-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -466,12 +518,25 @@
           "title": "Iranian missiles injure 160 in towns near Israeli nuclear site - BBC",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1em8yTjMzWDJSTnp3QV85UG9RMWQza0JDYWNSQUFBaHA4WE1WMUpRM0NZLWRqRnIxNkdCQTdTNmZXQkt6RTVMZDAyNFZZa2RzMkFuczBRUUV5Zw?oc=5\" target=\"_blank\">Iranian missiles injure 160 in towns near Israeli nuclear site</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1em8yTjMzWDJSTnp3QV85UG9RMWQza0JDYWNSQUFBaHA4WE1WMUpRM0NZLWRqRnIxNkdCQTdTNmZXQkt6RTVMZDAyNFZZa2RzMkFuczBRUUV5Zw?oc=5",
-          "publishedAt": "Sun, 22 Mar 2026 10:57:44 GMT",
+          "publishedAt": "Sun, 22 Mar 2026 14:46:17 GMT",
           "titleZh": "Iranian missiles injure 160 in towns near Israeli nuclear site - BBC",
           "summaryZh": "Iranian missiles injure 160 in towns near Israeli nuclear site&nbsp;&nbsp;BBC"
         },
         {
-          "id": "bbc-news-5-https://news.google.com/",
+          "id": "bbc-news-4-https://news.google.com/",
+          "sourceId": "bbc",
+          "source": "BBC",
+          "sourceSite": "bbc.com",
+          "type": "news",
+          "title": "'A direct hit' - BBC visits Israeli town after Iranian strike - BBC",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfaTRfdDgwWnlYVFVmRS14cEJ1UmtkMDJlVVNjRlpUdFhTMWZxYUk2ZEZSSHVjY3R6RXUtekNBUEJDaDF0TGgtdWlkdjFtQmRZSHUycmg0UQ?oc=5\" target=\"_blank\">'A direct hit' - BBC visits Israeli town after Iranian strike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfaTRfdDgwWnlYVFVmRS14cEJ1UmtkMDJlVVNjRlpUdFhTMWZxYUk2ZEZSSHVjY3R6RXUtekNBUEJDaDF0TGgtdWlkdjFtQmRZSHUycmg0UQ?oc=5",
+          "publishedAt": "Sun, 22 Mar 2026 14:21:19 GMT",
+          "titleZh": "'A direct hit' - BBC visits Israeli town after Iranian strike - BBC",
+          "summaryZh": "'A direct hit' - BBC visits Israeli town after Iranian strike&nbsp;&nbsp;BBC"
+        },
+        {
+          "id": "bbc-news-2-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -484,7 +549,7 @@
           "summaryZh": "Why did US and Israel attack Iran and how long could the war last?&nbsp;&nbsp;BBC"
         },
         {
-          "id": "bbc-news-8-https://news.google.com/",
+          "id": "bbc-news-7-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -495,32 +560,6 @@
           "publishedAt": "Sun, 22 Mar 2026 04:08:05 GMT",
           "titleZh": "伊朗战争：是否要采取更强硬措施？特朗普正在十字路口—分析 - BBC",
           "summaryZh": "伊朗战争：是否要采取更强硬措施？特朗普正在十字路口—分析&nbsp;&nbsp;BBC"
-        },
-        {
-          "id": "bbc-news-1-https://news.google.com/",
-          "sourceId": "bbc",
-          "source": "BBC",
-          "sourceSite": "bbc.com",
-          "type": "news",
-          "title": "Trump at a crossroads as US weighs tough options in Iran - BBC",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HdHpOM0JFTF96R1dlUEtVcFFHckhjeV9CTU5nb0pDNXZiRlYzYVVCeHRPS25uS3FRaVF5SzI5eV9vM25Mei1Ydl9BNWNUNU50Sm1yRWJBZ0xRZw?oc=5\" target=\"_blank\">Trump at a crossroads as US weighs tough options in Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HdHpOM0JFTF96R1dlUEtVcFFHckhjeV9CTU5nb0pDNXZiRlYzYVVCeHRPS25uS3FRaVF5SzI5eV9vM25Mei1Ydl9BNWNUNU50Sm1yRWJBZ0xRZw?oc=5",
-          "publishedAt": "Sun, 22 Mar 2026 00:50:43 GMT",
-          "titleZh": "Trump at a crossroads as US weighs tough options in Iran - BBC",
-          "summaryZh": "Trump at a crossroads as US weighs tough options in Iran&nbsp;&nbsp;BBC"
-        },
-        {
-          "id": "bbc-news-3-https://news.google.com/",
-          "sourceId": "bbc",
-          "source": "BBC",
-          "sourceSite": "bbc.com",
-          "type": "news",
-          "title": "Food prices likely to rise due to Iran war, farmers' union says - BBC",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oOG94Nm1HVEhvWWdDdE40NmFkNzJiNDc2ZUNVZUVtd3d0WGc3OTJCQUhkOTQ5R0QzVFVXZDNyQ3BsYTllbjJrUUtYOUxzcHdMT0VTRmxrbWZKdw?oc=5\" target=\"_blank\">Food prices likely to rise due to Iran war, farmers' union says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oOG94Nm1HVEhvWWdDdE40NmFkNzJiNDc2ZUNVZUVtd3d0WGc3OTJCQUhkOTQ5R0QzVFVXZDNyQ3BsYTllbjJrUUtYOUxzcHdMT0VTRmxrbWZKdw?oc=5",
-          "publishedAt": "Sat, 21 Mar 2026 18:41:31 GMT",
-          "titleZh": "Food prices likely to rise due to Iran war, farmers' union says - BBC",
-          "summaryZh": "Food prices likely to rise due to Iran war, farmers' union says&nbsp;&nbsp;BBC"
         }
       ]
     },
@@ -529,7 +568,59 @@
       "source": "Al Jazeera",
       "items": [
         {
-          "id": "aljazeera-news-0-https://news.google.com/",
+          "id": "aljazeera-news-3-https://news.google.com/",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "sourceSite": "aljazeera.com",
+          "type": "news",
+          "title": "Did Israel miscalculate Iranian military capabilities? - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOUjNzNzk0WXE0aWdqZ3Rzdjc3ZThiaFEyT0pWZ3d4Q0NOMlNwS0d3QncwbVV4QUhXM195RU9KTmZVTkpPamtZTnhoc0FvMFNILXRwdVZXMkNkTWU1MVNFelZaUlB2TVQ2NXJIN2UzMVZoTGlDSVk0anFLWTRvcGtNTXU0dm5jSXhPZ3RKOXhjN2VySkxhZ3lpTjJB0gGfAUFVX3lxTE0zd25HRlpKUE83RDBiNFlmTS11Q1FxNHo4THh5cnM5bW9pMWdIVGM2SzNzX0xKWlVqM2IwTi1nNC14ZzZUbFFZem1vQmxPbVhPOVhBUU5oM0ZLMF91aF8yR1lfc0tUNF8xOXlPVlQyR09maGplek9ZZVo1X29IMFJzT3NaWjdEUTNTSWliZy02SEZtd3BWUlZCdklnMWhJNA?oc=5\" target=\"_blank\">Did Israel miscalculate Iranian military capabilities?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUjNzNzk0WXE0aWdqZ3Rzdjc3ZThiaFEyT0pWZ3d4Q0NOMlNwS0d3QncwbVV4QUhXM195RU9KTmZVTkpPamtZTnhoc0FvMFNILXRwdVZXMkNkTWU1MVNFelZaUlB2TVQ2NXJIN2UzMVZoTGlDSVk0anFLWTRvcGtNTXU0dm5jSXhPZ3RKOXhjN2VySkxhZ3lpTjJB0gGfAUFVX3lxTE0zd25HRlpKUE83RDBiNFlmTS11Q1FxNHo4THh5cnM5bW9pMWdIVGM2SzNzX0xKWlVqM2IwTi1nNC14ZzZUbFFZem1vQmxPbVhPOVhBUU5oM0ZLMF91aF8yR1lfc0tUNF8xOXlPVlQyR09maGplek9ZZVo1X29IMFJzT3NaWjdEUTNTSWliZy02SEZtd3BWUlZCdklnMWhJNA?oc=5",
+          "publishedAt": "Sun, 22 Mar 2026 16:20:52 GMT",
+          "titleZh": "Did Israel miscalculate Iranian military capabilities? - Al Jazeera",
+          "summaryZh": "Did Israel miscalculate Iranian military capabilities?&nbsp;&nbsp;Al Jazeera"
+        },
+        {
+          "id": "aljazeera-news-7-https://news.google.com/",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "sourceSite": "aljazeera.com",
+          "type": "news",
+          "title": "Iran claims missile attacks on key Israeli military bases - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQTnlkTVhpWFlWaWRFYUxuaUlIVFQwd0ZZT19QWnk0WGVvWmJiMmVYTk5jUkFucmE1M1gzb1lSWmNrc0RNNnBGTzNpZFVMLW8zbDJUUmxsT3hHM285cFVhTnZYWGx2ak00U0VoMzducVBjSzhyTW52TENJejEzZWRwNkp6djFXR3U0UU1VV2cwU19CQ2FrcFV6bDM5S3Q3VlJDLU9qZEFHLXVON3lQ0gGyAUFVX3lxTFBsd1RFYV94MjZicldvLXFIZlFPLXdfR0plNUg1RFRuSXREcGhuVFEzWnRZWEdXaHFPM3pzWU9LUWdOd0taMWVSVjRhMXpINzl6a2hvaWFFRzBjYzdtRFZiTDJ5NUE4TEF2a244SlpYeGQza3h1eWhkNXBIN0d4aVhmRTRUaFNvY0NIcEFvQmtJZVQ3MzlMM3hyeW1RUXNnOGstaTBGQ0xmc0h2c0ZkdkFSQVE?oc=5\" target=\"_blank\">Iran claims missile attacks on key Israeli military bases</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTnlkTVhpWFlWaWRFYUxuaUlIVFQwd0ZZT19QWnk0WGVvWmJiMmVYTk5jUkFucmE1M1gzb1lSWmNrc0RNNnBGTzNpZFVMLW8zbDJUUmxsT3hHM285cFVhTnZYWGx2ak00U0VoMzducVBjSzhyTW52TENJejEzZWRwNkp6djFXR3U0UU1VV2cwU19CQ2FrcFV6bDM5S3Q3VlJDLU9qZEFHLXVON3lQ0gGyAUFVX3lxTFBsd1RFYV94MjZicldvLXFIZlFPLXdfR0plNUg1RFRuSXREcGhuVFEzWnRZWEdXaHFPM3pzWU9LUWdOd0taMWVSVjRhMXpINzl6a2hvaWFFRzBjYzdtRFZiTDJ5NUE4TEF2a244SlpYeGQza3h1eWhkNXBIN0d4aVhmRTRUaFNvY0NIcEFvQmtJZVQ3MzlMM3hyeW1RUXNnOGstaTBGQ0xmc0h2c0ZkdkFSQVE?oc=5",
+          "publishedAt": "Sun, 22 Mar 2026 16:02:54 GMT",
+          "titleZh": "Iran claims missile attacks on key Israeli military bases - Al Jazeera",
+          "summaryZh": "Iran claims missile attacks on key Israeli military bases&nbsp;&nbsp;Al Jazeera"
+        },
+        {
+          "id": "aljazeera-news-2-https://news.google.com/",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "sourceSite": "aljazeera.com",
+          "type": "news",
+          "title": "Iranian authorities taunt US, Israel, EU amid strikes and assassinations - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPeFNMQWlWOHhLODlSZUxnMUwzVjZxNVRiNHpUZnE4VTBWbGtuVFdVcUs5YmRGY2l0bGM3LUdfcmdpUGtsZmRUMUlJTDVrSEItYTVsWlQ3LWRNelJoQzBmUmNRdkhkUjVPZ2ZLS1h4WWdpZFNGdHZOTThZeFdNdThQNHZuWTlNTTVSYUhXd0x6THhPNVlCTjRqZEtzbERrZ3d3OXVTTnpFbTc5azQ3UGRaZdIBtgFBVV95cUxQWDBwM05yaVAyUnhvZXBDUVJLaGR3TmRrczVoN2xXa3FpWW14dWZHLWRJQXZBckl5Z1R3bGtuTVhaNGJYOXU5MWlraFBNbjUwS05lbG5wemxTd0tJZ3FmVy1EYmJIY0FaNnJ5RDc2dkZvS29PU2R6Ui1Xb0dsdjZ0UHU1ejlzdms3VU54b3B3b0dxd0xTNTAtX2ljVUFoYmpHbllWdHhDLVkwSkdQS1g3cXZTQVMyQQ?oc=5\" target=\"_blank\">Iranian authorities taunt US, Israel, EU amid strikes and assassinations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeFNMQWlWOHhLODlSZUxnMUwzVjZxNVRiNHpUZnE4VTBWbGtuVFdVcUs5YmRGY2l0bGM3LUdfcmdpUGtsZmRUMUlJTDVrSEItYTVsWlQ3LWRNelJoQzBmUmNRdkhkUjVPZ2ZLS1h4WWdpZFNGdHZOTThZeFdNdThQNHZuWTlNTTVSYUhXd0x6THhPNVlCTjRqZEtzbERrZ3d3OXVTTnpFbTc5azQ3UGRaZdIBtgFBVV95cUxQWDBwM05yaVAyUnhvZXBDUVJLaGR3TmRrczVoN2xXa3FpWW14dWZHLWRJQXZBckl5Z1R3bGtuTVhaNGJYOXU5MWlraFBNbjUwS05lbG5wemxTd0tJZ3FmVy1EYmJIY0FaNnJ5RDc2dkZvS29PU2R6Ui1Xb0dsdjZ0UHU1ejlzdms3VU54b3B3b0dxd0xTNTAtX2ljVUFoYmpHbllWdHhDLVkwSkdQS1g3cXZTQVMyQQ?oc=5",
+          "publishedAt": "Sun, 22 Mar 2026 15:29:02 GMT",
+          "titleZh": "Iranian authorities taunt US, Israel, EU amid strikes and assassinations - Al Jazeera",
+          "summaryZh": "Iranian authorities taunt US, Israel, EU amid strikes and assassinations&nbsp;&nbsp;Al Jazeera"
+        },
+        {
+          "id": "aljazeera-news-5-https://news.google.com/",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "sourceSite": "aljazeera.com",
+          "type": "news",
+          "title": "Iran says will hit region’s energy sites if US, Israel target power plants - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNNFd4aXJYeFRUanh2NTVzZmVpbzlKM2FyWTF4VDM1Qm12VXp2aHJHbG9yWWI2Mi10THVlZEF5MFVGRGNGT1ROaGx5cThPWFg3djlXLXI4RURiOGZuRm9YdjVpcV9vN19oZnAwcl9Cc3VPSV9VcEZDMmo5SlRybUlrN251cnRwREtDeFlmUkxDTGZjcmM5QWJWNHQ0bWtrS0hNbWFjaFBlTzhpSl9qeV9CQlczONIBuAFBVV95cUxOMWVvUGNUQkFJNnJ3V0hiY3JqYmJCTmRJQVlQMHBhUkhPeGdQMmh6V0R5MGQweFNicGNoYzJORzI5cm1BZEpGc1RQbmFzdUxjTXlfWE9lc01WdHZPZTZDdEFLUy1oM0FKY2doZ0ZLOVA2bUFCTS0xcG1PcDFRY1hOY0R1STA4LVJ6bENSeTNrWW9meEpERGRWSXZYQXJWby1RZWpWbU9oUURpTV96dWdXNjNqSWhtNFFt?oc=5\" target=\"_blank\">Iran says will hit region’s energy sites if US, Israel target power plants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNFd4aXJYeFRUanh2NTVzZmVpbzlKM2FyWTF4VDM1Qm12VXp2aHJHbG9yWWI2Mi10THVlZEF5MFVGRGNGT1ROaGx5cThPWFg3djlXLXI4RURiOGZuRm9YdjVpcV9vN19oZnAwcl9Cc3VPSV9VcEZDMmo5SlRybUlrN251cnRwREtDeFlmUkxDTGZjcmM5QWJWNHQ0bWtrS0hNbWFjaFBlTzhpSl9qeV9CQlczONIBuAFBVV95cUxOMWVvUGNUQkFJNnJ3V0hiY3JqYmJCTmRJQVlQMHBhUkhPeGdQMmh6V0R5MGQweFNicGNoYzJORzI5cm1BZEpGc1RQbmFzdUxjTXlfWE9lc01WdHZPZTZDdEFLUy1oM0FKY2doZ0ZLOVA2bUFCTS0xcG1PcDFRY1hOY0R1STA4LVJ6bENSeTNrWW9meEpERGRWSXZYQXJWby1RZWpWbU9oUURpTV96dWdXNjNqSWhtNFFt?oc=5",
+          "publishedAt": "Sun, 22 Mar 2026 15:21:24 GMT",
+          "titleZh": "Iran says will hit region’s energy sites if US, Israel target power plants - Al Jazeera",
+          "summaryZh": "Iran says will hit region’s energy sites if US, Israel target power plants&nbsp;&nbsp;Al Jazeera"
+        },
+        {
+          "id": "aljazeera-news-1-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -542,33 +633,7 @@
           "summaryZh": "Trump’s changing messages on Iran war: What does it say about US strategy?&nbsp;&nbsp;Al Jazeera"
         },
         {
-          "id": "aljazeera-news-3-https://news.google.com/",
-          "sourceId": "aljazeera",
-          "source": "Al Jazeera",
-          "sourceSite": "aljazeera.com",
-          "type": "news",
-          "title": "Iran says will hit region’s energy sites if US, Israel target power plants - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNNFd4aXJYeFRUanh2NTVzZmVpbzlKM2FyWTF4VDM1Qm12VXp2aHJHbG9yWWI2Mi10THVlZEF5MFVGRGNGT1ROaGx5cThPWFg3djlXLXI4RURiOGZuRm9YdjVpcV9vN19oZnAwcl9Cc3VPSV9VcEZDMmo5SlRybUlrN251cnRwREtDeFlmUkxDTGZjcmM5QWJWNHQ0bWtrS0hNbWFjaFBlTzhpSl9qeV9CQlczONIBuAFBVV95cUxOMWVvUGNUQkFJNnJ3V0hiY3JqYmJCTmRJQVlQMHBhUkhPeGdQMmh6V0R5MGQweFNicGNoYzJORzI5cm1BZEpGc1RQbmFzdUxjTXlfWE9lc01WdHZPZTZDdEFLUy1oM0FKY2doZ0ZLOVA2bUFCTS0xcG1PcDFRY1hOY0R1STA4LVJ6bENSeTNrWW9meEpERGRWSXZYQXJWby1RZWpWbU9oUURpTV96dWdXNjNqSWhtNFFt?oc=5\" target=\"_blank\">Iran says will hit region’s energy sites if US, Israel target power plants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNFd4aXJYeFRUanh2NTVzZmVpbzlKM2FyWTF4VDM1Qm12VXp2aHJHbG9yWWI2Mi10THVlZEF5MFVGRGNGT1ROaGx5cThPWFg3djlXLXI4RURiOGZuRm9YdjVpcV9vN19oZnAwcl9Cc3VPSV9VcEZDMmo5SlRybUlrN251cnRwREtDeFlmUkxDTGZjcmM5QWJWNHQ0bWtrS0hNbWFjaFBlTzhpSl9qeV9CQlczONIBuAFBVV95cUxOMWVvUGNUQkFJNnJ3V0hiY3JqYmJCTmRJQVlQMHBhUkhPeGdQMmh6V0R5MGQweFNicGNoYzJORzI5cm1BZEpGc1RQbmFzdUxjTXlfWE9lc01WdHZPZTZDdEFLUy1oM0FKY2doZ0ZLOVA2bUFCTS0xcG1PcDFRY1hOY0R1STA4LVJ6bENSeTNrWW9meEpERGRWSXZYQXJWby1RZWpWbU9oUURpTV96dWdXNjNqSWhtNFFt?oc=5",
-          "publishedAt": "Sun, 22 Mar 2026 13:46:59 GMT",
-          "titleZh": "Iran says will hit region’s energy sites if US, Israel target power plants - Al Jazeera",
-          "summaryZh": "Iran says will hit region’s energy sites if US, Israel target power plants&nbsp;&nbsp;Al Jazeera"
-        },
-        {
-          "id": "aljazeera-news-8-https://news.google.com/",
-          "sourceId": "aljazeera",
-          "source": "Al Jazeera",
-          "sourceSite": "aljazeera.com",
-          "type": "news",
-          "title": "Did Iran launch missiles at US-UK base on Diego Garcia? Here’s what to know - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNclpXV0tqN3l4dmxLZFBuS3IwUTFteTFSeGlxYUE3aENPSGdub0IyaEptN01JSnJudmZUaGlvUzktS19XOV9KTW9NVVFoWUdqRzdscjdTQUd3WWJLUTFxMWZtcTUwTXNiaExNYlFXLWpPcFEyQko1eXVHTENrQjlWYWczX1FBWDJlSHRnNjlwMXdOanBuSi1zMlZaVkk5N0lKUVR6cGE5ZDFsREdsRl9jRUp6UW7SAboBQVVfeXFMTmg3a1lwZFU0VElmREJJaUh5UjE5ekZTLTYwLUZuNU9Dci1rcDVRbXJrcWhBZUN1ck1kRWpLdldobDRqZUVnOFVDaEQtRjNoaVVNTVFoN0FlODdjNnE5dmR6TlZfNjh3Z0YwSmVsYlVYODQ0MlRMRXN2M1lVRVJabi1tbHNJRGtDX1g3YXpRV0tadXZweklUTmdlbEJTRzd1WUhGM1JxLXZVN3NvalN5ZUJKYjcyeV9mODRR?oc=5\" target=\"_blank\">Did Iran launch missiles at US-UK base on Diego Garcia? Here’s what to know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNclpXV0tqN3l4dmxLZFBuS3IwUTFteTFSeGlxYUE3aENPSGdub0IyaEptN01JSnJudmZUaGlvUzktS19XOV9KTW9NVVFoWUdqRzdscjdTQUd3WWJLUTFxMWZtcTUwTXNiaExNYlFXLWpPcFEyQko1eXVHTENrQjlWYWczX1FBWDJlSHRnNjlwMXdOanBuSi1zMlZaVkk5N0lKUVR6cGE5ZDFsREdsRl9jRUp6UW7SAboBQVVfeXFMTmg3a1lwZFU0VElmREJJaUh5UjE5ekZTLTYwLUZuNU9Dci1rcDVRbXJrcWhBZUN1ck1kRWpLdldobDRqZUVnOFVDaEQtRjNoaVVNTVFoN0FlODdjNnE5dmR6TlZfNjh3Z0YwSmVsYlVYODQ0MlRMRXN2M1lVRVJabi1tbHNJRGtDX1g3YXpRV0tadXZweklUTmdlbEJTRzd1WUhGM1JxLXZVN3NvalN5ZUJKYjcyeV9mODRR?oc=5",
-          "publishedAt": "Sun, 22 Mar 2026 13:18:06 GMT",
-          "titleZh": "Did Iran launch missiles at US-UK base on Diego Garcia? Here’s what to know - Al Jazeera",
-          "summaryZh": "Did Iran launch missiles at US-UK base on Diego Garcia? Here’s what to know&nbsp;&nbsp;Al Jazeera"
-        },
-        {
-          "id": "aljazeera-news-5-https://news.google.com/",
+          "id": "aljazeera-news-9-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -579,32 +644,6 @@
           "publishedAt": "Sun, 22 Mar 2026 12:58:06 GMT",
           "titleZh": "Moment Iranian strike hits central Tel Aviv - Al Jazeera",
           "summaryZh": "Moment Iranian strike hits central Tel Aviv&nbsp;&nbsp;Al Jazeera"
-        },
-        {
-          "id": "aljazeera-news-6-https://news.google.com/",
-          "sourceId": "aljazeera",
-          "source": "Al Jazeera",
-          "sourceSite": "aljazeera.com",
-          "type": "news",
-          "title": "Aftermath of Iranian missile strikes near Israel’s nuclear facility - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNRHlGbTlfQV9VbDBKNy1aVXFDRmRmaXVxX1VoU0J1MEE5R1M1N01SYy1KY0lEYkZmOGlvX0huX3pJb21oTmJOdG5HcWk4WVNzNlJNWWlkRGZaMUFLallINm1WbWJFTUpBa3ktcWJ5cFJDNlNxcUYzY3BfUjRLZnd0Y1AyVFVzNUk0cDRoWHFUTl9pOWdtRU5uMm5WU3BtOGRjdWRWdF8xTlNJd1lkYkHSAbMBQVVfeXFMTVlYYVc3eF9HeFdDY09HSEtSWmplN0VuS2c2Nk0yVEp0Z3d3Vmk3VHBEd0hSWTR3RnFNNndTbkN3Sm9QOEtIYTh6dF9hU1pIT0JqUjk4U0p5ZzZJcDJ6UEdDXzVmaUJWS1hnR3I0YTNWTHdVM0FlR1BROE85RmNGZFB6OG52SUpZV0NUZFZydWpDOWFDUkZ2WGFXdXZUU2NtVVFIaVR1bVdKLUUwOXZuZFdKZDg?oc=5\" target=\"_blank\">Aftermath of Iranian missile strikes near Israel’s nuclear facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRHlGbTlfQV9VbDBKNy1aVXFDRmRmaXVxX1VoU0J1MEE5R1M1N01SYy1KY0lEYkZmOGlvX0huX3pJb21oTmJOdG5HcWk4WVNzNlJNWWlkRGZaMUFLallINm1WbWJFTUpBa3ktcWJ5cFJDNlNxcUYzY3BfUjRLZnd0Y1AyVFVzNUk0cDRoWHFUTl9pOWdtRU5uMm5WU3BtOGRjdWRWdF8xTlNJd1lkYkHSAbMBQVVfeXFMTVlYYVc3eF9HeFdDY09HSEtSWmplN0VuS2c2Nk0yVEp0Z3d3Vmk3VHBEd0hSWTR3RnFNNndTbkN3Sm9QOEtIYTh6dF9hU1pIT0JqUjk4U0p5ZzZJcDJ6UEdDXzVmaUJWS1hnR3I0YTNWTHdVM0FlR1BROE85RmNGZFB6OG52SUpZV0NUZFZydWpDOWFDUkZ2WGFXdXZUU2NtVVFIaVR1bVdKLUUwOXZuZFdKZDg?oc=5",
-          "publishedAt": "Sun, 22 Mar 2026 10:36:53 GMT",
-          "titleZh": "Aftermath of Iranian missile strikes near Israel’s nuclear facility - Al Jazeera",
-          "summaryZh": "Aftermath of Iranian missile strikes near Israel’s nuclear facility&nbsp;&nbsp;Al Jazeera"
-        },
-        {
-          "id": "aljazeera-news-7-https://news.google.com/",
-          "sourceId": "aljazeera",
-          "source": "Al Jazeera",
-          "sourceSite": "aljazeera.com",
-          "type": "news",
-          "title": "Iran strikes towns near Israel’s key nuclear site, at least 180 wounded - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPM3FQdXVXdmlJa2I4N19DeDZqMGI0V2QwQk44RWVFZ0lERmg3U0VHdlpoRmEwbVFSdHppVDJWeUc0b0NtZEJPMXcyWWtMU1FQdS1KendoSS1LRnFEQ3ZObVpnaEZES2daSTJpdVNTbUJqT255dzQ4dEZ1VGVsRHJIczJnQnFVWmk0S0huVGNVTG5jT0o1ZFh4NG1GMEtGTnlJWFhwdEQ5V3hjamZvRGt6ZtIBtgFBVV95cUxPZGNGVWNzTU1Yanh1aXg5Z2pwTm5mNEpoX09ha2h1c01Ca2Vqa01iVW9Yblg1YjRWZlpsR1NkZDFiS1l1eS1wQkJ6QzNMeThyVWJvbWlnTlI0TXo4UF9ZcjVjQm1XTlJzcTNBOGtFUmQ4Vl9DT21VaEhKcWtHeDJxMUZDakpCOWhRV3dZYXFyMHBmZl8xLTlKczJPMktlNXc5RXJfQ28wbzVxLXBEVVBEclExYTE0UQ?oc=5\" target=\"_blank\">Iran strikes towns near Israel’s key nuclear site, at least 180 wounded</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM3FQdXVXdmlJa2I4N19DeDZqMGI0V2QwQk44RWVFZ0lERmg3U0VHdlpoRmEwbVFSdHppVDJWeUc0b0NtZEJPMXcyWWtMU1FQdS1KendoSS1LRnFEQ3ZObVpnaEZES2daSTJpdVNTbUJqT255dzQ4dEZ1VGVsRHJIczJnQnFVWmk0S0huVGNVTG5jT0o1ZFh4NG1GMEtGTnlJWFhwdEQ5V3hjamZvRGt6ZtIBtgFBVV95cUxPZGNGVWNzTU1Yanh1aXg5Z2pwTm5mNEpoX09ha2h1c01Ca2Vqa01iVW9Yblg1YjRWZlpsR1NkZDFiS1l1eS1wQkJ6QzNMeThyVWJvbWlnTlI0TXo4UF9ZcjVjQm1XTlJzcTNBOGtFUmQ4Vl9DT21VaEhKcWtHeDJxMUZDakpCOWhRV3dZYXFyMHBmZl8xLTlKczJPMktlNXc5RXJfQ28wbzVxLXBEVVBEclExYTE0UQ?oc=5",
-          "publishedAt": "Sun, 22 Mar 2026 08:48:06 GMT",
-          "titleZh": "Iran strikes towns near Israel’s key nuclear site, at least 180 wounded - Al Jazeera",
-          "summaryZh": "Iran strikes towns near Israel’s key nuclear site, at least 180 wounded&nbsp;&nbsp;Al Jazeera"
         }
       ]
     },
@@ -641,19 +680,6 @@
       "publishedAt": "Sun, 22 Mar 2026 05:00:07 GMT",
       "titleZh": "Opinion | Trump Has Made a Fundamental Miscalculation about Iran - The New York Times",
       "summaryZh": "Opinion | Trump Has Made a Fundamental Miscalculation about Iran&nbsp;&nbsp;The New York Times"
-    },
-    {
-      "id": "nytimes-commentary-6-https://news.google.com/",
-      "sourceId": "nytimes",
-      "source": "The New York Times",
-      "sourceSite": "nytimes.com",
-      "type": "commentary",
-      "title": "Iran War Underscores the Diverging Aims of Trump and Netanyahu - The New York Times",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9SU291M0FwaVotdjBDYVZNdlZqbFNWeHU0bUt6VXJlZG5fbU5tRU5WRTJpb3NxZU1GZXJaaWtZY2I1aThNREZVS05mc2k0eEhvNGxDNmZKbUVqSlF0elFLWUhRMW9TVFRPTDkxZkZpb1NWa3V3RElLWkZjVWZ3dw?oc=5\" target=\"_blank\">Iran War Underscores the Diverging Aims of Trump and Netanyahu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SU291M0FwaVotdjBDYVZNdlZqbFNWeHU0bUt6VXJlZG5fbU5tRU5WRTJpb3NxZU1GZXJaaWtZY2I1aThNREZVS05mc2k0eEhvNGxDNmZKbUVqSlF0elFLWUhRMW9TVFRPTDkxZkZpb1NWa3V3RElLWkZjVWZ3dw?oc=5",
-      "publishedAt": "Sun, 22 Mar 2026 03:46:00 GMT",
-      "titleZh": "Iran War Underscores the Diverging Aims of Trump and Netanyahu - The New York Times",
-      "summaryZh": "Iran War Underscores the Diverging Aims of Trump and Netanyahu&nbsp;&nbsp;The New York Times"
     },
     {
       "id": "nytimes-commentary-5-https://news.google.com/",
@@ -693,6 +719,19 @@
       "publishedAt": "Sat, 21 Mar 2026 11:00:08 GMT",
       "titleZh": "Opinion | Trump Is Hiding the Truth About the War in Iran - The New York Times",
       "summaryZh": "Opinion | Trump Is Hiding the Truth About the War in Iran&nbsp;&nbsp;The New York Times"
+    },
+    {
+      "id": "nytimes-commentary-6-https://news.google.com/",
+      "sourceId": "nytimes",
+      "source": "The New York Times",
+      "sourceSite": "nytimes.com",
+      "type": "commentary",
+      "title": "Israel and the U.S. Are Starting to Show Their Different Priorities in Iran - The New York Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9SU291M0FwaVotdjBDYVZNdlZqbFNWeHU0bUt6VXJlZG5fbU5tRU5WRTJpb3NxZU1GZXJaaWtZY2I1aThNREZVS05mc2k0eEhvNGxDNmZKbUVqSlF0elFLWUhRMW9TVFRPTDkxZkZpb1NWa3V3RElLWkZjVWZ3dw?oc=5\" target=\"_blank\">Israel and the U.S. Are Starting to Show Their Different Priorities in Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SU291M0FwaVotdjBDYVZNdlZqbFNWeHU0bUt6VXJlZG5fbU5tRU5WRTJpb3NxZU1GZXJaaWtZY2I1aThNREZVS05mc2k0eEhvNGxDNmZKbUVqSlF0elFLWUhRMW9TVFRPTDkxZkZpb1NWa3V3RElLWkZjVWZ3dw?oc=5",
+      "publishedAt": "Sat, 21 Mar 2026 07:00:00 GMT",
+      "titleZh": "Israel and the U.S. Are Starting to Show Their Different Priorities in Iran - The New York Times",
+      "summaryZh": "Israel and the U.S. Are Starting to Show Their Different Priorities in Iran&nbsp;&nbsp;The New York Times"
     },
     {
       "id": "foreignpolicy-commentary-2-https://news.google.com/",
@@ -752,12 +791,12 @@
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
       "type": "commentary",
-      "title": "Opinion | The Difficulty of Getting Iran’s Nuclear Materials - The New York Times",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5rb1RlRXhrYVRfRnFMUkFVN0ZBUGtmalJ3ZDVCQkhMRzR3WFpzX3Y4VjBfTmdwMWZHTi05UGRUZ2EzMTR5cmU1Y19PNVV0Mm9sRC1ISUVuVWo0YWlFaVpfOVhod19YSTlvLWRXZy1NdkdaTm10UDVwTXlMUmViaVE?oc=5\" target=\"_blank\">Opinion | The Difficulty of Getting Iran’s Nuclear Materials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "title": "Opinion | I Spent Two Decades Securing Nuclear Materials. Here’s What It Would Take to Get Iran’s. - The New York Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5rb1RlRXhrYVRfRnFMUkFVN0ZBUGtmalJ3ZDVCQkhMRzR3WFpzX3Y4VjBfTmdwMWZHTi05UGRUZ2EzMTR5cmU1Y19PNVV0Mm9sRC1ISUVuVWo0YWlFaVpfOVhod19YSTlvLWRXZy1NdkdaTm10UDVwTXlMUmViaVE?oc=5\" target=\"_blank\">Opinion | I Spent Two Decades Securing Nuclear Materials. Here’s What It Would Take to Get Iran’s.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rb1RlRXhrYVRfRnFMUkFVN0ZBUGtmalJ3ZDVCQkhMRzR3WFpzX3Y4VjBfTmdwMWZHTi05UGRUZ2EzMTR5cmU1Y19PNVV0Mm9sRC1ISUVuVWo0YWlFaVpfOVhod19YSTlvLWRXZy1NdkdaTm10UDVwTXlMUmViaVE?oc=5",
       "publishedAt": "Fri, 20 Mar 2026 15:00:13 GMT",
-      "titleZh": "Opinion | The Difficulty of Getting Iran’s Nuclear Materials - The New York Times",
-      "summaryZh": "Opinion | The Difficulty of Getting Iran’s Nuclear Materials&nbsp;&nbsp;The New York Times"
+      "titleZh": "Opinion | I Spent Two Decades Securing Nuclear Materials. Here’s What It Would Take to Get Iran’s. - The New York Times",
+      "summaryZh": "Opinion | I Spent Two Decades Securing Nuclear Materials. Here’s What It Would Take to Get Iran’s.&nbsp;&nbsp;The New York Times"
     },
     {
       "id": "economist-commentary-0-https://news.google.com/",
@@ -942,19 +981,6 @@
       "summaryZh": "How the Iran war is hurting Donald Trump&nbsp;&nbsp;The Economist"
     },
     {
-      "id": "economist-commentary-7-https://news.google.com/",
-      "sourceId": "economist",
-      "source": "The Economist",
-      "sourceSite": "economist.com",
-      "type": "commentary",
-      "title": "Middle East Dispatch newsletter: Iran’s mood shifts - The Economist",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNWWV5UVpDbGh5b3ZUc1J6MmdKLWprVExQTC1NdlF2N3pKVnQxQmxkbDd1RjZSanJETmFSTXM0ZWFsRG1vSGFGYnE5Y2U0ZGhZUDlYc21jWlpFWUZKcVVlLVQ0U09UVDZ6cVpfdEhSTGp4bm5QdHFacnhkS3NULWRBRWhuZ1dYQjd5QlppeWZRMXRaT19jVzBQQjZudnJYQVlFUlFOMFpjejUtT296X0E?oc=5\" target=\"_blank\">Middle East Dispatch newsletter: Iran’s mood shifts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWWV5UVpDbGh5b3ZUc1J6MmdKLWprVExQTC1NdlF2N3pKVnQxQmxkbDd1RjZSanJETmFSTXM0ZWFsRG1vSGFGYnE5Y2U0ZGhZUDlYc21jWlpFWUZKcVVlLVQ0U09UVDZ6cVpfdEhSTGp4bm5QdHFacnhkS3NULWRBRWhuZ1dYQjd5QlppeWZRMXRaT19jVzBQQjZudnJYQVlFUlFOMFpjejUtT296X0E?oc=5",
-      "publishedAt": "Wed, 18 Mar 2026 11:51:22 GMT",
-      "titleZh": "Middle East Dispatch newsletter: Iran’s mood shifts - The Economist",
-      "summaryZh": "Middle East Dispatch newsletter: Iran’s mood shifts&nbsp;&nbsp;The Economist"
-    },
-    {
       "id": "economist-commentary-4-https://news.google.com/",
       "sourceId": "economist",
       "source": "The Economist",
@@ -979,6 +1005,19 @@
       "publishedAt": "Tue, 17 Mar 2026 04:00:00 GMT",
       "titleZh": "How America’s War on Iran Backfired - Foreign Affairs",
       "summaryZh": "How America’s War on Iran Backfired&nbsp;&nbsp;Foreign Affairs"
+    },
+    {
+      "id": "economist-commentary-7-https://news.google.com/",
+      "sourceId": "economist",
+      "source": "The Economist",
+      "sourceSite": "economist.com",
+      "type": "commentary",
+      "title": "A Maoist survival guide to the Iranian energy crisis - The Economist",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPd2U1em5ETjBybVhtY3BJSHRISXVfYW9vSzlLcElGUE9fb1cyVklDYlZkaHdxVHFydXRUSmNmU2JvNFZIMC05d2NIdkdjWHJzdG5KQ2tYbGVEbk5jZVZGX1k2dV9KLS1DVWVoWFIwQzdJeHZVWDM3QWdQSG5weU5DTFVTSmNudzV0VjJ0TlIzQ3JSYkRSeWZvTkI4SQ?oc=5\" target=\"_blank\">A Maoist survival guide to the Iranian energy crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd2U1em5ETjBybVhtY3BJSHRISXVfYW9vSzlLcElGUE9fb1cyVklDYlZkaHdxVHFydXRUSmNmU2JvNFZIMC05d2NIdkdjWHJzdG5KQ2tYbGVEbk5jZVZGX1k2dV9KLS1DVWVoWFIwQzdJeHZVWDM3QWdQSG5weU5DTFVTSmNudzV0VjJ0TlIzQ3JSYkRSeWZvTkI4SQ?oc=5",
+      "publishedAt": "Mon, 16 Mar 2026 16:36:43 GMT",
+      "titleZh": "A Maoist survival guide to the Iranian energy crisis - The Economist",
+      "summaryZh": "A Maoist survival guide to the Iranian energy crisis&nbsp;&nbsp;The Economist"
     },
     {
       "id": "economist-commentary-5-https://news.google.com/",
