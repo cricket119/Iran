@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-01T18:57:05.980Z",
-  "totalNews": 28,
-  "totalCommentary": 32,
+  "generatedAt": "2026-04-01T21:38:22.127Z",
+  "totalNews": 25,
+  "totalCommentary": 24,
   "timeline": [
     {
       "id": "bbc-news-0-https://news.google.com/",
@@ -12,12 +12,77 @@
       "title": "Iran denies Trump's claim it requested ceasefire, calling it 'false and baseless' - BBC",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE43VTBSLTEwZVlycV9SYVNDOUEtb2FRekFMMnM4WTlQSHdxcFhZc3NDcWU1ZlFnanlpVE9fbl9hNEhEeU8teHRIZ2RNZjQ3N2kzckY3bg?oc=5\" target=\"_blank\">Iran denies Trump's claim it requested ceasefire, calling it 'false and baseless'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43VTBSLTEwZVlycV9SYVNDOUEtb2FRekFMMnM4WTlQSHdxcFhZc3NDcWU1ZlFnanlpVE9fbl9hNEhEeU8teHRIZ2RNZjQ3N2kzckY3bg?oc=5",
-      "publishedAt": "Wed, 01 Apr 2026 18:52:20 GMT",
+      "publishedAt": "Wed, 01 Apr 2026 21:17:42 GMT",
       "titleZh": "Iran denies Trump's claim it requested ceasefire, calling it 'false and baseless' - BBC",
       "summaryZh": "Iran denies Trump's claim it requested ceasefire, calling it 'false and baseless'&nbsp;&nbsp;BBC"
     },
     {
       "id": "aljazeera-news-2-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "‘Which interests being served by war?’ Iran’s Pezeshkian asks US public - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVWdJcjdXU3RPVUNZbnRZN2paMVFycEFtU0Y2ckk0YWV2MmNmUUxCSWFTcWg0YkRVZm9RMV9PTE5ZNHVnNExsU19sOXJka2F1S29XN1NwNjdtM0lfMkhCSmRwWDBDM3k5NG1yaVZkdG15bTNoV21faU9ncDlwNjc2aUIySjR6TXZaRklGY05mWFlmQUVhTHlEWU85ZmFQR3RyVnJIbzNkMDZPd3fSAbABQVVfeXFMTzZKajVjZWdMREVOdnIwTTBPNDVYNXVoWndiT192R184bDYzaS1La3NVMlhHeFJ5S1V6R2hXd2c4Z0o3a01NTERiQjRFUDk0a1J0WF9vMVFPdlBnTnhfOC0yTXBZZjN0d1JleDJkeE1vZWZwWG14bmo2VXVhdTlLMUxGVnBQY2M5MDZqNVdnOEdha0htRVUwQmlYdE9oNkZKOUN5R2l0ejlSV3MtWUt4UHE?oc=5\" target=\"_blank\">‘Which interests being served by war?’ Iran’s Pezeshkian asks US public</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVWdJcjdXU3RPVUNZbnRZN2paMVFycEFtU0Y2ckk0YWV2MmNmUUxCSWFTcWg0YkRVZm9RMV9PTE5ZNHVnNExsU19sOXJka2F1S29XN1NwNjdtM0lfMkhCSmRwWDBDM3k5NG1yaVZkdG15bTNoV21faU9ncDlwNjc2aUIySjR6TXZaRklGY05mWFlmQUVhTHlEWU85ZmFQR3RyVnJIbzNkMDZPd3fSAbABQVVfeXFMTzZKajVjZWdMREVOdnIwTTBPNDVYNXVoWndiT192R184bDYzaS1La3NVMlhHeFJ5S1V6R2hXd2c4Z0o3a01NTERiQjRFUDk0a1J0WF9vMVFPdlBnTnhfOC0yTXBZZjN0d1JleDJkeE1vZWZwWG14bmo2VXVhdTlLMUxGVnBQY2M5MDZqNVdnOEdha0htRVUwQmlYdE9oNkZKOUN5R2l0ejlSV3MtWUt4UHE?oc=5",
+      "publishedAt": "Wed, 01 Apr 2026 21:00:00 GMT",
+      "titleZh": "‘Which interests being served by war?’ Iran’s Pezeshkian asks US public - Al Jazeera",
+      "summaryZh": "‘Which interests being served by war?’ Iran’s Pezeshkian asks US public&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "reuters-news-1-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
+      "type": "news",
+      "title": "Wall Street ends higher on speculation about end to Iran war - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNcTdIT01VWG5hRkZza3JnUHVuRUJnUXJTOWYyU2pHOWpOUUFQWjlOTktJcDNqR3I1OWY4WXdyd1htSjRkVHhYaDkyYUFUOWg3Q2daTXBYRTR6RzVBVlR2d3IwblR3NWFxWDVxME9wRVdrdHpBZlhaenBGOHpJZW9ubFd2QlN6ZlY4QUMtamRnU2hSU05XQ1M2TEhpYV8xa2xZaEtHNHVrYUxOLXlFaS0xbGl1Sm5kUQ?oc=5\" target=\"_blank\">Wall Street ends higher on speculation about end to Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcTdIT01VWG5hRkZza3JnUHVuRUJnUXJTOWYyU2pHOWpOUUFQWjlOTktJcDNqR3I1OWY4WXdyd1htSjRkVHhYaDkyYUFUOWg3Q2daTXBYRTR6RzVBVlR2d3IwblR3NWFxWDVxME9wRVdrdHpBZlhaenBGOHpJZW9ubFd2QlN6ZlY4QUMtamRnU2hSU05XQ1M2TEhpYV8xa2xZaEtHNHVrYUxOLXlFaS0xbGl1Sm5kUQ?oc=5",
+      "publishedAt": "Wed, 01 Apr 2026 20:21:26 GMT",
+      "titleZh": "Wall Street ends higher on speculation about end to Iran war - Reuters",
+      "summaryZh": "Wall Street ends higher on speculation about end to Iran war&nbsp;&nbsp;Reuters"
+    },
+    {
+      "id": "bbc-news-1-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "Israel's perpetual war with Iran may be hard to win with military might alone - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XY3c4aE5zNTBVWlJ0V0VCTjdneGlad3Zscjh1emhpSTgyV1dKdzZ2N3pmTG9vclp6dW5OR3N0V0VvMVRNQl9xcVl1Y0VNeTY3bG5zTThla3Radw?oc=5\" target=\"_blank\">Israel's perpetual war with Iran may be hard to win with military might alone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XY3c4aE5zNTBVWlJ0V0VCTjdneGlad3Zscjh1emhpSTgyV1dKdzZ2N3pmTG9vclp6dW5OR3N0V0VvMVRNQl9xcVl1Y0VNeTY3bG5zTThla3Radw?oc=5",
+      "publishedAt": "Wed, 01 Apr 2026 19:23:52 GMT",
+      "titleZh": "Israel's perpetual war with Iran may be hard to win with military might alone - BBC",
+      "summaryZh": "Israel's perpetual war with Iran may be hard to win with military might alone&nbsp;&nbsp;BBC"
+    },
+    {
+      "id": "bbc-news-4-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "Rachel Reeves says she's angry at Trump's decision to launch war with Iran - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vdm15ZXB0YllaRUNXMlFqNWVFM3RjekN5SmktVFNaZ2ZkYVRfTmV2TWRfb1g0dHZuSkxoN05xUFRqSmhtbkpGaVJXYXhwZ2NDcjhRcG1PaW9Vdw?oc=5\" target=\"_blank\">Rachel Reeves says she's angry at Trump's decision to launch war with Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vdm15ZXB0YllaRUNXMlFqNWVFM3RjekN5SmktVFNaZ2ZkYVRfTmV2TWRfb1g0dHZuSkxoN05xUFRqSmhtbkpGaVJXYXhwZ2NDcjhRcG1PaW9Vdw?oc=5",
+      "publishedAt": "Wed, 01 Apr 2026 19:11:50 GMT",
+      "titleZh": "Rachel Reeves says she's angry at Trump's decision to launch war with Iran - BBC",
+      "summaryZh": "Rachel Reeves says she's angry at Trump's decision to launch war with Iran&nbsp;&nbsp;BBC"
+    },
+    {
+      "id": "reuters-news-0-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
+      "type": "news",
+      "title": "A war meant to break Iran could leave Tehran stronger, and Gulf exposed - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXpyZ0FBdkhCMjlBSVIyZmNldVdraGhZYUpFVG5raGk0YmNJc1pfSmFqSTlHYWtHY0pabmRCMnd4QlBha0JtWlZlRktJLVhoa1p4MWx2VHJpXy1wdTNEQThDZjBjRWZwMVdCcjAtTURRR0dZbGd2elRkVEFqZW5tS2N1ZnBuUmM4azBDdGZGZXplQXJCbzRjWDBvS3FPdmJnU1JiYVdHSVNuV3Zsb3gwTExHNFRVZw?oc=5\" target=\"_blank\">A war meant to break Iran could leave Tehran stronger, and Gulf exposed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXpyZ0FBdkhCMjlBSVIyZmNldVdraGhZYUpFVG5raGk0YmNJc1pfSmFqSTlHYWtHY0pabmRCMnd4QlBha0JtWlZlRktJLVhoa1p4MWx2VHJpXy1wdTNEQThDZjBjRWZwMVdCcjAtTURRR0dZbGd2elRkVEFqZW5tS2N1ZnBuUmM4azBDdGZGZXplQXJCbzRjWDBvS3FPdmJnU1JiYVdHSVNuV3Zsb3gwTExHNFRVZw?oc=5",
+      "publishedAt": "Wed, 01 Apr 2026 18:23:44 GMT",
+      "titleZh": "A war meant to break Iran could leave Tehran stronger, and Gulf exposed - Reuters",
+      "summaryZh": "A war meant to break Iran could leave Tehran stronger, and Gulf exposed&nbsp;&nbsp;Reuters"
+    },
+    {
+      "id": "aljazeera-news-4-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -30,7 +95,7 @@
       "summaryZh": "Iran authorities await war ‘victory’ as supporters mark 1979 anniversary&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "bbc-news-2-https://news.google.com/",
+      "id": "bbc-news-3-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -56,33 +121,7 @@
       "summaryZh": "War on Iran: Three key takeaways from Araghchi’s interview with Al Jazeera&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "reuters-news-1-https://news.google.com/",
-      "sourceId": "reuters",
-      "source": "Reuters",
-      "sourceSite": "reuters.com",
-      "type": "news",
-      "title": "Wall Street advances as hopes of Iran war resolution lift risk appetite - Reuters",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNcTdIT01VWG5hRkZza3JnUHVuRUJnUXJTOWYyU2pHOWpOUUFQWjlOTktJcDNqR3I1OWY4WXdyd1htSjRkVHhYaDkyYUFUOWg3Q2daTXBYRTR6RzVBVlR2d3IwblR3NWFxWDVxME9wRVdrdHpBZlhaenBGOHpJZW9ubFd2QlN6ZlY4QUMtamRnU2hSU05XQ1M2TEhpYV8xa2xZaEtHNHVrYUxOLXlFaS0xbGl1Sm5kUQ?oc=5\" target=\"_blank\">Wall Street advances as hopes of Iran war resolution lift risk appetite</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcTdIT01VWG5hRkZza3JnUHVuRUJnUXJTOWYyU2pHOWpOUUFQWjlOTktJcDNqR3I1OWY4WXdyd1htSjRkVHhYaDkyYUFUOWg3Q2daTXBYRTR6RzVBVlR2d3IwblR3NWFxWDVxME9wRVdrdHpBZlhaenBGOHpJZW9ubFd2QlN6ZlY4QUMtamRnU2hSU05XQ1M2TEhpYV8xa2xZaEtHNHVrYUxOLXlFaS0xbGl1Sm5kUQ?oc=5",
-      "publishedAt": "Wed, 01 Apr 2026 16:14:52 GMT",
-      "titleZh": "Wall Street advances as hopes of Iran war resolution lift risk appetite - Reuters",
-      "summaryZh": "Wall Street advances as hopes of Iran war resolution lift risk appetite&nbsp;&nbsp;Reuters"
-    },
-    {
-      "id": "bbc-news-7-https://news.google.com/",
-      "sourceId": "bbc",
-      "source": "BBC",
-      "sourceSite": "bbc.com",
-      "type": "news",
-      "title": "UK will seek closer ties with EU in light of Iran war, Starmer says - BBC",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1SG04aER3X0dBcG5UdHF3U2drYXpqeGRzd0d1Y1ZIdmtLUnRnNFRFMlRVNVBUbzJpdUtHU0ZMNFFfemdIVndkalNyZlBiQkE5LU9ZRjVpSjFsQQ?oc=5\" target=\"_blank\">UK will seek closer ties with EU in light of Iran war, Starmer says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1SG04aER3X0dBcG5UdHF3U2drYXpqeGRzd0d1Y1ZIdmtLUnRnNFRFMlRVNVBUbzJpdUtHU0ZMNFFfemdIVndkalNyZlBiQkE5LU9ZRjVpSjFsQQ?oc=5",
-      "publishedAt": "Wed, 01 Apr 2026 16:12:45 GMT",
-      "titleZh": "UK will seek closer ties with EU in light of Iran war, Starmer says - BBC",
-      "summaryZh": "UK will seek closer ties with EU in light of Iran war, Starmer says&nbsp;&nbsp;BBC"
-    },
-    {
-      "id": "bbc-news-1-https://news.google.com/",
+      "id": "bbc-news-2-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -95,19 +134,6 @@
       "summaryZh": "US could 'finish the job' in Iran in two or three weeks, Trump says&nbsp;&nbsp;BBC"
     },
     {
-      "id": "aljazeera-news-5-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "Iran denies Trump’s claim Iranian president requested ceasefire - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNOWZla1dhMVVUZzFQNnpCUEhYZFU1eGVpUUdIRzZSUlpFWXhfZ0dTYzVPUFdWSFRKZ1B1Yzk0RHNhNmZEdUZ3dV9CYkVkUm5DLWJhRGxkdUVKUGZPQ3BWZmE2cVZYNlAwR1JJSFEzNFVCSjMxczlHcmpQTnpJR3VmQUR2Q2ZJaVlIN0M2enNweFhzdnJocmY1YkkxNUljM19Xa0w1YtIBqgFBVV95cUxQSkYtMGFaZ05yOEJPRkhJbTlGRWpZelNVcjJTcTVfX2VEUnZBemt1TlRpNWNFS3ZXSnVyNmVzdmY2V0NpcC1qV0tORTNqRHllZkNqQVJhZnVfOFc5RDROYTdlR1d1SG5NOTVfRUNJX0lrbW9SdlZqNlZzU1RDcURpRGdMVFBmcDhaOWVIbFg0X1VCcWdFY19MVko3dmM0ell3ZkowdWtndDFTdw?oc=5\" target=\"_blank\">Iran denies Trump’s claim Iranian president requested ceasefire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOWZla1dhMVVUZzFQNnpCUEhYZFU1eGVpUUdIRzZSUlpFWXhfZ0dTYzVPUFdWSFRKZ1B1Yzk0RHNhNmZEdUZ3dV9CYkVkUm5DLWJhRGxkdUVKUGZPQ3BWZmE2cVZYNlAwR1JJSFEzNFVCSjMxczlHcmpQTnpJR3VmQUR2Q2ZJaVlIN0M2enNweFhzdnJocmY1YkkxNUljM19Xa0w1YtIBqgFBVV95cUxQSkYtMGFaZ05yOEJPRkhJbTlGRWpZelNVcjJTcTVfX2VEUnZBemt1TlRpNWNFS3ZXSnVyNmVzdmY2V0NpcC1qV0tORTNqRHllZkNqQVJhZnVfOFc5RDROYTdlR1d1SG5NOTVfRUNJX0lrbW9SdlZqNlZzU1RDcURpRGdMVFBmcDhaOWVIbFg0X1VCcWdFY19MVko3dmM0ell3ZkowdWtndDFTdw?oc=5",
-      "publishedAt": "Wed, 01 Apr 2026 15:23:55 GMT",
-      "titleZh": "Iran denies Trump’s claim Iranian president requested ceasefire - Al Jazeera",
-      "summaryZh": "Iran denies Trump’s claim Iranian president requested ceasefire&nbsp;&nbsp;Al Jazeera"
-    },
-    {
       "id": "aljazeera-news-1-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
@@ -116,64 +142,25 @@
       "title": "Iran War: What a Marine Expeditionary Unit is – and other US military terms - Al Jazeera",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOQlR4R09idDNZSS1WNlBZbF94Z1RwY0JDdkN5U3ZrcFdkRjgyWkpzLV9kVXFuZEtwNEo2ektVRm9hNlpNUlRGTWNGX1dFWFMzMUxwV1NsOXh0WktwQjJyaV85V2hscmU3TG5rSERhQV9aZDJQaGpBLU9icUpxM2FsbEpQVldISTZPYTdpZlIxU3pSdmUyWFFyZGQzbWo3ZjBoVjFpRHRRRXhIenhGMTdjMG530gG3AUFVX3lxTFBsTmxCWW5KaEEwVVhiQW95bkhPTnVDbTM0NWt2SEhFQVRTME9hbjFBdjFtQVVEUWJ0MWV4b3VMZ2Y2SlFiWVd5WkNNa0FSTE9VTjlzcWFLOVZLcGd4c3RSLU93NXl6aFZQQUpWRE5qV1NBeXloaW85TjFaUjJwU1R2MmxnVGVBRDdrVUhxOExtRWRhdUplcTNwWVNubHZMaXFISV9QMVpuWjctekxzTUlabzJaZ2h3MA?oc=5\" target=\"_blank\">Iran War: What a Marine Expeditionary Unit is – and other US military terms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQlR4R09idDNZSS1WNlBZbF94Z1RwY0JDdkN5U3ZrcFdkRjgyWkpzLV9kVXFuZEtwNEo2ektVRm9hNlpNUlRGTWNGX1dFWFMzMUxwV1NsOXh0WktwQjJyaV85V2hscmU3TG5rSERhQV9aZDJQaGpBLU9icUpxM2FsbEpQVldISTZPYTdpZlIxU3pSdmUyWFFyZGQzbWo3ZjBoVjFpRHRRRXhIenhGMTdjMG530gG3AUFVX3lxTFBsTmxCWW5KaEEwVVhiQW95bkhPTnVDbTM0NWt2SEhFQVRTME9hbjFBdjFtQVVEUWJ0MWV4b3VMZ2Y2SlFiWVd5WkNNa0FSTE9VTjlzcWFLOVZLcGd4c3RSLU93NXl6aFZQQUpWRE5qV1NBeXloaW85TjFaUjJwU1R2MmxnVGVBRDdrVUhxOExtRWRhdUplcTNwWVNubHZMaXFISV9QMVpuWjctekxzTUlabzJaZ2h3MA?oc=5",
-      "publishedAt": "Wed, 01 Apr 2026 15:17:42 GMT",
+      "publishedAt": "Wed, 01 Apr 2026 15:23:55 GMT",
       "titleZh": "Iran War: What a Marine Expeditionary Unit is – and other US military terms - Al Jazeera",
       "summaryZh": "Iran War: What a Marine Expeditionary Unit is – and other US military terms&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "reuters-news-2-https://news.google.com/",
-      "sourceId": "reuters",
-      "source": "Reuters",
-      "sourceSite": "reuters.com",
+      "id": "aljazeera-news-5-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
       "type": "news",
-      "title": "Iran war puts Middle East Dubai oil benchmark under stress as prices soar - Reuters",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOc3ZpdHJZeldOZ1VJN2FOcDFwek1FMnNNTzU0Rmd6eDRCMlk2TTVYRlVla0VPaWJncFMtc3QtaUZWNU9FcWdOdlp4U01Fek80QTdsYXJLNk55NTZMOWg5OGhyZEFYMmpPbnpOX1J5NDA5YzZaa21kNEJTZlFmb0o0ZGsyT2REUzNlTlZBN3l6R2ZwZ2hhOUppNV9reG55Z0U1RnQzNmVoYmNHQlpobzRYU2VSaGtLX2gxM3lhLW5RWQ?oc=5\" target=\"_blank\">Iran war puts Middle East Dubai oil benchmark under stress as prices soar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc3ZpdHJZeldOZ1VJN2FOcDFwek1FMnNNTzU0Rmd6eDRCMlk2TTVYRlVla0VPaWJncFMtc3QtaUZWNU9FcWdOdlp4U01Fek80QTdsYXJLNk55NTZMOWg5OGhyZEFYMmpPbnpOX1J5NDA5YzZaa21kNEJTZlFmb0o0ZGsyT2REUzNlTlZBN3l6R2ZwZ2hhOUppNV9reG55Z0U1RnQzNmVoYmNHQlpobzRYU2VSaGtLX2gxM3lhLW5RWQ?oc=5",
-      "publishedAt": "Wed, 01 Apr 2026 14:49:18 GMT",
-      "titleZh": "Iran war puts Middle East Dubai oil benchmark under stress as prices soar - Reuters",
-      "summaryZh": "Iran war puts Middle East Dubai oil benchmark under stress as prices soar&nbsp;&nbsp;Reuters"
-    },
-    {
-      "id": "reuters-news-4-https://news.google.com/",
-      "sourceId": "reuters",
-      "source": "Reuters",
-      "sourceSite": "reuters.com",
-      "type": "news",
-      "title": "UK's Starmer calls for closer Europe ties as Iran war strains US relations - Reuters",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQY1NvTkdHTjhWWkNGczJQdWhfZ3ZYTnV3QVRla18xSmxHRWU4M0ZvSkQwUmhveGl6ZERLZFRpbDh5N1dGMzJmVGUzdXEyN0wzM0pxcjl3Wks5TE9mMEJ6MUN5eFloNFlVNWgxX3paUV9CUXFxcDdqUUYzeDJ5OTRhME9kSmh3QVg0TC1hUFNVbFZmaVRrSXltZ1Q4UXN5TDExenRlb2pjeGJJeFBqUm5weQ?oc=5\" target=\"_blank\">UK's Starmer calls for closer Europe ties as Iran war strains US relations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY1NvTkdHTjhWWkNGczJQdWhfZ3ZYTnV3QVRla18xSmxHRWU4M0ZvSkQwUmhveGl6ZERLZFRpbDh5N1dGMzJmVGUzdXEyN0wzM0pxcjl3Wks5TE9mMEJ6MUN5eFloNFlVNWgxX3paUV9CUXFxcDdqUUYzeDJ5OTRhME9kSmh3QVg0TC1hUFNVbFZmaVRrSXltZ1Q4UXN5TDExenRlb2pjeGJJeFBqUm5weQ?oc=5",
-      "publishedAt": "Wed, 01 Apr 2026 14:26:54 GMT",
-      "titleZh": "UK's Starmer calls for closer Europe ties as Iran war strains US relations - Reuters",
-      "summaryZh": "UK's Starmer calls for closer Europe ties as Iran war strains US relations&nbsp;&nbsp;Reuters"
+      "title": "Iran denies Trump’s claim Iranian president requested ceasefire - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNOWZla1dhMVVUZzFQNnpCUEhYZFU1eGVpUUdIRzZSUlpFWXhfZ0dTYzVPUFdWSFRKZ1B1Yzk0RHNhNmZEdUZ3dV9CYkVkUm5DLWJhRGxkdUVKUGZPQ3BWZmE2cVZYNlAwR1JJSFEzNFVCSjMxczlHcmpQTnpJR3VmQUR2Q2ZJaVlIN0M2enNweFhzdnJocmY1YkkxNUljM19Xa0w1Yg?oc=5\" target=\"_blank\">Iran denies Trump’s claim Iranian president requested ceasefire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOWZla1dhMVVUZzFQNnpCUEhYZFU1eGVpUUdIRzZSUlpFWXhfZ0dTYzVPUFdWSFRKZ1B1Yzk0RHNhNmZEdUZ3dV9CYkVkUm5DLWJhRGxkdUVKUGZPQ3BWZmE2cVZYNlAwR1JJSFEzNFVCSjMxczlHcmpQTnpJR3VmQUR2Q2ZJaVlIN0M2enNweFhzdnJocmY1YkkxNUljM19Xa0w1Yg?oc=5",
+      "publishedAt": "Wed, 01 Apr 2026 15:23:55 GMT",
+      "titleZh": "Iran denies Trump’s claim Iranian president requested ceasefire - Al Jazeera",
+      "summaryZh": "Iran denies Trump’s claim Iranian president requested ceasefire&nbsp;&nbsp;Al Jazeera"
     },
     {
       "id": "aljazeera-news-6-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "Russia imposing ban on all gasoline exports due to Iran war - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPNWRTaUdCMV9kTXFsMndzNHd4RVctOE93STVSN0dlSVVOazFNVklNVlFBZzhyakRkLUlzZ2J1Y24wV2JhZ2xpS2FBb1ppUHlyalJ2UGFoREtITVlEemFGeXNRSEpsckxEdlZKblVqdjc3dlljUGJfM3A4LVJOUFdsZWI0aGJZZjEwQnlwUVl5R01nQ21XSVJNd24wNXdxY25paWw0NV9mNEZMWUNYbHfSAbMBQVVfeXFMT3RWQWxyYno2WXNxVlZHc0hjaFpKMEFFYzdlbkhCUkExNjd1ZkFyb0toZjBJSXgtVnd3M1Z5RDBrMG4wM0I2VEhoS0xjSkdGcVF1RkM3Y2N1SS1KTlZWUmV4OEI2NjRSdHBoWGNtZXBYT3BsaFVCYUxOUDdXTTh1MHVVaC12T3RVNmtWUzFQUHhhV2R2SUtxMFNfV2tmTXV0UVBSaDYwdVNzdGJRMVJ3LU5DVWM?oc=5\" target=\"_blank\">Russia imposing ban on all gasoline exports due to Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNWRTaUdCMV9kTXFsMndzNHd4RVctOE93STVSN0dlSVVOazFNVklNVlFBZzhyakRkLUlzZ2J1Y24wV2JhZ2xpS2FBb1ppUHlyalJ2UGFoREtITVlEemFGeXNRSEpsckxEdlZKblVqdjc3dlljUGJfM3A4LVJOUFdsZWI0aGJZZjEwQnlwUVl5R01nQ21XSVJNd24wNXdxY25paWw0NV9mNEZMWUNYbHfSAbMBQVVfeXFMT3RWQWxyYno2WXNxVlZHc0hjaFpKMEFFYzdlbkhCUkExNjd1ZkFyb0toZjBJSXgtVnd3M1Z5RDBrMG4wM0I2VEhoS0xjSkdGcVF1RkM3Y2N1SS1KTlZWUmV4OEI2NjRSdHBoWGNtZXBYT3BsaFVCYUxOUDdXTTh1MHVVaC12T3RVNmtWUzFQUHhhV2R2SUtxMFNfV2tmTXV0UVBSaDYwdVNzdGJRMVJ3LU5DVWM?oc=5",
-      "publishedAt": "Wed, 01 Apr 2026 13:31:27 GMT",
-      "titleZh": "Russia imposing ban on all gasoline exports due to Iran war - Al Jazeera",
-      "summaryZh": "Russia imposing ban on all gasoline exports due to Iran war&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "aljazeera-news-7-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "‘Permanent scar’: Iran minister on US-Israeli attacks on monuments - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPUUdUQVBUazlOQzhRYm9RSWt0MlJ4LXFaSGl1UURxS0Z4REM4ZFUwR3QxbU9UNmliTElZVkJWLVdaSlRQQ3RTbU1oMTUwNkJmRDNsODhxNFNxRWtUWlZvdVo4OHhCY2FEZkFlNC01akxDS0dsQU5zd0NCY0RjaFFNel81ZHNsMlhnbmlxYVVKY1lUMWx0b0h3X0M2blBPWGZ5UFN1bzBMODd0VkFEMGMzOHVvMXTSAboBQVVfeXFMTUE4UlBHd0RwSTRGb0Rtd2l5U0xuZS03aW4zWlJCa0lPTWlpNWprTWxkeUlwZlVxWGIyWnVYVDM0eTB4RlRmcDlDOTJOZ1ZxRWFKREY2TzY4c3BQNHFRNjVZell6WUw2VThuYkFOSURodnFDNkRkY2ZHYWNfN1NBb0VSRjRwMERsUTN3UHh3UVFVNG50LWN2UTZzRGRfYzBwZXlHcjgyb2F2UmtGOFVsZi02RVluMlZwTXpR?oc=5\" target=\"_blank\">‘Permanent scar’: Iran minister on US-Israeli attacks on monuments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUUdUQVBUazlOQzhRYm9RSWt0MlJ4LXFaSGl1UURxS0Z4REM4ZFUwR3QxbU9UNmliTElZVkJWLVdaSlRQQ3RTbU1oMTUwNkJmRDNsODhxNFNxRWtUWlZvdVo4OHhCY2FEZkFlNC01akxDS0dsQU5zd0NCY0RjaFFNel81ZHNsMlhnbmlxYVVKY1lUMWx0b0h3X0M2blBPWGZ5UFN1bzBMODd0VkFEMGMzOHVvMXTSAboBQVVfeXFMTUE4UlBHd0RwSTRGb0Rtd2l5U0xuZS03aW4zWlJCa0lPTWlpNWprTWxkeUlwZlVxWGIyWnVYVDM0eTB4RlRmcDlDOTJOZ1ZxRWFKREY2TzY4c3BQNHFRNjVZell6WUw2VThuYkFOSURodnFDNkRkY2ZHYWNfN1NBb0VSRjRwMERsUTN3UHh3UVFVNG50LWN2UTZzRGRfYzBwZXlHcjgyb2F2UmtGOFVsZi02RVluMlZwTXpR?oc=5",
-      "publishedAt": "Wed, 01 Apr 2026 12:46:27 GMT",
-      "titleZh": "‘Permanent scar’: Iran minister on US-Israeli attacks on monuments - Al Jazeera",
-      "summaryZh": "‘Permanent scar’: Iran minister on US-Israeli attacks on monuments&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "aljazeera-news-4-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -186,7 +173,7 @@
       "summaryZh": "How are NATO allies pushing back against Trump’s Iran war demands?&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "bbc-news-6-https://news.google.com/",
+      "id": "bbc-news-8-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -199,7 +186,7 @@
       "summaryZh": "Why did US and Israel attack Iran and how long could the war last?&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-4-https://news.google.com/",
+      "id": "bbc-news-6-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -212,7 +199,20 @@
       "summaryZh": "Iran war economic shocks will last 'months', says Australia's PM&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-5-https://news.google.com/",
+      "id": "bbc-news-7-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "Warning Iran war 'shock' could push up mortgages for 1.3m homeowners - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE15WV9yLV94VThNd2FtUDRoUkVFbXVsdW9yVGxlc2xLQmJBUmdKS3ZKcHY5UFRzUUZaNlFHaVRvdVEyN3o0MmczMXJSalBoaFRkbVFBdnhYYlE0dw?oc=5\" target=\"_blank\">Warning Iran war 'shock' could push up mortgages for 1.3m homeowners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15WV9yLV94VThNd2FtUDRoUkVFbXVsdW9yVGxlc2xLQmJBUmdKS3ZKcHY5UFRzUUZaNlFHaVRvdVEyN3o0MmczMXJSalBoaFRkbVFBdnhYYlE0dw?oc=5",
+      "publishedAt": "Wed, 01 Apr 2026 10:47:02 GMT",
+      "titleZh": "Warning Iran war 'shock' could push up mortgages for 1.3m homeowners - BBC",
+      "summaryZh": "Warning Iran war 'shock' could push up mortgages for 1.3m homeowners&nbsp;&nbsp;BBC"
+    },
+    {
+      "id": "bbc-news-9-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -225,7 +225,7 @@
       "summaryZh": "Oil briefly falls below $100 and shares jump on Trump Iran war pledge&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-3-https://news.google.com/",
+      "id": "bbc-news-5-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -243,15 +243,15 @@
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
       "type": "news",
-      "title": "Iran war live: Pezeshkian calls on Americans to question gov’t war motives - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdncxZ2dEaGh0bk4tZ0I1dk44a0VPcWJtb05SazI0NUNhMTNTSEQ1Y2ZycWpDNmd4TnV2RFFOZzlpZUFsV1c4UkhUSXI5bjJ4NkxhV3dPZTAxMHk1YzJjMW0wV19lZE9SYlRIT0FvQTc0R2NBSE9jeENYOU9kcnlvekF3S2JIcFNQTkxEUmg5QVhtVjlRWWVHaUgyVDg2aGhvNWd6YWdOclJTWnB0M09nWUloLVM5endHNXFrV9IBwgFBVV95cUxQdGZ4U3ktQUtWOGFYZ3J0Q2h4Q09rZDF6U2pUOWdzZWJTYjIzVmpqUWxRSFcyXzBEeG96aWx0b0JxSHM5MGRiQWhfWTNhT29CRVNGcWZQNXBhRk50bi00SG1ia1ZQbEFiNmJadDV0N0ItZlg2R0YycWlLeGRqY1V3Yzc2b3hDdnZRLUkyc2x0RjNzNEZjdHE1d21sdDhZUkhxUzJGelZvNEMteGVMcUFBcGR1MmJYOXZYTnZoY1I5NFluQQ?oc=5\" target=\"_blank\">Iran war live: Pezeshkian calls on Americans to question gov’t war motives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "title": "Iran war live: Pezeshkian urges people in US to question gov’t war motives - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdncxZ2dEaGh0bk4tZ0I1dk44a0VPcWJtb05SazI0NUNhMTNTSEQ1Y2ZycWpDNmd4TnV2RFFOZzlpZUFsV1c4UkhUSXI5bjJ4NkxhV3dPZTAxMHk1YzJjMW0wV19lZE9SYlRIT0FvQTc0R2NBSE9jeENYOU9kcnlvekF3S2JIcFNQTkxEUmg5QVhtVjlRWWVHaUgyVDg2aGhvNWd6YWdOclJTWnB0M09nWUloLVM5endHNXFrV9IBwgFBVV95cUxQdGZ4U3ktQUtWOGFYZ3J0Q2h4Q09rZDF6U2pUOWdzZWJTYjIzVmpqUWxRSFcyXzBEeG96aWx0b0JxSHM5MGRiQWhfWTNhT29CRVNGcWZQNXBhRk50bi00SG1ia1ZQbEFiNmJadDV0N0ItZlg2R0YycWlLeGRqY1V3Yzc2b3hDdnZRLUkyc2x0RjNzNEZjdHE1d21sdDhZUkhxUzJGelZvNEMteGVMcUFBcGR1MmJYOXZYTnZoY1I5NFluQQ?oc=5\" target=\"_blank\">Iran war live: Pezeshkian urges people in US to question gov’t war motives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdncxZ2dEaGh0bk4tZ0I1dk44a0VPcWJtb05SazI0NUNhMTNTSEQ1Y2ZycWpDNmd4TnV2RFFOZzlpZUFsV1c4UkhUSXI5bjJ4NkxhV3dPZTAxMHk1YzJjMW0wV19lZE9SYlRIT0FvQTc0R2NBSE9jeENYOU9kcnlvekF3S2JIcFNQTkxEUmg5QVhtVjlRWWVHaUgyVDg2aGhvNWd6YWdOclJTWnB0M09nWUloLVM5endHNXFrV9IBwgFBVV95cUxQdGZ4U3ktQUtWOGFYZ3J0Q2h4Q09rZDF6U2pUOWdzZWJTYjIzVmpqUWxRSFcyXzBEeG96aWx0b0JxSHM5MGRiQWhfWTNhT29CRVNGcWZQNXBhRk50bi00SG1ia1ZQbEFiNmJadDV0N0ItZlg2R0YycWlLeGRqY1V3Yzc2b3hDdnZRLUkyc2x0RjNzNEZjdHE1d21sdDhZUkhxUzJGelZvNEMteGVMcUFBcGR1MmJYOXZYTnZoY1I5NFluQQ?oc=5",
       "publishedAt": "Wed, 01 Apr 2026 06:31:42 GMT",
-      "titleZh": "Iran war live: Pezeshkian calls on Americans to question gov’t war motives - Al Jazeera",
-      "summaryZh": "Iran war live: Pezeshkian calls on Americans to question gov’t war motives&nbsp;&nbsp;Al Jazeera"
+      "titleZh": "Iran war live: Pezeshkian urges people in US to question gov’t war motives - Al Jazeera",
+      "summaryZh": "Iran war live: Pezeshkian urges people in US to question gov’t war motives&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "reuters-news-3-https://news.google.com/",
+      "id": "reuters-news-2-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -264,46 +264,7 @@
       "summaryZh": "Trump says US may exit Iran war soon and threatens to quit NATO&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "bbc-news-9-https://news.google.com/",
-      "sourceId": "bbc",
-      "source": "BBC",
-      "sourceSite": "bbc.com",
-      "type": "news",
-      "title": "'You're no longer my sister' - rows erupt as war divides Iranian families - BBC",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XbldLdmRERHNwX1RINTg5aGV2VkJaak4wYjJ1a25lTDloZjN6RXRQbnJaMENkZ3VlUWgwd3lERnpWLWV0Q0oxelRURUJDWmJNMzFod1hacWVWQQ?oc=5\" target=\"_blank\">'You're no longer my sister' - rows erupt as war divides Iranian families</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XbldLdmRERHNwX1RINTg5aGV2VkJaak4wYjJ1a25lTDloZjN6RXRQbnJaMENkZ3VlUWgwd3lERnpWLWV0Q0oxelRURUJDWmJNMzFod1hacWVWQQ?oc=5",
-      "publishedAt": "Tue, 31 Mar 2026 23:25:19 GMT",
-      "titleZh": "'You're no longer my sister' - rows erupt as war divides Iranian families - BBC",
-      "summaryZh": "'You're no longer my sister' - rows erupt as war divides Iranian families&nbsp;&nbsp;BBC"
-    },
-    {
-      "id": "bbc-news-8-https://news.google.com/",
-      "sourceId": "bbc",
-      "source": "BBC",
-      "sourceSite": "bbc.com",
-      "type": "news",
-      "title": "Iran war turns Middle East dream into nightmare for Asia's migrant workers - BBC",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjeWlHdTI4TEVQa3FGNURTT0xsa3FSRzV0enJpUUJUeTdKSEhBMFpVQ3VKRGNsOXdhMUNSQmlEM1Zva3VUbjdabkd0SHpxeVN1Q0tkSkVUdHJYQQ?oc=5\" target=\"_blank\">Iran war turns Middle East dream into nightmare for Asia's migrant workers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjeWlHdTI4TEVQa3FGNURTT0xsa3FSRzV0enJpUUJUeTdKSEhBMFpVQ3VKRGNsOXdhMUNSQmlEM1Zva3VUbjdabkd0SHpxeVN1Q0tkSkVUdHJYQQ?oc=5",
-      "publishedAt": "Tue, 31 Mar 2026 22:48:34 GMT",
-      "titleZh": "Iran war turns Middle East dream into nightmare for Asia's migrant workers - BBC",
-      "summaryZh": "Iran war turns Middle East dream into nightmare for Asia's migrant workers&nbsp;&nbsp;BBC"
-    },
-    {
-      "id": "reuters-news-0-https://news.google.com/",
-      "sourceId": "reuters",
-      "source": "Reuters",
-      "sourceSite": "reuters.com",
-      "type": "news",
-      "title": "Two-thirds of Americans want quick end to Iran war even if goals unachieved, Reuters/Ipsos poll finds - Reuters",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa1FpVmpfRVM5WWlNWmxuN244bmtfb3lsdGhDVHlhSkF1Q01sODZjRHVJOFZhVG5jQ0s4SUxvelcwQU05SWlKQ0lZcjFJWWJqTk1PRk1QSGNkYWFzV3FZdzdEcDNsWnZyOGxPb2VkYXJhQS1taHhUVS1PVXNGOWlJMTA5YWhmRnZwSHkwanBjbW9NcDlySlRjc2sxaU9Fb09hVWNDaElRUUVhb2xNSWRNbHFfMXRvb09XWFkzWTd4NE8?oc=5\" target=\"_blank\">Two-thirds of Americans want quick end to Iran war even if goals unachieved, Reuters/Ipsos poll finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa1FpVmpfRVM5WWlNWmxuN244bmtfb3lsdGhDVHlhSkF1Q01sODZjRHVJOFZhVG5jQ0s4SUxvelcwQU05SWlKQ0lZcjFJWWJqTk1PRk1QSGNkYWFzV3FZdzdEcDNsWnZyOGxPb2VkYXJhQS1taHhUVS1PVXNGOWlJMTA5YWhmRnZwSHkwanBjbW9NcDlySlRjc2sxaU9Fb09hVWNDaElRUUVhb2xNSWRNbHFfMXRvb09XWFkzWTd4NE8?oc=5",
-      "publishedAt": "Tue, 31 Mar 2026 21:03:00 GMT",
-      "titleZh": "Two-thirds of Americans want quick end to Iran war even if goals unachieved, Reuters/Ipsos poll finds - Reuters",
-      "summaryZh": "Two-thirds of Americans want quick end to Iran war even if goals unachieved, Reuters/Ipsos poll finds&nbsp;&nbsp;Reuters"
-    },
-    {
-      "id": "aljazeera-news-9-https://news.google.com/",
+      "id": "aljazeera-news-8-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -316,7 +277,7 @@
       "summaryZh": "One month of war on Iran cost Arab countries up to $194bn: UNDP&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-8-https://news.google.com/",
+      "id": "aljazeera-news-7-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -329,20 +290,7 @@
       "summaryZh": "Iran war updates: Trump says US could end Iran war in ‘two to three weeks’&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "reuters-news-5-https://news.google.com/",
-      "sourceId": "reuters",
-      "source": "Reuters",
-      "sourceSite": "reuters.com",
-      "type": "news",
-      "title": "Iran attacks near Israeli nuclear site, fires long-range missiles for first time - Reuters",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ29IY2FJQXJoaThEam9QRDdIVGtreEprNklEd3FQQUNHeXIwX2RfOHBPc21QVlZrQ1BNa3ZvSjhXd0tXOUh0RGRVUTAyYURycGlaelk2SnJFdzBIdk9KYXlncHFxLW9qNVlNMFJiM1VPMFBnODlVSmtjb3F5bnhFal9MeHZPOEhMcjBPN2xSdWUzUlZXOUpTQTFJdmd5czI1cVVrVlRkRmVhYkxhWFB5cw?oc=5\" target=\"_blank\">Iran attacks near Israeli nuclear site, fires long-range missiles for first time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ29IY2FJQXJoaThEam9QRDdIVGtreEprNklEd3FQQUNHeXIwX2RfOHBPc21QVlZrQ1BNa3ZvSjhXd0tXOUh0RGRVUTAyYURycGlaelk2SnJFdzBIdk9KYXlncHFxLW9qNVlNMFJiM1VPMFBnODlVSmtjb3F5bnhFal9MeHZPOEhMcjBPN2xSdWUzUlZXOUpTQTFJdmd5czI1cVVrVlRkRmVhYkxhWFB5cw?oc=5",
-      "publishedAt": "Sat, 21 Mar 2026 07:00:00 GMT",
-      "titleZh": "Iran attacks near Israeli nuclear site, fires long-range missiles for first time - Reuters",
-      "summaryZh": "Iran attacks near Israeli nuclear site, fires long-range missiles for first time&nbsp;&nbsp;Reuters"
-    },
-    {
-      "id": "reuters-news-6-https://news.google.com/",
+      "id": "reuters-news-3-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -355,7 +303,20 @@
       "summaryZh": "Natural gas prices soar as Iran, Israel strike Middle East energy infrastructure&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "reuters-news-7-https://news.google.com/",
+      "id": "aljazeera-news-9-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "The US–Israel war with Iran will not end with a clear victor - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHRIWVdneHlqb2lodEVQZzBBc2lrYWkwWXVXTy1hQzlaYmVlWjdlUFBOa1l2Q1kzREREZjFwWXBYbmxobDhfSEd4V0RQWU5YR0dxM2NrYk9YM1NkRU9xU0ZkYXpYVS0tVk83TVo3dmI5cVpUSW1JREIwYVI4aTlvV1JFaTdoZEVlVDlqTU96RWVKTG5LaTVmanh6MG1TbGvSAaQBQVVfeXFMT0FWaHExU1R2Vzg5LTgzckh2b3RKTkFDcUU1bWxMVWFsRXAwQ2lGeUhZa1hZaEdMUUZDbHg1ekVqZTlEUWZjb0c2Y3JLcVpBY3NTVTA1ZFlQM1otczkyajJYZ050UGllMk54MlB5aVVGYTBMNS12QzNlcVphSnZUSmI1d2ExeUhnWFE5MFZEeDFvWW5TTVAydDVneEJ4cjM0bWRDbU4?oc=5\" target=\"_blank\">The US–Israel war with Iran will not end with a clear victor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHRIWVdneHlqb2lodEVQZzBBc2lrYWkwWXVXTy1hQzlaYmVlWjdlUFBOa1l2Q1kzREREZjFwWXBYbmxobDhfSEd4V0RQWU5YR0dxM2NrYk9YM1NkRU9xU0ZkYXpYVS0tVk83TVo3dmI5cVpUSW1JREIwYVI4aTlvV1JFaTdoZEVlVDlqTU96RWVKTG5LaTVmanh6MG1TbGvSAaQBQVVfeXFMT0FWaHExU1R2Vzg5LTgzckh2b3RKTkFDcUU1bWxMVWFsRXAwQ2lGeUhZa1hZaEdMUUZDbHg1ekVqZTlEUWZjb0c2Y3JLcVpBY3NTVTA1ZFlQM1otczkyajJYZ050UGllMk54MlB5aVVGYTBMNS12QzNlcVphSnZUSmI1d2ExeUhnWFE5MFZEeDFvWW5TTVAydDVneEJ4cjM0bWRDbU4?oc=5",
+      "publishedAt": "Thu, 19 Mar 2026 07:00:00 GMT",
+      "titleZh": "The US–Israel war with Iran will not end with a clear victor - Al Jazeera",
+      "summaryZh": "The US–Israel war with Iran will not end with a clear victor&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "reuters-news-4-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -379,41 +340,28 @@
           "source": "Reuters",
           "sourceSite": "reuters.com",
           "type": "news",
-          "title": "Wall Street advances as hopes of Iran war resolution lift risk appetite - Reuters",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNcTdIT01VWG5hRkZza3JnUHVuRUJnUXJTOWYyU2pHOWpOUUFQWjlOTktJcDNqR3I1OWY4WXdyd1htSjRkVHhYaDkyYUFUOWg3Q2daTXBYRTR6RzVBVlR2d3IwblR3NWFxWDVxME9wRVdrdHpBZlhaenBGOHpJZW9ubFd2QlN6ZlY4QUMtamRnU2hSU05XQ1M2TEhpYV8xa2xZaEtHNHVrYUxOLXlFaS0xbGl1Sm5kUQ?oc=5\" target=\"_blank\">Wall Street advances as hopes of Iran war resolution lift risk appetite</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "title": "Wall Street ends higher on speculation about end to Iran war - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNcTdIT01VWG5hRkZza3JnUHVuRUJnUXJTOWYyU2pHOWpOUUFQWjlOTktJcDNqR3I1OWY4WXdyd1htSjRkVHhYaDkyYUFUOWg3Q2daTXBYRTR6RzVBVlR2d3IwblR3NWFxWDVxME9wRVdrdHpBZlhaenBGOHpJZW9ubFd2QlN6ZlY4QUMtamRnU2hSU05XQ1M2TEhpYV8xa2xZaEtHNHVrYUxOLXlFaS0xbGl1Sm5kUQ?oc=5\" target=\"_blank\">Wall Street ends higher on speculation about end to Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcTdIT01VWG5hRkZza3JnUHVuRUJnUXJTOWYyU2pHOWpOUUFQWjlOTktJcDNqR3I1OWY4WXdyd1htSjRkVHhYaDkyYUFUOWg3Q2daTXBYRTR6RzVBVlR2d3IwblR3NWFxWDVxME9wRVdrdHpBZlhaenBGOHpJZW9ubFd2QlN6ZlY4QUMtamRnU2hSU05XQ1M2TEhpYV8xa2xZaEtHNHVrYUxOLXlFaS0xbGl1Sm5kUQ?oc=5",
-          "publishedAt": "Wed, 01 Apr 2026 16:14:52 GMT",
-          "titleZh": "Wall Street advances as hopes of Iran war resolution lift risk appetite - Reuters",
-          "summaryZh": "Wall Street advances as hopes of Iran war resolution lift risk appetite&nbsp;&nbsp;Reuters"
+          "publishedAt": "Wed, 01 Apr 2026 20:21:26 GMT",
+          "titleZh": "Wall Street ends higher on speculation about end to Iran war - Reuters",
+          "summaryZh": "Wall Street ends higher on speculation about end to Iran war&nbsp;&nbsp;Reuters"
+        },
+        {
+          "id": "reuters-news-0-https://news.google.com/",
+          "sourceId": "reuters",
+          "source": "Reuters",
+          "sourceSite": "reuters.com",
+          "type": "news",
+          "title": "A war meant to break Iran could leave Tehran stronger, and Gulf exposed - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXpyZ0FBdkhCMjlBSVIyZmNldVdraGhZYUpFVG5raGk0YmNJc1pfSmFqSTlHYWtHY0pabmRCMnd4QlBha0JtWlZlRktJLVhoa1p4MWx2VHJpXy1wdTNEQThDZjBjRWZwMVdCcjAtTURRR0dZbGd2elRkVEFqZW5tS2N1ZnBuUmM4azBDdGZGZXplQXJCbzRjWDBvS3FPdmJnU1JiYVdHSVNuV3Zsb3gwTExHNFRVZw?oc=5\" target=\"_blank\">A war meant to break Iran could leave Tehran stronger, and Gulf exposed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXpyZ0FBdkhCMjlBSVIyZmNldVdraGhZYUpFVG5raGk0YmNJc1pfSmFqSTlHYWtHY0pabmRCMnd4QlBha0JtWlZlRktJLVhoa1p4MWx2VHJpXy1wdTNEQThDZjBjRWZwMVdCcjAtTURRR0dZbGd2elRkVEFqZW5tS2N1ZnBuUmM4azBDdGZGZXplQXJCbzRjWDBvS3FPdmJnU1JiYVdHSVNuV3Zsb3gwTExHNFRVZw?oc=5",
+          "publishedAt": "Wed, 01 Apr 2026 18:23:44 GMT",
+          "titleZh": "A war meant to break Iran could leave Tehran stronger, and Gulf exposed - Reuters",
+          "summaryZh": "A war meant to break Iran could leave Tehran stronger, and Gulf exposed&nbsp;&nbsp;Reuters"
         },
         {
           "id": "reuters-news-2-https://news.google.com/",
-          "sourceId": "reuters",
-          "source": "Reuters",
-          "sourceSite": "reuters.com",
-          "type": "news",
-          "title": "Iran war puts Middle East Dubai oil benchmark under stress as prices soar - Reuters",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOc3ZpdHJZeldOZ1VJN2FOcDFwek1FMnNNTzU0Rmd6eDRCMlk2TTVYRlVla0VPaWJncFMtc3QtaUZWNU9FcWdOdlp4U01Fek80QTdsYXJLNk55NTZMOWg5OGhyZEFYMmpPbnpOX1J5NDA5YzZaa21kNEJTZlFmb0o0ZGsyT2REUzNlTlZBN3l6R2ZwZ2hhOUppNV9reG55Z0U1RnQzNmVoYmNHQlpobzRYU2VSaGtLX2gxM3lhLW5RWQ?oc=5\" target=\"_blank\">Iran war puts Middle East Dubai oil benchmark under stress as prices soar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc3ZpdHJZeldOZ1VJN2FOcDFwek1FMnNNTzU0Rmd6eDRCMlk2TTVYRlVla0VPaWJncFMtc3QtaUZWNU9FcWdOdlp4U01Fek80QTdsYXJLNk55NTZMOWg5OGhyZEFYMmpPbnpOX1J5NDA5YzZaa21kNEJTZlFmb0o0ZGsyT2REUzNlTlZBN3l6R2ZwZ2hhOUppNV9reG55Z0U1RnQzNmVoYmNHQlpobzRYU2VSaGtLX2gxM3lhLW5RWQ?oc=5",
-          "publishedAt": "Wed, 01 Apr 2026 14:49:18 GMT",
-          "titleZh": "Iran war puts Middle East Dubai oil benchmark under stress as prices soar - Reuters",
-          "summaryZh": "Iran war puts Middle East Dubai oil benchmark under stress as prices soar&nbsp;&nbsp;Reuters"
-        },
-        {
-          "id": "reuters-news-4-https://news.google.com/",
-          "sourceId": "reuters",
-          "source": "Reuters",
-          "sourceSite": "reuters.com",
-          "type": "news",
-          "title": "UK's Starmer calls for closer Europe ties as Iran war strains US relations - Reuters",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQY1NvTkdHTjhWWkNGczJQdWhfZ3ZYTnV3QVRla18xSmxHRWU4M0ZvSkQwUmhveGl6ZERLZFRpbDh5N1dGMzJmVGUzdXEyN0wzM0pxcjl3Wks5TE9mMEJ6MUN5eFloNFlVNWgxX3paUV9CUXFxcDdqUUYzeDJ5OTRhME9kSmh3QVg0TC1hUFNVbFZmaVRrSXltZ1Q4UXN5TDExenRlb2pjeGJJeFBqUm5weQ?oc=5\" target=\"_blank\">UK's Starmer calls for closer Europe ties as Iran war strains US relations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY1NvTkdHTjhWWkNGczJQdWhfZ3ZYTnV3QVRla18xSmxHRWU4M0ZvSkQwUmhveGl6ZERLZFRpbDh5N1dGMzJmVGUzdXEyN0wzM0pxcjl3Wks5TE9mMEJ6MUN5eFloNFlVNWgxX3paUV9CUXFxcDdqUUYzeDJ5OTRhME9kSmh3QVg0TC1hUFNVbFZmaVRrSXltZ1Q4UXN5TDExenRlb2pjeGJJeFBqUm5weQ?oc=5",
-          "publishedAt": "Wed, 01 Apr 2026 14:26:54 GMT",
-          "titleZh": "UK's Starmer calls for closer Europe ties as Iran war strains US relations - Reuters",
-          "summaryZh": "UK's Starmer calls for closer Europe ties as Iran war strains US relations&nbsp;&nbsp;Reuters"
-        },
-        {
-          "id": "reuters-news-3-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -426,30 +374,30 @@
           "summaryZh": "Trump says US may exit Iran war soon and threatens to quit NATO&nbsp;&nbsp;Reuters"
         },
         {
-          "id": "reuters-news-0-https://news.google.com/",
+          "id": "reuters-news-3-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
           "type": "news",
-          "title": "Two-thirds of Americans want quick end to Iran war even if goals unachieved, Reuters/Ipsos poll finds - Reuters",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa1FpVmpfRVM5WWlNWmxuN244bmtfb3lsdGhDVHlhSkF1Q01sODZjRHVJOFZhVG5jQ0s4SUxvelcwQU05SWlKQ0lZcjFJWWJqTk1PRk1QSGNkYWFzV3FZdzdEcDNsWnZyOGxPb2VkYXJhQS1taHhUVS1PVXNGOWlJMTA5YWhmRnZwSHkwanBjbW9NcDlySlRjc2sxaU9Fb09hVWNDaElRUUVhb2xNSWRNbHFfMXRvb09XWFkzWTd4NE8?oc=5\" target=\"_blank\">Two-thirds of Americans want quick end to Iran war even if goals unachieved, Reuters/Ipsos poll finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa1FpVmpfRVM5WWlNWmxuN244bmtfb3lsdGhDVHlhSkF1Q01sODZjRHVJOFZhVG5jQ0s4SUxvelcwQU05SWlKQ0lZcjFJWWJqTk1PRk1QSGNkYWFzV3FZdzdEcDNsWnZyOGxPb2VkYXJhQS1taHhUVS1PVXNGOWlJMTA5YWhmRnZwSHkwanBjbW9NcDlySlRjc2sxaU9Fb09hVWNDaElRUUVhb2xNSWRNbHFfMXRvb09XWFkzWTd4NE8?oc=5",
-          "publishedAt": "Tue, 31 Mar 2026 21:03:00 GMT",
-          "titleZh": "Two-thirds of Americans want quick end to Iran war even if goals unachieved, Reuters/Ipsos poll finds - Reuters",
-          "summaryZh": "Two-thirds of Americans want quick end to Iran war even if goals unachieved, Reuters/Ipsos poll finds&nbsp;&nbsp;Reuters"
+          "title": "Natural gas prices soar as Iran, Israel strike Middle East energy infrastructure - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOck93Y2M1dEJEZU50VEZvUkxsQVdQMHZPR2dGdFBSTTA0ZVdPNEtOZ2tSa296dHhoLXg5bHdZRC14aTRtelR0OGNKdGRvMWFJd25fb01rby1MajRuUGZJZEdnU0MtX3B5QWxxMUtIdDR0c2ZkakVQOHdhM2pHVjlQTFRXeXF1UXhpd1BfaTRITk1Ja3BaT09mN2RlMTFyMkh6ZThYdXFTVk9Bb0xoZDFESWxwYXRLX2xfRk9MVnpmVUpSNmdVbF9Xb3lR?oc=5\" target=\"_blank\">Natural gas prices soar as Iran, Israel strike Middle East energy infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOck93Y2M1dEJEZU50VEZvUkxsQVdQMHZPR2dGdFBSTTA0ZVdPNEtOZ2tSa296dHhoLXg5bHdZRC14aTRtelR0OGNKdGRvMWFJd25fb01rby1MajRuUGZJZEdnU0MtX3B5QWxxMUtIdDR0c2ZkakVQOHdhM2pHVjlQTFRXeXF1UXhpd1BfaTRITk1Ja3BaT09mN2RlMTFyMkh6ZThYdXFTVk9Bb0xoZDFESWxwYXRLX2xfRk9MVnpmVUpSNmdVbF9Xb3lR?oc=5",
+          "publishedAt": "Thu, 19 Mar 2026 07:00:00 GMT",
+          "titleZh": "Natural gas prices soar as Iran, Israel strike Middle East energy infrastructure - Reuters",
+          "summaryZh": "Natural gas prices soar as Iran, Israel strike Middle East energy infrastructure&nbsp;&nbsp;Reuters"
         },
         {
-          "id": "reuters-news-5-https://news.google.com/",
+          "id": "reuters-news-4-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
           "type": "news",
-          "title": "Iran attacks near Israeli nuclear site, fires long-range missiles for first time - Reuters",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ29IY2FJQXJoaThEam9QRDdIVGtreEprNklEd3FQQUNHeXIwX2RfOHBPc21QVlZrQ1BNa3ZvSjhXd0tXOUh0RGRVUTAyYURycGlaelk2SnJFdzBIdk9KYXlncHFxLW9qNVlNMFJiM1VPMFBnODlVSmtjb3F5bnhFal9MeHZPOEhMcjBPN2xSdWUzUlZXOUpTQTFJdmd5czI1cVVrVlRkRmVhYkxhWFB5cw?oc=5\" target=\"_blank\">Iran attacks near Israeli nuclear site, fires long-range missiles for first time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ29IY2FJQXJoaThEam9QRDdIVGtreEprNklEd3FQQUNHeXIwX2RfOHBPc21QVlZrQ1BNa3ZvSjhXd0tXOUh0RGRVUTAyYURycGlaelk2SnJFdzBIdk9KYXlncHFxLW9qNVlNMFJiM1VPMFBnODlVSmtjb3F5bnhFal9MeHZPOEhMcjBPN2xSdWUzUlZXOUpTQTFJdmd5czI1cVVrVlRkRmVhYkxhWFB5cw?oc=5",
-          "publishedAt": "Sat, 21 Mar 2026 07:00:00 GMT",
-          "titleZh": "Iran attacks near Israeli nuclear site, fires long-range missiles for first time - Reuters",
-          "summaryZh": "Iran attacks near Israeli nuclear site, fires long-range missiles for first time&nbsp;&nbsp;Reuters"
+          "title": "Iran blames Israel for gas field attack, fires missiles at Qatar and Saudi energy facilities - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTVhHMjJPUHhnUVdGdEtLWTZ3MUgwanJydGkyZkJ5bWI3WnFKVS0zREVmRGF4RzBhU1FUT1VEWjJLUXZ5VFBRaUtzdGtONGY3MHdlZDV2SkU5Yzc4cWEwdmJuY2sxSVl5NEtITXpRMFotTHltQkRIX2ZobHZVQ1NmZFp2bExPbjhuZW1WUm1WLW5DMlBkVjVNYjhWMWE4emR4MnhNb3k4ajlVU1l3YWtuQnY4eng4bWI0Zkhv?oc=5\" target=\"_blank\">Iran blames Israel for gas field attack, fires missiles at Qatar and Saudi energy facilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTVhHMjJPUHhnUVdGdEtLWTZ3MUgwanJydGkyZkJ5bWI3WnFKVS0zREVmRGF4RzBhU1FUT1VEWjJLUXZ5VFBRaUtzdGtONGY3MHdlZDV2SkU5Yzc4cWEwdmJuY2sxSVl5NEtITXpRMFotTHltQkRIX2ZobHZVQ1NmZFp2bExPbjhuZW1WUm1WLW5DMlBkVjVNYjhWMWE4emR4MnhNb3k4ajlVU1l3YWtuQnY4eng4bWI0Zkhv?oc=5",
+          "publishedAt": "Wed, 18 Mar 2026 07:00:00 GMT",
+          "titleZh": "Iran blames Israel for gas field attack, fires missiles at Qatar and Saudi energy facilities - Reuters",
+          "summaryZh": "Iran blames Israel for gas field attack, fires missiles at Qatar and Saudi energy facilities&nbsp;&nbsp;Reuters"
         }
       ]
     },
@@ -466,12 +414,38 @@
           "title": "Iran denies Trump's claim it requested ceasefire, calling it 'false and baseless' - BBC",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE43VTBSLTEwZVlycV9SYVNDOUEtb2FRekFMMnM4WTlQSHdxcFhZc3NDcWU1ZlFnanlpVE9fbl9hNEhEeU8teHRIZ2RNZjQ3N2kzckY3bg?oc=5\" target=\"_blank\">Iran denies Trump's claim it requested ceasefire, calling it 'false and baseless'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43VTBSLTEwZVlycV9SYVNDOUEtb2FRekFMMnM4WTlQSHdxcFhZc3NDcWU1ZlFnanlpVE9fbl9hNEhEeU8teHRIZ2RNZjQ3N2kzckY3bg?oc=5",
-          "publishedAt": "Wed, 01 Apr 2026 18:52:20 GMT",
+          "publishedAt": "Wed, 01 Apr 2026 21:17:42 GMT",
           "titleZh": "Iran denies Trump's claim it requested ceasefire, calling it 'false and baseless' - BBC",
           "summaryZh": "Iran denies Trump's claim it requested ceasefire, calling it 'false and baseless'&nbsp;&nbsp;BBC"
         },
         {
-          "id": "bbc-news-2-https://news.google.com/",
+          "id": "bbc-news-1-https://news.google.com/",
+          "sourceId": "bbc",
+          "source": "BBC",
+          "sourceSite": "bbc.com",
+          "type": "news",
+          "title": "Israel's perpetual war with Iran may be hard to win with military might alone - BBC",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XY3c4aE5zNTBVWlJ0V0VCTjdneGlad3Zscjh1emhpSTgyV1dKdzZ2N3pmTG9vclp6dW5OR3N0V0VvMVRNQl9xcVl1Y0VNeTY3bG5zTThla3Radw?oc=5\" target=\"_blank\">Israel's perpetual war with Iran may be hard to win with military might alone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XY3c4aE5zNTBVWlJ0V0VCTjdneGlad3Zscjh1emhpSTgyV1dKdzZ2N3pmTG9vclp6dW5OR3N0V0VvMVRNQl9xcVl1Y0VNeTY3bG5zTThla3Radw?oc=5",
+          "publishedAt": "Wed, 01 Apr 2026 19:23:52 GMT",
+          "titleZh": "Israel's perpetual war with Iran may be hard to win with military might alone - BBC",
+          "summaryZh": "Israel's perpetual war with Iran may be hard to win with military might alone&nbsp;&nbsp;BBC"
+        },
+        {
+          "id": "bbc-news-4-https://news.google.com/",
+          "sourceId": "bbc",
+          "source": "BBC",
+          "sourceSite": "bbc.com",
+          "type": "news",
+          "title": "Rachel Reeves says she's angry at Trump's decision to launch war with Iran - BBC",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vdm15ZXB0YllaRUNXMlFqNWVFM3RjekN5SmktVFNaZ2ZkYVRfTmV2TWRfb1g0dHZuSkxoN05xUFRqSmhtbkpGaVJXYXhwZ2NDcjhRcG1PaW9Vdw?oc=5\" target=\"_blank\">Rachel Reeves says she's angry at Trump's decision to launch war with Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vdm15ZXB0YllaRUNXMlFqNWVFM3RjekN5SmktVFNaZ2ZkYVRfTmV2TWRfb1g0dHZuSkxoN05xUFRqSmhtbkpGaVJXYXhwZ2NDcjhRcG1PaW9Vdw?oc=5",
+          "publishedAt": "Wed, 01 Apr 2026 19:11:50 GMT",
+          "titleZh": "Rachel Reeves says she's angry at Trump's decision to launch war with Iran - BBC",
+          "summaryZh": "Rachel Reeves says she's angry at Trump's decision to launch war with Iran&nbsp;&nbsp;BBC"
+        },
+        {
+          "id": "bbc-news-3-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -484,20 +458,7 @@
           "summaryZh": "Trump to give primetime address on Iran war as questions swirl over his next move&nbsp;&nbsp;BBC"
         },
         {
-          "id": "bbc-news-7-https://news.google.com/",
-          "sourceId": "bbc",
-          "source": "BBC",
-          "sourceSite": "bbc.com",
-          "type": "news",
-          "title": "UK will seek closer ties with EU in light of Iran war, Starmer says - BBC",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1SG04aER3X0dBcG5UdHF3U2drYXpqeGRzd0d1Y1ZIdmtLUnRnNFRFMlRVNVBUbzJpdUtHU0ZMNFFfemdIVndkalNyZlBiQkE5LU9ZRjVpSjFsQQ?oc=5\" target=\"_blank\">UK will seek closer ties with EU in light of Iran war, Starmer says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1SG04aER3X0dBcG5UdHF3U2drYXpqeGRzd0d1Y1ZIdmtLUnRnNFRFMlRVNVBUbzJpdUtHU0ZMNFFfemdIVndkalNyZlBiQkE5LU9ZRjVpSjFsQQ?oc=5",
-          "publishedAt": "Wed, 01 Apr 2026 16:12:45 GMT",
-          "titleZh": "UK will seek closer ties with EU in light of Iran war, Starmer says - BBC",
-          "summaryZh": "UK will seek closer ties with EU in light of Iran war, Starmer says&nbsp;&nbsp;BBC"
-        },
-        {
-          "id": "bbc-news-1-https://news.google.com/",
+          "id": "bbc-news-2-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -510,7 +471,7 @@
           "summaryZh": "US could 'finish the job' in Iran in two or three weeks, Trump says&nbsp;&nbsp;BBC"
         },
         {
-          "id": "bbc-news-6-https://news.google.com/",
+          "id": "bbc-news-8-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -521,19 +482,6 @@
           "publishedAt": "Wed, 01 Apr 2026 11:49:28 GMT",
           "titleZh": "Why did US and Israel attack Iran and how long could the war last? - BBC",
           "summaryZh": "Why did US and Israel attack Iran and how long could the war last?&nbsp;&nbsp;BBC"
-        },
-        {
-          "id": "bbc-news-4-https://news.google.com/",
-          "sourceId": "bbc",
-          "source": "BBC",
-          "sourceSite": "bbc.com",
-          "type": "news",
-          "title": "Iran war economic shocks will last 'months', says Australia's PM - BBC",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mZWR6OTk3ZUMySk1FbzhsVHRDb3Z0bUx4UlpvQ2F6bHJ3NUxNTEFwY3ZZQ3JzOW9WVWRXb2ZWVlFPTUVFU1NzOFRyT3Q0SGtKUVVJWjVSenlmdw?oc=5\" target=\"_blank\">Iran war economic shocks will last 'months', says Australia's PM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mZWR6OTk3ZUMySk1FbzhsVHRDb3Z0bUx4UlpvQ2F6bHJ3NUxNTEFwY3ZZQ3JzOW9WVWRXb2ZWVlFPTUVFU1NzOFRyT3Q0SGtKUVVJWjVSenlmdw?oc=5",
-          "publishedAt": "Wed, 01 Apr 2026 10:53:03 GMT",
-          "titleZh": "Iran war economic shocks will last 'months', says Australia's PM - BBC",
-          "summaryZh": "Iran war economic shocks will last 'months', says Australia's PM&nbsp;&nbsp;BBC"
         }
       ]
     },
@@ -543,6 +491,19 @@
       "items": [
         {
           "id": "aljazeera-news-2-https://news.google.com/",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "sourceSite": "aljazeera.com",
+          "type": "news",
+          "title": "‘Which interests being served by war?’ Iran’s Pezeshkian asks US public - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVWdJcjdXU3RPVUNZbnRZN2paMVFycEFtU0Y2ckk0YWV2MmNmUUxCSWFTcWg0YkRVZm9RMV9PTE5ZNHVnNExsU19sOXJka2F1S29XN1NwNjdtM0lfMkhCSmRwWDBDM3k5NG1yaVZkdG15bTNoV21faU9ncDlwNjc2aUIySjR6TXZaRklGY05mWFlmQUVhTHlEWU85ZmFQR3RyVnJIbzNkMDZPd3fSAbABQVVfeXFMTzZKajVjZWdMREVOdnIwTTBPNDVYNXVoWndiT192R184bDYzaS1La3NVMlhHeFJ5S1V6R2hXd2c4Z0o3a01NTERiQjRFUDk0a1J0WF9vMVFPdlBnTnhfOC0yTXBZZjN0d1JleDJkeE1vZWZwWG14bmo2VXVhdTlLMUxGVnBQY2M5MDZqNVdnOEdha0htRVUwQmlYdE9oNkZKOUN5R2l0ejlSV3MtWUt4UHE?oc=5\" target=\"_blank\">‘Which interests being served by war?’ Iran’s Pezeshkian asks US public</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVWdJcjdXU3RPVUNZbnRZN2paMVFycEFtU0Y2ckk0YWV2MmNmUUxCSWFTcWg0YkRVZm9RMV9PTE5ZNHVnNExsU19sOXJka2F1S29XN1NwNjdtM0lfMkhCSmRwWDBDM3k5NG1yaVZkdG15bTNoV21faU9ncDlwNjc2aUIySjR6TXZaRklGY05mWFlmQUVhTHlEWU85ZmFQR3RyVnJIbzNkMDZPd3fSAbABQVVfeXFMTzZKajVjZWdMREVOdnIwTTBPNDVYNXVoWndiT192R184bDYzaS1La3NVMlhHeFJ5S1V6R2hXd2c4Z0o3a01NTERiQjRFUDk0a1J0WF9vMVFPdlBnTnhfOC0yTXBZZjN0d1JleDJkeE1vZWZwWG14bmo2VXVhdTlLMUxGVnBQY2M5MDZqNVdnOEdha0htRVUwQmlYdE9oNkZKOUN5R2l0ejlSV3MtWUt4UHE?oc=5",
+          "publishedAt": "Wed, 01 Apr 2026 21:00:00 GMT",
+          "titleZh": "‘Which interests being served by war?’ Iran’s Pezeshkian asks US public - Al Jazeera",
+          "summaryZh": "‘Which interests being served by war?’ Iran’s Pezeshkian asks US public&nbsp;&nbsp;Al Jazeera"
+        },
+        {
+          "id": "aljazeera-news-4-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -568,19 +529,6 @@
           "summaryZh": "War on Iran: Three key takeaways from Araghchi’s interview with Al Jazeera&nbsp;&nbsp;Al Jazeera"
         },
         {
-          "id": "aljazeera-news-5-https://news.google.com/",
-          "sourceId": "aljazeera",
-          "source": "Al Jazeera",
-          "sourceSite": "aljazeera.com",
-          "type": "news",
-          "title": "Iran denies Trump’s claim Iranian president requested ceasefire - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNOWZla1dhMVVUZzFQNnpCUEhYZFU1eGVpUUdIRzZSUlpFWXhfZ0dTYzVPUFdWSFRKZ1B1Yzk0RHNhNmZEdUZ3dV9CYkVkUm5DLWJhRGxkdUVKUGZPQ3BWZmE2cVZYNlAwR1JJSFEzNFVCSjMxczlHcmpQTnpJR3VmQUR2Q2ZJaVlIN0M2enNweFhzdnJocmY1YkkxNUljM19Xa0w1YtIBqgFBVV95cUxQSkYtMGFaZ05yOEJPRkhJbTlGRWpZelNVcjJTcTVfX2VEUnZBemt1TlRpNWNFS3ZXSnVyNmVzdmY2V0NpcC1qV0tORTNqRHllZkNqQVJhZnVfOFc5RDROYTdlR1d1SG5NOTVfRUNJX0lrbW9SdlZqNlZzU1RDcURpRGdMVFBmcDhaOWVIbFg0X1VCcWdFY19MVko3dmM0ell3ZkowdWtndDFTdw?oc=5\" target=\"_blank\">Iran denies Trump’s claim Iranian president requested ceasefire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOWZla1dhMVVUZzFQNnpCUEhYZFU1eGVpUUdIRzZSUlpFWXhfZ0dTYzVPUFdWSFRKZ1B1Yzk0RHNhNmZEdUZ3dV9CYkVkUm5DLWJhRGxkdUVKUGZPQ3BWZmE2cVZYNlAwR1JJSFEzNFVCSjMxczlHcmpQTnpJR3VmQUR2Q2ZJaVlIN0M2enNweFhzdnJocmY1YkkxNUljM19Xa0w1YtIBqgFBVV95cUxQSkYtMGFaZ05yOEJPRkhJbTlGRWpZelNVcjJTcTVfX2VEUnZBemt1TlRpNWNFS3ZXSnVyNmVzdmY2V0NpcC1qV0tORTNqRHllZkNqQVJhZnVfOFc5RDROYTdlR1d1SG5NOTVfRUNJX0lrbW9SdlZqNlZzU1RDcURpRGdMVFBmcDhaOWVIbFg0X1VCcWdFY19MVko3dmM0ell3ZkowdWtndDFTdw?oc=5",
-          "publishedAt": "Wed, 01 Apr 2026 15:23:55 GMT",
-          "titleZh": "Iran denies Trump’s claim Iranian president requested ceasefire - Al Jazeera",
-          "summaryZh": "Iran denies Trump’s claim Iranian president requested ceasefire&nbsp;&nbsp;Al Jazeera"
-        },
-        {
           "id": "aljazeera-news-1-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
@@ -589,9 +537,22 @@
           "title": "Iran War: What a Marine Expeditionary Unit is – and other US military terms - Al Jazeera",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOQlR4R09idDNZSS1WNlBZbF94Z1RwY0JDdkN5U3ZrcFdkRjgyWkpzLV9kVXFuZEtwNEo2ektVRm9hNlpNUlRGTWNGX1dFWFMzMUxwV1NsOXh0WktwQjJyaV85V2hscmU3TG5rSERhQV9aZDJQaGpBLU9icUpxM2FsbEpQVldISTZPYTdpZlIxU3pSdmUyWFFyZGQzbWo3ZjBoVjFpRHRRRXhIenhGMTdjMG530gG3AUFVX3lxTFBsTmxCWW5KaEEwVVhiQW95bkhPTnVDbTM0NWt2SEhFQVRTME9hbjFBdjFtQVVEUWJ0MWV4b3VMZ2Y2SlFiWVd5WkNNa0FSTE9VTjlzcWFLOVZLcGd4c3RSLU93NXl6aFZQQUpWRE5qV1NBeXloaW85TjFaUjJwU1R2MmxnVGVBRDdrVUhxOExtRWRhdUplcTNwWVNubHZMaXFISV9QMVpuWjctekxzTUlabzJaZ2h3MA?oc=5\" target=\"_blank\">Iran War: What a Marine Expeditionary Unit is – and other US military terms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQlR4R09idDNZSS1WNlBZbF94Z1RwY0JDdkN5U3ZrcFdkRjgyWkpzLV9kVXFuZEtwNEo2ektVRm9hNlpNUlRGTWNGX1dFWFMzMUxwV1NsOXh0WktwQjJyaV85V2hscmU3TG5rSERhQV9aZDJQaGpBLU9icUpxM2FsbEpQVldISTZPYTdpZlIxU3pSdmUyWFFyZGQzbWo3ZjBoVjFpRHRRRXhIenhGMTdjMG530gG3AUFVX3lxTFBsTmxCWW5KaEEwVVhiQW95bkhPTnVDbTM0NWt2SEhFQVRTME9hbjFBdjFtQVVEUWJ0MWV4b3VMZ2Y2SlFiWVd5WkNNa0FSTE9VTjlzcWFLOVZLcGd4c3RSLU93NXl6aFZQQUpWRE5qV1NBeXloaW85TjFaUjJwU1R2MmxnVGVBRDdrVUhxOExtRWRhdUplcTNwWVNubHZMaXFISV9QMVpuWjctekxzTUlabzJaZ2h3MA?oc=5",
-          "publishedAt": "Wed, 01 Apr 2026 15:17:42 GMT",
+          "publishedAt": "Wed, 01 Apr 2026 15:23:55 GMT",
           "titleZh": "Iran War: What a Marine Expeditionary Unit is – and other US military terms - Al Jazeera",
           "summaryZh": "Iran War: What a Marine Expeditionary Unit is – and other US military terms&nbsp;&nbsp;Al Jazeera"
+        },
+        {
+          "id": "aljazeera-news-5-https://news.google.com/",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "sourceSite": "aljazeera.com",
+          "type": "news",
+          "title": "Iran denies Trump’s claim Iranian president requested ceasefire - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNOWZla1dhMVVUZzFQNnpCUEhYZFU1eGVpUUdIRzZSUlpFWXhfZ0dTYzVPUFdWSFRKZ1B1Yzk0RHNhNmZEdUZ3dV9CYkVkUm5DLWJhRGxkdUVKUGZPQ3BWZmE2cVZYNlAwR1JJSFEzNFVCSjMxczlHcmpQTnpJR3VmQUR2Q2ZJaVlIN0M2enNweFhzdnJocmY1YkkxNUljM19Xa0w1Yg?oc=5\" target=\"_blank\">Iran denies Trump’s claim Iranian president requested ceasefire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOWZla1dhMVVUZzFQNnpCUEhYZFU1eGVpUUdIRzZSUlpFWXhfZ0dTYzVPUFdWSFRKZ1B1Yzk0RHNhNmZEdUZ3dV9CYkVkUm5DLWJhRGxkdUVKUGZPQ3BWZmE2cVZYNlAwR1JJSFEzNFVCSjMxczlHcmpQTnpJR3VmQUR2Q2ZJaVlIN0M2enNweFhzdnJocmY1YkkxNUljM19Xa0w1Yg?oc=5",
+          "publishedAt": "Wed, 01 Apr 2026 15:23:55 GMT",
+          "titleZh": "Iran denies Trump’s claim Iranian president requested ceasefire - Al Jazeera",
+          "summaryZh": "Iran denies Trump’s claim Iranian president requested ceasefire&nbsp;&nbsp;Al Jazeera"
         },
         {
           "id": "aljazeera-news-6-https://news.google.com/",
@@ -599,25 +560,12 @@
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
           "type": "news",
-          "title": "Russia imposing ban on all gasoline exports due to Iran war - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPNWRTaUdCMV9kTXFsMndzNHd4RVctOE93STVSN0dlSVVOazFNVklNVlFBZzhyakRkLUlzZ2J1Y24wV2JhZ2xpS2FBb1ppUHlyalJ2UGFoREtITVlEemFGeXNRSEpsckxEdlZKblVqdjc3dlljUGJfM3A4LVJOUFdsZWI0aGJZZjEwQnlwUVl5R01nQ21XSVJNd24wNXdxY25paWw0NV9mNEZMWUNYbHfSAbMBQVVfeXFMT3RWQWxyYno2WXNxVlZHc0hjaFpKMEFFYzdlbkhCUkExNjd1ZkFyb0toZjBJSXgtVnd3M1Z5RDBrMG4wM0I2VEhoS0xjSkdGcVF1RkM3Y2N1SS1KTlZWUmV4OEI2NjRSdHBoWGNtZXBYT3BsaFVCYUxOUDdXTTh1MHVVaC12T3RVNmtWUzFQUHhhV2R2SUtxMFNfV2tmTXV0UVBSaDYwdVNzdGJRMVJ3LU5DVWM?oc=5\" target=\"_blank\">Russia imposing ban on all gasoline exports due to Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNWRTaUdCMV9kTXFsMndzNHd4RVctOE93STVSN0dlSVVOazFNVklNVlFBZzhyakRkLUlzZ2J1Y24wV2JhZ2xpS2FBb1ppUHlyalJ2UGFoREtITVlEemFGeXNRSEpsckxEdlZKblVqdjc3dlljUGJfM3A4LVJOUFdsZWI0aGJZZjEwQnlwUVl5R01nQ21XSVJNd24wNXdxY25paWw0NV9mNEZMWUNYbHfSAbMBQVVfeXFMT3RWQWxyYno2WXNxVlZHc0hjaFpKMEFFYzdlbkhCUkExNjd1ZkFyb0toZjBJSXgtVnd3M1Z5RDBrMG4wM0I2VEhoS0xjSkdGcVF1RkM3Y2N1SS1KTlZWUmV4OEI2NjRSdHBoWGNtZXBYT3BsaFVCYUxOUDdXTTh1MHVVaC12T3RVNmtWUzFQUHhhV2R2SUtxMFNfV2tmTXV0UVBSaDYwdVNzdGJRMVJ3LU5DVWM?oc=5",
-          "publishedAt": "Wed, 01 Apr 2026 13:31:27 GMT",
-          "titleZh": "Russia imposing ban on all gasoline exports due to Iran war - Al Jazeera",
-          "summaryZh": "Russia imposing ban on all gasoline exports due to Iran war&nbsp;&nbsp;Al Jazeera"
-        },
-        {
-          "id": "aljazeera-news-7-https://news.google.com/",
-          "sourceId": "aljazeera",
-          "source": "Al Jazeera",
-          "sourceSite": "aljazeera.com",
-          "type": "news",
-          "title": "‘Permanent scar’: Iran minister on US-Israeli attacks on monuments - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPUUdUQVBUazlOQzhRYm9RSWt0MlJ4LXFaSGl1UURxS0Z4REM4ZFUwR3QxbU9UNmliTElZVkJWLVdaSlRQQ3RTbU1oMTUwNkJmRDNsODhxNFNxRWtUWlZvdVo4OHhCY2FEZkFlNC01akxDS0dsQU5zd0NCY0RjaFFNel81ZHNsMlhnbmlxYVVKY1lUMWx0b0h3X0M2blBPWGZ5UFN1bzBMODd0VkFEMGMzOHVvMXTSAboBQVVfeXFMTUE4UlBHd0RwSTRGb0Rtd2l5U0xuZS03aW4zWlJCa0lPTWlpNWprTWxkeUlwZlVxWGIyWnVYVDM0eTB4RlRmcDlDOTJOZ1ZxRWFKREY2TzY4c3BQNHFRNjVZell6WUw2VThuYkFOSURodnFDNkRkY2ZHYWNfN1NBb0VSRjRwMERsUTN3UHh3UVFVNG50LWN2UTZzRGRfYzBwZXlHcjgyb2F2UmtGOFVsZi02RVluMlZwTXpR?oc=5\" target=\"_blank\">‘Permanent scar’: Iran minister on US-Israeli attacks on monuments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUUdUQVBUazlOQzhRYm9RSWt0MlJ4LXFaSGl1UURxS0Z4REM4ZFUwR3QxbU9UNmliTElZVkJWLVdaSlRQQ3RTbU1oMTUwNkJmRDNsODhxNFNxRWtUWlZvdVo4OHhCY2FEZkFlNC01akxDS0dsQU5zd0NCY0RjaFFNel81ZHNsMlhnbmlxYVVKY1lUMWx0b0h3X0M2blBPWGZ5UFN1bzBMODd0VkFEMGMzOHVvMXTSAboBQVVfeXFMTUE4UlBHd0RwSTRGb0Rtd2l5U0xuZS03aW4zWlJCa0lPTWlpNWprTWxkeUlwZlVxWGIyWnVYVDM0eTB4RlRmcDlDOTJOZ1ZxRWFKREY2TzY4c3BQNHFRNjVZell6WUw2VThuYkFOSURodnFDNkRkY2ZHYWNfN1NBb0VSRjRwMERsUTN3UHh3UVFVNG50LWN2UTZzRGRfYzBwZXlHcjgyb2F2UmtGOFVsZi02RVluMlZwTXpR?oc=5",
-          "publishedAt": "Wed, 01 Apr 2026 12:46:27 GMT",
-          "titleZh": "‘Permanent scar’: Iran minister on US-Israeli attacks on monuments - Al Jazeera",
-          "summaryZh": "‘Permanent scar’: Iran minister on US-Israeli attacks on monuments&nbsp;&nbsp;Al Jazeera"
+          "title": "How are NATO allies pushing back against Trump’s Iran war demands? - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNdGdjdlZvWnh3Y2Z1Yzc2VV9HOUxGWjdaTGNveWE2emc3RWg0MXM5NDBDQW45QUZieUVVZG5zMy1QYjFhdWFGdUhZbWFZek84YWFqTHctblRfWGFCcldiY2VwV1FNRHVvNTlhamdSRjZBRlhoNlprQXZOaWROZ21mVGFjOHU5dzF2RkJhVmtWd2lUN21ZU3M4TFZqWGtJUzZ0NEJKOE9vY9IBrAFBVV95cUxOcy1wMG53bzFzLWFTQTVYd0ZGSWZxNkRpUE5yOFl5WDhjRF8xREVhWEt3UmgzWVEyRUJhMGRNdlY2NlpsNDFzajlXTEsyNGdzREdGeDFqS3ZiY3ZvM3BDaHRxbHJlN2RRMWkxd0FFVnlUdWhPbnVKdGotSDh6R0pQajRIQUFxeWpVTy16TDVpOC02MTIwMVdtODVtVGlQbndXbXo5R01xaFVET3VU?oc=5\" target=\"_blank\">How are NATO allies pushing back against Trump’s Iran war demands?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdGdjdlZvWnh3Y2Z1Yzc2VV9HOUxGWjdaTGNveWE2emc3RWg0MXM5NDBDQW45QUZieUVVZG5zMy1QYjFhdWFGdUhZbWFZek84YWFqTHctblRfWGFCcldiY2VwV1FNRHVvNTlhamdSRjZBRlhoNlprQXZOaWROZ21mVGFjOHU5dzF2RkJhVmtWd2lUN21ZU3M4TFZqWGtJUzZ0NEJKOE9vY9IBrAFBVV95cUxOcy1wMG53bzFzLWFTQTVYd0ZGSWZxNkRpUE5yOFl5WDhjRF8xREVhWEt3UmgzWVEyRUJhMGRNdlY2NlpsNDFzajlXTEsyNGdzREdGeDFqS3ZiY3ZvM3BDaHRxbHJlN2RRMWkxd0FFVnlUdWhPbnVKdGotSDh6R0pQajRIQUFxeWpVTy16TDVpOC02MTIwMVdtODVtVGlQbndXbXo5R01xaFVET3VU?oc=5",
+          "publishedAt": "Wed, 01 Apr 2026 12:09:52 GMT",
+          "titleZh": "How are NATO allies pushing back against Trump’s Iran war demands? - Al Jazeera",
+          "summaryZh": "How are NATO allies pushing back against Trump’s Iran war demands?&nbsp;&nbsp;Al Jazeera"
         }
       ]
     },
@@ -629,17 +577,43 @@
   ],
   "commentary": [
     {
+      "id": "foreignpolicy-commentary-1-https://news.google.com/",
+      "sourceId": "foreignpolicy",
+      "source": "Foreign Policy",
+      "sourceSite": "foreignpolicy.com",
+      "type": "commentary",
+      "title": "Tehran Is Setting a Trap for Trump - foreignpolicy.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPQVdCeEpFSTVIZFd2TGpmTXV1Zm00M2hodDBMVWc3LTZMaVZXVkFNaFBHM2FLb3dKYWRmUFc1MEMyZkdTeHhzdklaRzlkWWx1SjNSLVhUbXp0dHdOVmVUUEdXTHI2VUVuZmNUOXRJMkxvS2VWV1UwSlJtbWlPVHJxYU9IcE95ZV96bnF1WWxtYncwYUdDNW1J?oc=5\" target=\"_blank\">Tehran Is Setting a Trap for Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">foreignpolicy.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQVdCeEpFSTVIZFd2TGpmTXV1Zm00M2hodDBMVWc3LTZMaVZXVkFNaFBHM2FLb3dKYWRmUFc1MEMyZkdTeHhzdklaRzlkWWx1SjNSLVhUbXp0dHdOVmVUUEdXTHI2VUVuZmNUOXRJMkxvS2VWV1UwSlJtbWlPVHJxYU9IcE95ZV96bnF1WWxtYncwYUdDNW1J?oc=5",
+      "publishedAt": "Wed, 01 Apr 2026 19:06:15 GMT",
+      "titleZh": "Tehran Is Setting a Trap for Trump - foreignpolicy.com",
+      "summaryZh": "Tehran Is Setting a Trap for Trump&nbsp;&nbsp;foreignpolicy.com"
+    },
+    {
       "id": "foreignpolicy-commentary-0-https://news.google.com/",
       "sourceId": "foreignpolicy",
       "source": "Foreign Policy",
       "sourceSite": "foreignpolicy.com",
       "type": "commentary",
-      "title": "Tehran Is Setting a Trap for Trump - Foreign Policy",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1GSU0tbjdWNU9JZUFsRWFfWW4zdGUzTlhyUXdDZXJSX1J0eFRkTUxVNERYYUpJN1V4VkVrZE1xalRtdkhkMV9hNU9aQkpyOHc1NnRSc2FfZnpyTWdYY2NCT09UZHd2LTFOQ2I1NE4wVnV3OGNrdWtJ?oc=5\" target=\"_blank\">Tehran Is Setting a Trap for Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Policy</font>",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GSU0tbjdWNU9JZUFsRWFfWW4zdGUzTlhyUXdDZXJSX1J0eFRkTUxVNERYYUpJN1V4VkVrZE1xalRtdkhkMV9hNU9aQkpyOHc1NnRSc2FfZnpyTWdYY2NCT09UZHd2LTFOQ2I1NE4wVnV3OGNrdWtJ?oc=5",
-      "publishedAt": "Wed, 01 Apr 2026 15:17:02 GMT",
-      "titleZh": "Tehran Is Setting a Trap for Trump - Foreign Policy",
-      "summaryZh": "Tehran Is Setting a Trap for Trump&nbsp;&nbsp;Foreign Policy"
+      "title": "What a U.S. Operation to Get Iran’s Uranium Would Look Like - foreignpolicy.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQYjRYd1RkcFZKZzVsVnZzMnNNb3pLVTNYODFZaDlJcWR4MjRlRXZnRTdhb3kyMzJ3N1RvTEdGZkk5YktYak14OEpGbTk1a1cwTzU2TGp1OW41SnZBbmI3ZXZQRUJJR1FJTjRVRGdyZmVlekVNTFhaY1Qwc2R1c2JEeU9tWW5DVnl2ZXZnTENIcjJmdHNyeXN5QklBNVNIODlaM0wtYg?oc=5\" target=\"_blank\">What a U.S. Operation to Get Iran’s Uranium Would Look Like</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">foreignpolicy.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYjRYd1RkcFZKZzVsVnZzMnNNb3pLVTNYODFZaDlJcWR4MjRlRXZnRTdhb3kyMzJ3N1RvTEdGZkk5YktYak14OEpGbTk1a1cwTzU2TGp1OW41SnZBbmI3ZXZQRUJJR1FJTjRVRGdyZmVlekVNTFhaY1Qwc2R1c2JEeU9tWW5DVnl2ZXZnTENIcjJmdHNyeXN5QklBNVNIODlaM0wtYg?oc=5",
+      "publishedAt": "Wed, 01 Apr 2026 18:16:12 GMT",
+      "titleZh": "What a U.S. Operation to Get Iran’s Uranium Would Look Like - foreignpolicy.com",
+      "summaryZh": "What a U.S. Operation to Get Iran’s Uranium Would Look Like&nbsp;&nbsp;foreignpolicy.com"
+    },
+    {
+      "id": "nytimes-commentary-7-https://news.google.com/",
+      "sourceId": "nytimes",
+      "source": "The New York Times",
+      "sourceSite": "nytimes.com",
+      "type": "commentary",
+      "title": "‘I Don’t Care About That’: Trump Says Iran’s Enriched Uranium Is Not a Concern - The New York Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOd25rdC16bUFiT2stelVRc1N4T3dJQ2t6Yy1XN2sxYVFvUGVRTGY3anlFS0pFME9GTWp4UHVSZ1pFWklURmE5SE9TV1dCdHVDSUxXbEp3UTZMOEprdHdyYzBPX2p6ZmtQbXBIN1h0RFJzcl9RTnJIVzZBcy0zcGV2WUp5WlhFamhsT1E?oc=5\" target=\"_blank\">‘I Don’t Care About That’: Trump Says Iran’s Enriched Uranium Is Not a Concern</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd25rdC16bUFiT2stelVRc1N4T3dJQ2t6Yy1XN2sxYVFvUGVRTGY3anlFS0pFME9GTWp4UHVSZ1pFWklURmE5SE9TV1dCdHVDSUxXbEp3UTZMOEprdHdyYzBPX2p6ZmtQbXBIN1h0RFJzcl9RTnJIVzZBcy0zcGV2WUp5WlhFamhsT1E?oc=5",
+      "publishedAt": "Wed, 01 Apr 2026 16:23:11 GMT",
+      "titleZh": "‘I Don’t Care About That’: Trump Says Iran’s Enriched Uranium Is Not a Concern - The New York Times",
+      "summaryZh": "‘I Don’t Care About That’: Trump Says Iran’s Enriched Uranium Is Not a Concern&nbsp;&nbsp;The New York Times"
     },
     {
       "id": "economist-commentary-0-https://news.google.com/",
@@ -655,56 +629,43 @@
       "summaryZh": "Iran’s opposition in exile is rethinking its support for the war&nbsp;&nbsp;The Economist"
     },
     {
-      "id": "foreignpolicy-commentary-5-https://news.google.com/",
+      "id": "economist-commentary-5-https://news.google.com/",
+      "sourceId": "economist",
+      "source": "The Economist",
+      "sourceSite": "economist.com",
+      "type": "commentary",
+      "title": "War with Iran could accelerate Africa’s oil revival - The Economist",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOdm1WVFpTS0xESmhIeUpHWGRRWjZjRjhGTDlfUjR2Um1qbEdPOGlzcV9qMy1ndlMyanNsYW1ydTlHOUtzSlNpeE9VQktFaXdmcTJMZGtLa3U0WTR6bzN4T1BXUVhPb05nMDJldVp1UkZRLWVyREpjaVNkS3BkZ05sM0NnS092VlMtcndid0RQSWJMbjZ1bmMwRjlXQ0U?oc=5\" target=\"_blank\">War with Iran could accelerate Africa’s oil revival</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdm1WVFpTS0xESmhIeUpHWGRRWjZjRjhGTDlfUjR2Um1qbEdPOGlzcV9qMy1ndlMyanNsYW1ydTlHOUtzSlNpeE9VQktFaXdmcTJMZGtLa3U0WTR6bzN4T1BXUVhPb05nMDJldVp1UkZRLWVyREpjaVNkS3BkZ05sM0NnS092VlMtcndid0RQSWJMbjZ1bmMwRjlXQ0U?oc=5",
+      "publishedAt": "Wed, 01 Apr 2026 12:51:24 GMT",
+      "titleZh": "War with Iran could accelerate Africa’s oil revival - The Economist",
+      "summaryZh": "War with Iran could accelerate Africa’s oil revival&nbsp;&nbsp;The Economist"
+    },
+    {
+      "id": "foreignpolicy-commentary-6-https://news.google.com/",
       "sourceId": "foreignpolicy",
       "source": "Foreign Policy",
       "sourceSite": "foreignpolicy.com",
       "type": "commentary",
-      "title": "Trump’s Iran War Is a Dilemma, Not a Debacle - Foreign Policy",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxONHRXN0lJaGk5anVFYmJMM1FhbE43TExqenlDYnBjLXVvRW5XUkR1VEJkMHdkQjF4VjF6VFd5d3JGQmhtS3JGb28xbzlpR3hrdTFGZlZRa0hqNWVCWGFCSzhsRVFHRk14aGswdVp1R1ZUZ1VOdHRweFc1TmFZOWxLcDFsWWJJbW1lWjJ4V0VEZFEzckxBXzl6OVZR?oc=5\" target=\"_blank\">Trump’s Iran War Is a Dilemma, Not a Debacle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Policy</font>",
+      "title": "Trump’s Iran War Is a Dilemma, Not a Debacle - foreignpolicy.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxONHRXN0lJaGk5anVFYmJMM1FhbE43TExqenlDYnBjLXVvRW5XUkR1VEJkMHdkQjF4VjF6VFd5d3JGQmhtS3JGb28xbzlpR3hrdTFGZlZRa0hqNWVCWGFCSzhsRVFHRk14aGswdVp1R1ZUZ1VOdHRweFc1TmFZOWxLcDFsWWJJbW1lWjJ4V0VEZFEzckxBXzl6OVZR?oc=5\" target=\"_blank\">Trump’s Iran War Is a Dilemma, Not a Debacle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">foreignpolicy.com</font>",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONHRXN0lJaGk5anVFYmJMM1FhbE43TExqenlDYnBjLXVvRW5XUkR1VEJkMHdkQjF4VjF6VFd5d3JGQmhtS3JGb28xbzlpR3hrdTFGZlZRa0hqNWVCWGFCSzhsRVFHRk14aGswdVp1R1ZUZ1VOdHRweFc1TmFZOWxLcDFsWWJJbW1lWjJ4V0VEZFEzckxBXzl6OVZR?oc=5",
       "publishedAt": "Wed, 01 Apr 2026 10:32:41 GMT",
-      "titleZh": "Trump’s Iran War Is a Dilemma, Not a Debacle - Foreign Policy",
-      "summaryZh": "Trump’s Iran War Is a Dilemma, Not a Debacle&nbsp;&nbsp;Foreign Policy"
+      "titleZh": "Trump’s Iran War Is a Dilemma, Not a Debacle - foreignpolicy.com",
+      "summaryZh": "Trump’s Iran War Is a Dilemma, Not a Debacle&nbsp;&nbsp;foreignpolicy.com"
     },
     {
-      "id": "foreignaffairs-commentary-0-https://news.google.com/",
-      "sourceId": "foreignaffairs",
-      "source": "Foreign Affairs",
-      "sourceSite": "foreignaffairs.com",
-      "type": "commentary",
-      "title": "The Third Islamic Republic: A War’s Unintended Consequences—for Iran, the Middle East, and the Global Order - Foreign Affairs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBMWmZFUkRCZ0dRNmI5Tnpnb3ZrMVFxVVZUdFJjR21RczliYWRVd0d0VWVWZVQxVDlVZHRJZ1ZIenZnSk1GUXdFanBPVlF1ejdlNVZ0dm9ja0dXMWhZZXNOcGVJd0dCSnBWUC1qd3hpbk9FT3RWS1Z1MXFB?oc=5\" target=\"_blank\">The Third Islamic Republic: A War’s Unintended Consequences—for Iran, the Middle East, and the Global Order</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMWmZFUkRCZ0dRNmI5Tnpnb3ZrMVFxVVZUdFJjR21RczliYWRVd0d0VWVWZVQxVDlVZHRJZ1ZIenZnSk1GUXdFanBPVlF1ejdlNVZ0dm9ja0dXMWhZZXNOcGVJd0dCSnBWUC1qd3hpbk9FT3RWS1Z1MXFB?oc=5",
-      "publishedAt": "Wed, 01 Apr 2026 04:00:00 GMT",
-      "titleZh": "The Third Islamic Republic: A War’s Unintended Consequences—for Iran, the Middle East, and the Global Order - Foreign Affairs",
-      "summaryZh": "The Third Islamic Republic: A War’s Unintended Consequences—for Iran, the Middle East, and the Global Order&nbsp;&nbsp;Foreign Affairs"
-    },
-    {
-      "id": "foreignpolicy-commentary-3-https://news.google.com/",
+      "id": "foreignpolicy-commentary-4-https://news.google.com/",
       "sourceId": "foreignpolicy",
       "source": "Foreign Policy",
       "sourceSite": "foreignpolicy.com",
       "type": "commentary",
-      "title": "Iran Flexes Its Cyber Chops - Foreign Policy",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQclE3U3R6UWRkQkVYcFJTSHlQU2dwam1WSnR1aUhOR1E1MEtOV2RZbW1TbUZUcmRtSHU3NURxd19URXZObV80N0VOOU9zQTVIbTB6V0dVUmtFWW1qeWY2aVpEVmQ3SGR2cktKbE9hSU1iRjV2c2Y3UERXY3BwTUFrMlJBVkUwb0RxYWlxZkZaX2lqaDF6Qm9CR2tJOXdtNzc1SHpaYw?oc=5\" target=\"_blank\">Iran Flexes Its Cyber Chops</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Policy</font>",
+      "title": "Iran Flexes Its Cyber Chops - foreignpolicy.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQclE3U3R6UWRkQkVYcFJTSHlQU2dwam1WSnR1aUhOR1E1MEtOV2RZbW1TbUZUcmRtSHU3NURxd19URXZObV80N0VOOU9zQTVIbTB6V0dVUmtFWW1qeWY2aVpEVmQ3SGR2cktKbE9hSU1iRjV2c2Y3UERXY3BwTUFrMlJBVkUwb0RxYWlxZkZaX2lqaDF6Qm9CR2tJOXdtNzc1SHpaYw?oc=5\" target=\"_blank\">Iran Flexes Its Cyber Chops</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">foreignpolicy.com</font>",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQclE3U3R6UWRkQkVYcFJTSHlQU2dwam1WSnR1aUhOR1E1MEtOV2RZbW1TbUZUcmRtSHU3NURxd19URXZObV80N0VOOU9zQTVIbTB6V0dVUmtFWW1qeWY2aVpEVmQ3SGR2cktKbE9hSU1iRjV2c2Y3UERXY3BwTUFrMlJBVkUwb0RxYWlxZkZaX2lqaDF6Qm9CR2tJOXdtNzc1SHpaYw?oc=5",
       "publishedAt": "Wed, 01 Apr 2026 02:30:25 GMT",
-      "titleZh": "Iran Flexes Its Cyber Chops - Foreign Policy",
-      "summaryZh": "Iran Flexes Its Cyber Chops&nbsp;&nbsp;Foreign Policy"
-    },
-    {
-      "id": "foreignpolicy-commentary-1-https://news.google.com/",
-      "sourceId": "foreignpolicy",
-      "source": "Foreign Policy",
-      "sourceSite": "foreignpolicy.com",
-      "type": "commentary",
-      "title": "Iran Says It Will Target U.S. Tech Companies in the Middle East - Foreign Policy",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQcXpxMU5jdTlJZE1oZ2ZIODE1Q3Qydmlnc2dxOE5XdGlOS0pRbXZwbnRLOUlqUE9zMXJhaHNBTUo5TEF1QkdtSmI4eGFienlqTkMxN0JnVDJQM09RRGRFMFdyM0NfTVJiWkhmdzJOb0xRN3ZFX2h0amNHTTUxaHZFVmNiUUZKdlAtTTFTM1RfWHFTcDhDaW5pVDZnNVhEdlRwUlRjd3dka0JFUVVHNDcyejBjdw?oc=5\" target=\"_blank\">Iran Says It Will Target U.S. Tech Companies in the Middle East</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Policy</font>",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcXpxMU5jdTlJZE1oZ2ZIODE1Q3Qydmlnc2dxOE5XdGlOS0pRbXZwbnRLOUlqUE9zMXJhaHNBTUo5TEF1QkdtSmI4eGFienlqTkMxN0JnVDJQM09RRGRFMFdyM0NfTVJiWkhmdzJOb0xRN3ZFX2h0amNHTTUxaHZFVmNiUUZKdlAtTTFTM1RfWHFTcDhDaW5pVDZnNVhEdlRwUlRjd3dka0JFUVVHNDcyejBjdw?oc=5",
-      "publishedAt": "Tue, 31 Mar 2026 21:28:00 GMT",
-      "titleZh": "Iran Says It Will Target U.S. Tech Companies in the Middle East - Foreign Policy",
-      "summaryZh": "Iran Says It Will Target U.S. Tech Companies in the Middle East&nbsp;&nbsp;Foreign Policy"
+      "titleZh": "Iran Flexes Its Cyber Chops - foreignpolicy.com",
+      "summaryZh": "Iran Flexes Its Cyber Chops&nbsp;&nbsp;foreignpolicy.com"
     },
     {
       "id": "foreignpolicy-commentary-2-https://news.google.com/",
@@ -712,12 +673,25 @@
       "source": "Foreign Policy",
       "sourceSite": "foreignpolicy.com",
       "type": "commentary",
-      "title": "Five Scenarios for a U.S. Ground War on Iran - Foreign Policy",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNbVZVSGlla08ydUNhRmdOTGZUbDIzYUwxanRubE12RmxmUy1iWHdKMFhRUFNPVlpRVm14YTJ5V21JQ2N1RnJBX2c3alVDMHNYQUZzdllsTnd6UTVNS1JxLU1WNks2UGNUeF9zUXpDclZlNWdRazRNQlA5ZURBOVlfSUpDdWZERlBSQ0gxWUY2QnBDSzlkVVItcg?oc=5\" target=\"_blank\">Five Scenarios for a U.S. Ground War on Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Policy</font>",
+      "title": "Iran Says It Will Target U.S. Tech Companies in the Middle East - foreignpolicy.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQcXpxMU5jdTlJZE1oZ2ZIODE1Q3Qydmlnc2dxOE5XdGlOS0pRbXZwbnRLOUlqUE9zMXJhaHNBTUo5TEF1QkdtSmI4eGFienlqTkMxN0JnVDJQM09RRGRFMFdyM0NfTVJiWkhmdzJOb0xRN3ZFX2h0amNHTTUxaHZFVmNiUUZKdlAtTTFTM1RfWHFTcDhDaW5pVDZnNVhEdlRwUlRjd3dka0JFUVVHNDcyejBjdw?oc=5\" target=\"_blank\">Iran Says It Will Target U.S. Tech Companies in the Middle East</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">foreignpolicy.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcXpxMU5jdTlJZE1oZ2ZIODE1Q3Qydmlnc2dxOE5XdGlOS0pRbXZwbnRLOUlqUE9zMXJhaHNBTUo5TEF1QkdtSmI4eGFienlqTkMxN0JnVDJQM09RRGRFMFdyM0NfTVJiWkhmdzJOb0xRN3ZFX2h0amNHTTUxaHZFVmNiUUZKdlAtTTFTM1RfWHFTcDhDaW5pVDZnNVhEdlRwUlRjd3dka0JFUVVHNDcyejBjdw?oc=5",
+      "publishedAt": "Tue, 31 Mar 2026 21:28:00 GMT",
+      "titleZh": "Iran Says It Will Target U.S. Tech Companies in the Middle East - foreignpolicy.com",
+      "summaryZh": "Iran Says It Will Target U.S. Tech Companies in the Middle East&nbsp;&nbsp;foreignpolicy.com"
+    },
+    {
+      "id": "foreignpolicy-commentary-3-https://news.google.com/",
+      "sourceId": "foreignpolicy",
+      "source": "Foreign Policy",
+      "sourceSite": "foreignpolicy.com",
+      "type": "commentary",
+      "title": "Five Scenarios for a U.S. Ground War on Iran - foreignpolicy.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNbVZVSGlla08ydUNhRmdOTGZUbDIzYUwxanRubE12RmxmUy1iWHdKMFhRUFNPVlpRVm14YTJ5V21JQ2N1RnJBX2c3alVDMHNYQUZzdllsTnd6UTVNS1JxLU1WNks2UGNUeF9zUXpDclZlNWdRazRNQlA5ZURBOVlfSUpDdWZERlBSQ0gxWUY2QnBDSzlkVVItcg?oc=5\" target=\"_blank\">Five Scenarios for a U.S. Ground War on Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">foreignpolicy.com</font>",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbVZVSGlla08ydUNhRmdOTGZUbDIzYUwxanRubE12RmxmUy1iWHdKMFhRUFNPVlpRVm14YTJ5V21JQ2N1RnJBX2c3alVDMHNYQUZzdllsTnd6UTVNS1JxLU1WNks2UGNUeF9zUXpDclZlNWdRazRNQlA5ZURBOVlfSUpDdWZERlBSQ0gxWUY2QnBDSzlkVVItcg?oc=5",
       "publishedAt": "Tue, 31 Mar 2026 20:35:44 GMT",
-      "titleZh": "Five Scenarios for a U.S. Ground War on Iran - Foreign Policy",
-      "summaryZh": "Five Scenarios for a U.S. Ground War on Iran&nbsp;&nbsp;Foreign Policy"
+      "titleZh": "Five Scenarios for a U.S. Ground War on Iran - foreignpolicy.com",
+      "summaryZh": "Five Scenarios for a U.S. Ground War on Iran&nbsp;&nbsp;foreignpolicy.com"
     },
     {
       "id": "economist-commentary-1-https://news.google.com/",
@@ -759,59 +733,20 @@
       "summaryZh": "Opinion | An Ominous U.S. Threat Against Iran&nbsp;&nbsp;The New York Times"
     },
     {
-      "id": "economist-commentary-7-https://news.google.com/",
-      "sourceId": "economist",
-      "source": "The Economist",
-      "sourceSite": "economist.com",
-      "type": "commentary",
-      "title": "Refine and dandy: Iran’s war bounty - The Economist",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOYUVZM1NKQWtRdy1PVFdXOW5leEdpY0FvZWNja08wWXRuRUMzM1BsdWQ4V2RmSVBnZXU5cUxTZUEtZGIySUxxcjZVUzhNWExiMDdQYVZ2OWNHTEluYm1BdXZmMzhreTZHQ2c1XzM1cDVFV0x5cmE1X2lob1BoMVN5ME9UWWVjZw?oc=5\" target=\"_blank\">Refine and dandy: Iran’s war bounty</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYUVZM1NKQWtRdy1PVFdXOW5leEdpY0FvZWNja08wWXRuRUMzM1BsdWQ4V2RmSVBnZXU5cUxTZUEtZGIySUxxcjZVUzhNWExiMDdQYVZ2OWNHTEluYm1BdXZmMzhreTZHQ2c1XzM1cDVFV0x5cmE1X2lob1BoMVN5ME9UWWVjZw?oc=5",
-      "publishedAt": "Tue, 31 Mar 2026 10:22:24 GMT",
-      "titleZh": "Refine and dandy: Iran’s war bounty - The Economist",
-      "summaryZh": "Refine and dandy: Iran’s war bounty&nbsp;&nbsp;The Economist"
-    },
-    {
-      "id": "foreignaffairs-commentary-1-https://news.google.com/",
-      "sourceId": "foreignaffairs",
-      "source": "Foreign Affairs",
-      "sourceSite": "foreignaffairs.com",
-      "type": "commentary",
-      "title": "The Real War for Iran’s Future - Foreign Affairs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UeFktbHl6TmN4VUl2YnhDY1NaUjhKckloRUxxQldnbDlBMUxibEFmWHlNcUZMNGRZZWU2aUVXZXFLdm5tWGlvU1h6Wk03WGgwalhKZk1kMU9MeXYyckwwOVJXTEJqVm9l?oc=5\" target=\"_blank\">The Real War for Iran’s Future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UeFktbHl6TmN4VUl2YnhDY1NaUjhKckloRUxxQldnbDlBMUxibEFmWHlNcUZMNGRZZWU2aUVXZXFLdm5tWGlvU1h6Wk03WGgwalhKZk1kMU9MeXYyckwwOVJXTEJqVm9l?oc=5",
-      "publishedAt": "Tue, 31 Mar 2026 04:00:00 GMT",
-      "titleZh": "The Real War for Iran’s Future - Foreign Affairs",
-      "summaryZh": "The Real War for Iran’s Future&nbsp;&nbsp;Foreign Affairs"
-    },
-    {
-      "id": "foreignaffairs-commentary-2-https://news.google.com/",
-      "sourceId": "foreignaffairs",
-      "source": "Foreign Affairs",
-      "sourceSite": "foreignaffairs.com",
-      "type": "commentary",
-      "title": "The Iran War Comes to Iraq - Foreign Affairs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9hRE1HOVYtRk52WjFUcFQ2NVpqdzVJNk40Y1RSak1IYmk4WjRjc3VIeE01Ml9YR1RRREs2Mm5UdEc2bFZIcUR1ZHo3bG5ucHdFdXgybm9MdkU5bUNONEdja0pwTHF0UlNQa2c0TVNrZWtwQQ?oc=5\" target=\"_blank\">The Iran War Comes to Iraq</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hRE1HOVYtRk52WjFUcFQ2NVpqdzVJNk40Y1RSak1IYmk4WjRjc3VIeE01Ml9YR1RRREs2Mm5UdEc2bFZIcUR1ZHo3bG5ucHdFdXgybm9MdkU5bUNONEdja0pwTHF0UlNQa2c0TVNrZWtwQQ?oc=5",
-      "publishedAt": "Tue, 31 Mar 2026 04:00:00 GMT",
-      "titleZh": "The Iran War Comes to Iraq - Foreign Affairs",
-      "summaryZh": "The Iran War Comes to Iraq&nbsp;&nbsp;Foreign Affairs"
-    },
-    {
-      "id": "foreignpolicy-commentary-4-https://news.google.com/",
+      "id": "foreignpolicy-commentary-5-https://news.google.com/",
       "sourceId": "foreignpolicy",
       "source": "Foreign Policy",
       "sourceSite": "foreignpolicy.com",
       "type": "commentary",
-      "title": "Trump Is Losing the War in Iran - Foreign Policy",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQWmJyM29UejlOM3BkN1lpOVdUYkdfMmZITFNuWkx6bC1TWmpQaFZjeHhNaGJDR29IX2ppd0ZjLTlhSlM2RGNqOERzYm1yWGt1V0ltSDJiMmNrX2F0bEctVlB6R1JlaHVhUGZiN2RJU2NkczB0dkNjQmZZdUd6c29JMnJvVllEV0dRQlJtQlJB?oc=5\" target=\"_blank\">Trump Is Losing the War in Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Policy</font>",
+      "title": "Trump Is Losing the War in Iran - foreignpolicy.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQWmJyM29UejlOM3BkN1lpOVdUYkdfMmZITFNuWkx6bC1TWmpQaFZjeHhNaGJDR29IX2ppd0ZjLTlhSlM2RGNqOERzYm1yWGt1V0ltSDJiMmNrX2F0bEctVlB6R1JlaHVhUGZiN2RJU2NkczB0dkNjQmZZdUd6c29JMnJvVllEV0dRQlJtQlJB?oc=5\" target=\"_blank\">Trump Is Losing the War in Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">foreignpolicy.com</font>",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWmJyM29UejlOM3BkN1lpOVdUYkdfMmZITFNuWkx6bC1TWmpQaFZjeHhNaGJDR29IX2ppd0ZjLTlhSlM2RGNqOERzYm1yWGt1V0ltSDJiMmNrX2F0bEctVlB6R1JlaHVhUGZiN2RJU2NkczB0dkNjQmZZdUd6c29JMnJvVllEV0dRQlJtQlJB?oc=5",
       "publishedAt": "Tue, 31 Mar 2026 00:43:56 GMT",
-      "titleZh": "Trump Is Losing the War in Iran - Foreign Policy",
-      "summaryZh": "Trump Is Losing the War in Iran&nbsp;&nbsp;Foreign Policy"
+      "titleZh": "Trump Is Losing the War in Iran - foreignpolicy.com",
+      "summaryZh": "Trump Is Losing the War in Iran&nbsp;&nbsp;foreignpolicy.com"
     },
     {
-      "id": "nytimes-commentary-5-https://news.google.com/",
+      "id": "nytimes-commentary-6-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -824,7 +759,7 @@
       "summaryZh": "Iran’s Fractured Leadership Is Struggling to Coordinate, Officials Say&nbsp;&nbsp;The New York Times"
     },
     {
-      "id": "economist-commentary-6-https://news.google.com/",
+      "id": "economist-commentary-7-https://news.google.com/",
       "sourceId": "economist",
       "source": "The Economist",
       "sourceSite": "economist.com",
@@ -835,19 +770,6 @@
       "publishedAt": "Mon, 30 Mar 2026 17:48:58 GMT",
       "titleZh": "The War Room newsletter: Will Trump send troops into Iran? - The Economist",
       "summaryZh": "The War Room newsletter: Will Trump send troops into Iran?&nbsp;&nbsp;The Economist"
-    },
-    {
-      "id": "foreignpolicy-commentary-7-https://news.google.com/",
-      "sourceId": "foreignpolicy",
-      "source": "Foreign Policy",
-      "sourceSite": "foreignpolicy.com",
-      "type": "commentary",
-      "title": "Iran War Shatters South Asians’ Gulf Dreams - Foreign Policy",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRWlsTDFyWXlpTDV1WHR3eXZKTGNWSTlQQ05ZLWw4MEVRMEhzYkRCcjFEcWFTbHBpUnhOeV9TclRVbW1yN203TjhDVFU0cFAtQlF4WTBzMEt2WmZNdDBwSy1Rdm9jdDBFdUx0c1pvNEgteW82MFY0U1lMNzdVcVZxdkUyMVdVakVCWkxB?oc=5\" target=\"_blank\">Iran War Shatters South Asians’ Gulf Dreams</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Policy</font>",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRWlsTDFyWXlpTDV1WHR3eXZKTGNWSTlQQ05ZLWw4MEVRMEhzYkRCcjFEcWFTbHBpUnhOeV9TclRVbW1yN203TjhDVFU0cFAtQlF4WTBzMEt2WmZNdDBwSy1Rdm9jdDBFdUx0c1pvNEgteW82MFY0U1lMNzdVcVZxdkUyMVdVakVCWkxB?oc=5",
-      "publishedAt": "Mon, 30 Mar 2026 16:45:51 GMT",
-      "titleZh": "Iran War Shatters South Asians’ Gulf Dreams - Foreign Policy",
-      "summaryZh": "Iran War Shatters South Asians’ Gulf Dreams&nbsp;&nbsp;Foreign Policy"
     },
     {
       "id": "economist-commentary-2-https://news.google.com/",
@@ -863,30 +785,17 @@
       "summaryZh": "After Iran, gold is looking less glittery&nbsp;&nbsp;The Economist"
     },
     {
-      "id": "foreignpolicy-commentary-6-https://news.google.com/",
+      "id": "foreignpolicy-commentary-7-https://news.google.com/",
       "sourceId": "foreignpolicy",
       "source": "Foreign Policy",
       "sourceSite": "foreignpolicy.com",
       "type": "commentary",
-      "title": "The Iran War Has Escaped Its Authors - Foreign Policy",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPQnJRYjFHbDVnaFVpODVpVFhWWkYzbFJZZmFhUkZNMUdsU2EzNUZYSGY0cG1CZHdyajZzeVcyUTAzaGZ6MXN5U0FSS0ROalVVbHoxanBRdUptSmtlQmxqNmNPNHQ4XzBHOVJSR1FXeFlZT1hiRnJSOE5sUlAwckh4Snp0dw?oc=5\" target=\"_blank\">The Iran War Has Escaped Its Authors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Policy</font>",
+      "title": "The Iran War Has Escaped Its Authors - foreignpolicy.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPQnJRYjFHbDVnaFVpODVpVFhWWkYzbFJZZmFhUkZNMUdsU2EzNUZYSGY0cG1CZHdyajZzeVcyUTAzaGZ6MXN5U0FSS0ROalVVbHoxanBRdUptSmtlQmxqNmNPNHQ4XzBHOVJSR1FXeFlZT1hiRnJSOE5sUlAwckh4Snp0dw?oc=5\" target=\"_blank\">The Iran War Has Escaped Its Authors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">foreignpolicy.com</font>",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQnJRYjFHbDVnaFVpODVpVFhWWkYzbFJZZmFhUkZNMUdsU2EzNUZYSGY0cG1CZHdyajZzeVcyUTAzaGZ6MXN5U0FSS0ROalVVbHoxanBRdUptSmtlQmxqNmNPNHQ4XzBHOVJSR1FXeFlZT1hiRnJSOE5sUlAwckh4Snp0dw?oc=5",
       "publishedAt": "Mon, 30 Mar 2026 13:20:10 GMT",
-      "titleZh": "The Iran War Has Escaped Its Authors - Foreign Policy",
-      "summaryZh": "The Iran War Has Escaped Its Authors&nbsp;&nbsp;Foreign Policy"
-    },
-    {
-      "id": "nytimes-commentary-7-https://news.google.com/",
-      "sourceId": "nytimes",
-      "source": "The New York Times",
-      "sourceSite": "nytimes.com",
-      "type": "commentary",
-      "title": "Trump Claims ‘Regime Change’ in Iran Is Already Complete - The New York Times",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOazRsTEJBNEphYVN5c1lxTFZidlRxaHMzV21PMk5OZGY4dXYtQ3J6dzBtek9aeG56S3JUVHV6VTRYSmotUDFtbDJQS3VJdVhjbnVvUFNfaEhnWThDRS1PbnNTbFpsYmZOQ1FRblQ5RzE2SG13bi11ZDdVYlRhdWRWLXU4aWJmYnlZ?oc=5\" target=\"_blank\">Trump Claims ‘Regime Change’ in Iran Is Already Complete</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOazRsTEJBNEphYVN5c1lxTFZidlRxaHMzV21PMk5OZGY4dXYtQ3J6dzBtek9aeG56S3JUVHV6VTRYSmotUDFtbDJQS3VJdVhjbnVvUFNfaEhnWThDRS1PbnNTbFpsYmZOQ1FRblQ5RzE2SG13bi11ZDdVYlRhdWRWLXU4aWJmYnlZ?oc=5",
-      "publishedAt": "Mon, 30 Mar 2026 11:50:08 GMT",
-      "titleZh": "Trump Claims ‘Regime Change’ in Iran Is Already Complete - The New York Times",
-      "summaryZh": "Trump Claims ‘Regime Change’ in Iran Is Already Complete&nbsp;&nbsp;The New York Times"
+      "titleZh": "The Iran War Has Escaped Its Authors - foreignpolicy.com",
+      "summaryZh": "The Iran War Has Escaped Its Authors&nbsp;&nbsp;foreignpolicy.com"
     },
     {
       "id": "nytimes-commentary-4-https://news.google.com/",
@@ -900,32 +809,6 @@
       "publishedAt": "Mon, 30 Mar 2026 05:00:06 GMT",
       "titleZh": "Opinion | Across Asia, Trump’s War on Iran Is Dangerous for Everyone - The New York Times",
       "summaryZh": "Opinion | Across Asia, Trump’s War on Iran Is Dangerous for Everyone&nbsp;&nbsp;The New York Times"
-    },
-    {
-      "id": "foreignaffairs-commentary-3-https://news.google.com/",
-      "sourceId": "foreignaffairs",
-      "source": "Foreign Affairs",
-      "sourceSite": "foreignaffairs.com",
-      "type": "commentary",
-      "title": "What the Iran War Means for China - Foreign Affairs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1iOWdFSnBNSjczYjRIU04tWThYbzg2N0d1bURESVl3UmRkb3NiV0FzTTlUbmRwN1g3M2VqVm5Wd2N0T0pxV3lEU0FoVHhHTXVnWjBFU0F4VDdEM0N1Tl9sME5CdE03c1ZxZ3pPSFdDRQ?oc=5\" target=\"_blank\">What the Iran War Means for China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iOWdFSnBNSjczYjRIU04tWThYbzg2N0d1bURESVl3UmRkb3NiV0FzTTlUbmRwN1g3M2VqVm5Wd2N0T0pxV3lEU0FoVHhHTXVnWjBFU0F4VDdEM0N1Tl9sME5CdE03c1ZxZ3pPSFdDRQ?oc=5",
-      "publishedAt": "Mon, 30 Mar 2026 04:00:00 GMT",
-      "titleZh": "What the Iran War Means for China - Foreign Affairs",
-      "summaryZh": "What the Iran War Means for China&nbsp;&nbsp;Foreign Affairs"
-    },
-    {
-      "id": "foreignaffairs-commentary-6-https://news.google.com/",
-      "sourceId": "foreignaffairs",
-      "source": "Foreign Affairs",
-      "sourceSite": "foreignaffairs.com",
-      "type": "commentary",
-      "title": "How Congress Can Prevent a Quagmire in Iran - Foreign Affairs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5OTmlDaTU5Tnc3NFdNam9adzd4VjJ4YXdZQ3VUaXpLVzhsNVlab0kxdDEtTTlhYXNxMlYtRTVCVXdCUkVyOE9UTU1rclY1VGYtZlpfQ3d0anlJRUxYMmxDVFEzWVQxZ054UDd5MkxTLWhBVWRLWVN0MlJmbTFxTEE?oc=5\" target=\"_blank\">How Congress Can Prevent a Quagmire in Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OTmlDaTU5Tnc3NFdNam9adzd4VjJ4YXdZQ3VUaXpLVzhsNVlab0kxdDEtTTlhYXNxMlYtRTVCVXdCUkVyOE9UTU1rclY1VGYtZlpfQ3d0anlJRUxYMmxDVFEzWVQxZ054UDd5MkxTLWhBVWRLWVN0MlJmbTFxTEE?oc=5",
-      "publishedAt": "Mon, 30 Mar 2026 04:00:00 GMT",
-      "titleZh": "How Congress Can Prevent a Quagmire in Iran - Foreign Affairs",
-      "summaryZh": "How Congress Can Prevent a Quagmire in Iran&nbsp;&nbsp;Foreign Affairs"
     },
     {
       "id": "economist-commentary-4-https://news.google.com/",
@@ -954,20 +837,7 @@
       "summaryZh": "The Houthis’ attack on Israel may point to escalation in the Iran war&nbsp;&nbsp;The Economist"
     },
     {
-      "id": "foreignaffairs-commentary-4-https://news.google.com/",
-      "sourceId": "foreignaffairs",
-      "source": "Foreign Affairs",
-      "sourceSite": "foreignaffairs.com",
-      "type": "commentary",
-      "title": "Can America and Iran Reach a Cease-Fire? - Foreign Affairs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1wYWdYUzUzNl9kNkh4dGg3M0V3aHJ3aHlCWXNpb1QzUDNLZnB6STItRGdGeF83a0lkUzRxbzUtNzJINDhjdGE2ZHBiY2NURkx3aW5YaWNsTVpXSmNlczE1M09ZQnVURkNLb00zbFZZa0tuNEQ3RGxn?oc=5\" target=\"_blank\">Can America and Iran Reach a Cease-Fire?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wYWdYUzUzNl9kNkh4dGg3M0V3aHJ3aHlCWXNpb1QzUDNLZnB6STItRGdGeF83a0lkUzRxbzUtNzJINDhjdGE2ZHBiY2NURkx3aW5YaWNsTVpXSmNlczE1M09ZQnVURkNLb00zbFZZa0tuNEQ3RGxn?oc=5",
-      "publishedAt": "Fri, 27 Mar 2026 13:30:00 GMT",
-      "titleZh": "Can America and Iran Reach a Cease-Fire? - Foreign Affairs",
-      "summaryZh": "Can America and Iran Reach a Cease-Fire?&nbsp;&nbsp;Foreign Affairs"
-    },
-    {
-      "id": "economist-commentary-5-https://news.google.com/",
+      "id": "economist-commentary-6-https://news.google.com/",
       "sourceId": "economist",
       "source": "The Economist",
       "sourceSite": "economist.com",
@@ -978,19 +848,6 @@
       "publishedAt": "Thu, 26 Mar 2026 10:19:01 GMT",
       "titleZh": "Advantage Iran - The Economist",
       "summaryZh": "Advantage Iran&nbsp;&nbsp;The Economist"
-    },
-    {
-      "id": "foreignaffairs-commentary-5-https://news.google.com/",
-      "sourceId": "foreignaffairs",
-      "source": "Foreign Affairs",
-      "sourceSite": "foreignaffairs.com",
-      "type": "commentary",
-      "title": "Iran’s Long Game - Foreign Affairs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE0ydGMtel9kYzlJb2hZMllTSVpOYnIyMFFGZWcxWUlDd045RW8xel9QWEhNeUx6M3FKV0llRFp0cnB2NC1vbmg5Zk1HbnBvRHgwZlhqNlQzend4YnZxX0dLRw?oc=5\" target=\"_blank\">Iran’s Long Game</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0ydGMtel9kYzlJb2hZMllTSVpOYnIyMFFGZWcxWUlDd045RW8xel9QWEhNeUx6M3FKV0llRFp0cnB2NC1vbmg5Zk1HbnBvRHgwZlhqNlQzend4YnZxX0dLRw?oc=5",
-      "publishedAt": "Thu, 26 Mar 2026 04:00:00 GMT",
-      "titleZh": "Iran’s Long Game - Foreign Affairs",
-      "summaryZh": "Iran’s Long Game&nbsp;&nbsp;Foreign Affairs"
     },
     {
       "id": "nytimes-commentary-3-https://news.google.com/",
@@ -1019,7 +876,7 @@
       "summaryZh": "Opinion | For Putin, the War in Iran Changed Everything&nbsp;&nbsp;The New York Times"
     },
     {
-      "id": "nytimes-commentary-6-https://news.google.com/",
+      "id": "nytimes-commentary-5-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -1030,19 +887,6 @@
       "publishedAt": "Mon, 23 Mar 2026 07:00:00 GMT",
       "titleZh": "Opinion | ‘Everything After This Will Be Harder’: Gen. Stanley McChrystal on Iran - The New York Times",
       "summaryZh": "Opinion | ‘Everything After This Will Be Harder’: Gen. Stanley McChrystal on Iran&nbsp;&nbsp;The New York Times"
-    },
-    {
-      "id": "foreignaffairs-commentary-7-https://news.google.com/",
-      "sourceId": "foreignaffairs",
-      "source": "Foreign Affairs",
-      "sourceSite": "foreignaffairs.com",
-      "type": "commentary",
-      "title": "How America’s War on Iran Backfired - Foreign Affairs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQRENvVU1vVzJGc1Y1QWIwZzVjaUYtUzAyaHdVQWc4VjRsZU03NDBvOUVJQkM4OXNpRFhYTEI0ZkNBZ1N0NXZ1SkxYb2RGRFRJak9mbm9ETk1yc2dsWVNmU3hpSzhWbXlMTXFLLTVldTMxUjhSdm50d1dQa0h0cnI0TDZB?oc=5\" target=\"_blank\">How America’s War on Iran Backfired</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRENvVU1vVzJGc1Y1QWIwZzVjaUYtUzAyaHdVQWc4VjRsZU03NDBvOUVJQkM4OXNpRFhYTEI0ZkNBZ1N0NXZ1SkxYb2RGRFRJak9mbm9ETk1yc2dsWVNmU3hpSzhWbXlMTXFLLTVldTMxUjhSdm50d1dQa0h0cnI0TDZB?oc=5",
-      "publishedAt": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "titleZh": "How America’s War on Iran Backfired - Foreign Affairs",
-      "summaryZh": "How America’s War on Iran Backfired&nbsp;&nbsp;Foreign Affairs"
     }
   ]
 }
