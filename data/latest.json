@@ -1,23 +1,49 @@
 {
-  "generatedAt": "2026-04-05T15:29:13.768Z",
-  "totalNews": 27,
+  "generatedAt": "2026-04-05T18:38:49.378Z",
+  "totalNews": 26,
   "totalCommentary": 32,
   "timeline": [
     {
-      "id": "aljazeera-news-8-https://news.google.com/",
+      "id": "bbc-news-1-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "What we know so far about rescue of US air force officer in Iran - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HcnJRNzlodFc1SlVJV3BiTTJRQWNVZEhlUEVLUFBvN3pKNFdoSG52cnptWmlIUVJHU2owU2x3SkFuSVpwaUN5S0JWMUFBMTFpaG9hdXJhUVpFQQ?oc=5\" target=\"_blank\">What we know so far about rescue of US air force officer in Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HcnJRNzlodFc1SlVJV3BiTTJRQWNVZEhlUEVLUFBvN3pKNFdoSG52cnptWmlIUVJHU2owU2x3SkFuSVpwaUN5S0JWMUFBMTFpaG9hdXJhUVpFQQ?oc=5",
+      "publishedAt": "Sun, 05 Apr 2026 17:15:34 GMT",
+      "titleZh": "What we know so far about rescue of US air force officer in Iran - BBC",
+      "summaryZh": "What we know so far about rescue of US air force officer in Iran&nbsp;&nbsp;BBC"
+    },
+    {
+      "id": "bbc-news-3-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "US airman injured but safe after rescue inside Iran, Trump says - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE03RVRtc20wMGl6RTRFRGVhdHJYQzdlbTZNSzlRcHNQMk1EUHZKRll3Zm5JMWEzMmh4WmljaDZIcXNUTW1nUUJXcURLelRKN3VGWDYxZFhjTjk5QQ?oc=5\" target=\"_blank\">US airman injured but safe after rescue inside Iran, Trump says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03RVRtc20wMGl6RTRFRGVhdHJYQzdlbTZNSzlRcHNQMk1EUHZKRll3Zm5JMWEzMmh4WmljaDZIcXNUTW1nUUJXcURLelRKN3VGWDYxZFhjTjk5QQ?oc=5",
+      "publishedAt": "Sun, 05 Apr 2026 16:46:33 GMT",
+      "titleZh": "US airman injured but safe after rescue inside Iran, Trump says - BBC",
+      "summaryZh": "US airman injured but safe after rescue inside Iran, Trump says&nbsp;&nbsp;BBC"
+    },
+    {
+      "id": "aljazeera-news-2-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
       "type": "news",
-      "title": "Kuwait’s power, water plants damaged as Iran keeps attacking Gulf states - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOLW53QmxmRndCMkNiOEdDYmo3YWNCWkYtamZwLU5iZzBtWmNiQjRHWDhmaWJUd0NUM1A2R1hINmVuUDBxMVBCaGcxRHNzNFNvN25QZkhla1hsR3VLUm5RZDRRTk9QQ1dyQmNTVlY1Q2pUNmZzT1NaVUVFQUp6NFpHbmFjb1JYUzZpYzdwbXRYM0xseXVySW9jTEJQdEJ0b0VBWWVTM1NyTGZpOXFNM2JTeNIBtgFBVV95cUxNcXZHWGd3MjF5TEIwYUZPTFFaN0lFNm9UNFhld3JKc3dDZnlDZ0YtZG0zYlIwNkh2ZENHWUFqZnlQal9tTlhTRDlBY2tuYkhhb3dRRXNDTVJEZTFRUTRObms4aENtRHJyLWEzRlJvdXRVc2lkNTNqOXNEeDlJYXkzWml6ZTZUd09MSGRJZXM2WF9sYkFoajJBY1BuU3pzZU9KNXh4UnZUY1FxajcwLVlwa3FWd3Jadw?oc=5\" target=\"_blank\">Kuwait’s power, water plants damaged as Iran keeps attacking Gulf states</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLW53QmxmRndCMkNiOEdDYmo3YWNCWkYtamZwLU5iZzBtWmNiQjRHWDhmaWJUd0NUM1A2R1hINmVuUDBxMVBCaGcxRHNzNFNvN25QZkhla1hsR3VLUm5RZDRRTk9QQ1dyQmNTVlY1Q2pUNmZzT1NaVUVFQUp6NFpHbmFjb1JYUzZpYzdwbXRYM0xseXVySW9jTEJQdEJ0b0VBWWVTM1NyTGZpOXFNM2JTeNIBtgFBVV95cUxNcXZHWGd3MjF5TEIwYUZPTFFaN0lFNm9UNFhld3JKc3dDZnlDZ0YtZG0zYlIwNkh2ZENHWUFqZnlQal9tTlhTRDlBY2tuYkhhb3dRRXNDTVJEZTFRUTRObms4aENtRHJyLWEzRlJvdXRVc2lkNTNqOXNEeDlJYXkzWml6ZTZUd09MSGRJZXM2WF9sYkFoajJBY1BuU3pzZU9KNXh4UnZUY1FxajcwLVlwa3FWd3Jadw?oc=5",
-      "publishedAt": "Sun, 05 Apr 2026 15:00:00 GMT",
-      "titleZh": "Kuwait’s power, water plants damaged as Iran keeps attacking Gulf states - Al Jazeera",
-      "summaryZh": "Kuwait’s power, water plants damaged as Iran keeps attacking Gulf states&nbsp;&nbsp;Al Jazeera"
+      "title": "Mearsheimer: No signs of quick end to US-Israel war on Iran - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPd3JkeDg3M3pXd0FCN00wQjQxbjlMc2EwdlRuZTR0SDVHVF9VRzNPNGxrOFh3QjRkTlZ2Q2V2dm5Xd295TTFEdDhZQm1LZE1XZl9nSW5KTVhDTHpKUGRBSmU3ekEzMkRqVkhxZWduRUtGcUVaUFkzOFlUNkFBM0N0UHBmcUpmWktuQjdoSjN4NFNWWkpOY0F1MElwQUhkc05yRWFlalhfdFNMVkg3Y0M1ZEhMRmdvUdIBuwFBVV95cUxPS2JCcWZvb2JjYkVFU2hLUkxXXzBWam8waHV2TjFxRlIyMF9hRUhadWRtaG9aLXY3QkF6a2RlaFcwR3hLS3lEWExRMXBuOU9qRThYMTJfMDJTZ1ZxU2NuZUo5VXFuRzlwN0xIbHBuWWxNbjlhQkozVnJPcjVfQ3dtV1VxcnRuZXBsYXpBVzdzT3U1a3h1VjF4WVpFcktNV1NrZlkwM0YtZzZZVzdKS1U1SXM1ZHhaUWppYUtr?oc=5\" target=\"_blank\">Mearsheimer: No signs of quick end to US-Israel war on Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd3JkeDg3M3pXd0FCN00wQjQxbjlMc2EwdlRuZTR0SDVHVF9VRzNPNGxrOFh3QjRkTlZ2Q2V2dm5Xd295TTFEdDhZQm1LZE1XZl9nSW5KTVhDTHpKUGRBSmU3ekEzMkRqVkhxZWduRUtGcUVaUFkzOFlUNkFBM0N0UHBmcUpmWktuQjdoSjN4NFNWWkpOY0F1MElwQUhkc05yRWFlalhfdFNMVkg3Y0M1ZEhMRmdvUdIBuwFBVV95cUxPS2JCcWZvb2JjYkVFU2hLUkxXXzBWam8waHV2TjFxRlIyMF9hRUhadWRtaG9aLXY3QkF6a2RlaFcwR3hLS3lEWExRMXBuOU9qRThYMTJfMDJTZ1ZxU2NuZUo5VXFuRzlwN0xIbHBuWWxNbjlhQkozVnJPcjVfQ3dtV1VxcnRuZXBsYXpBVzdzT3U1a3h1VjF4WVpFcktNV1NrZlkwM0YtZzZZVzdKS1U1SXM1ZHhaUWppYUtr?oc=5",
+      "publishedAt": "Sun, 05 Apr 2026 15:41:07 GMT",
+      "titleZh": "Mearsheimer: No signs of quick end to US-Israel war on Iran - Al Jazeera",
+      "summaryZh": "Mearsheimer: No signs of quick end to US-Israel war on Iran&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-2-https://news.google.com/",
+      "id": "aljazeera-news-3-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -43,7 +69,7 @@
       "summaryZh": "Iran war: What is happening on day 37 of US-Israeli attacks?&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-4-https://news.google.com/",
+      "id": "aljazeera-news-5-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -56,7 +82,7 @@
       "summaryZh": "Iran’s ex-FM Zarif proposes peace roadmap; Gulf points at erosion of trust&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-6-https://news.google.com/",
+      "id": "aljazeera-news-8-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -69,17 +95,30 @@
       "summaryZh": "Oman, Iran discuss smooth transit in Strait of Hormuz, Muscat says&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "bbc-news-1-https://news.google.com/",
-      "sourceId": "bbc",
-      "source": "BBC",
-      "sourceSite": "bbc.com",
+      "id": "reuters-news-2-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
       "type": "news",
-      "title": "What we know so far about rescue of US airman in Iran - BBC",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HcnJRNzlodFc1SlVJV3BiTTJRQWNVZEhlUEVLUFBvN3pKNFdoSG52cnptWmlIUVJHU2owU2x3SkFuSVpwaUN5S0JWMUFBMTFpaG9hdXJhUVpFQQ?oc=5\" target=\"_blank\">What we know so far about rescue of US airman in Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HcnJRNzlodFc1SlVJV3BiTTJRQWNVZEhlUEVLUFBvN3pKNFdoSG52cnptWmlIUVJHU2owU2x3SkFuSVpwaUN5S0JWMUFBMTFpaG9hdXJhUVpFQQ?oc=5",
-      "publishedAt": "Sun, 05 Apr 2026 10:07:16 GMT",
-      "titleZh": "What we know so far about rescue of US airman in Iran - BBC",
-      "summaryZh": "What we know so far about rescue of US airman in Iran&nbsp;&nbsp;BBC"
+      "title": "Israeli intelligence helped US airman rescue mission in Iran, official says - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPczEtMEcydVlaY3FLdndQN2tLZUdjekVDYmJmeEZIa0pkSW5Fc0Yxd19DendCVW5ZUzgyQ01Mc0tXaDFCX0lHUEtnQThjYXJwVFJiRXVmYXJnSUNtZWlXV0VxdENMeXhxX0dfSEU4U0p3SXJpMXdSamxZb3FuX0ptbzdrX21kSDRIekZOVXQwc2had3pNV2RaYVUySklEeXhsdm9aNzJpbjZleXJnbVNBalA5TmxTbEM3bERqNzRhOXBYVEU?oc=5\" target=\"_blank\">Israeli intelligence helped US airman rescue mission in Iran, official says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPczEtMEcydVlaY3FLdndQN2tLZUdjekVDYmJmeEZIa0pkSW5Fc0Yxd19DendCVW5ZUzgyQ01Mc0tXaDFCX0lHUEtnQThjYXJwVFJiRXVmYXJnSUNtZWlXV0VxdENMeXhxX0dfSEU4U0p3SXJpMXdSamxZb3FuX0ptbzdrX21kSDRIekZOVXQwc2had3pNV2RaYVUySklEeXhsdm9aNzJpbjZleXJnbVNBalA5TmxTbEM3bERqNzRhOXBYVEU?oc=5",
+      "publishedAt": "Sun, 05 Apr 2026 10:51:37 GMT",
+      "titleZh": "Israeli intelligence helped US airman rescue mission in Iran, official says - Reuters",
+      "summaryZh": "Israeli intelligence helped US airman rescue mission in Iran, official says&nbsp;&nbsp;Reuters"
+    },
+    {
+      "id": "aljazeera-news-9-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "‘Miraculous’: US rescues second pilot downed in Iran, Trump confirms - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQd1FMZ2pRSHN4Y1ZGME4xQ1loVGRNSnNTMU1vY1VScmc1dGxEWkQwSTY0Y1lCcWNFLUU3a0pNT0ZjdXlTaDNBaHNvX1Z1SjNPaEtHQmY2azdnUUZXS0l4VjJ1YW9XSC1mU1JRQVo0Q3RLcmpsWGQ5YzNfTDY3eDg2bFBrUTl2Q1JQbUl5cTBCazk0RjNSU1MwM01sM2Z0U1JkdjRTatIBqgFBVV95cUxPQTBzLU9WZ040SWFTdndVZ0I5eFJvTExKc1RFbmswQjZCYVZrcFdOVlBkaTI1MXc3Y1ZuNmRmS29BUjhJaTFzX28tdFBtTHN0Q3ViLUwwUzQxVVV2YklDODE2TUg4TVlPYmlSaHFBbEtQMDVLaXQwa1Y4VnRQd1BLWndnU2ZOSkVvX0wwbDB0Q3hxVTJpUGZDZ01zWVdNNV9jU25yNGtzcHhkQQ?oc=5\" target=\"_blank\">‘Miraculous’: US rescues second pilot downed in Iran, Trump confirms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd1FMZ2pRSHN4Y1ZGME4xQ1loVGRNSnNTMU1vY1VScmc1dGxEWkQwSTY0Y1lCcWNFLUU3a0pNT0ZjdXlTaDNBaHNvX1Z1SjNPaEtHQmY2azdnUUZXS0l4VjJ1YW9XSC1mU1JRQVo0Q3RLcmpsWGQ5YzNfTDY3eDg2bFBrUTl2Q1JQbUl5cTBCazk0RjNSU1MwM01sM2Z0U1JkdjRTatIBqgFBVV95cUxPQTBzLU9WZ040SWFTdndVZ0I5eFJvTExKc1RFbmswQjZCYVZrcFdOVlBkaTI1MXc3Y1ZuNmRmS29BUjhJaTFzX28tdFBtTHN0Q3ViLUwwUzQxVVV2YklDODE2TUg4TVlPYmlSaHFBbEtQMDVLaXQwa1Y4VnRQd1BLWndnU2ZOSkVvX0wwbDB0Q3hxVTJpUGZDZ01zWVdNNV9jU25yNGtzcHhkQQ?oc=5",
+      "publishedAt": "Sun, 05 Apr 2026 07:00:47 GMT",
+      "titleZh": "‘Miraculous’: US rescues second pilot downed in Iran, Trump confirms - Al Jazeera",
+      "summaryZh": "‘Miraculous’: US rescues second pilot downed in Iran, Trump confirms&nbsp;&nbsp;Al Jazeera"
     },
     {
       "id": "aljazeera-news-0-https://news.google.com/",
@@ -87,12 +126,12 @@
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
       "type": "news",
-      "title": "Iran war live: Trump vows to hit power plants, bridges over Hormuz closure - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQREpYSkZlbmRPYm5JaHkzLUdFV1lJYmZfYjI5N2Mwc3JHdHBSV0xxbXZWdGlNY1NWOHNaR3F0NnZVMU1DSVdSN0FMdjFQV3I0TWU1VmhZaFRBSUlVYWVPWC13WDlfZGxObzRUclF5dFhRcjhaam5HblRYT01IeVplbE9XQkxTVmgwWVBaZ0NLaVRaVDVCLUVYTFROdkVtNUt3V3owUko0SW9kUXFsR3hkMFUwdURiVUFiNnNBLW1B0gHDAUFVX3lxTE5iRU5PQ2tHdlBzTXR5T0RhZkswb2tXMEIyUVJpZS15dm05Q1d6R2g1X0Rta1U2Q1B3X2puYmV3Ti1LLVd5eFl4LWlGaGd6UERfYnprX0QtRWZ0S3BUVXFkaW1ROURqVVpVSmFDc2xFU29Vc0toQkpRckZTeWNFMWo5MmF1cWZha0ZxQl9IdkNuMjRpaU4zV0RLT0h3NHU1UXRlNWNfanhlcnhPREh4dElRNEJMOU5ORURfMlVRVy1fNUxkZw?oc=5\" target=\"_blank\">Iran war live: Trump vows to hit power plants, bridges over Hormuz closure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "title": "Iran war live: Tehran slams Trump’s threats over Strait of Hormuz closure - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQREpYSkZlbmRPYm5JaHkzLUdFV1lJYmZfYjI5N2Mwc3JHdHBSV0xxbXZWdGlNY1NWOHNaR3F0NnZVMU1DSVdSN0FMdjFQV3I0TWU1VmhZaFRBSUlVYWVPWC13WDlfZGxObzRUclF5dFhRcjhaam5HblRYT01IeVplbE9XQkxTVmgwWVBaZ0NLaVRaVDVCLUVYTFROdkVtNUt3V3owUko0SW9kUXFsR3hkMFUwdURiVUFiNnNBLW1B0gHDAUFVX3lxTE5iRU5PQ2tHdlBzTXR5T0RhZkswb2tXMEIyUVJpZS15dm05Q1d6R2g1X0Rta1U2Q1B3X2puYmV3Ti1LLVd5eFl4LWlGaGd6UERfYnprX0QtRWZ0S3BUVXFkaW1ROURqVVpVSmFDc2xFU29Vc0toQkpRckZTeWNFMWo5MmF1cWZha0ZxQl9IdkNuMjRpaU4zV0RLT0h3NHU1UXRlNWNfanhlcnhPREh4dElRNEJMOU5ORURfMlVRVy1fNUxkZw?oc=5\" target=\"_blank\">Iran war live: Tehran slams Trump’s threats over Strait of Hormuz closure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQREpYSkZlbmRPYm5JaHkzLUdFV1lJYmZfYjI5N2Mwc3JHdHBSV0xxbXZWdGlNY1NWOHNaR3F0NnZVMU1DSVdSN0FMdjFQV3I0TWU1VmhZaFRBSUlVYWVPWC13WDlfZGxObzRUclF5dFhRcjhaam5HblRYT01IeVplbE9XQkxTVmgwWVBaZ0NLaVRaVDVCLUVYTFROdkVtNUt3V3owUko0SW9kUXFsR3hkMFUwdURiVUFiNnNBLW1B0gHDAUFVX3lxTE5iRU5PQ2tHdlBzTXR5T0RhZkswb2tXMEIyUVJpZS15dm05Q1d6R2g1X0Rta1U2Q1B3X2puYmV3Ti1LLVd5eFl4LWlGaGd6UERfYnprX0QtRWZ0S3BUVXFkaW1ROURqVVpVSmFDc2xFU29Vc0toQkpRckZTeWNFMWo5MmF1cWZha0ZxQl9IdkNuMjRpaU4zV0RLT0h3NHU1UXRlNWNfanhlcnhPREh4dElRNEJMOU5ORURfMlVRVy1fNUxkZw?oc=5",
       "publishedAt": "Sun, 05 Apr 2026 05:21:34 GMT",
-      "titleZh": "Iran war live: Trump vows to hit power plants, bridges over Hormuz closure - Al Jazeera",
-      "summaryZh": "Iran war live: Trump vows to hit power plants, bridges over Hormuz closure&nbsp;&nbsp;Al Jazeera"
+      "titleZh": "Iran war live: Tehran slams Trump’s threats over Strait of Hormuz closure - Al Jazeera",
+      "summaryZh": "Iran war live: Tehran slams Trump’s threats over Strait of Hormuz closure&nbsp;&nbsp;Al Jazeera"
     },
     {
       "id": "bbc-news-0-https://news.google.com/",
@@ -108,7 +147,7 @@
       "summaryZh": "US and Iran trade threats to unleash 'hell' as search for missing US airman continues&nbsp;&nbsp;BBC"
     },
     {
-      "id": "aljazeera-news-3-https://news.google.com/",
+      "id": "aljazeera-news-4-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -134,33 +173,7 @@
       "summaryZh": "Satellite firm Planet Labs to indefinitely withhold Iran war images&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "reuters-news-1-https://news.google.com/",
-      "sourceId": "reuters",
-      "source": "Reuters",
-      "sourceSite": "reuters.com",
-      "type": "news",
-      "title": "US snatches airman from Iran as Trump, Israel ratchet up pressure - Reuters",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMTZTQzJkN0xHZUhpanpfYlJFMmM5aFgtUjRzemtaM2lMdXoxU1FfSlQ1elhWM0VySktNQ0puRWJQTkpvR2pRcWhsXzg0RHpENnpxdzJpN1VpNEIzVnNuNWNpZHptUW1WcDZ1aXJwZjJDdFNxc1BoUDZWZTBfaUJtWC1RcXBhT1gtYzdaTkhNV0tmT2laNTZHejk0UFJJYjJFREpHVG1IcHI2WlI5Z0xVOFBfTVZSUlR3VjJ2SzhlS2pKQUxpNkJNTXRCeTJqR1JjZ08wWWxB?oc=5\" target=\"_blank\">US snatches airman from Iran as Trump, Israel ratchet up pressure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMTZTQzJkN0xHZUhpanpfYlJFMmM5aFgtUjRzemtaM2lMdXoxU1FfSlQ1elhWM0VySktNQ0puRWJQTkpvR2pRcWhsXzg0RHpENnpxdzJpN1VpNEIzVnNuNWNpZHptUW1WcDZ1aXJwZjJDdFNxc1BoUDZWZTBfaUJtWC1RcXBhT1gtYzdaTkhNV0tmT2laNTZHejk0UFJJYjJFREpHVG1IcHI2WlI5Z0xVOFBfTVZSUlR3VjJ2SzhlS2pKQUxpNkJNTXRCeTJqR1JjZ08wWWxB?oc=5",
-      "publishedAt": "Sat, 04 Apr 2026 22:13:00 GMT",
-      "titleZh": "US snatches airman from Iran as Trump, Israel ratchet up pressure - Reuters",
-      "summaryZh": "US snatches airman from Iran as Trump, Israel ratchet up pressure&nbsp;&nbsp;Reuters"
-    },
-    {
-      "id": "reuters-news-4-https://news.google.com/",
-      "sourceId": "reuters",
-      "source": "Reuters",
-      "sourceSite": "reuters.com",
-      "type": "news",
-      "title": "Iran says it hit Israel-linked vessel in Hormuz strait - Reuters",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaDR0NGUycEFhMWVqd1g4dUtLY1lyeWhIV1JnckZwdy1oOFA2R0ZMdG4tMXpOaEdqTzA0SnFRQm0wdHdJU0VSM3NZSWZzV1AwSVlUQzB6WnFYbEotY0ZFRk1lTzd4enU1X2FjWlVvcnlmOEdiemI5NUFRdWtNZUh2TXh1c1pybVV5M3BITkU3NXM5cDZfRFJNM2xoWWdTc3M5OE9GY1ViS2s?oc=5\" target=\"_blank\">Iran says it hit Israel-linked vessel in Hormuz strait</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaDR0NGUycEFhMWVqd1g4dUtLY1lyeWhIV1JnckZwdy1oOFA2R0ZMdG4tMXpOaEdqTzA0SnFRQm0wdHdJU0VSM3NZSWZzV1AwSVlUQzB6WnFYbEotY0ZFRk1lTzd4enU1X2FjWlVvcnlmOEdiemI5NUFRdWtNZUh2TXh1c1pybVV5M3BITkU3NXM5cDZfRFJNM2xoWWdTc3M5OE9GY1ViS2s?oc=5",
-      "publishedAt": "Sat, 04 Apr 2026 22:12:43 GMT",
-      "titleZh": "Iran says it hit Israel-linked vessel in Hormuz strait - Reuters",
-      "summaryZh": "Iran says it hit Israel-linked vessel in Hormuz strait&nbsp;&nbsp;Reuters"
-    },
-    {
-      "id": "aljazeera-news-5-https://news.google.com/",
+      "id": "aljazeera-news-7-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -173,20 +186,7 @@
       "summaryZh": "Trump says Iran has 48 hours to make deal as search for US pilot continues&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-9-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "Universities hit as US, Israel ramp up attacks on Iran’s infrastructure - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQbWNxeHkwbENVaWJFT1B6M2pLajVOd21rcW9UV2NlMVlVVmVSTFZWX044czBfUE1jTDY2OE5jTThhQjVIMWxncng3Y1Zad3VXMm9MLXRDNVR0anBtaWJUdWZZaDNBQlppbEVudW9lZWVKNTBCb2wzWG1vTGVUYmdTQkJTeUtKNWpIWXNOUUFXaS1vQzFoQkt2TlJJbHRTLW9jczlMeXBqdmJNRDVMQUHSAbMBQVVfeXFMTzVvM3JXWnJjQWcxbzBRNV9CQzc1OXNoRnpxejNlcnotaFhWbml2U0s3ckhPaE05bjU1Zk8xVW5UM045SF9OUnA0VDFMVEhhb3B0anZhLUNnTWpHek1VZTh3S2oxRk9BVEFyMzhtczU3c2ozdF9FVlE2cExCNU5SeWhlUVk4Q1FIbkp5UEt3OURQQU15Zmd0bGhLWGxNTi1QbEVKMVZuZ2JPSHBJMlprR0VBLU0?oc=5\" target=\"_blank\">Universities hit as US, Israel ramp up attacks on Iran’s infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbWNxeHkwbENVaWJFT1B6M2pLajVOd21rcW9UV2NlMVlVVmVSTFZWX044czBfUE1jTDY2OE5jTThhQjVIMWxncng3Y1Zad3VXMm9MLXRDNVR0anBtaWJUdWZZaDNBQlppbEVudW9lZWVKNTBCb2wzWG1vTGVUYmdTQkJTeUtKNWpIWXNOUUFXaS1vQzFoQkt2TlJJbHRTLW9jczlMeXBqdmJNRDVMQUHSAbMBQVVfeXFMTzVvM3JXWnJjQWcxbzBRNV9CQzc1OXNoRnpxejNlcnotaFhWbml2U0s3ckhPaE05bjU1Zk8xVW5UM045SF9OUnA0VDFMVEhhb3B0anZhLUNnTWpHek1VZTh3S2oxRk9BVEFyMzhtczU3c2ozdF9FVlE2cExCNU5SeWhlUVk4Q1FIbkp5UEt3OURQQU15Zmd0bGhLWGxNTi1QbEVKMVZuZ2JPSHBJMlprR0VBLU0?oc=5",
-      "publishedAt": "Sat, 04 Apr 2026 19:19:43 GMT",
-      "titleZh": "Universities hit as US, Israel ramp up attacks on Iran’s infrastructure - Al Jazeera",
-      "summaryZh": "Universities hit as US, Israel ramp up attacks on Iran’s infrastructure&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "reuters-news-5-https://news.google.com/",
+      "id": "reuters-news-3-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -199,7 +199,7 @@
       "summaryZh": "Israel preparing for attacks on Iranian energy sites, awaits US green light, official says&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "reuters-news-2-https://news.google.com/",
+      "id": "reuters-news-1-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -212,7 +212,7 @@
       "summaryZh": "Trump weighs broader cabinet shake-up as Iran war pressure grows&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "aljazeera-news-7-https://news.google.com/",
+      "id": "aljazeera-news-6-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -238,7 +238,7 @@
       "summaryZh": "Why did US and Israel attack Iran and how long could the war last?&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-3-https://news.google.com/",
+      "id": "bbc-news-4-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -264,45 +264,6 @@
       "summaryZh": "When will the Iran war end? Tracing the Trump administration's timelines&nbsp;&nbsp;BBC"
     },
     {
-      "id": "reuters-news-3-https://news.google.com/",
-      "sourceId": "reuters",
-      "source": "Reuters",
-      "sourceSite": "reuters.com",
-      "type": "news",
-      "title": "How many people have been killed in the Iran war? - Reuters",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOFFRb2g0NENlUXF4Sk5EVEtxYVJtT0pnUWh1MldiSnI0WWFMMFNoNmR1YmZMc1ZVek1BaFVCdzctWWpnYXFfTGVULUZpUGxDWE50VGdaTnlmRkFWbUxoZDl4Z2hWTWZSRE1iYmFUV1dDUV9qTllId3UzSmQzYl94alRIQkY4elRUTDg5TDd5cjByZG9xUXR5NjFKOURYSnRYWG14LWFJZGg?oc=5\" target=\"_blank\">How many people have been killed in the Iran war?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOFFRb2g0NENlUXF4Sk5EVEtxYVJtT0pnUWh1MldiSnI0WWFMMFNoNmR1YmZMc1ZVek1BaFVCdzctWWpnYXFfTGVULUZpUGxDWE50VGdaTnlmRkFWbUxoZDl4Z2hWTWZSRE1iYmFUV1dDUV9qTllId3UzSmQzYl94alRIQkY4elRUTDg5TDd5cjByZG9xUXR5NjFKOURYSnRYWG14LWFJZGg?oc=5",
-      "publishedAt": "Fri, 03 Apr 2026 07:00:00 GMT",
-      "titleZh": "How many people have been killed in the Iran war? - Reuters",
-      "summaryZh": "How many people have been killed in the Iran war?&nbsp;&nbsp;Reuters"
-    },
-    {
-      "id": "bbc-news-4-https://news.google.com/",
-      "sourceId": "bbc",
-      "source": "BBC",
-      "sourceSite": "bbc.com",
-      "type": "news",
-      "title": "Donald Trump claims US 'nearing completion' of Iran war aims within weeks - BBC",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qeHVNMkZBTVlzelYtLWZfakRCbTZuMnRyT0VXVFRfZVdfUWFrUzhMSFRoMDJLTHZPWFRJQ0UweUN3THJJbl9wVHNUNmN2YlVqOXo0dEF5Z2JSZw?oc=5\" target=\"_blank\">Donald Trump claims US 'nearing completion' of Iran war aims within weeks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qeHVNMkZBTVlzelYtLWZfakRCbTZuMnRyT0VXVFRfZVdfUWFrUzhMSFRoMDJLTHZPWFRJQ0UweUN3THJJbl9wVHNUNmN2YlVqOXo0dEF5Z2JSZw?oc=5",
-      "publishedAt": "Thu, 02 Apr 2026 11:33:18 GMT",
-      "titleZh": "Donald Trump claims US 'nearing completion' of Iran war aims within weeks - BBC",
-      "summaryZh": "Donald Trump claims US 'nearing completion' of Iran war aims within weeks&nbsp;&nbsp;BBC"
-    },
-    {
-      "id": "bbc-news-7-https://news.google.com/",
-      "sourceId": "bbc",
-      "source": "BBC",
-      "sourceSite": "bbc.com",
-      "type": "news",
-      "title": "How the Iran war may affect your money and bills - BBC",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WOG95ZFl4N01RY2V1bGRDSzZyVERwRkxVTTRxeTQ5V21sekdpaUlFRDRfWGJzREY2NnFtWTZSVkNhaGFlVEJYeHA3RDUwQ3ZBYmxicm9BSXhJUQ?oc=5\" target=\"_blank\">How the Iran war may affect your money and bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WOG95ZFl4N01RY2V1bGRDSzZyVERwRkxVTTRxeTQ5V21sekdpaUlFRDRfWGJzREY2NnFtWTZSVkNhaGFlVEJYeHA3RDUwQ3ZBYmxicm9BSXhJUQ?oc=5",
-      "publishedAt": "Tue, 31 Mar 2026 11:19:17 GMT",
-      "titleZh": "How the Iran war may affect your money and bills - BBC",
-      "summaryZh": "How the Iran war may affect your money and bills&nbsp;&nbsp;BBC"
-    },
-    {
       "id": "bbc-news-6-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
@@ -316,7 +277,33 @@
       "summaryZh": "US-Israel war with Iran: Mapping strikes across the Middle East&nbsp;&nbsp;BBC"
     },
     {
-      "id": "reuters-news-6-https://news.google.com/",
+      "id": "bbc-news-7-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "US' and Iran's options for ending war narrow the longer it goes on - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ycDZuNWNwYWw1RFNLLTJCT29Zcm4xSll0ajM4Y1JEc1JVbV9JTnh5NHZPenN0VzJvTE5faXhRbUk1a0szcVlGUldlRHZHam1yaURNcDU5bEdTQQ?oc=5\" target=\"_blank\">US' and Iran's options for ending war narrow the longer it goes on</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ycDZuNWNwYWw1RFNLLTJCT29Zcm4xSll0ajM4Y1JEc1JVbV9JTnh5NHZPenN0VzJvTE5faXhRbUk1a0szcVlGUldlRHZHam1yaURNcDU5bEdTQQ?oc=5",
+      "publishedAt": "Mon, 23 Mar 2026 07:00:00 GMT",
+      "titleZh": "US' and Iran's options for ending war narrow the longer it goes on - BBC",
+      "summaryZh": "US' and Iran's options for ending war narrow the longer it goes on&nbsp;&nbsp;BBC"
+    },
+    {
+      "id": "bbc-news-8-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "'A direct hit' - BBC visits Israeli town after Iranian strike - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfaTRfdDgwWnlYVFVmRS14cEJ1UmtkMDJlVVNjRlpUdFhTMWZxYUk2ZEZSSHVjY3R6RXUtekNBUEJDaDF0TGgtdWlkdjFtQmRZSHUycmg0UQ?oc=5\" target=\"_blank\">'A direct hit' - BBC visits Israeli town after Iranian strike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfaTRfdDgwWnlYVFVmRS14cEJ1UmtkMDJlVVNjRlpUdFhTMWZxYUk2ZEZSSHVjY3R6RXUtekNBUEJDaDF0TGgtdWlkdjFtQmRZSHUycmg0UQ?oc=5",
+      "publishedAt": "Sun, 22 Mar 2026 07:00:00 GMT",
+      "titleZh": "'A direct hit' - BBC visits Israeli town after Iranian strike - BBC",
+      "summaryZh": "'A direct hit' - BBC visits Israeli town after Iranian strike&nbsp;&nbsp;BBC"
+    },
+    {
+      "id": "reuters-news-4-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -329,17 +316,17 @@
       "summaryZh": "Natural gas prices soar as Iran, Israel strike Middle East energy infrastructure&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "bbc-news-8-https://news.google.com/",
-      "sourceId": "bbc",
-      "source": "BBC",
-      "sourceSite": "bbc.com",
+      "id": "reuters-news-5-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
       "type": "news",
-      "title": "The US–Israel war with Iran will not end with a clear victor - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHRIWVdneHlqb2lodEVQZzBBc2lrYWkwWXVXTy1hQzlaYmVlWjdlUFBOa1l2Q1kzREREZjFwWXBYbmxobDhfSEd4V0RQWU5YR0dxM2NrYk9YM1NkRU9xU0ZkYXpYVS0tVk83TVo3dmI5cVpUSW1JREIwYVI4aTlvV1JFaTdoZEVlVDlqTU96RWVKTG5LaTVmanh6MG1TbGvSAaQBQVVfeXFMT0FWaHExU1R2Vzg5LTgzckh2b3RKTkFDcUU1bWxMVWFsRXAwQ2lGeUhZa1hZaEdMUUZDbHg1ekVqZTlEUWZjb0c2Y3JLcVpBY3NTVTA1ZFlQM1otczkyajJYZ050UGllMk54MlB5aVVGYTBMNS12QzNlcVphSnZUSmI1d2ExeUhnWFE5MFZEeDFvWW5TTVAydDVneEJ4cjM0bWRDbU4?oc=5\" target=\"_blank\">The US–Israel war with Iran will not end with a clear victor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHRIWVdneHlqb2lodEVQZzBBc2lrYWkwWXVXTy1hQzlaYmVlWjdlUFBOa1l2Q1kzREREZjFwWXBYbmxobDhfSEd4V0RQWU5YR0dxM2NrYk9YM1NkRU9xU0ZkYXpYVS0tVk83TVo3dmI5cVpUSW1JREIwYVI4aTlvV1JFaTdoZEVlVDlqTU96RWVKTG5LaTVmanh6MG1TbGvSAaQBQVVfeXFMT0FWaHExU1R2Vzg5LTgzckh2b3RKTkFDcUU1bWxMVWFsRXAwQ2lGeUhZa1hZaEdMUUZDbHg1ekVqZTlEUWZjb0c2Y3JLcVpBY3NTVTA1ZFlQM1otczkyajJYZ050UGllMk54MlB5aVVGYTBMNS12QzNlcVphSnZUSmI1d2ExeUhnWFE5MFZEeDFvWW5TTVAydDVneEJ4cjM0bWRDbU4?oc=5",
-      "publishedAt": "Thu, 19 Mar 2026 07:00:00 GMT",
-      "titleZh": "The US–Israel war with Iran will not end with a clear victor - Al Jazeera",
-      "summaryZh": "The US–Israel war with Iran will not end with a clear victor&nbsp;&nbsp;Al Jazeera"
+      "title": "Iran blames Israel for gas field attack, fires missiles at Qatar and Saudi energy facilities - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTVhHMjJPUHhnUVdGdEtLWTZ3MUgwanJydGkyZkJ5bWI3WnFKVS0zREVmRGF4RzBhU1FUT1VEWjJLUXZ5VFBRaUtzdGtONGY3MHdlZDV2SkU5Yzc4cWEwdmJuY2sxSVl5NEtITXpRMFotTHltQkRIX2ZobHZVQ1NmZFp2bExPbjhuZW1WUm1WLW5DMlBkVjVNYjhWMWE4emR4MnhNb3k4ajlVU1l3YWtuQnY4eng4bWI0Zkhv?oc=5\" target=\"_blank\">Iran blames Israel for gas field attack, fires missiles at Qatar and Saudi energy facilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTVhHMjJPUHhnUVdGdEtLWTZ3MUgwanJydGkyZkJ5bWI3WnFKVS0zREVmRGF4RzBhU1FUT1VEWjJLUXZ5VFBRaUtzdGtONGY3MHdlZDV2SkU5Yzc4cWEwdmJuY2sxSVl5NEtITXpRMFotTHltQkRIX2ZobHZVQ1NmZFp2bExPbjhuZW1WUm1WLW5DMlBkVjVNYjhWMWE4emR4MnhNb3k4ajlVU1l3YWtuQnY4eng4bWI0Zkhv?oc=5",
+      "publishedAt": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "titleZh": "Iran blames Israel for gas field attack, fires missiles at Qatar and Saudi energy facilities - Reuters",
+      "summaryZh": "Iran blames Israel for gas field attack, fires missiles at Qatar and Saudi energy facilities&nbsp;&nbsp;Reuters"
     },
     {
       "id": "bbc-news-9-https://news.google.com/",
@@ -361,6 +348,19 @@
       "source": "Reuters",
       "items": [
         {
+          "id": "reuters-news-2-https://news.google.com/",
+          "sourceId": "reuters",
+          "source": "Reuters",
+          "sourceSite": "reuters.com",
+          "type": "news",
+          "title": "Israeli intelligence helped US airman rescue mission in Iran, official says - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPczEtMEcydVlaY3FLdndQN2tLZUdjekVDYmJmeEZIa0pkSW5Fc0Yxd19DendCVW5ZUzgyQ01Mc0tXaDFCX0lHUEtnQThjYXJwVFJiRXVmYXJnSUNtZWlXV0VxdENMeXhxX0dfSEU4U0p3SXJpMXdSamxZb3FuX0ptbzdrX21kSDRIekZOVXQwc2had3pNV2RaYVUySklEeXhsdm9aNzJpbjZleXJnbVNBalA5TmxTbEM3bERqNzRhOXBYVEU?oc=5\" target=\"_blank\">Israeli intelligence helped US airman rescue mission in Iran, official says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPczEtMEcydVlaY3FLdndQN2tLZUdjekVDYmJmeEZIa0pkSW5Fc0Yxd19DendCVW5ZUzgyQ01Mc0tXaDFCX0lHUEtnQThjYXJwVFJiRXVmYXJnSUNtZWlXV0VxdENMeXhxX0dfSEU4U0p3SXJpMXdSamxZb3FuX0ptbzdrX21kSDRIekZOVXQwc2had3pNV2RaYVUySklEeXhsdm9aNzJpbjZleXJnbVNBalA5TmxTbEM3bERqNzRhOXBYVEU?oc=5",
+          "publishedAt": "Sun, 05 Apr 2026 10:51:37 GMT",
+          "titleZh": "Israeli intelligence helped US airman rescue mission in Iran, official says - Reuters",
+          "summaryZh": "Israeli intelligence helped US airman rescue mission in Iran, official says&nbsp;&nbsp;Reuters"
+        },
+        {
           "id": "reuters-news-0-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
@@ -374,33 +374,7 @@
           "summaryZh": "Satellite firm Planet Labs to indefinitely withhold Iran war images&nbsp;&nbsp;Reuters"
         },
         {
-          "id": "reuters-news-1-https://news.google.com/",
-          "sourceId": "reuters",
-          "source": "Reuters",
-          "sourceSite": "reuters.com",
-          "type": "news",
-          "title": "US snatches airman from Iran as Trump, Israel ratchet up pressure - Reuters",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMTZTQzJkN0xHZUhpanpfYlJFMmM5aFgtUjRzemtaM2lMdXoxU1FfSlQ1elhWM0VySktNQ0puRWJQTkpvR2pRcWhsXzg0RHpENnpxdzJpN1VpNEIzVnNuNWNpZHptUW1WcDZ1aXJwZjJDdFNxc1BoUDZWZTBfaUJtWC1RcXBhT1gtYzdaTkhNV0tmT2laNTZHejk0UFJJYjJFREpHVG1IcHI2WlI5Z0xVOFBfTVZSUlR3VjJ2SzhlS2pKQUxpNkJNTXRCeTJqR1JjZ08wWWxB?oc=5\" target=\"_blank\">US snatches airman from Iran as Trump, Israel ratchet up pressure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMTZTQzJkN0xHZUhpanpfYlJFMmM5aFgtUjRzemtaM2lMdXoxU1FfSlQ1elhWM0VySktNQ0puRWJQTkpvR2pRcWhsXzg0RHpENnpxdzJpN1VpNEIzVnNuNWNpZHptUW1WcDZ1aXJwZjJDdFNxc1BoUDZWZTBfaUJtWC1RcXBhT1gtYzdaTkhNV0tmT2laNTZHejk0UFJJYjJFREpHVG1IcHI2WlI5Z0xVOFBfTVZSUlR3VjJ2SzhlS2pKQUxpNkJNTXRCeTJqR1JjZ08wWWxB?oc=5",
-          "publishedAt": "Sat, 04 Apr 2026 22:13:00 GMT",
-          "titleZh": "US snatches airman from Iran as Trump, Israel ratchet up pressure - Reuters",
-          "summaryZh": "US snatches airman from Iran as Trump, Israel ratchet up pressure&nbsp;&nbsp;Reuters"
-        },
-        {
-          "id": "reuters-news-4-https://news.google.com/",
-          "sourceId": "reuters",
-          "source": "Reuters",
-          "sourceSite": "reuters.com",
-          "type": "news",
-          "title": "Iran says it hit Israel-linked vessel in Hormuz strait - Reuters",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaDR0NGUycEFhMWVqd1g4dUtLY1lyeWhIV1JnckZwdy1oOFA2R0ZMdG4tMXpOaEdqTzA0SnFRQm0wdHdJU0VSM3NZSWZzV1AwSVlUQzB6WnFYbEotY0ZFRk1lTzd4enU1X2FjWlVvcnlmOEdiemI5NUFRdWtNZUh2TXh1c1pybVV5M3BITkU3NXM5cDZfRFJNM2xoWWdTc3M5OE9GY1ViS2s?oc=5\" target=\"_blank\">Iran says it hit Israel-linked vessel in Hormuz strait</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaDR0NGUycEFhMWVqd1g4dUtLY1lyeWhIV1JnckZwdy1oOFA2R0ZMdG4tMXpOaEdqTzA0SnFRQm0wdHdJU0VSM3NZSWZzV1AwSVlUQzB6WnFYbEotY0ZFRk1lTzd4enU1X2FjWlVvcnlmOEdiemI5NUFRdWtNZUh2TXh1c1pybVV5M3BITkU3NXM5cDZfRFJNM2xoWWdTc3M5OE9GY1ViS2s?oc=5",
-          "publishedAt": "Sat, 04 Apr 2026 22:12:43 GMT",
-          "titleZh": "Iran says it hit Israel-linked vessel in Hormuz strait - Reuters",
-          "summaryZh": "Iran says it hit Israel-linked vessel in Hormuz strait&nbsp;&nbsp;Reuters"
-        },
-        {
-          "id": "reuters-news-5-https://news.google.com/",
+          "id": "reuters-news-3-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -413,7 +387,7 @@
           "summaryZh": "Israel preparing for attacks on Iranian energy sites, awaits US green light, official says&nbsp;&nbsp;Reuters"
         },
         {
-          "id": "reuters-news-2-https://news.google.com/",
+          "id": "reuters-news-1-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -426,17 +400,30 @@
           "summaryZh": "Trump weighs broader cabinet shake-up as Iran war pressure grows&nbsp;&nbsp;Reuters"
         },
         {
-          "id": "reuters-news-3-https://news.google.com/",
+          "id": "reuters-news-4-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
           "type": "news",
-          "title": "How many people have been killed in the Iran war? - Reuters",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOFFRb2g0NENlUXF4Sk5EVEtxYVJtT0pnUWh1MldiSnI0WWFMMFNoNmR1YmZMc1ZVek1BaFVCdzctWWpnYXFfTGVULUZpUGxDWE50VGdaTnlmRkFWbUxoZDl4Z2hWTWZSRE1iYmFUV1dDUV9qTllId3UzSmQzYl94alRIQkY4elRUTDg5TDd5cjByZG9xUXR5NjFKOURYSnRYWG14LWFJZGg?oc=5\" target=\"_blank\">How many people have been killed in the Iran war?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOFFRb2g0NENlUXF4Sk5EVEtxYVJtT0pnUWh1MldiSnI0WWFMMFNoNmR1YmZMc1ZVek1BaFVCdzctWWpnYXFfTGVULUZpUGxDWE50VGdaTnlmRkFWbUxoZDl4Z2hWTWZSRE1iYmFUV1dDUV9qTllId3UzSmQzYl94alRIQkY4elRUTDg5TDd5cjByZG9xUXR5NjFKOURYSnRYWG14LWFJZGg?oc=5",
-          "publishedAt": "Fri, 03 Apr 2026 07:00:00 GMT",
-          "titleZh": "How many people have been killed in the Iran war? - Reuters",
-          "summaryZh": "How many people have been killed in the Iran war?&nbsp;&nbsp;Reuters"
+          "title": "Natural gas prices soar as Iran, Israel strike Middle East energy infrastructure - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOck93Y2M1dEJEZU50VEZvUkxsQVdQMHZPR2dGdFBSTTA0ZVdPNEtOZ2tSa296dHhoLXg5bHdZRC14aTRtelR0OGNKdGRvMWFJd25fb01rby1MajRuUGZJZEdnU0MtX3B5QWxxMUtIdDR0c2ZkakVQOHdhM2pHVjlQTFRXeXF1UXhpd1BfaTRITk1Ja3BaT09mN2RlMTFyMkh6ZThYdXFTVk9Bb0xoZDFESWxwYXRLX2xfRk9MVnpmVUpSNmdVbF9Xb3lR?oc=5\" target=\"_blank\">Natural gas prices soar as Iran, Israel strike Middle East energy infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOck93Y2M1dEJEZU50VEZvUkxsQVdQMHZPR2dGdFBSTTA0ZVdPNEtOZ2tSa296dHhoLXg5bHdZRC14aTRtelR0OGNKdGRvMWFJd25fb01rby1MajRuUGZJZEdnU0MtX3B5QWxxMUtIdDR0c2ZkakVQOHdhM2pHVjlQTFRXeXF1UXhpd1BfaTRITk1Ja3BaT09mN2RlMTFyMkh6ZThYdXFTVk9Bb0xoZDFESWxwYXRLX2xfRk9MVnpmVUpSNmdVbF9Xb3lR?oc=5",
+          "publishedAt": "Thu, 19 Mar 2026 07:00:00 GMT",
+          "titleZh": "Natural gas prices soar as Iran, Israel strike Middle East energy infrastructure - Reuters",
+          "summaryZh": "Natural gas prices soar as Iran, Israel strike Middle East energy infrastructure&nbsp;&nbsp;Reuters"
+        },
+        {
+          "id": "reuters-news-5-https://news.google.com/",
+          "sourceId": "reuters",
+          "source": "Reuters",
+          "sourceSite": "reuters.com",
+          "type": "news",
+          "title": "Iran blames Israel for gas field attack, fires missiles at Qatar and Saudi energy facilities - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTVhHMjJPUHhnUVdGdEtLWTZ3MUgwanJydGkyZkJ5bWI3WnFKVS0zREVmRGF4RzBhU1FUT1VEWjJLUXZ5VFBRaUtzdGtONGY3MHdlZDV2SkU5Yzc4cWEwdmJuY2sxSVl5NEtITXpRMFotTHltQkRIX2ZobHZVQ1NmZFp2bExPbjhuZW1WUm1WLW5DMlBkVjVNYjhWMWE4emR4MnhNb3k4ajlVU1l3YWtuQnY4eng4bWI0Zkhv?oc=5\" target=\"_blank\">Iran blames Israel for gas field attack, fires missiles at Qatar and Saudi energy facilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTVhHMjJPUHhnUVdGdEtLWTZ3MUgwanJydGkyZkJ5bWI3WnFKVS0zREVmRGF4RzBhU1FUT1VEWjJLUXZ5VFBRaUtzdGtONGY3MHdlZDV2SkU5Yzc4cWEwdmJuY2sxSVl5NEtITXpRMFotTHltQkRIX2ZobHZVQ1NmZFp2bExPbjhuZW1WUm1WLW5DMlBkVjVNYjhWMWE4emR4MnhNb3k4ajlVU1l3YWtuQnY4eng4bWI0Zkhv?oc=5",
+          "publishedAt": "Wed, 18 Mar 2026 07:00:00 GMT",
+          "titleZh": "Iran blames Israel for gas field attack, fires missiles at Qatar and Saudi energy facilities - Reuters",
+          "summaryZh": "Iran blames Israel for gas field attack, fires missiles at Qatar and Saudi energy facilities&nbsp;&nbsp;Reuters"
         }
       ]
     },
@@ -450,12 +437,25 @@
           "source": "BBC",
           "sourceSite": "bbc.com",
           "type": "news",
-          "title": "What we know so far about rescue of US airman in Iran - BBC",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HcnJRNzlodFc1SlVJV3BiTTJRQWNVZEhlUEVLUFBvN3pKNFdoSG52cnptWmlIUVJHU2owU2x3SkFuSVpwaUN5S0JWMUFBMTFpaG9hdXJhUVpFQQ?oc=5\" target=\"_blank\">What we know so far about rescue of US airman in Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+          "title": "What we know so far about rescue of US air force officer in Iran - BBC",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HcnJRNzlodFc1SlVJV3BiTTJRQWNVZEhlUEVLUFBvN3pKNFdoSG52cnptWmlIUVJHU2owU2x3SkFuSVpwaUN5S0JWMUFBMTFpaG9hdXJhUVpFQQ?oc=5\" target=\"_blank\">What we know so far about rescue of US air force officer in Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HcnJRNzlodFc1SlVJV3BiTTJRQWNVZEhlUEVLUFBvN3pKNFdoSG52cnptWmlIUVJHU2owU2x3SkFuSVpwaUN5S0JWMUFBMTFpaG9hdXJhUVpFQQ?oc=5",
-          "publishedAt": "Sun, 05 Apr 2026 10:07:16 GMT",
-          "titleZh": "What we know so far about rescue of US airman in Iran - BBC",
-          "summaryZh": "What we know so far about rescue of US airman in Iran&nbsp;&nbsp;BBC"
+          "publishedAt": "Sun, 05 Apr 2026 17:15:34 GMT",
+          "titleZh": "What we know so far about rescue of US air force officer in Iran - BBC",
+          "summaryZh": "What we know so far about rescue of US air force officer in Iran&nbsp;&nbsp;BBC"
+        },
+        {
+          "id": "bbc-news-3-https://news.google.com/",
+          "sourceId": "bbc",
+          "source": "BBC",
+          "sourceSite": "bbc.com",
+          "type": "news",
+          "title": "US airman injured but safe after rescue inside Iran, Trump says - BBC",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE03RVRtc20wMGl6RTRFRGVhdHJYQzdlbTZNSzlRcHNQMk1EUHZKRll3Zm5JMWEzMmh4WmljaDZIcXNUTW1nUUJXcURLelRKN3VGWDYxZFhjTjk5QQ?oc=5\" target=\"_blank\">US airman injured but safe after rescue inside Iran, Trump says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03RVRtc20wMGl6RTRFRGVhdHJYQzdlbTZNSzlRcHNQMk1EUHZKRll3Zm5JMWEzMmh4WmljaDZIcXNUTW1nUUJXcURLelRKN3VGWDYxZFhjTjk5QQ?oc=5",
+          "publishedAt": "Sun, 05 Apr 2026 16:46:33 GMT",
+          "titleZh": "US airman injured but safe after rescue inside Iran, Trump says - BBC",
+          "summaryZh": "US airman injured but safe after rescue inside Iran, Trump says&nbsp;&nbsp;BBC"
         },
         {
           "id": "bbc-news-0-https://news.google.com/",
@@ -484,7 +484,7 @@
           "summaryZh": "Why did US and Israel attack Iran and how long could the war last?&nbsp;&nbsp;BBC"
         },
         {
-          "id": "bbc-news-3-https://news.google.com/",
+          "id": "bbc-news-4-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -508,19 +508,6 @@
           "publishedAt": "Fri, 03 Apr 2026 11:28:34 GMT",
           "titleZh": "When will the Iran war end? Tracing the Trump administration's timelines - BBC",
           "summaryZh": "When will the Iran war end? Tracing the Trump administration's timelines&nbsp;&nbsp;BBC"
-        },
-        {
-          "id": "bbc-news-4-https://news.google.com/",
-          "sourceId": "bbc",
-          "source": "BBC",
-          "sourceSite": "bbc.com",
-          "type": "news",
-          "title": "Donald Trump claims US 'nearing completion' of Iran war aims within weeks - BBC",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qeHVNMkZBTVlzelYtLWZfakRCbTZuMnRyT0VXVFRfZVdfUWFrUzhMSFRoMDJLTHZPWFRJQ0UweUN3THJJbl9wVHNUNmN2YlVqOXo0dEF5Z2JSZw?oc=5\" target=\"_blank\">Donald Trump claims US 'nearing completion' of Iran war aims within weeks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qeHVNMkZBTVlzelYtLWZfakRCbTZuMnRyT0VXVFRfZVdfUWFrUzhMSFRoMDJLTHZPWFRJQ0UweUN3THJJbl9wVHNUNmN2YlVqOXo0dEF5Z2JSZw?oc=5",
-          "publishedAt": "Thu, 02 Apr 2026 11:33:18 GMT",
-          "titleZh": "Donald Trump claims US 'nearing completion' of Iran war aims within weeks - BBC",
-          "summaryZh": "Donald Trump claims US 'nearing completion' of Iran war aims within weeks&nbsp;&nbsp;BBC"
         }
       ]
     },
@@ -529,20 +516,20 @@
       "source": "Al Jazeera",
       "items": [
         {
-          "id": "aljazeera-news-8-https://news.google.com/",
+          "id": "aljazeera-news-2-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
           "type": "news",
-          "title": "Kuwait’s power, water plants damaged as Iran keeps attacking Gulf states - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOLW53QmxmRndCMkNiOEdDYmo3YWNCWkYtamZwLU5iZzBtWmNiQjRHWDhmaWJUd0NUM1A2R1hINmVuUDBxMVBCaGcxRHNzNFNvN25QZkhla1hsR3VLUm5RZDRRTk9QQ1dyQmNTVlY1Q2pUNmZzT1NaVUVFQUp6NFpHbmFjb1JYUzZpYzdwbXRYM0xseXVySW9jTEJQdEJ0b0VBWWVTM1NyTGZpOXFNM2JTeNIBtgFBVV95cUxNcXZHWGd3MjF5TEIwYUZPTFFaN0lFNm9UNFhld3JKc3dDZnlDZ0YtZG0zYlIwNkh2ZENHWUFqZnlQal9tTlhTRDlBY2tuYkhhb3dRRXNDTVJEZTFRUTRObms4aENtRHJyLWEzRlJvdXRVc2lkNTNqOXNEeDlJYXkzWml6ZTZUd09MSGRJZXM2WF9sYkFoajJBY1BuU3pzZU9KNXh4UnZUY1FxajcwLVlwa3FWd3Jadw?oc=5\" target=\"_blank\">Kuwait’s power, water plants damaged as Iran keeps attacking Gulf states</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLW53QmxmRndCMkNiOEdDYmo3YWNCWkYtamZwLU5iZzBtWmNiQjRHWDhmaWJUd0NUM1A2R1hINmVuUDBxMVBCaGcxRHNzNFNvN25QZkhla1hsR3VLUm5RZDRRTk9QQ1dyQmNTVlY1Q2pUNmZzT1NaVUVFQUp6NFpHbmFjb1JYUzZpYzdwbXRYM0xseXVySW9jTEJQdEJ0b0VBWWVTM1NyTGZpOXFNM2JTeNIBtgFBVV95cUxNcXZHWGd3MjF5TEIwYUZPTFFaN0lFNm9UNFhld3JKc3dDZnlDZ0YtZG0zYlIwNkh2ZENHWUFqZnlQal9tTlhTRDlBY2tuYkhhb3dRRXNDTVJEZTFRUTRObms4aENtRHJyLWEzRlJvdXRVc2lkNTNqOXNEeDlJYXkzWml6ZTZUd09MSGRJZXM2WF9sYkFoajJBY1BuU3pzZU9KNXh4UnZUY1FxajcwLVlwa3FWd3Jadw?oc=5",
-          "publishedAt": "Sun, 05 Apr 2026 15:00:00 GMT",
-          "titleZh": "Kuwait’s power, water plants damaged as Iran keeps attacking Gulf states - Al Jazeera",
-          "summaryZh": "Kuwait’s power, water plants damaged as Iran keeps attacking Gulf states&nbsp;&nbsp;Al Jazeera"
+          "title": "Mearsheimer: No signs of quick end to US-Israel war on Iran - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPd3JkeDg3M3pXd0FCN00wQjQxbjlMc2EwdlRuZTR0SDVHVF9VRzNPNGxrOFh3QjRkTlZ2Q2V2dm5Xd295TTFEdDhZQm1LZE1XZl9nSW5KTVhDTHpKUGRBSmU3ekEzMkRqVkhxZWduRUtGcUVaUFkzOFlUNkFBM0N0UHBmcUpmWktuQjdoSjN4NFNWWkpOY0F1MElwQUhkc05yRWFlalhfdFNMVkg3Y0M1ZEhMRmdvUdIBuwFBVV95cUxPS2JCcWZvb2JjYkVFU2hLUkxXXzBWam8waHV2TjFxRlIyMF9hRUhadWRtaG9aLXY3QkF6a2RlaFcwR3hLS3lEWExRMXBuOU9qRThYMTJfMDJTZ1ZxU2NuZUo5VXFuRzlwN0xIbHBuWWxNbjlhQkozVnJPcjVfQ3dtV1VxcnRuZXBsYXpBVzdzT3U1a3h1VjF4WVpFcktNV1NrZlkwM0YtZzZZVzdKS1U1SXM1ZHhaUWppYUtr?oc=5\" target=\"_blank\">Mearsheimer: No signs of quick end to US-Israel war on Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd3JkeDg3M3pXd0FCN00wQjQxbjlMc2EwdlRuZTR0SDVHVF9VRzNPNGxrOFh3QjRkTlZ2Q2V2dm5Xd295TTFEdDhZQm1LZE1XZl9nSW5KTVhDTHpKUGRBSmU3ekEzMkRqVkhxZWduRUtGcUVaUFkzOFlUNkFBM0N0UHBmcUpmWktuQjdoSjN4NFNWWkpOY0F1MElwQUhkc05yRWFlalhfdFNMVkg3Y0M1ZEhMRmdvUdIBuwFBVV95cUxPS2JCcWZvb2JjYkVFU2hLUkxXXzBWam8waHV2TjFxRlIyMF9hRUhadWRtaG9aLXY3QkF6a2RlaFcwR3hLS3lEWExRMXBuOU9qRThYMTJfMDJTZ1ZxU2NuZUo5VXFuRzlwN0xIbHBuWWxNbjlhQkozVnJPcjVfQ3dtV1VxcnRuZXBsYXpBVzdzT3U1a3h1VjF4WVpFcktNV1NrZlkwM0YtZzZZVzdKS1U1SXM1ZHhaUWppYUtr?oc=5",
+          "publishedAt": "Sun, 05 Apr 2026 15:41:07 GMT",
+          "titleZh": "Mearsheimer: No signs of quick end to US-Israel war on Iran - Al Jazeera",
+          "summaryZh": "Mearsheimer: No signs of quick end to US-Israel war on Iran&nbsp;&nbsp;Al Jazeera"
         },
         {
-          "id": "aljazeera-news-2-https://news.google.com/",
+          "id": "aljazeera-news-3-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -568,7 +555,7 @@
           "summaryZh": "Iran war: What is happening on day 37 of US-Israeli attacks?&nbsp;&nbsp;Al Jazeera"
         },
         {
-          "id": "aljazeera-news-4-https://news.google.com/",
+          "id": "aljazeera-news-5-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -581,7 +568,7 @@
           "summaryZh": "Iran’s ex-FM Zarif proposes peace roadmap; Gulf points at erosion of trust&nbsp;&nbsp;Al Jazeera"
         },
         {
-          "id": "aljazeera-news-6-https://news.google.com/",
+          "id": "aljazeera-news-8-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -594,17 +581,17 @@
           "summaryZh": "Oman, Iran discuss smooth transit in Strait of Hormuz, Muscat says&nbsp;&nbsp;Al Jazeera"
         },
         {
-          "id": "aljazeera-news-0-https://news.google.com/",
+          "id": "aljazeera-news-9-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
           "type": "news",
-          "title": "Iran war live: Trump vows to hit power plants, bridges over Hormuz closure - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQREpYSkZlbmRPYm5JaHkzLUdFV1lJYmZfYjI5N2Mwc3JHdHBSV0xxbXZWdGlNY1NWOHNaR3F0NnZVMU1DSVdSN0FMdjFQV3I0TWU1VmhZaFRBSUlVYWVPWC13WDlfZGxObzRUclF5dFhRcjhaam5HblRYT01IeVplbE9XQkxTVmgwWVBaZ0NLaVRaVDVCLUVYTFROdkVtNUt3V3owUko0SW9kUXFsR3hkMFUwdURiVUFiNnNBLW1B0gHDAUFVX3lxTE5iRU5PQ2tHdlBzTXR5T0RhZkswb2tXMEIyUVJpZS15dm05Q1d6R2g1X0Rta1U2Q1B3X2puYmV3Ti1LLVd5eFl4LWlGaGd6UERfYnprX0QtRWZ0S3BUVXFkaW1ROURqVVpVSmFDc2xFU29Vc0toQkpRckZTeWNFMWo5MmF1cWZha0ZxQl9IdkNuMjRpaU4zV0RLT0h3NHU1UXRlNWNfanhlcnhPREh4dElRNEJMOU5ORURfMlVRVy1fNUxkZw?oc=5\" target=\"_blank\">Iran war live: Trump vows to hit power plants, bridges over Hormuz closure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQREpYSkZlbmRPYm5JaHkzLUdFV1lJYmZfYjI5N2Mwc3JHdHBSV0xxbXZWdGlNY1NWOHNaR3F0NnZVMU1DSVdSN0FMdjFQV3I0TWU1VmhZaFRBSUlVYWVPWC13WDlfZGxObzRUclF5dFhRcjhaam5HblRYT01IeVplbE9XQkxTVmgwWVBaZ0NLaVRaVDVCLUVYTFROdkVtNUt3V3owUko0SW9kUXFsR3hkMFUwdURiVUFiNnNBLW1B0gHDAUFVX3lxTE5iRU5PQ2tHdlBzTXR5T0RhZkswb2tXMEIyUVJpZS15dm05Q1d6R2g1X0Rta1U2Q1B3X2puYmV3Ti1LLVd5eFl4LWlGaGd6UERfYnprX0QtRWZ0S3BUVXFkaW1ROURqVVpVSmFDc2xFU29Vc0toQkpRckZTeWNFMWo5MmF1cWZha0ZxQl9IdkNuMjRpaU4zV0RLT0h3NHU1UXRlNWNfanhlcnhPREh4dElRNEJMOU5ORURfMlVRVy1fNUxkZw?oc=5",
-          "publishedAt": "Sun, 05 Apr 2026 05:21:34 GMT",
-          "titleZh": "Iran war live: Trump vows to hit power plants, bridges over Hormuz closure - Al Jazeera",
-          "summaryZh": "Iran war live: Trump vows to hit power plants, bridges over Hormuz closure&nbsp;&nbsp;Al Jazeera"
+          "title": "‘Miraculous’: US rescues second pilot downed in Iran, Trump confirms - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQd1FMZ2pRSHN4Y1ZGME4xQ1loVGRNSnNTMU1vY1VScmc1dGxEWkQwSTY0Y1lCcWNFLUU3a0pNT0ZjdXlTaDNBaHNvX1Z1SjNPaEtHQmY2azdnUUZXS0l4VjJ1YW9XSC1mU1JRQVo0Q3RLcmpsWGQ5YzNfTDY3eDg2bFBrUTl2Q1JQbUl5cTBCazk0RjNSU1MwM01sM2Z0U1JkdjRTatIBqgFBVV95cUxPQTBzLU9WZ040SWFTdndVZ0I5eFJvTExKc1RFbmswQjZCYVZrcFdOVlBkaTI1MXc3Y1ZuNmRmS29BUjhJaTFzX28tdFBtTHN0Q3ViLUwwUzQxVVV2YklDODE2TUg4TVlPYmlSaHFBbEtQMDVLaXQwa1Y4VnRQd1BLWndnU2ZOSkVvX0wwbDB0Q3hxVTJpUGZDZ01zWVdNNV9jU25yNGtzcHhkQQ?oc=5\" target=\"_blank\">‘Miraculous’: US rescues second pilot downed in Iran, Trump confirms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd1FMZ2pRSHN4Y1ZGME4xQ1loVGRNSnNTMU1vY1VScmc1dGxEWkQwSTY0Y1lCcWNFLUU3a0pNT0ZjdXlTaDNBaHNvX1Z1SjNPaEtHQmY2azdnUUZXS0l4VjJ1YW9XSC1mU1JRQVo0Q3RLcmpsWGQ5YzNfTDY3eDg2bFBrUTl2Q1JQbUl5cTBCazk0RjNSU1MwM01sM2Z0U1JkdjRTatIBqgFBVV95cUxPQTBzLU9WZ040SWFTdndVZ0I5eFJvTExKc1RFbmswQjZCYVZrcFdOVlBkaTI1MXc3Y1ZuNmRmS29BUjhJaTFzX28tdFBtTHN0Q3ViLUwwUzQxVVV2YklDODE2TUg4TVlPYmlSaHFBbEtQMDVLaXQwa1Y4VnRQd1BLWndnU2ZOSkVvX0wwbDB0Q3hxVTJpUGZDZ01zWVdNNV9jU25yNGtzcHhkQQ?oc=5",
+          "publishedAt": "Sun, 05 Apr 2026 07:00:47 GMT",
+          "titleZh": "‘Miraculous’: US rescues second pilot downed in Iran, Trump confirms - Al Jazeera",
+          "summaryZh": "‘Miraculous’: US rescues second pilot downed in Iran, Trump confirms&nbsp;&nbsp;Al Jazeera"
         }
       ]
     },
@@ -615,6 +602,32 @@
     }
   ],
   "commentary": [
+    {
+      "id": "nytimes-commentary-6-https://news.google.com/",
+      "sourceId": "nytimes",
+      "source": "The New York Times",
+      "sourceSite": "nytimes.com",
+      "type": "commentary",
+      "title": "U.S. Rescues Missing Air Force Officer Whose Fighter Jet Was Downed by Iran - The New York Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPZzBuZUExQnY1d1pyTndnTlBzM0lYR20xdUdJQlQ1M2R0UVN4Q0tiRWdGTlVmQmx1WmQ0R180TzdZQjFmdzc5cWQtTFptLWJIdFBxMmpKTFlvQWhNb3NfNHVOeFRrX3RnWUc2T2dtbHhtMU5TVVNDN2VJWnpYcElXd2tvb19SZw?oc=5\" target=\"_blank\">U.S. Rescues Missing Air Force Officer Whose Fighter Jet Was Downed by Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZzBuZUExQnY1d1pyTndnTlBzM0lYR20xdUdJQlQ1M2R0UVN4Q0tiRWdGTlVmQmx1WmQ0R180TzdZQjFmdzc5cWQtTFptLWJIdFBxMmpKTFlvQWhNb3NfNHVOeFRrX3RnWUc2T2dtbHhtMU5TVVNDN2VJWnpYcElXd2tvb19SZw?oc=5",
+      "publishedAt": "Sun, 05 Apr 2026 15:26:00 GMT",
+      "titleZh": "U.S. Rescues Missing Air Force Officer Whose Fighter Jet Was Downed by Iran - The New York Times",
+      "summaryZh": "U.S. Rescues Missing Air Force Officer Whose Fighter Jet Was Downed by Iran&nbsp;&nbsp;The New York Times"
+    },
+    {
+      "id": "economist-commentary-0-https://news.google.com/",
+      "sourceId": "economist",
+      "source": "The Economist",
+      "sourceSite": "economist.com",
+      "type": "commentary",
+      "title": "The South American petro-state profiting from the Iran war - The Economist",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVBwLWo3ZURxVTQ2OFFaOEdtVHFtU3c0dFRfVTFpeml0cTBYZjZRcEtFT2RvajR6em9TaTJjdGpBMUp4czhhSVUxX3hfQTFXamNLbEUzY1FpdENvcUNyTkRiaFJxYTlrUGgtYm1UR0VSaWhNemJ1QlhaLUZSdHo2bHhHUU9LcDVYcFJxWkpIQ282UVpBUFdDakZBWTU1aXVta3NucjZVZkQ4MUww?oc=5\" target=\"_blank\">The South American petro-state profiting from the Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVBwLWo3ZURxVTQ2OFFaOEdtVHFtU3c0dFRfVTFpeml0cTBYZjZRcEtFT2RvajR6em9TaTJjdGpBMUp4czhhSVUxX3hfQTFXamNLbEUzY1FpdENvcUNyTkRiaFJxYTlrUGgtYm1UR0VSaWhNemJ1QlhaLUZSdHo2bHhHUU9LcDVYcFJxWkpIQ282UVpBUFdDakZBWTU1aXVta3NucjZVZkQ4MUww?oc=5",
+      "publishedAt": "Sun, 05 Apr 2026 14:30:25 GMT",
+      "titleZh": "The South American petro-state profiting from the Iran war - The Economist",
+      "summaryZh": "The South American petro-state profiting from the Iran war&nbsp;&nbsp;The Economist"
+    },
     {
       "id": "nytimes-commentary-0-https://news.google.com/",
       "sourceId": "nytimes",
@@ -637,7 +650,7 @@
       "title": "U.S. Fighter Jet Downed Over Iran Was Probably Based at R.A.F. Lakenheath, U.K. Airfield - The New York Times",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxONWVlemJFbGVKcWNJMWdsT0ZMLTBUbmJZbzZZOTcyQ2x5bW9rUlBOUXh6dXJTR2MzUXFiSTVXXzNJRUg0YjdhbDVQaERJZ3dpem9VcDd4a3BoTWJyWm9vMHFaemNaUE1CaVd0Uk9DeHNxcG5NczdvWnMzRHVHb3VPZGVyQUtUcS1KVTJMVUc1TFJvQTJpM082Rm81ZEg?oc=5\" target=\"_blank\">U.S. Fighter Jet Downed Over Iran Was Probably Based at R.A.F. Lakenheath, U.K. Airfield</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONWVlemJFbGVKcWNJMWdsT0ZMLTBUbmJZbzZZOTcyQ2x5bW9rUlBOUXh6dXJTR2MzUXFiSTVXXzNJRUg0YjdhbDVQaERJZ3dpem9VcDd4a3BoTWJyWm9vMHFaemNaUE1CaVd0Uk9DeHNxcG5NczdvWnMzRHVHb3VPZGVyQUtUcS1KVTJMVUc1TFJvQTJpM082Rm81ZEg?oc=5",
-      "publishedAt": "Sat, 04 Apr 2026 16:43:43 GMT",
+      "publishedAt": "Sat, 04 Apr 2026 15:55:31 GMT",
       "titleZh": "U.S. Fighter Jet Downed Over Iran Was Probably Based at R.A.F. Lakenheath, U.K. Airfield - The New York Times",
       "summaryZh": "U.S. Fighter Jet Downed Over Iran Was Probably Based at R.A.F. Lakenheath, U.K. Airfield&nbsp;&nbsp;The New York Times"
     },
@@ -694,7 +707,7 @@
       "summaryZh": "Iran Shoots Down U.S. Fighter Jet, One Crew Member Still Missing&nbsp;&nbsp;Foreign Policy"
     },
     {
-      "id": "economist-commentary-0-https://news.google.com/",
+      "id": "economist-commentary-1-https://news.google.com/",
       "sourceId": "economist",
       "source": "The Economist",
       "sourceSite": "economist.com",
@@ -718,19 +731,6 @@
       "publishedAt": "Fri, 03 Apr 2026 19:22:07 GMT",
       "titleZh": "Iran’s Zarif Wants a Bilateral Reset With U.S. That the Gulf Can’t Accept - Foreign Policy",
       "summaryZh": "Iran’s Zarif Wants a Bilateral Reset With U.S. That the Gulf Can’t Accept&nbsp;&nbsp;Foreign Policy"
-    },
-    {
-      "id": "nytimes-commentary-6-https://news.google.com/",
-      "sourceId": "nytimes",
-      "source": "The New York Times",
-      "sourceSite": "nytimes.com",
-      "type": "commentary",
-      "title": "Video: Opinion | Why Iran Believes It Has the Upper Hand - The New York Times",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOVmJud19kZHRmVTFlcDViUHZJOEdjdWM0ajFQQVR4ZXROeWtlUE5Wd0RJY1lrWUNiT0ZvQ1NOempjdlB0R0hsMy1PUTRDelgzQmNneXdNdmJYRUg0SFNTSWQyc09IZDNIZEV5TXZoM0szOVU0aDhnaWdTcVI0Qi1LLXFHWGRyUmNnbklldC1GM09QU1VmbmdyOTVDeHhTUjQ?oc=5\" target=\"_blank\">Video: Opinion | Why Iran Believes It Has the Upper Hand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVmJud19kZHRmVTFlcDViUHZJOEdjdWM0ajFQQVR4ZXROeWtlUE5Wd0RJY1lrWUNiT0ZvQ1NOempjdlB0R0hsMy1PUTRDelgzQmNneXdNdmJYRUg0SFNTSWQyc09IZDNIZEV5TXZoM0szOVU0aDhnaWdTcVI0Qi1LLXFHWGRyUmNnbklldC1GM09QU1VmbmdyOTVDeHhTUjQ?oc=5",
-      "publishedAt": "Fri, 03 Apr 2026 15:39:30 GMT",
-      "titleZh": "Video: Opinion | Why Iran Believes It Has the Upper Hand - The New York Times",
-      "summaryZh": "Video: Opinion | Why Iran Believes It Has the Upper Hand&nbsp;&nbsp;The New York Times"
     },
     {
       "id": "nytimes-commentary-3-https://news.google.com/",
@@ -798,19 +798,6 @@
       "summaryZh": "Will the Iran War Evaporate the Gulf’s AI Oasis?&nbsp;&nbsp;Foreign Policy"
     },
     {
-      "id": "economist-commentary-6-https://news.google.com/",
-      "sourceId": "economist",
-      "source": "The Economist",
-      "sourceSite": "economist.com",
-      "type": "commentary",
-      "title": "Will China be the real winner from the Iran war? - The Economist",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOckNxZVRENnZSUF84b2FrLXg1VzlwQ2dsUjczOHNGeHlGLUxXMU01aVJ4eW55Nk9uNUVyeElNZmNjYllZS0hyY1BvZHo1VW8wVlk0SW5yY2kwU3pVMkdEM2FPNjhpTWhFcEJ1V29JdUM1TEQwYVczT0NnbmRFbGRPWFRJMUdUZThFaGVyc2pQUW5VRjI4WUVkVw?oc=5\" target=\"_blank\">Will China be the real winner from the Iran war?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOckNxZVRENnZSUF84b2FrLXg1VzlwQ2dsUjczOHNGeHlGLUxXMU01aVJ4eW55Nk9uNUVyeElNZmNjYllZS0hyY1BvZHo1VW8wVlk0SW5yY2kwU3pVMkdEM2FPNjhpTWhFcEJ1V29JdUM1TEQwYVczT0NnbmRFbGRPWFRJMUdUZThFaGVyc2pQUW5VRjI4WUVkVw?oc=5",
-      "publishedAt": "Thu, 02 Apr 2026 17:00:00 GMT",
-      "titleZh": "Will China be the real winner from the Iran war? - The Economist",
-      "summaryZh": "Will China be the real winner from the Iran war?&nbsp;&nbsp;The Economist"
-    },
-    {
       "id": "foreignaffairs-commentary-1-https://news.google.com/",
       "sourceId": "foreignaffairs",
       "source": "Foreign Affairs",
@@ -863,7 +850,7 @@
       "summaryZh": "What a U.S. Operation to Get Iran’s Uranium Would Look Like&nbsp;&nbsp;Foreign Policy"
     },
     {
-      "id": "economist-commentary-1-https://news.google.com/",
+      "id": "economist-commentary-2-https://news.google.com/",
       "sourceId": "economist",
       "source": "The Economist",
       "sourceSite": "economist.com",
@@ -876,7 +863,7 @@
       "summaryZh": "Iran has damaged a surprising amount of American kit&nbsp;&nbsp;The Economist"
     },
     {
-      "id": "economist-commentary-2-https://news.google.com/",
+      "id": "economist-commentary-3-https://news.google.com/",
       "sourceId": "economist",
       "source": "The Economist",
       "sourceSite": "economist.com",
@@ -889,20 +876,20 @@
       "summaryZh": "Iran’s opposition in exile is rethinking its support for the war&nbsp;&nbsp;The Economist"
     },
     {
-      "id": "economist-commentary-7-https://news.google.com/",
+      "id": "economist-commentary-4-https://news.google.com/",
       "sourceId": "economist",
       "source": "The Economist",
       "sourceSite": "economist.com",
       "type": "commentary",
-      "title": "The war with Iran has blown up an America First policy - The Economist",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPemhQdTZ5OVN3anhYejVTRTd2RVpqX3ZtTWhpNXZTM1JacVBKVThHUWUxNnFBWjhCSUJuV0dlZk02aXozTDhGWl9ZbXRjcFo3b2RnZmIxM2IyQ21qVHEyNWlVX0Fmd1BGV0luQU1uQUd2RmlyaUc2bzZfTGR1X1kzdzZNcy1PbkFRWXVTMHRBWV9YWGhZOFRmZzlEaGlBY3dzMnNreUJ4N1E?oc=5\" target=\"_blank\">The war with Iran has blown up an America First policy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPemhQdTZ5OVN3anhYejVTRTd2RVpqX3ZtTWhpNXZTM1JacVBKVThHUWUxNnFBWjhCSUJuV0dlZk02aXozTDhGWl9ZbXRjcFo3b2RnZmIxM2IyQ21qVHEyNWlVX0Fmd1BGV0luQU1uQUd2RmlyaUc2bzZfTGR1X1kzdzZNcy1PbkFRWXVTMHRBWV9YWGhZOFRmZzlEaGlBY3dzMnNreUJ4N1E?oc=5",
+      "title": "Iran’s permissive party islands contain hidden dangers - The Economist",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNX1dpSWx3RWthRkY2akI2cXNOU0lRYUowTnFIaUloUHFKNlpFRzZlb1JUa1VXcHhxUFFpd0lmVjE5SGN6dGowTDlRS0tDUFFodFJHMUFjMFNyd21xb2dLQzlMNWZFWDU3alpPS3h3NXlBbzEwMVpWTml3QmwtalI1QTBJNTFISUVLbmJZQktBZTE0TFpLOW5ORHlnaW5FTXFTdmxQWnQtQ2pTWF9GT1dCdW9Ebw?oc=5\" target=\"_blank\">Iran’s permissive party islands contain hidden dangers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX1dpSWx3RWthRkY2akI2cXNOU0lRYUowTnFIaUloUHFKNlpFRzZlb1JUa1VXcHhxUFFpd0lmVjE5SGN6dGowTDlRS0tDUFFodFJHMUFjMFNyd21xb2dLQzlMNWZFWDU3alpPS3h3NXlBbzEwMVpWTml3QmwtalI1QTBJNTFISUVLbmJZQktBZTE0TFpLOW5ORHlnaW5FTXFTdmxQWnQtQ2pTWF9GT1dCdW9Ebw?oc=5",
       "publishedAt": "Wed, 01 Apr 2026 12:51:24 GMT",
-      "titleZh": "The war with Iran has blown up an America First policy - The Economist",
-      "summaryZh": "The war with Iran has blown up an America First policy&nbsp;&nbsp;The Economist"
+      "titleZh": "Iran’s permissive party islands contain hidden dangers - The Economist",
+      "summaryZh": "Iran’s permissive party islands contain hidden dangers&nbsp;&nbsp;The Economist"
     },
     {
-      "id": "economist-commentary-3-https://news.google.com/",
+      "id": "economist-commentary-5-https://news.google.com/",
       "sourceId": "economist",
       "source": "The Economist",
       "sourceSite": "economist.com",
@@ -1006,7 +993,7 @@
       "summaryZh": "Iran’s Long Game&nbsp;&nbsp;Foreign Affairs"
     },
     {
-      "id": "economist-commentary-4-https://news.google.com/",
+      "id": "economist-commentary-6-https://news.google.com/",
       "sourceId": "economist",
       "source": "The Economist",
       "sourceSite": "economist.com",
@@ -1019,7 +1006,7 @@
       "summaryZh": "How the Iran war is hurting Donald Trump&nbsp;&nbsp;The Economist"
     },
     {
-      "id": "economist-commentary-5-https://news.google.com/",
+      "id": "economist-commentary-7-https://news.google.com/",
       "sourceId": "economist",
       "source": "The Economist",
       "sourceSite": "economist.com",
