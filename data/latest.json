@@ -1,23 +1,75 @@
 {
-  "generatedAt": "2026-04-08T05:08:15.460Z",
-  "totalNews": 24,
-  "totalCommentary": 32,
+  "generatedAt": "2026-04-08T07:13:30.474Z",
+  "totalNews": 28,
+  "totalCommentary": 24,
   "timeline": [
     {
-      "id": "reuters-news-0-https://news.google.com/",
+      "id": "aljazeera-news-7-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "Iran war: What is happening on day 40 of US-Israeli attacks? - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOVmNmZ3ZfeW53ODB2R09CS211TVJFSVlLdmppMmFoMkFvUlJaRE9mX19ic3UxQjVoQnZnTmdRa2JwaHBxQWxFSG52ZTRDYmRlVVJRc3g5d21rcWZnMEhVUXBrOHpycjdOeFh3WUFPXzI4bkJtcUNjWjNGQ0k0c0FSR2dJc1NReEFiTkRXbzFyTHNGaWhiRlZ1b19WYVk0OHfSAaQBQVVfeXFMUGxCaVhIQnVsMExfbWJ1ajZ6X0ZicHZvSml3RXJtZ3B1dHlJR19HVG85d1RZZTZfSGVmQnNTdnJmVHhOZHJISV9TVHpoeGxVWlRDaUdVQzdDN25vWUdCQ0xUUlB1RkFXX0pVWktIZHh1TlFQRzh5VlJuX1NoSUF6dnJnWXhyR1Njazc1eVB1alNLc29jcEV2TXFfOHhGWDNqbWJuTWw?oc=5\" target=\"_blank\">Iran war: What is happening on day 40 of US-Israeli attacks?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVmNmZ3ZfeW53ODB2R09CS211TVJFSVlLdmppMmFoMkFvUlJaRE9mX19ic3UxQjVoQnZnTmdRa2JwaHBxQWxFSG52ZTRDYmRlVVJRc3g5d21rcWZnMEhVUXBrOHpycjdOeFh3WUFPXzI4bkJtcUNjWjNGQ0k0c0FSR2dJc1NReEFiTkRXbzFyTHNGaWhiRlZ1b19WYVk0OHfSAaQBQVVfeXFMUGxCaVhIQnVsMExfbWJ1ajZ6X0ZicHZvSml3RXJtZ3B1dHlJR19HVG85d1RZZTZfSGVmQnNTdnJmVHhOZHJISV9TVHpoeGxVWlRDaUdVQzdDN25vWUdCQ0xUUlB1RkFXX0pVWktIZHh1TlFQRzh5VlJuX1NoSUF6dnJnWXhyR1Njazc1eVB1alNLc29jcEV2TXFfOHhGWDNqbWJuTWw?oc=5",
+      "publishedAt": "Wed, 08 Apr 2026 07:07:12 GMT",
+      "titleZh": "Iran war: What is happening on day 40 of US-Israeli attacks? - Al Jazeera",
+      "summaryZh": "Iran war: What is happening on day 40 of US-Israeli attacks?&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "bbc-news-7-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "Starmer to visit Middle East after US and Iran reach ceasefire deal - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pdVpJWTdnMlYxd05WTmwwNVZJenc3Uk5Nd0Mzc3hJVEJiQmpqTnphVnBOQmxIYUVIcFRxR0tSSUFwSzJrRXVyaVFGelBfS0IwdmFaRDRwNW9qZw?oc=5\" target=\"_blank\">Starmer to visit Middle East after US and Iran reach ceasefire deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pdVpJWTdnMlYxd05WTmwwNVZJenc3Uk5Nd0Mzc3hJVEJiQmpqTnphVnBOQmxIYUVIcFRxR0tSSUFwSzJrRXVyaVFGelBfS0IwdmFaRDRwNW9qZw?oc=5",
+      "publishedAt": "Wed, 08 Apr 2026 06:25:27 GMT",
+      "titleZh": "Starmer to visit Middle East after US and Iran reach ceasefire deal - BBC",
+      "summaryZh": "Starmer to visit Middle East after US and Iran reach ceasefire deal&nbsp;&nbsp;BBC"
+    },
+    {
+      "id": "reuters-news-4-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
       "type": "news",
-      "title": "Iran war live: Trump announces two-week ceasefire as Iran says talks to begin soon - Reuters",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQT3dZQW9tY1NmcEhYbDdhMDNNZk02dkM5Q1hLY3c1UVJPUG1RejZWTzJsTGNWU2Z3ZDZodlJoMnUtQXNmMzg0T1ZScWJUd2tmbXhKNUEyaWE5dXFTWVZNaWhLYWdyU0Q2T1daQWFfZDFXck9KOTJ0Z3czUllnY0xIQ3MzRHF6dGpRS21oV3dFS2p0c05HUlQwOVkwN0ZYbGVnWWVWNGtGdU9OdElNSFFJRUY4TlFjV1phZThGcFdCcw?oc=5\" target=\"_blank\">Iran war live: Trump announces two-week ceasefire as Iran says talks to begin soon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT3dZQW9tY1NmcEhYbDdhMDNNZk02dkM5Q1hLY3c1UVJPUG1RejZWTzJsTGNWU2Z3ZDZodlJoMnUtQXNmMzg0T1ZScWJUd2tmbXhKNUEyaWE5dXFTWVZNaWhLYWdyU0Q2T1daQWFfZDFXck9KOTJ0Z3czUllnY0xIQ3MzRHF6dGpRS21oV3dFS2p0c05HUlQwOVkwN0ZYbGVnWWVWNGtGdU9OdElNSFFJRUY4TlFjV1phZThGcFdCcw?oc=5",
-      "publishedAt": "Wed, 08 Apr 2026 04:43:48 GMT",
-      "titleZh": "Iran war live: Trump announces two-week ceasefire as Iran says talks to begin soon - Reuters",
-      "summaryZh": "Iran war live: Trump announces two-week ceasefire as Iran says talks to begin soon&nbsp;&nbsp;Reuters"
+      "title": "Israel backs Trump's two-week pause on Iran strikes, says Lebanon excluded - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxORkVCVG9QTEZxTFM5R252SjFLZFFhMi1JdFdNY1ozakZVWFVEQlBYOWo0bHkzOEVXdkE5RVZHSkd4QzRFTkpoNzRJbmQzQkV4Y2VwNi1MV0xGend0Y2R6YUhlcGRyTV9NdjJXbkJZbGJSb1FLWlFCYlFTaXU1eUZ3ZzJ0YzFfM182ZUtrVmFFenBqQVRIb0NIQ2R6LWd2Z1hTRkFLMXluWUc0WjFBMGd4SWdKeml3Ukk5OHB0YlBvdVVfLWFMLVZJag?oc=5\" target=\"_blank\">Israel backs Trump's two-week pause on Iran strikes, says Lebanon excluded</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORkVCVG9QTEZxTFM5R252SjFLZFFhMi1JdFdNY1ozakZVWFVEQlBYOWo0bHkzOEVXdkE5RVZHSkd4QzRFTkpoNzRJbmQzQkV4Y2VwNi1MV0xGend0Y2R6YUhlcGRyTV9NdjJXbkJZbGJSb1FLWlFCYlFTaXU1eUZ3ZzJ0YzFfM182ZUtrVmFFenBqQVRIb0NIQ2R6LWd2Z1hTRkFLMXluWUc0WjFBMGd4SWdKeml3Ukk5OHB0YlBvdVVfLWFMLVZJag?oc=5",
+      "publishedAt": "Wed, 08 Apr 2026 06:02:04 GMT",
+      "titleZh": "Israel backs Trump's two-week pause on Iran strikes, says Lebanon excluded - Reuters",
+      "summaryZh": "Israel backs Trump's two-week pause on Iran strikes, says Lebanon excluded&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "bbc-news-0-https://news.google.com/",
+      "id": "aljazeera-news-3-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "Netanyahu says US-Iran ceasefire ‘does not include Lebanon’ - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOV2R5N0p2NWZKaWkyZEpqT05jUXZ4LUxmTVZQYkdkNmwyMktxczJBaExBc2Z1SGxmTkVjOV9KeGFlTEk0MWRkSWxtS3ZfR2xvSFJOT0RMZTJ1RDZ3ZDg2STh5cktiNjZYdEdPd1MyNDFPY2o3R1NCOVVLS0RXczBoaDRBalZla2sxZjRJRFJtNzVNQ01WZnI4c24xSU1SQdIBowFBVV95cUxPbUlQQkNkbXRIdlc0QmlOVGZvcFFxUDZUMC1XQ2R0OXg0bkVjb0Fyd0pua29DRFBQRHMwUXQ1SjFRd3hOMGM1b0doSFRVd1BDcXhqVFQ4dktWNGFDRjRtcFV1YjdVNEdJal9idmhBcElvYVVWS05SSzltQ2U1WWpHT1M4NXdzSUlLYmx5SGo4WnVERDdWMEFiYnE0Q1k3VFVCT1VJ?oc=5\" target=\"_blank\">Netanyahu says US-Iran ceasefire ‘does not include Lebanon’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2R5N0p2NWZKaWkyZEpqT05jUXZ4LUxmTVZQYkdkNmwyMktxczJBaExBc2Z1SGxmTkVjOV9KeGFlTEk0MWRkSWxtS3ZfR2xvSFJOT0RMZTJ1RDZ3ZDg2STh5cktiNjZYdEdPd1MyNDFPY2o3R1NCOVVLS0RXczBoaDRBalZla2sxZjRJRFJtNzVNQ01WZnI4c24xSU1SQdIBowFBVV95cUxPbUlQQkNkbXRIdlc0QmlOVGZvcFFxUDZUMC1XQ2R0OXg0bkVjb0Fyd0pua29DRFBQRHMwUXQ1SjFRd3hOMGM1b0doSFRVd1BDcXhqVFQ4dktWNGFDRjRtcFV1YjdVNEdJal9idmhBcElvYVVWS05SSzltQ2U1WWpHT1M4NXdzSUlLYmx5SGo4WnVERDdWMEFiYnE0Q1k3VFVCT1VJ?oc=5",
+      "publishedAt": "Wed, 08 Apr 2026 05:27:01 GMT",
+      "titleZh": "Netanyahu says US-Iran ceasefire ‘does not include Lebanon’ - Al Jazeera",
+      "summaryZh": "Netanyahu says US-Iran ceasefire ‘does not include Lebanon’&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "aljazeera-news-1-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "Caution, relief as US politicians respond to Trump’s ceasefire with Iran - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPdHdXemdyczJrbnVZdzZ5QmpiVER4OGlZYXIxY1RacEx4MTVmYlUtclRndXFHSjc2ZjJJUk1tdGRjOGFIMmpNY2tkNmg1bURpa3N3Wm1zc0xyemNHd1JNSVl4TEdUeWlTYlg2R0ZMWVJ5Rjg2LV8wSzh1QWdMVHk4NG4tRGUtY2dNWGljT2pyX0tQNmhGX2NNR3ptaHV3OG00YkpsblNWZW1FaGZTb0pB0gG0AUFVX3lxTE9zMWsweVdaS0NpX0lCUjNjcFRWV1FMUUw0aG04VFBHV0V1QXBaSmoyZDc5THdEaE16MksyY1VRUndWdTA1ejZBQWEwSmRaZUU4M1RXSHBvbWt1ZFZNNTlfR0lQQ1lLclBlc0d2dUN0TEdINFotR09ZYUdpQnRSRGRlZ1B5eFJENktIRS1ITUY3UGl0TjJic0lxYUNhXzJDQ0tVMkdKcVdYTWc2dV9qdDNSWHJyZQ?oc=5\" target=\"_blank\">Caution, relief as US politicians respond to Trump’s ceasefire with Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdHdXemdyczJrbnVZdzZ5QmpiVER4OGlZYXIxY1RacEx4MTVmYlUtclRndXFHSjc2ZjJJUk1tdGRjOGFIMmpNY2tkNmg1bURpa3N3Wm1zc0xyemNHd1JNSVl4TEdUeWlTYlg2R0ZMWVJ5Rjg2LV8wSzh1QWdMVHk4NG4tRGUtY2dNWGljT2pyX0tQNmhGX2NNR3ptaHV3OG00YkpsblNWZW1FaGZTb0pB0gG0AUFVX3lxTE9zMWsweVdaS0NpX0lCUjNjcFRWV1FMUUw0aG04VFBHV0V1QXBaSmoyZDc5THdEaE16MksyY1VRUndWdTA1ejZBQWEwSmRaZUU4M1RXSHBvbWt1ZFZNNTlfR0lQQ1lLclBlc0d2dUN0TEdINFotR09ZYUdpQnRSRGRlZ1B5eFJENktIRS1ITUY3UGl0TjJic0lxYUNhXzJDQ0tVMkdKcVdYTWc2dV9qdDNSWHJyZQ?oc=5",
+      "publishedAt": "Wed, 08 Apr 2026 04:57:51 GMT",
+      "titleZh": "Caution, relief as US politicians respond to Trump’s ceasefire with Iran - Al Jazeera",
+      "summaryZh": "Caution, relief as US politicians respond to Trump’s ceasefire with Iran&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "bbc-news-3-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -30,20 +82,7 @@
       "summaryZh": "How Pakistan helped secure a fragile ceasefire between the US and Iran&nbsp;&nbsp;BBC"
     },
     {
-      "id": "aljazeera-news-9-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "Caution, relief as US politicians respond to Trump’s ceasefire with Iran - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPdHdXemdyczJrbnVZdzZ5QmpiVER4OGlZYXIxY1RacEx4MTVmYlUtclRndXFHSjc2ZjJJUk1tdGRjOGFIMmpNY2tkNmg1bURpa3N3Wm1zc0xyemNHd1JNSVl4TEdUeWlTYlg2R0ZMWVJ5Rjg2LV8wSzh1QWdMVHk4NG4tRGUtY2dNWGljT2pyX0tQNmhGX2NNR3ptaHV3OG00YkpsblNWZW1FaGZTb0pB0gG0AUFVX3lxTE9zMWsweVdaS0NpX0lCUjNjcFRWV1FMUUw0aG04VFBHV0V1QXBaSmoyZDc5THdEaE16MksyY1VRUndWdTA1ejZBQWEwSmRaZUU4M1RXSHBvbWt1ZFZNNTlfR0lQQ1lLclBlc0d2dUN0TEdINFotR09ZYUdpQnRSRGRlZ1B5eFJENktIRS1ITUY3UGl0TjJic0lxYUNhXzJDQ0tVMkdKcVdYTWc2dV9qdDNSWHJyZQ?oc=5\" target=\"_blank\">Caution, relief as US politicians respond to Trump’s ceasefire with Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdHdXemdyczJrbnVZdzZ5QmpiVER4OGlZYXIxY1RacEx4MTVmYlUtclRndXFHSjc2ZjJJUk1tdGRjOGFIMmpNY2tkNmg1bURpa3N3Wm1zc0xyemNHd1JNSVl4TEdUeWlTYlg2R0ZMWVJ5Rjg2LV8wSzh1QWdMVHk4NG4tRGUtY2dNWGljT2pyX0tQNmhGX2NNR3ptaHV3OG00YkpsblNWZW1FaGZTb0pB0gG0AUFVX3lxTE9zMWsweVdaS0NpX0lCUjNjcFRWV1FMUUw0aG04VFBHV0V1QXBaSmoyZDc5THdEaE16MksyY1VRUndWdTA1ejZBQWEwSmRaZUU4M1RXSHBvbWt1ZFZNNTlfR0lQQ1lLclBlc0d2dUN0TEdINFotR09ZYUdpQnRSRGRlZ1B5eFJENktIRS1ITUY3UGl0TjJic0lxYUNhXzJDQ0tVMkdKcVdYTWc2dV9qdDNSWHJyZQ?oc=5",
-      "publishedAt": "Wed, 08 Apr 2026 04:39:55 GMT",
-      "titleZh": "Caution, relief as US politicians respond to Trump’s ceasefire with Iran - Al Jazeera",
-      "summaryZh": "Caution, relief as US politicians respond to Trump’s ceasefire with Iran&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "aljazeera-news-6-https://news.google.com/",
+      "id": "aljazeera-news-4-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -56,20 +95,33 @@
       "summaryZh": "World welcomes US-Iran ceasefire, urges lasting peace in the Middle East&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-1-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
+      "id": "reuters-news-1-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
       "type": "news",
-      "title": "Netanyahu says US-Iran ceasefire ‘does not include Lebanon’ - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOV2R5N0p2NWZKaWkyZEpqT05jUXZ4LUxmTVZQYkdkNmwyMktxczJBaExBc2Z1SGxmTkVjOV9KeGFlTEk0MWRkSWxtS3ZfR2xvSFJOT0RMZTJ1RDZ3ZDg2STh5cktiNjZYdEdPd1MyNDFPY2o3R1NCOVVLS0RXczBoaDRBalZla2sxZjRJRFJtNzVNQ01WZnI4c24xSU1SQdIBowFBVV95cUxPbUlQQkNkbXRIdlc0QmlOVGZvcFFxUDZUMC1XQ2R0OXg0bkVjb0Fyd0pua29DRFBQRHMwUXQ1SjFRd3hOMGM1b0doSFRVd1BDcXhqVFQ4dktWNGFDRjRtcFV1YjdVNEdJal9idmhBcElvYVVWS05SSzltQ2U1WWpHT1M4NXdzSUlLYmx5SGo4WnVERDdWMEFiYnE0Q1k3VFVCT1VJ?oc=5\" target=\"_blank\">Netanyahu says US-Iran ceasefire ‘does not include Lebanon’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2R5N0p2NWZKaWkyZEpqT05jUXZ4LUxmTVZQYkdkNmwyMktxczJBaExBc2Z1SGxmTkVjOV9KeGFlTEk0MWRkSWxtS3ZfR2xvSFJOT0RMZTJ1RDZ3ZDg2STh5cktiNjZYdEdPd1MyNDFPY2o3R1NCOVVLS0RXczBoaDRBalZla2sxZjRJRFJtNzVNQ01WZnI4c24xSU1SQdIBowFBVV95cUxPbUlQQkNkbXRIdlc0QmlOVGZvcFFxUDZUMC1XQ2R0OXg0bkVjb0Fyd0pua29DRFBQRHMwUXQ1SjFRd3hOMGM1b0doSFRVd1BDcXhqVFQ4dktWNGFDRjRtcFV1YjdVNEdJal9idmhBcElvYVVWS05SSzltQ2U1WWpHT1M4NXdzSUlLYmx5SGo4WnVERDdWMEFiYnE0Q1k3VFVCT1VJ?oc=5",
-      "publishedAt": "Wed, 08 Apr 2026 04:02:24 GMT",
-      "titleZh": "Netanyahu says US-Iran ceasefire ‘does not include Lebanon’ - Al Jazeera",
-      "summaryZh": "Netanyahu says US-Iran ceasefire ‘does not include Lebanon’&nbsp;&nbsp;Al Jazeera"
+      "title": "Trump agrees to two-week ceasefire, Iran says safe passage through Hormuz possible - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPLVZ2aXNYWERoaVZBdWlxUWpCX3BMQlVCWjd3ZEpQZ2dKN21aR3lwMGdDWkVSM0Z3T2JvVzA4ZjZMcXFRSWtrUjJ3cno0MHFwQ0phWkdGdkIzY0Z5RFhkNlBpQTRsSjNUTk10emVzaEZ3NlhxQjU5Tkxsa3NTRU5VQUVMamkwUU9GeVR2WTA3MUt4dTM0QjFVQ1hESXliT0s2ZEtPVHNkVnBKb1lrWXdqdlZBRTBEVGJLVGlRVzhvNXdscFUwanloQTVwb1VOUQ?oc=5\" target=\"_blank\">Trump agrees to two-week ceasefire, Iran says safe passage through Hormuz possible</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLVZ2aXNYWERoaVZBdWlxUWpCX3BMQlVCWjd3ZEpQZ2dKN21aR3lwMGdDWkVSM0Z3T2JvVzA4ZjZMcXFRSWtrUjJ3cno0MHFwQ0phWkdGdkIzY0Z5RFhkNlBpQTRsSjNUTk10emVzaEZ3NlhxQjU5Tkxsa3NTRU5VQUVMamkwUU9GeVR2WTA3MUt4dTM0QjFVQ1hESXliT0s2ZEtPVHNkVnBKb1lrWXdqdlZBRTBEVGJLVGlRVzhvNXdscFUwanloQTVwb1VOUQ?oc=5",
+      "publishedAt": "Wed, 08 Apr 2026 04:26:00 GMT",
+      "titleZh": "Trump agrees to two-week ceasefire, Iran says safe passage through Hormuz possible - Reuters",
+      "summaryZh": "Trump agrees to two-week ceasefire, Iran says safe passage through Hormuz possible&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "bbc-news-2-https://news.google.com/",
+      "id": "reuters-news-3-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
+      "type": "news",
+      "title": "Iran war ceasefire pushes energy markets into twilight zone - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQYy1HN3JhbDNKU3VrTUd4d3RmME55bjRaV0k3dXVtNElpWnlRS2tLdVZ1Z1FnaERFcHdJem9XN2RhbnJ0SGdrbUtVQUszbXdYaWtUMjYzVGtFSUJYRUh4TlNJeHhkNmo0TlYtU0dja2c4ekRISVdKMnBJMTlIVlRpUGlOX1NQSTZGYnFYUHRZWXZaNENZYzBjTUl4TkVfT0xMM2dGeUQyaWJGR1hFVlhBSA?oc=5\" target=\"_blank\">Iran war ceasefire pushes energy markets into twilight zone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYy1HN3JhbDNKU3VrTUd4d3RmME55bjRaV0k3dXVtNElpWnlRS2tLdVZ1Z1FnaERFcHdJem9XN2RhbnJ0SGdrbUtVQUszbXdYaWtUMjYzVGtFSUJYRUh4TlNJeHhkNmo0TlYtU0dja2c4ekRISVdKMnBJMTlIVlRpUGlOX1NQSTZGYnFYUHRZWXZaNENZYzBjTUl4TkVfT0xMM2dGeUQyaWJGR1hFVlhBSA?oc=5",
+      "publishedAt": "Wed, 08 Apr 2026 03:53:00 GMT",
+      "titleZh": "Iran war ceasefire pushes energy markets into twilight zone - Reuters",
+      "summaryZh": "Iran war ceasefire pushes energy markets into twilight zone&nbsp;&nbsp;Reuters"
+    },
+    {
+      "id": "bbc-news-0-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -87,15 +139,15 @@
       "source": "BBC",
       "sourceSite": "bbc.com",
       "type": "news",
-      "title": "Why did US and Israel attack Iran and how long could the war last? - BBC",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MG5wdTJrMFlNLWRENFBMZEFMcW0yN0E5dE1lajB6eGRWU1JNN2Y0cXhkbGlGdEpTcG1naHdqN00yLThGV3Qzd2RmYWhBa0tfS1I5ejRobjVGZw?oc=5\" target=\"_blank\">Why did US and Israel attack Iran and how long could the war last?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MG5wdTJrMFlNLWRENFBMZEFMcW0yN0E5dE1lajB6eGRWU1JNN2Y0cXhkbGlGdEpTcG1naHdqN00yLThGV3Qzd2RmYWhBa0tfS1I5ejRobjVGZw?oc=5",
-      "publishedAt": "Wed, 08 Apr 2026 02:57:08 GMT",
-      "titleZh": "Why did US and Israel attack Iran and how long could the war last? - BBC",
-      "summaryZh": "Why did US and Israel attack Iran and how long could the war last?&nbsp;&nbsp;BBC"
+      "title": "What we know about the two-week ceasefire between the US and Iran - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xVmlCbExfUmNMRy1tTmRPMkhrZm1PUUlpMEs2NHFwdVYtNUlDbkJzLVl0dG5ZbTlLN2FnWVZwVTY2RkQ0YmtuV1JpcVI2Y3lQSjN2NVh0c0h5dw?oc=5\" target=\"_blank\">What we know about the two-week ceasefire between the US and Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xVmlCbExfUmNMRy1tTmRPMkhrZm1PUUlpMEs2NHFwdVYtNUlDbkJzLVl0dG5ZbTlLN2FnWVZwVTY2RkQ0YmtuV1JpcVI2Y3lQSjN2NVh0c0h5dw?oc=5",
+      "publishedAt": "Wed, 08 Apr 2026 02:58:55 GMT",
+      "titleZh": "What we know about the two-week ceasefire between the US and Iran - BBC",
+      "summaryZh": "What we know about the two-week ceasefire between the US and Iran&nbsp;&nbsp;BBC"
     },
     {
-      "id": "aljazeera-news-3-https://news.google.com/",
+      "id": "aljazeera-news-5-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -103,12 +155,25 @@
       "title": "Iraqis celebrates US-Iran ceasefire as two-week halt in war begins - Al Jazeera",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOSVg0VHNxbjJ6SE9qaXpQN2V1SzRyS2NwWDduTHJRbEJlNXhUZWxlejZLNWVvTTZNZVRJOGdNSUR6ZW9sdURTNUY2WXNyUmxhNU9yZnF3bHlHYVB3OU9UY2t1ZlZPNS1GSTUtNTlmSG5ZX3VxMlpBVWZrLWdZMFJKMkJZc3BXU0Z4T2tWRGxZeXl2aVJ5a0s5Uk9RT0F2bmt6SHJHSEFsazhrUVByMUdDV05Gd3NKdm_SAbwBQVVfeXFMTTRWMGp5VjJTYWprbHdQMVRISjlzemdfY1B5aEZ2MjdHYkJZR0Q5ZFJQa0ZPWTJSd3BpZXhlSU5DR0VNU3V1SGIzamVxRDNPYWgtNU0tNkpKdkRveE51RE52bms0ZUFJOWxSbkZmVFhmTmxUY2RvenFfZTJXczh2eElhU3VMZ3JEbUtVODhpTmt1ZVo5c2IyT0w5SHl2NURIUGFoWF95VUFPV1NGeEhUXzN5Vzd0VTg3cU9DdUM?oc=5\" target=\"_blank\">Iraqis celebrates US-Iran ceasefire as two-week halt in war begins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSVg0VHNxbjJ6SE9qaXpQN2V1SzRyS2NwWDduTHJRbEJlNXhUZWxlejZLNWVvTTZNZVRJOGdNSUR6ZW9sdURTNUY2WXNyUmxhNU9yZnF3bHlHYVB3OU9UY2t1ZlZPNS1GSTUtNTlmSG5ZX3VxMlpBVWZrLWdZMFJKMkJZc3BXU0Z4T2tWRGxZeXl2aVJ5a0s5Uk9RT0F2bmt6SHJHSEFsazhrUVByMUdDV05Gd3NKdm_SAbwBQVVfeXFMTTRWMGp5VjJTYWprbHdQMVRISjlzemdfY1B5aEZ2MjdHYkJZR0Q5ZFJQa0ZPWTJSd3BpZXhlSU5DR0VNU3V1SGIzamVxRDNPYWgtNU0tNkpKdkRveE51RE52bms0ZUFJOWxSbkZmVFhmTmxUY2RvenFfZTJXczh2eElhU3VMZ3JEbUtVODhpTmt1ZVo5c2IyT0w5SHl2NURIUGFoWF95VUFPV1NGeEhUXzN5Vzd0VTg3cU9DdUM?oc=5",
-      "publishedAt": "Wed, 08 Apr 2026 02:10:46 GMT",
+      "publishedAt": "Wed, 08 Apr 2026 02:12:31 GMT",
       "titleZh": "Iraqis celebrates US-Iran ceasefire as two-week halt in war begins - Al Jazeera",
       "summaryZh": "Iraqis celebrates US-Iran ceasefire as two-week halt in war begins&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-4-https://news.google.com/",
+      "id": "bbc-news-5-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "Why did US and Israel attack Iran and how long could the war last? - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MG5wdTJrMFlNLWRENFBMZEFMcW0yN0E5dE1lajB6eGRWU1JNN2Y0cXhkbGlGdEpTcG1naHdqN00yLThGV3Qzd2RmYWhBa0tfS1I5ejRobjVGZw?oc=5\" target=\"_blank\">Why did US and Israel attack Iran and how long could the war last?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MG5wdTJrMFlNLWRENFBMZEFMcW0yN0E5dE1lajB6eGRWU1JNN2Y0cXhkbGlGdEpTcG1naHdqN00yLThGV3Qzd2RmYWhBa0tfS1I5ejRobjVGZw?oc=5",
+      "publishedAt": "Wed, 08 Apr 2026 02:01:44 GMT",
+      "titleZh": "Why did US and Israel attack Iran and how long could the war last? - BBC",
+      "summaryZh": "Why did US and Israel attack Iran and how long could the war last?&nbsp;&nbsp;BBC"
+    },
+    {
+      "id": "aljazeera-news-6-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -121,20 +186,20 @@
       "summaryZh": "Climate activist Greta Thunberg slams Trump’s threats against Iran&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-8-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
+      "id": "reuters-news-2-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
       "type": "news",
-      "title": "Pakistan appeals to Trump to extend deadline, Iran to reopen Hormuz Strait - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQYU1xcnpKeng1WjZLbFZMc0ZaZjFuZ18zZWlUUWY4OHEwSF9JUkVzN1psR1NkYjZvbWFrZjg3dV81Z1pJMWVvM2F3TTJQdktzT2dxanZGSEx3TXVTUUNvV1I1Xzlad01rLXlueDlrSzFCaUFHeUo0enZvNVdUNmppVms0UFJvWldoZUV2NWRvWXI1ZDZ5SWpoV01sdzJGek9YZWIzTnZOQ0NHZjlvLVJlVnBBM2hrUUXSAbwBQVVfeXFMTm94TnNvOTEzOGZ0SUc0VHU2cWlLRkRodTNLMDUza21fNDRZdTFTcnRyX2FKOXZDTmR1Y29mWTNpZG53OWdyQjZ3ZlhfaFFkM2FKejN0MlNzTVJfVEpQOFk1Q3BKRU90TThwem5tcmRCZVdkVXppWHRENUNTSU94V0pSSjVuN2VsNk1TQnktSWtFR3g2b3BWMDd5Z0hXNEpVb0ZqWG1lY0xMNlBNRTBlaUxJOU5jVFlJbW9VX2k?oc=5\" target=\"_blank\">Pakistan appeals to Trump to extend deadline, Iran to reopen Hormuz Strait</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYU1xcnpKeng1WjZLbFZMc0ZaZjFuZ18zZWlUUWY4OHEwSF9JUkVzN1psR1NkYjZvbWFrZjg3dV81Z1pJMWVvM2F3TTJQdktzT2dxanZGSEx3TXVTUUNvV1I1Xzlad01rLXlueDlrSzFCaUFHeUo0enZvNVdUNmppVms0UFJvWldoZUV2NWRvWXI1ZDZ5SWpoV01sdzJGek9YZWIzTnZOQ0NHZjlvLVJlVnBBM2hrUUXSAbwBQVVfeXFMTm94TnNvOTEzOGZ0SUc0VHU2cWlLRkRodTNLMDUza21fNDRZdTFTcnRyX2FKOXZDTmR1Y29mWTNpZG53OWdyQjZ3ZlhfaFFkM2FKejN0MlNzTVJfVEpQOFk1Q3BKRU90TThwem5tcmRCZVdkVXppWHRENUNTSU94V0pSSjVuN2VsNk1TQnktSWtFR3g2b3BWMDd5Z0hXNEpVb0ZqWG1lY0xMNlBNRTBlaUxJOU5jVFlJbW9VX2k?oc=5",
-      "publishedAt": "Wed, 08 Apr 2026 00:58:52 GMT",
-      "titleZh": "Pakistan appeals to Trump to extend deadline, Iran to reopen Hormuz Strait - Al Jazeera",
-      "summaryZh": "Pakistan appeals to Trump to extend deadline, Iran to reopen Hormuz Strait&nbsp;&nbsp;Al Jazeera"
+      "title": "Investor reactions to Trump agreeing to two-week ceasefire with Iran - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPV1Q3b1d4ME5IYjNsNTZCMW9sMTdPbWVsQk0tNXNSWUlRTU9UR0w4NmY4N1lGUDc4VVFHWVh2Mlg0M3RCUWFpNnhySkRiQlZmZFlaR1JQSjhLbjVyRDZXVVJoMjJPZTl1NDNYZXNvMktlVkRvZDJINEowQ3dVTlYtMndPQUotX1VEVERxeTRmamtZd3ZCTkstNno4b283bzV4Q1k2dDFJTQ?oc=5\" target=\"_blank\">Investor reactions to Trump agreeing to two-week ceasefire with Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV1Q3b1d4ME5IYjNsNTZCMW9sMTdPbWVsQk0tNXNSWUlRTU9UR0w4NmY4N1lGUDc4VVFHWVh2Mlg0M3RCUWFpNnhySkRiQlZmZFlaR1JQSjhLbjVyRDZXVVJoMjJPZTl1NDNYZXNvMktlVkRvZDJINEowQ3dVTlYtMndPQUotX1VEVERxeTRmamtZd3ZCTkstNno4b283bzV4Q1k2dDFJTQ?oc=5",
+      "publishedAt": "Tue, 07 Apr 2026 23:38:00 GMT",
+      "titleZh": "Investor reactions to Trump agreeing to two-week ceasefire with Iran - Reuters",
+      "summaryZh": "Investor reactions to Trump agreeing to two-week ceasefire with Iran&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "aljazeera-news-5-https://news.google.com/",
+      "id": "aljazeera-news-8-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -147,7 +212,7 @@
       "summaryZh": "What we know about Pakistan’s proposed Iran war pause&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "bbc-news-3-https://news.google.com/",
+      "id": "bbc-news-2-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -160,20 +225,7 @@
       "summaryZh": "Trump condemned over threat that Iran's 'civilisation will die'&nbsp;&nbsp;BBC"
     },
     {
-      "id": "aljazeera-news-2-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "Iran warns region and beyond as tension builds ahead of US ultimatum - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQNnNRR29CSGFsNnNpVnpUX1pYMFpGc3JJZ29YOVA5clJ4RnF4d3FEM2RxaXlhT3lJanNSUWtNdktXNjlCU1E0N1lYeHJlWG5KcmxONFFhamtlcVBuZXg0dThnTVhWSXhNYThONnlmMWNVNk9jTEZBQnRfVkJQckpKVWFZYzc5amhUbUpLTmw4Z3N4OHhUdWgzbUI0Tmh3aDJsakJVSEU4UGdzUmR00gGyAUFVX3lxTE5OZWZhRDhrTEV1V0UzZlA4VlFLTFlIUW4yMkxyWjN1aXlfV0lsTGxCVWFtZ1d0RV9lbWxHZl9NRWo5LXo1TkV4OTgwUkpoVmVoVlI2Z2dSUHNyR1c2VEJLVXBZeHNDOFV0ZnVHMzEzNHFKN0VBY21WM1R4RlR5N3FLcU1XTDd3dnQzaHlibHdVMTUzNnMwUmRTRHJHQ09qal9tNkhuTGN4MW4wR2x5bHRsUHc?oc=5\" target=\"_blank\">Iran warns region and beyond as tension builds ahead of US ultimatum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNnNRR29CSGFsNnNpVnpUX1pYMFpGc3JJZ29YOVA5clJ4RnF4d3FEM2RxaXlhT3lJanNSUWtNdktXNjlCU1E0N1lYeHJlWG5KcmxONFFhamtlcVBuZXg0dThnTVhWSXhNYThONnlmMWNVNk9jTEZBQnRfVkJQckpKVWFZYzc5amhUbUpLTmw4Z3N4OHhUdWgzbUI0Tmh3aDJsakJVSEU4UGdzUmR00gGyAUFVX3lxTE5OZWZhRDhrTEV1V0UzZlA4VlFLTFlIUW4yMkxyWjN1aXlfV0lsTGxCVWFtZ1d0RV9lbWxHZl9NRWo5LXo1TkV4OTgwUkpoVmVoVlI2Z2dSUHNyR1c2VEJLVXBZeHNDOFV0ZnVHMzEzNHFKN0VBY21WM1R4RlR5N3FLcU1XTDd3dnQzaHlibHdVMTUzNnMwUmRTRHJHQ09qal9tNkhuTGN4MW4wR2x5bHRsUHc?oc=5",
-      "publishedAt": "Tue, 07 Apr 2026 21:52:33 GMT",
-      "titleZh": "Iran warns region and beyond as tension builds ahead of US ultimatum - Al Jazeera",
-      "summaryZh": "Iran warns region and beyond as tension builds ahead of US ultimatum&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "aljazeera-news-7-https://news.google.com/",
+      "id": "aljazeera-news-9-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -199,7 +251,7 @@
       "summaryZh": "What the US military could do if Iran fails to meet Trump's ultimatum&nbsp;&nbsp;BBC"
     },
     {
-      "id": "aljazeera-news-0-https://news.google.com/",
+      "id": "aljazeera-news-2-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -212,7 +264,7 @@
       "summaryZh": "Iran war: What is happening on day 39 of US-Israeli attacks?&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "bbc-news-5-https://news.google.com/",
+      "id": "bbc-news-6-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -225,7 +277,33 @@
       "summaryZh": "Tracking recent US-Israeli strikes on Iranian infrastructure&nbsp;&nbsp;BBC"
     },
     {
-      "id": "reuters-news-1-https://news.google.com/",
+      "id": "reuters-news-0-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
+      "type": "news",
+      "title": "Iran war live: Trump announces two-week ceasefire as Iran says talks to begin soon - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQT3dZQW9tY1NmcEhYbDdhMDNNZk02dkM5Q1hLY3c1UVJPUG1RejZWTzJsTGNWU2Z3ZDZodlJoMnUtQXNmMzg0T1ZScWJUd2tmbXhKNUEyaWE5dXFTWVZNaWhLYWdyU0Q2T1daQWFfZDFXck9KOTJ0Z3czUllnY0xIQ3MzRHF6dGpRS21oV3dFS2p0c05HUlQwOVkwN0ZYbGVnWWVWNGtGdU9OdElNSFFJRUY4TlFjV1phZThGcFdCcw?oc=5\" target=\"_blank\">Iran war live: Trump announces two-week ceasefire as Iran says talks to begin soon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT3dZQW9tY1NmcEhYbDdhMDNNZk02dkM5Q1hLY3c1UVJPUG1RejZWTzJsTGNWU2Z3ZDZodlJoMnUtQXNmMzg0T1ZScWJUd2tmbXhKNUEyaWE5dXFTWVZNaWhLYWdyU0Q2T1daQWFfZDFXck9KOTJ0Z3czUllnY0xIQ3MzRHF6dGpRS21oV3dFS2p0c05HUlQwOVkwN0ZYbGVnWWVWNGtGdU9OdElNSFFJRUY4TlFjV1phZThGcFdCcw?oc=5",
+      "publishedAt": "Tue, 07 Apr 2026 11:02:04 GMT",
+      "titleZh": "Iran war live: Trump announces two-week ceasefire as Iran says talks to begin soon - Reuters",
+      "summaryZh": "Iran war live: Trump announces two-week ceasefire as Iran says talks to begin soon&nbsp;&nbsp;Reuters"
+    },
+    {
+      "id": "aljazeera-news-0-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "Iran war live: Trump suspends US attacks, Tehran agrees to 2-week ceasefire - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQTGwxeGhydkFXNTZIa3RRYTVtQ3lpXzlBRUhXbzBOU2thWXcyOXE5bWJJSUZwbzdhSGFBTmtqNldOaXhiTjhMMi1jdFFUUks3R1hFMFZ2SzdZSVBBaFJJLUJ0VlkzT0dWRkVBUWktemwxWHBpWThkZFlEN2NqSnB4Q0tOZm1kdU94VDN4cUdDTFB0cTBQVUtic2k3OTNrajQyZFBkekU4blhhX3ZLX25fUHJacFdTRGpSTEwxN9IBwgFBVV95cUxNbkFkVXFOa1B2YzMxRlFsRnRMaGtEUENLSDI2TmxEcWVwYUxaRVBNNE5YZ21xVWFDbHRUaFdvM0J5emMwY3h5Xzh2WlBZVUt0OXJEMlRQN0MyVGd1NXNNSTJoRDhya28wWFo3NlVfS0llMGtiS0VIbGpvQVl6OUlxS1Zfd0dndFVodXE0dEhiQnI5UUVlMkxaRjBZRTlhOEc3cXd5a3FBcnlYZzZHWUE0VDc2bDZYbk1RSUZkZ2lweVEzUQ?oc=5\" target=\"_blank\">Iran war live: Trump suspends US attacks, Tehran agrees to 2-week ceasefire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTGwxeGhydkFXNTZIa3RRYTVtQ3lpXzlBRUhXbzBOU2thWXcyOXE5bWJJSUZwbzdhSGFBTmtqNldOaXhiTjhMMi1jdFFUUks3R1hFMFZ2SzdZSVBBaFJJLUJ0VlkzT0dWRkVBUWktemwxWHBpWThkZFlEN2NqSnB4Q0tOZm1kdU94VDN4cUdDTFB0cTBQVUtic2k3OTNrajQyZFBkekU4blhhX3ZLX25fUHJacFdTRGpSTEwxN9IBwgFBVV95cUxNbkFkVXFOa1B2YzMxRlFsRnRMaGtEUENLSDI2TmxEcWVwYUxaRVBNNE5YZ21xVWFDbHRUaFdvM0J5emMwY3h5Xzh2WlBZVUt0OXJEMlRQN0MyVGd1NXNNSTJoRDhya28wWFo3NlVfS0llMGtiS0VIbGpvQVl6OUlxS1Zfd0dndFVodXE0dEhiQnI5UUVlMkxaRjBZRTlhOEc3cXd5a3FBcnlYZzZHWUE0VDc2bDZYbk1RSUZkZ2lweVEzUQ?oc=5",
+      "publishedAt": "Tue, 07 Apr 2026 07:30:02 GMT",
+      "titleZh": "Iran war live: Trump suspends US attacks, Tehran agrees to 2-week ceasefire - Al Jazeera",
+      "summaryZh": "Iran war live: Trump suspends US attacks, Tehran agrees to 2-week ceasefire&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "reuters-news-5-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -238,33 +316,7 @@
       "summaryZh": "Trump agrees to two-week Iran ceasefire, drops threat to destroy 'whole civilization'&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "bbc-news-9-https://news.google.com/",
-      "sourceId": "bbc",
-      "source": "BBC",
-      "sourceSite": "bbc.com",
-      "type": "news",
-      "title": "伊朗战争：特朗普为下台阶同时追求两条出路 - BBC",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE01U01ybUFMaUJqM2NlMHNJd2o1U1RCNDhiM0x1ejVVdzY1WTVDRWI1RHB2V2xPSzlvRnRwUmRwS0o1bDlDRUFNNWF4WEhzaXZ0akNUSmdtOHlmaUpOOHVCd1V1ZVVHQdIBa0FVX3lxTE9mNjZoTnJQZzNLQ0gtdEJ2a1doNW8xN1l3MnU3Vy1Vc2FPampBZEtFRkRqN1BtUjZORzdEQk1NdWVyNTItVlZhTnJDdURDXzllRVV3d1puSGdtbzhieUpxUlhnMVJhTXA2bm1B?oc=5\" target=\"_blank\">伊朗战争：特朗普为下台阶同时追求两条出路</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01U01ybUFMaUJqM2NlMHNJd2o1U1RCNDhiM0x1ejVVdzY1WTVDRWI1RHB2V2xPSzlvRnRwUmRwS0o1bDlDRUFNNWF4WEhzaXZ0akNUSmdtOHlmaUpOOHVCd1V1ZVVHQdIBa0FVX3lxTE9mNjZoTnJQZzNLQ0gtdEJ2a1doNW8xN1l3MnU3Vy1Vc2FPampBZEtFRkRqN1BtUjZORzdEQk1NdWVyNTItVlZhTnJDdURDXzllRVV3d1puSGdtbzhieUpxUlhnMVJhTXA2bm1B?oc=5",
-      "publishedAt": "Fri, 27 Mar 2026 07:00:00 GMT",
-      "titleZh": "伊朗战争：特朗普为下台阶同时追求两条出路 - BBC",
-      "summaryZh": "伊朗战争：特朗普为下台阶同时追求两条出路&nbsp;&nbsp;BBC"
-    },
-    {
-      "id": "bbc-news-7-https://news.google.com/",
-      "sourceId": "bbc",
-      "source": "BBC",
-      "sourceSite": "bbc.com",
-      "type": "news",
-      "title": "伊朗战争：冲突持续越久，美伊都会更加陷入欲罢不能的境地—分析 - BBC",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kZ2c5eWh2cmltZjZxLXJEVmNWcURlTkNaNmtNWTNwTUFFNUg0cGQ5S1p0NHBtaU9WSk9maVhrMjRCaW5tRjJFTnl6U0tLU1YxQnpHLVI4c0JETWJMZEY5SXF4V2VJUdIBa0FVX3lxTFBEMFBCSzVDQV9YLUI4YXhqS1AxQXpDYm0xWG54V09HeW5MMENGZ0tZVTBveXJWNGhJamFzbXZyR1ZkbUFuaUpXcUdpSWNVOFFIOXpPMEd4YXlSMXFHSkZyc19taFNnMndVVXhF?oc=5\" target=\"_blank\">伊朗战争：冲突持续越久，美伊都会更加陷入欲罢不能的境地—分析</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kZ2c5eWh2cmltZjZxLXJEVmNWcURlTkNaNmtNWTNwTUFFNUg0cGQ5S1p0NHBtaU9WSk9maVhrMjRCaW5tRjJFTnl6U0tLU1YxQnpHLVI4c0JETWJMZEY5SXF4V2VJUdIBa0FVX3lxTFBEMFBCSzVDQV9YLUI4YXhqS1AxQXpDYm0xWG54V09HeW5MMENGZ0tZVTBveXJWNGhJamFzbXZyR1ZkbUFuaUpXcUdpSWNVOFFIOXpPMEd4YXlSMXFHSkZyc19taFNnMndVVXhF?oc=5",
-      "publishedAt": "Tue, 24 Mar 2026 07:00:00 GMT",
-      "titleZh": "伊朗战争：冲突持续越久，美伊都会更加陷入欲罢不能的境地—分析 - BBC",
-      "summaryZh": "伊朗战争：冲突持续越久，美伊都会更加陷入欲罢不能的境地—分析&nbsp;&nbsp;BBC"
-    },
-    {
-      "id": "bbc-news-6-https://news.google.com/",
+      "id": "bbc-news-8-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -277,20 +329,20 @@
       "summaryZh": "US-Israel war with Iran: Mapping strikes across the Middle East&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-8-https://news.google.com/",
+      "id": "bbc-news-9-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
       "type": "news",
-      "title": "伊朗战争：是否要采取更强硬措施？特朗普正在十字路口—分析 - BBC",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkVGV2d2d3WEM3dDVkdTI0UEFIZERYT3NXMERxNFc5T1Q3Mm1sNXNjcTdHZERVRlpMMFpsMHZGUXNUSzllZ2s5UGR6S2lubWVJUTJWaFRYNXFnTzVuWGFyWVFRTEJMUdIBa0FVX3lxTE9YNGNxVWVkZGJGTWU2MHB4NFc3UW1oM2xwaVluT3p2VHBzRzJTS2hCRGJaWkVCVndrQ19OVVhQUldYbG42ci1FYkxpc0c2aUZxb0hiMUVQRTJuTUpwUlNqLW43YzVKdlI0VF9j?oc=5\" target=\"_blank\">伊朗战争：是否要采取更强硬措施？特朗普正在十字路口—分析</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkVGV2d2d3WEM3dDVkdTI0UEFIZERYT3NXMERxNFc5T1Q3Mm1sNXNjcTdHZERVRlpMMFpsMHZGUXNUSzllZ2s5UGR6S2lubWVJUTJWaFRYNXFnTzVuWGFyWVFRTEJMUdIBa0FVX3lxTE9YNGNxVWVkZGJGTWU2MHB4NFc3UW1oM2xwaVluT3p2VHBzRzJTS2hCRGJaWkVCVndrQ19OVVhQUldYbG42ci1FYkxpc0c2aUZxb0hiMUVQRTJuTUpwUlNqLW43YzVKdlI0VF9j?oc=5",
-      "publishedAt": "Sun, 22 Mar 2026 07:00:00 GMT",
-      "titleZh": "伊朗战争：是否要采取更强硬措施？特朗普正在十字路口—分析 - BBC",
-      "summaryZh": "伊朗战争：是否要采取更强硬措施？特朗普正在十字路口—分析&nbsp;&nbsp;BBC"
+      "title": "US' and Iran's options for ending war narrow the longer it goes on - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ycDZuNWNwYWw1RFNLLTJCT29Zcm4xSll0ajM4Y1JEc1JVbV9JTnh5NHZPenN0VzJvTE5faXhRbUk1a0szcVlGUldlRHZHam1yaURNcDU5bEdTQQ?oc=5\" target=\"_blank\">US' and Iran's options for ending war narrow the longer it goes on</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ycDZuNWNwYWw1RFNLLTJCT29Zcm4xSll0ajM4Y1JEc1JVbV9JTnh5NHZPenN0VzJvTE5faXhRbUk1a0szcVlGUldlRHZHam1yaURNcDU5bEdTQQ?oc=5",
+      "publishedAt": "Mon, 23 Mar 2026 07:00:00 GMT",
+      "titleZh": "US' and Iran's options for ending war narrow the longer it goes on - BBC",
+      "summaryZh": "US' and Iran's options for ending war narrow the longer it goes on&nbsp;&nbsp;BBC"
     },
     {
-      "id": "reuters-news-2-https://news.google.com/",
+      "id": "reuters-news-6-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -303,7 +355,7 @@
       "summaryZh": "Natural gas prices soar as Iran, Israel strike Middle East energy infrastructure&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "reuters-news-3-https://news.google.com/",
+      "id": "reuters-news-7-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -322,6 +374,58 @@
       "source": "Reuters",
       "items": [
         {
+          "id": "reuters-news-4-https://news.google.com/",
+          "sourceId": "reuters",
+          "source": "Reuters",
+          "sourceSite": "reuters.com",
+          "type": "news",
+          "title": "Israel backs Trump's two-week pause on Iran strikes, says Lebanon excluded - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxORkVCVG9QTEZxTFM5R252SjFLZFFhMi1JdFdNY1ozakZVWFVEQlBYOWo0bHkzOEVXdkE5RVZHSkd4QzRFTkpoNzRJbmQzQkV4Y2VwNi1MV0xGend0Y2R6YUhlcGRyTV9NdjJXbkJZbGJSb1FLWlFCYlFTaXU1eUZ3ZzJ0YzFfM182ZUtrVmFFenBqQVRIb0NIQ2R6LWd2Z1hTRkFLMXluWUc0WjFBMGd4SWdKeml3Ukk5OHB0YlBvdVVfLWFMLVZJag?oc=5\" target=\"_blank\">Israel backs Trump's two-week pause on Iran strikes, says Lebanon excluded</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORkVCVG9QTEZxTFM5R252SjFLZFFhMi1JdFdNY1ozakZVWFVEQlBYOWo0bHkzOEVXdkE5RVZHSkd4QzRFTkpoNzRJbmQzQkV4Y2VwNi1MV0xGend0Y2R6YUhlcGRyTV9NdjJXbkJZbGJSb1FLWlFCYlFTaXU1eUZ3ZzJ0YzFfM182ZUtrVmFFenBqQVRIb0NIQ2R6LWd2Z1hTRkFLMXluWUc0WjFBMGd4SWdKeml3Ukk5OHB0YlBvdVVfLWFMLVZJag?oc=5",
+          "publishedAt": "Wed, 08 Apr 2026 06:02:04 GMT",
+          "titleZh": "Israel backs Trump's two-week pause on Iran strikes, says Lebanon excluded - Reuters",
+          "summaryZh": "Israel backs Trump's two-week pause on Iran strikes, says Lebanon excluded&nbsp;&nbsp;Reuters"
+        },
+        {
+          "id": "reuters-news-1-https://news.google.com/",
+          "sourceId": "reuters",
+          "source": "Reuters",
+          "sourceSite": "reuters.com",
+          "type": "news",
+          "title": "Trump agrees to two-week ceasefire, Iran says safe passage through Hormuz possible - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPLVZ2aXNYWERoaVZBdWlxUWpCX3BMQlVCWjd3ZEpQZ2dKN21aR3lwMGdDWkVSM0Z3T2JvVzA4ZjZMcXFRSWtrUjJ3cno0MHFwQ0phWkdGdkIzY0Z5RFhkNlBpQTRsSjNUTk10emVzaEZ3NlhxQjU5Tkxsa3NTRU5VQUVMamkwUU9GeVR2WTA3MUt4dTM0QjFVQ1hESXliT0s2ZEtPVHNkVnBKb1lrWXdqdlZBRTBEVGJLVGlRVzhvNXdscFUwanloQTVwb1VOUQ?oc=5\" target=\"_blank\">Trump agrees to two-week ceasefire, Iran says safe passage through Hormuz possible</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLVZ2aXNYWERoaVZBdWlxUWpCX3BMQlVCWjd3ZEpQZ2dKN21aR3lwMGdDWkVSM0Z3T2JvVzA4ZjZMcXFRSWtrUjJ3cno0MHFwQ0phWkdGdkIzY0Z5RFhkNlBpQTRsSjNUTk10emVzaEZ3NlhxQjU5Tkxsa3NTRU5VQUVMamkwUU9GeVR2WTA3MUt4dTM0QjFVQ1hESXliT0s2ZEtPVHNkVnBKb1lrWXdqdlZBRTBEVGJLVGlRVzhvNXdscFUwanloQTVwb1VOUQ?oc=5",
+          "publishedAt": "Wed, 08 Apr 2026 04:26:00 GMT",
+          "titleZh": "Trump agrees to two-week ceasefire, Iran says safe passage through Hormuz possible - Reuters",
+          "summaryZh": "Trump agrees to two-week ceasefire, Iran says safe passage through Hormuz possible&nbsp;&nbsp;Reuters"
+        },
+        {
+          "id": "reuters-news-3-https://news.google.com/",
+          "sourceId": "reuters",
+          "source": "Reuters",
+          "sourceSite": "reuters.com",
+          "type": "news",
+          "title": "Iran war ceasefire pushes energy markets into twilight zone - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQYy1HN3JhbDNKU3VrTUd4d3RmME55bjRaV0k3dXVtNElpWnlRS2tLdVZ1Z1FnaERFcHdJem9XN2RhbnJ0SGdrbUtVQUszbXdYaWtUMjYzVGtFSUJYRUh4TlNJeHhkNmo0TlYtU0dja2c4ekRISVdKMnBJMTlIVlRpUGlOX1NQSTZGYnFYUHRZWXZaNENZYzBjTUl4TkVfT0xMM2dGeUQyaWJGR1hFVlhBSA?oc=5\" target=\"_blank\">Iran war ceasefire pushes energy markets into twilight zone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYy1HN3JhbDNKU3VrTUd4d3RmME55bjRaV0k3dXVtNElpWnlRS2tLdVZ1Z1FnaERFcHdJem9XN2RhbnJ0SGdrbUtVQUszbXdYaWtUMjYzVGtFSUJYRUh4TlNJeHhkNmo0TlYtU0dja2c4ekRISVdKMnBJMTlIVlRpUGlOX1NQSTZGYnFYUHRZWXZaNENZYzBjTUl4TkVfT0xMM2dGeUQyaWJGR1hFVlhBSA?oc=5",
+          "publishedAt": "Wed, 08 Apr 2026 03:53:00 GMT",
+          "titleZh": "Iran war ceasefire pushes energy markets into twilight zone - Reuters",
+          "summaryZh": "Iran war ceasefire pushes energy markets into twilight zone&nbsp;&nbsp;Reuters"
+        },
+        {
+          "id": "reuters-news-2-https://news.google.com/",
+          "sourceId": "reuters",
+          "source": "Reuters",
+          "sourceSite": "reuters.com",
+          "type": "news",
+          "title": "Investor reactions to Trump agreeing to two-week ceasefire with Iran - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPV1Q3b1d4ME5IYjNsNTZCMW9sMTdPbWVsQk0tNXNSWUlRTU9UR0w4NmY4N1lGUDc4VVFHWVh2Mlg0M3RCUWFpNnhySkRiQlZmZFlaR1JQSjhLbjVyRDZXVVJoMjJPZTl1NDNYZXNvMktlVkRvZDJINEowQ3dVTlYtMndPQUotX1VEVERxeTRmamtZd3ZCTkstNno4b283bzV4Q1k2dDFJTQ?oc=5\" target=\"_blank\">Investor reactions to Trump agreeing to two-week ceasefire with Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV1Q3b1d4ME5IYjNsNTZCMW9sMTdPbWVsQk0tNXNSWUlRTU9UR0w4NmY4N1lGUDc4VVFHWVh2Mlg0M3RCUWFpNnhySkRiQlZmZFlaR1JQSjhLbjVyRDZXVVJoMjJPZTl1NDNYZXNvMktlVkRvZDJINEowQ3dVTlYtMndPQUotX1VEVERxeTRmamtZd3ZCTkstNno4b283bzV4Q1k2dDFJTQ?oc=5",
+          "publishedAt": "Tue, 07 Apr 2026 23:38:00 GMT",
+          "titleZh": "Investor reactions to Trump agreeing to two-week ceasefire with Iran - Reuters",
+          "summaryZh": "Investor reactions to Trump agreeing to two-week ceasefire with Iran&nbsp;&nbsp;Reuters"
+        },
+        {
           "id": "reuters-news-0-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
@@ -330,12 +434,12 @@
           "title": "Iran war live: Trump announces two-week ceasefire as Iran says talks to begin soon - Reuters",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQT3dZQW9tY1NmcEhYbDdhMDNNZk02dkM5Q1hLY3c1UVJPUG1RejZWTzJsTGNWU2Z3ZDZodlJoMnUtQXNmMzg0T1ZScWJUd2tmbXhKNUEyaWE5dXFTWVZNaWhLYWdyU0Q2T1daQWFfZDFXck9KOTJ0Z3czUllnY0xIQ3MzRHF6dGpRS21oV3dFS2p0c05HUlQwOVkwN0ZYbGVnWWVWNGtGdU9OdElNSFFJRUY4TlFjV1phZThGcFdCcw?oc=5\" target=\"_blank\">Iran war live: Trump announces two-week ceasefire as Iran says talks to begin soon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT3dZQW9tY1NmcEhYbDdhMDNNZk02dkM5Q1hLY3c1UVJPUG1RejZWTzJsTGNWU2Z3ZDZodlJoMnUtQXNmMzg0T1ZScWJUd2tmbXhKNUEyaWE5dXFTWVZNaWhLYWdyU0Q2T1daQWFfZDFXck9KOTJ0Z3czUllnY0xIQ3MzRHF6dGpRS21oV3dFS2p0c05HUlQwOVkwN0ZYbGVnWWVWNGtGdU9OdElNSFFJRUY4TlFjV1phZThGcFdCcw?oc=5",
-          "publishedAt": "Wed, 08 Apr 2026 04:43:48 GMT",
+          "publishedAt": "Tue, 07 Apr 2026 11:02:04 GMT",
           "titleZh": "Iran war live: Trump announces two-week ceasefire as Iran says talks to begin soon - Reuters",
           "summaryZh": "Iran war live: Trump announces two-week ceasefire as Iran says talks to begin soon&nbsp;&nbsp;Reuters"
         },
         {
-          "id": "reuters-news-1-https://news.google.com/",
+          "id": "reuters-news-5-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -346,32 +450,6 @@
           "publishedAt": "Tue, 07 Apr 2026 04:21:00 GMT",
           "titleZh": "Trump agrees to two-week Iran ceasefire, drops threat to destroy 'whole civilization' - Reuters",
           "summaryZh": "Trump agrees to two-week Iran ceasefire, drops threat to destroy 'whole civilization'&nbsp;&nbsp;Reuters"
-        },
-        {
-          "id": "reuters-news-2-https://news.google.com/",
-          "sourceId": "reuters",
-          "source": "Reuters",
-          "sourceSite": "reuters.com",
-          "type": "news",
-          "title": "Natural gas prices soar as Iran, Israel strike Middle East energy infrastructure - Reuters",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOck93Y2M1dEJEZU50VEZvUkxsQVdQMHZPR2dGdFBSTTA0ZVdPNEtOZ2tSa296dHhoLXg5bHdZRC14aTRtelR0OGNKdGRvMWFJd25fb01rby1MajRuUGZJZEdnU0MtX3B5QWxxMUtIdDR0c2ZkakVQOHdhM2pHVjlQTFRXeXF1UXhpd1BfaTRITk1Ja3BaT09mN2RlMTFyMkh6ZThYdXFTVk9Bb0xoZDFESWxwYXRLX2xfRk9MVnpmVUpSNmdVbF9Xb3lR?oc=5\" target=\"_blank\">Natural gas prices soar as Iran, Israel strike Middle East energy infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOck93Y2M1dEJEZU50VEZvUkxsQVdQMHZPR2dGdFBSTTA0ZVdPNEtOZ2tSa296dHhoLXg5bHdZRC14aTRtelR0OGNKdGRvMWFJd25fb01rby1MajRuUGZJZEdnU0MtX3B5QWxxMUtIdDR0c2ZkakVQOHdhM2pHVjlQTFRXeXF1UXhpd1BfaTRITk1Ja3BaT09mN2RlMTFyMkh6ZThYdXFTVk9Bb0xoZDFESWxwYXRLX2xfRk9MVnpmVUpSNmdVbF9Xb3lR?oc=5",
-          "publishedAt": "Thu, 19 Mar 2026 07:00:00 GMT",
-          "titleZh": "Natural gas prices soar as Iran, Israel strike Middle East energy infrastructure - Reuters",
-          "summaryZh": "Natural gas prices soar as Iran, Israel strike Middle East energy infrastructure&nbsp;&nbsp;Reuters"
-        },
-        {
-          "id": "reuters-news-3-https://news.google.com/",
-          "sourceId": "reuters",
-          "source": "Reuters",
-          "sourceSite": "reuters.com",
-          "type": "news",
-          "title": "Iran blames Israel for gas field attack, fires missiles at Qatar and Saudi energy facilities - Reuters",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTVhHMjJPUHhnUVdGdEtLWTZ3MUgwanJydGkyZkJ5bWI3WnFKVS0zREVmRGF4RzBhU1FUT1VEWjJLUXZ5VFBRaUtzdGtONGY3MHdlZDV2SkU5Yzc4cWEwdmJuY2sxSVl5NEtITXpRMFotTHltQkRIX2ZobHZVQ1NmZFp2bExPbjhuZW1WUm1WLW5DMlBkVjVNYjhWMWE4emR4MnhNb3k4ajlVU1l3YWtuQnY4eng4bWI0Zkhv?oc=5\" target=\"_blank\">Iran blames Israel for gas field attack, fires missiles at Qatar and Saudi energy facilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTVhHMjJPUHhnUVdGdEtLWTZ3MUgwanJydGkyZkJ5bWI3WnFKVS0zREVmRGF4RzBhU1FUT1VEWjJLUXZ5VFBRaUtzdGtONGY3MHdlZDV2SkU5Yzc4cWEwdmJuY2sxSVl5NEtITXpRMFotTHltQkRIX2ZobHZVQ1NmZFp2bExPbjhuZW1WUm1WLW5DMlBkVjVNYjhWMWE4emR4MnhNb3k4ajlVU1l3YWtuQnY4eng4bWI0Zkhv?oc=5",
-          "publishedAt": "Wed, 18 Mar 2026 07:00:00 GMT",
-          "titleZh": "Iran blames Israel for gas field attack, fires missiles at Qatar and Saudi energy facilities - Reuters",
-          "summaryZh": "Iran blames Israel for gas field attack, fires missiles at Qatar and Saudi energy facilities&nbsp;&nbsp;Reuters"
         }
       ]
     },
@@ -380,7 +458,20 @@
       "source": "BBC",
       "items": [
         {
-          "id": "bbc-news-0-https://news.google.com/",
+          "id": "bbc-news-7-https://news.google.com/",
+          "sourceId": "bbc",
+          "source": "BBC",
+          "sourceSite": "bbc.com",
+          "type": "news",
+          "title": "Starmer to visit Middle East after US and Iran reach ceasefire deal - BBC",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pdVpJWTdnMlYxd05WTmwwNVZJenc3Uk5Nd0Mzc3hJVEJiQmpqTnphVnBOQmxIYUVIcFRxR0tSSUFwSzJrRXVyaVFGelBfS0IwdmFaRDRwNW9qZw?oc=5\" target=\"_blank\">Starmer to visit Middle East after US and Iran reach ceasefire deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pdVpJWTdnMlYxd05WTmwwNVZJenc3Uk5Nd0Mzc3hJVEJiQmpqTnphVnBOQmxIYUVIcFRxR0tSSUFwSzJrRXVyaVFGelBfS0IwdmFaRDRwNW9qZw?oc=5",
+          "publishedAt": "Wed, 08 Apr 2026 06:25:27 GMT",
+          "titleZh": "Starmer to visit Middle East after US and Iran reach ceasefire deal - BBC",
+          "summaryZh": "Starmer to visit Middle East after US and Iran reach ceasefire deal&nbsp;&nbsp;BBC"
+        },
+        {
+          "id": "bbc-news-3-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -393,7 +484,7 @@
           "summaryZh": "How Pakistan helped secure a fragile ceasefire between the US and Iran&nbsp;&nbsp;BBC"
         },
         {
-          "id": "bbc-news-2-https://news.google.com/",
+          "id": "bbc-news-0-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -411,15 +502,28 @@
           "source": "BBC",
           "sourceSite": "bbc.com",
           "type": "news",
+          "title": "What we know about the two-week ceasefire between the US and Iran - BBC",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xVmlCbExfUmNMRy1tTmRPMkhrZm1PUUlpMEs2NHFwdVYtNUlDbkJzLVl0dG5ZbTlLN2FnWVZwVTY2RkQ0YmtuV1JpcVI2Y3lQSjN2NVh0c0h5dw?oc=5\" target=\"_blank\">What we know about the two-week ceasefire between the US and Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xVmlCbExfUmNMRy1tTmRPMkhrZm1PUUlpMEs2NHFwdVYtNUlDbkJzLVl0dG5ZbTlLN2FnWVZwVTY2RkQ0YmtuV1JpcVI2Y3lQSjN2NVh0c0h5dw?oc=5",
+          "publishedAt": "Wed, 08 Apr 2026 02:58:55 GMT",
+          "titleZh": "What we know about the two-week ceasefire between the US and Iran - BBC",
+          "summaryZh": "What we know about the two-week ceasefire between the US and Iran&nbsp;&nbsp;BBC"
+        },
+        {
+          "id": "bbc-news-5-https://news.google.com/",
+          "sourceId": "bbc",
+          "source": "BBC",
+          "sourceSite": "bbc.com",
+          "type": "news",
           "title": "Why did US and Israel attack Iran and how long could the war last? - BBC",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MG5wdTJrMFlNLWRENFBMZEFMcW0yN0E5dE1lajB6eGRWU1JNN2Y0cXhkbGlGdEpTcG1naHdqN00yLThGV3Qzd2RmYWhBa0tfS1I5ejRobjVGZw?oc=5\" target=\"_blank\">Why did US and Israel attack Iran and how long could the war last?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MG5wdTJrMFlNLWRENFBMZEFMcW0yN0E5dE1lajB6eGRWU1JNN2Y0cXhkbGlGdEpTcG1naHdqN00yLThGV3Qzd2RmYWhBa0tfS1I5ejRobjVGZw?oc=5",
-          "publishedAt": "Wed, 08 Apr 2026 02:57:08 GMT",
+          "publishedAt": "Wed, 08 Apr 2026 02:01:44 GMT",
           "titleZh": "Why did US and Israel attack Iran and how long could the war last? - BBC",
           "summaryZh": "Why did US and Israel attack Iran and how long could the war last?&nbsp;&nbsp;BBC"
         },
         {
-          "id": "bbc-news-3-https://news.google.com/",
+          "id": "bbc-news-2-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -430,32 +534,6 @@
           "publishedAt": "Tue, 07 Apr 2026 21:56:02 GMT",
           "titleZh": "Trump condemned over threat that Iran's 'civilisation will die' - BBC",
           "summaryZh": "Trump condemned over threat that Iran's 'civilisation will die'&nbsp;&nbsp;BBC"
-        },
-        {
-          "id": "bbc-news-1-https://news.google.com/",
-          "sourceId": "bbc",
-          "source": "BBC",
-          "sourceSite": "bbc.com",
-          "type": "news",
-          "title": "What the US military could do if Iran fails to meet Trump's ultimatum - BBC",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZQzREU25NWFVrSkpBZE9hRDhXUUFKYjF3VlY3cDFOSWJGdEJxbFZvejMtQVZlWFZlWFJUcHBWMkNWd2VpMzI3R3hNR3V1YmNYRnByblJLSW9JZw?oc=5\" target=\"_blank\">What the US military could do if Iran fails to meet Trump's ultimatum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZQzREU25NWFVrSkpBZE9hRDhXUUFKYjF3VlY3cDFOSWJGdEJxbFZvejMtQVZlWFZlWFJUcHBWMkNWd2VpMzI3R3hNR3V1YmNYRnByblJLSW9JZw?oc=5",
-          "publishedAt": "Tue, 07 Apr 2026 20:55:50 GMT",
-          "titleZh": "What the US military could do if Iran fails to meet Trump's ultimatum - BBC",
-          "summaryZh": "What the US military could do if Iran fails to meet Trump's ultimatum&nbsp;&nbsp;BBC"
-        },
-        {
-          "id": "bbc-news-5-https://news.google.com/",
-          "sourceId": "bbc",
-          "source": "BBC",
-          "sourceSite": "bbc.com",
-          "type": "news",
-          "title": "Tracking recent US-Israeli strikes on Iranian infrastructure - BBC",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE95dWkwNlBvMkJZYjFEcnhBM2VHcFlscVBTSlhDM1dHRE9YbEd4SjRrcmI0QlJMR2hONXZ3bGpEVE5sS1lVZFhzM2FXYXZOS0ZVOURQQmllSXRRUQ?oc=5\" target=\"_blank\">Tracking recent US-Israeli strikes on Iranian infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95dWkwNlBvMkJZYjFEcnhBM2VHcFlscVBTSlhDM1dHRE9YbEd4SjRrcmI0QlJMR2hONXZ3bGpEVE5sS1lVZFhzM2FXYXZOS0ZVOURQQmllSXRRUQ?oc=5",
-          "publishedAt": "Tue, 07 Apr 2026 17:15:34 GMT",
-          "titleZh": "Tracking recent US-Israeli strikes on Iranian infrastructure - BBC",
-          "summaryZh": "Tracking recent US-Israeli strikes on Iranian infrastructure&nbsp;&nbsp;BBC"
         }
       ]
     },
@@ -464,7 +542,33 @@
       "source": "Al Jazeera",
       "items": [
         {
-          "id": "aljazeera-news-9-https://news.google.com/",
+          "id": "aljazeera-news-7-https://news.google.com/",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "sourceSite": "aljazeera.com",
+          "type": "news",
+          "title": "Iran war: What is happening on day 40 of US-Israeli attacks? - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOVmNmZ3ZfeW53ODB2R09CS211TVJFSVlLdmppMmFoMkFvUlJaRE9mX19ic3UxQjVoQnZnTmdRa2JwaHBxQWxFSG52ZTRDYmRlVVJRc3g5d21rcWZnMEhVUXBrOHpycjdOeFh3WUFPXzI4bkJtcUNjWjNGQ0k0c0FSR2dJc1NReEFiTkRXbzFyTHNGaWhiRlZ1b19WYVk0OHfSAaQBQVVfeXFMUGxCaVhIQnVsMExfbWJ1ajZ6X0ZicHZvSml3RXJtZ3B1dHlJR19HVG85d1RZZTZfSGVmQnNTdnJmVHhOZHJISV9TVHpoeGxVWlRDaUdVQzdDN25vWUdCQ0xUUlB1RkFXX0pVWktIZHh1TlFQRzh5VlJuX1NoSUF6dnJnWXhyR1Njazc1eVB1alNLc29jcEV2TXFfOHhGWDNqbWJuTWw?oc=5\" target=\"_blank\">Iran war: What is happening on day 40 of US-Israeli attacks?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVmNmZ3ZfeW53ODB2R09CS211TVJFSVlLdmppMmFoMkFvUlJaRE9mX19ic3UxQjVoQnZnTmdRa2JwaHBxQWxFSG52ZTRDYmRlVVJRc3g5d21rcWZnMEhVUXBrOHpycjdOeFh3WUFPXzI4bkJtcUNjWjNGQ0k0c0FSR2dJc1NReEFiTkRXbzFyTHNGaWhiRlZ1b19WYVk0OHfSAaQBQVVfeXFMUGxCaVhIQnVsMExfbWJ1ajZ6X0ZicHZvSml3RXJtZ3B1dHlJR19HVG85d1RZZTZfSGVmQnNTdnJmVHhOZHJISV9TVHpoeGxVWlRDaUdVQzdDN25vWUdCQ0xUUlB1RkFXX0pVWktIZHh1TlFQRzh5VlJuX1NoSUF6dnJnWXhyR1Njazc1eVB1alNLc29jcEV2TXFfOHhGWDNqbWJuTWw?oc=5",
+          "publishedAt": "Wed, 08 Apr 2026 07:07:12 GMT",
+          "titleZh": "Iran war: What is happening on day 40 of US-Israeli attacks? - Al Jazeera",
+          "summaryZh": "Iran war: What is happening on day 40 of US-Israeli attacks?&nbsp;&nbsp;Al Jazeera"
+        },
+        {
+          "id": "aljazeera-news-3-https://news.google.com/",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "sourceSite": "aljazeera.com",
+          "type": "news",
+          "title": "Netanyahu says US-Iran ceasefire ‘does not include Lebanon’ - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOV2R5N0p2NWZKaWkyZEpqT05jUXZ4LUxmTVZQYkdkNmwyMktxczJBaExBc2Z1SGxmTkVjOV9KeGFlTEk0MWRkSWxtS3ZfR2xvSFJOT0RMZTJ1RDZ3ZDg2STh5cktiNjZYdEdPd1MyNDFPY2o3R1NCOVVLS0RXczBoaDRBalZla2sxZjRJRFJtNzVNQ01WZnI4c24xSU1SQdIBowFBVV95cUxPbUlQQkNkbXRIdlc0QmlOVGZvcFFxUDZUMC1XQ2R0OXg0bkVjb0Fyd0pua29DRFBQRHMwUXQ1SjFRd3hOMGM1b0doSFRVd1BDcXhqVFQ4dktWNGFDRjRtcFV1YjdVNEdJal9idmhBcElvYVVWS05SSzltQ2U1WWpHT1M4NXdzSUlLYmx5SGo4WnVERDdWMEFiYnE0Q1k3VFVCT1VJ?oc=5\" target=\"_blank\">Netanyahu says US-Iran ceasefire ‘does not include Lebanon’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2R5N0p2NWZKaWkyZEpqT05jUXZ4LUxmTVZQYkdkNmwyMktxczJBaExBc2Z1SGxmTkVjOV9KeGFlTEk0MWRkSWxtS3ZfR2xvSFJOT0RMZTJ1RDZ3ZDg2STh5cktiNjZYdEdPd1MyNDFPY2o3R1NCOVVLS0RXczBoaDRBalZla2sxZjRJRFJtNzVNQ01WZnI4c24xSU1SQdIBowFBVV95cUxPbUlQQkNkbXRIdlc0QmlOVGZvcFFxUDZUMC1XQ2R0OXg0bkVjb0Fyd0pua29DRFBQRHMwUXQ1SjFRd3hOMGM1b0doSFRVd1BDcXhqVFQ4dktWNGFDRjRtcFV1YjdVNEdJal9idmhBcElvYVVWS05SSzltQ2U1WWpHT1M4NXdzSUlLYmx5SGo4WnVERDdWMEFiYnE0Q1k3VFVCT1VJ?oc=5",
+          "publishedAt": "Wed, 08 Apr 2026 05:27:01 GMT",
+          "titleZh": "Netanyahu says US-Iran ceasefire ‘does not include Lebanon’ - Al Jazeera",
+          "summaryZh": "Netanyahu says US-Iran ceasefire ‘does not include Lebanon’&nbsp;&nbsp;Al Jazeera"
+        },
+        {
+          "id": "aljazeera-news-1-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -472,12 +576,12 @@
           "title": "Caution, relief as US politicians respond to Trump’s ceasefire with Iran - Al Jazeera",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPdHdXemdyczJrbnVZdzZ5QmpiVER4OGlZYXIxY1RacEx4MTVmYlUtclRndXFHSjc2ZjJJUk1tdGRjOGFIMmpNY2tkNmg1bURpa3N3Wm1zc0xyemNHd1JNSVl4TEdUeWlTYlg2R0ZMWVJ5Rjg2LV8wSzh1QWdMVHk4NG4tRGUtY2dNWGljT2pyX0tQNmhGX2NNR3ptaHV3OG00YkpsblNWZW1FaGZTb0pB0gG0AUFVX3lxTE9zMWsweVdaS0NpX0lCUjNjcFRWV1FMUUw0aG04VFBHV0V1QXBaSmoyZDc5THdEaE16MksyY1VRUndWdTA1ejZBQWEwSmRaZUU4M1RXSHBvbWt1ZFZNNTlfR0lQQ1lLclBlc0d2dUN0TEdINFotR09ZYUdpQnRSRGRlZ1B5eFJENktIRS1ITUY3UGl0TjJic0lxYUNhXzJDQ0tVMkdKcVdYTWc2dV9qdDNSWHJyZQ?oc=5\" target=\"_blank\">Caution, relief as US politicians respond to Trump’s ceasefire with Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdHdXemdyczJrbnVZdzZ5QmpiVER4OGlZYXIxY1RacEx4MTVmYlUtclRndXFHSjc2ZjJJUk1tdGRjOGFIMmpNY2tkNmg1bURpa3N3Wm1zc0xyemNHd1JNSVl4TEdUeWlTYlg2R0ZMWVJ5Rjg2LV8wSzh1QWdMVHk4NG4tRGUtY2dNWGljT2pyX0tQNmhGX2NNR3ptaHV3OG00YkpsblNWZW1FaGZTb0pB0gG0AUFVX3lxTE9zMWsweVdaS0NpX0lCUjNjcFRWV1FMUUw0aG04VFBHV0V1QXBaSmoyZDc5THdEaE16MksyY1VRUndWdTA1ejZBQWEwSmRaZUU4M1RXSHBvbWt1ZFZNNTlfR0lQQ1lLclBlc0d2dUN0TEdINFotR09ZYUdpQnRSRGRlZ1B5eFJENktIRS1ITUY3UGl0TjJic0lxYUNhXzJDQ0tVMkdKcVdYTWc2dV9qdDNSWHJyZQ?oc=5",
-          "publishedAt": "Wed, 08 Apr 2026 04:39:55 GMT",
+          "publishedAt": "Wed, 08 Apr 2026 04:57:51 GMT",
           "titleZh": "Caution, relief as US politicians respond to Trump’s ceasefire with Iran - Al Jazeera",
           "summaryZh": "Caution, relief as US politicians respond to Trump’s ceasefire with Iran&nbsp;&nbsp;Al Jazeera"
         },
         {
-          "id": "aljazeera-news-6-https://news.google.com/",
+          "id": "aljazeera-news-4-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -490,20 +594,7 @@
           "summaryZh": "World welcomes US-Iran ceasefire, urges lasting peace in the Middle East&nbsp;&nbsp;Al Jazeera"
         },
         {
-          "id": "aljazeera-news-1-https://news.google.com/",
-          "sourceId": "aljazeera",
-          "source": "Al Jazeera",
-          "sourceSite": "aljazeera.com",
-          "type": "news",
-          "title": "Netanyahu says US-Iran ceasefire ‘does not include Lebanon’ - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOV2R5N0p2NWZKaWkyZEpqT05jUXZ4LUxmTVZQYkdkNmwyMktxczJBaExBc2Z1SGxmTkVjOV9KeGFlTEk0MWRkSWxtS3ZfR2xvSFJOT0RMZTJ1RDZ3ZDg2STh5cktiNjZYdEdPd1MyNDFPY2o3R1NCOVVLS0RXczBoaDRBalZla2sxZjRJRFJtNzVNQ01WZnI4c24xSU1SQdIBowFBVV95cUxPbUlQQkNkbXRIdlc0QmlOVGZvcFFxUDZUMC1XQ2R0OXg0bkVjb0Fyd0pua29DRFBQRHMwUXQ1SjFRd3hOMGM1b0doSFRVd1BDcXhqVFQ4dktWNGFDRjRtcFV1YjdVNEdJal9idmhBcElvYVVWS05SSzltQ2U1WWpHT1M4NXdzSUlLYmx5SGo4WnVERDdWMEFiYnE0Q1k3VFVCT1VJ?oc=5\" target=\"_blank\">Netanyahu says US-Iran ceasefire ‘does not include Lebanon’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2R5N0p2NWZKaWkyZEpqT05jUXZ4LUxmTVZQYkdkNmwyMktxczJBaExBc2Z1SGxmTkVjOV9KeGFlTEk0MWRkSWxtS3ZfR2xvSFJOT0RMZTJ1RDZ3ZDg2STh5cktiNjZYdEdPd1MyNDFPY2o3R1NCOVVLS0RXczBoaDRBalZla2sxZjRJRFJtNzVNQ01WZnI4c24xSU1SQdIBowFBVV95cUxPbUlQQkNkbXRIdlc0QmlOVGZvcFFxUDZUMC1XQ2R0OXg0bkVjb0Fyd0pua29DRFBQRHMwUXQ1SjFRd3hOMGM1b0doSFRVd1BDcXhqVFQ4dktWNGFDRjRtcFV1YjdVNEdJal9idmhBcElvYVVWS05SSzltQ2U1WWpHT1M4NXdzSUlLYmx5SGo4WnVERDdWMEFiYnE0Q1k3VFVCT1VJ?oc=5",
-          "publishedAt": "Wed, 08 Apr 2026 04:02:24 GMT",
-          "titleZh": "Netanyahu says US-Iran ceasefire ‘does not include Lebanon’ - Al Jazeera",
-          "summaryZh": "Netanyahu says US-Iran ceasefire ‘does not include Lebanon’&nbsp;&nbsp;Al Jazeera"
-        },
-        {
-          "id": "aljazeera-news-3-https://news.google.com/",
+          "id": "aljazeera-news-5-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -511,12 +602,12 @@
           "title": "Iraqis celebrates US-Iran ceasefire as two-week halt in war begins - Al Jazeera",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOSVg0VHNxbjJ6SE9qaXpQN2V1SzRyS2NwWDduTHJRbEJlNXhUZWxlejZLNWVvTTZNZVRJOGdNSUR6ZW9sdURTNUY2WXNyUmxhNU9yZnF3bHlHYVB3OU9UY2t1ZlZPNS1GSTUtNTlmSG5ZX3VxMlpBVWZrLWdZMFJKMkJZc3BXU0Z4T2tWRGxZeXl2aVJ5a0s5Uk9RT0F2bmt6SHJHSEFsazhrUVByMUdDV05Gd3NKdm_SAbwBQVVfeXFMTTRWMGp5VjJTYWprbHdQMVRISjlzemdfY1B5aEZ2MjdHYkJZR0Q5ZFJQa0ZPWTJSd3BpZXhlSU5DR0VNU3V1SGIzamVxRDNPYWgtNU0tNkpKdkRveE51RE52bms0ZUFJOWxSbkZmVFhmTmxUY2RvenFfZTJXczh2eElhU3VMZ3JEbUtVODhpTmt1ZVo5c2IyT0w5SHl2NURIUGFoWF95VUFPV1NGeEhUXzN5Vzd0VTg3cU9DdUM?oc=5\" target=\"_blank\">Iraqis celebrates US-Iran ceasefire as two-week halt in war begins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSVg0VHNxbjJ6SE9qaXpQN2V1SzRyS2NwWDduTHJRbEJlNXhUZWxlejZLNWVvTTZNZVRJOGdNSUR6ZW9sdURTNUY2WXNyUmxhNU9yZnF3bHlHYVB3OU9UY2t1ZlZPNS1GSTUtNTlmSG5ZX3VxMlpBVWZrLWdZMFJKMkJZc3BXU0Z4T2tWRGxZeXl2aVJ5a0s5Uk9RT0F2bmt6SHJHSEFsazhrUVByMUdDV05Gd3NKdm_SAbwBQVVfeXFMTTRWMGp5VjJTYWprbHdQMVRISjlzemdfY1B5aEZ2MjdHYkJZR0Q5ZFJQa0ZPWTJSd3BpZXhlSU5DR0VNU3V1SGIzamVxRDNPYWgtNU0tNkpKdkRveE51RE52bms0ZUFJOWxSbkZmVFhmTmxUY2RvenFfZTJXczh2eElhU3VMZ3JEbUtVODhpTmt1ZVo5c2IyT0w5SHl2NURIUGFoWF95VUFPV1NGeEhUXzN5Vzd0VTg3cU9DdUM?oc=5",
-          "publishedAt": "Wed, 08 Apr 2026 02:10:46 GMT",
+          "publishedAt": "Wed, 08 Apr 2026 02:12:31 GMT",
           "titleZh": "Iraqis celebrates US-Iran ceasefire as two-week halt in war begins - Al Jazeera",
           "summaryZh": "Iraqis celebrates US-Iran ceasefire as two-week halt in war begins&nbsp;&nbsp;Al Jazeera"
         },
         {
-          "id": "aljazeera-news-4-https://news.google.com/",
+          "id": "aljazeera-news-6-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -527,19 +618,6 @@
           "publishedAt": "Wed, 08 Apr 2026 01:54:47 GMT",
           "titleZh": "Climate activist Greta Thunberg slams Trump’s threats against Iran - Al Jazeera",
           "summaryZh": "Climate activist Greta Thunberg slams Trump’s threats against Iran&nbsp;&nbsp;Al Jazeera"
-        },
-        {
-          "id": "aljazeera-news-8-https://news.google.com/",
-          "sourceId": "aljazeera",
-          "source": "Al Jazeera",
-          "sourceSite": "aljazeera.com",
-          "type": "news",
-          "title": "Pakistan appeals to Trump to extend deadline, Iran to reopen Hormuz Strait - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQYU1xcnpKeng1WjZLbFZMc0ZaZjFuZ18zZWlUUWY4OHEwSF9JUkVzN1psR1NkYjZvbWFrZjg3dV81Z1pJMWVvM2F3TTJQdktzT2dxanZGSEx3TXVTUUNvV1I1Xzlad01rLXlueDlrSzFCaUFHeUo0enZvNVdUNmppVms0UFJvWldoZUV2NWRvWXI1ZDZ5SWpoV01sdzJGek9YZWIzTnZOQ0NHZjlvLVJlVnBBM2hrUUXSAbwBQVVfeXFMTm94TnNvOTEzOGZ0SUc0VHU2cWlLRkRodTNLMDUza21fNDRZdTFTcnRyX2FKOXZDTmR1Y29mWTNpZG53OWdyQjZ3ZlhfaFFkM2FKejN0MlNzTVJfVEpQOFk1Q3BKRU90TThwem5tcmRCZVdkVXppWHRENUNTSU94V0pSSjVuN2VsNk1TQnktSWtFR3g2b3BWMDd5Z0hXNEpVb0ZqWG1lY0xMNlBNRTBlaUxJOU5jVFlJbW9VX2k?oc=5\" target=\"_blank\">Pakistan appeals to Trump to extend deadline, Iran to reopen Hormuz Strait</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYU1xcnpKeng1WjZLbFZMc0ZaZjFuZ18zZWlUUWY4OHEwSF9JUkVzN1psR1NkYjZvbWFrZjg3dV81Z1pJMWVvM2F3TTJQdktzT2dxanZGSEx3TXVTUUNvV1I1Xzlad01rLXlueDlrSzFCaUFHeUo0enZvNVdUNmppVms0UFJvWldoZUV2NWRvWXI1ZDZ5SWpoV01sdzJGek9YZWIzTnZOQ0NHZjlvLVJlVnBBM2hrUUXSAbwBQVVfeXFMTm94TnNvOTEzOGZ0SUc0VHU2cWlLRkRodTNLMDUza21fNDRZdTFTcnRyX2FKOXZDTmR1Y29mWTNpZG53OWdyQjZ3ZlhfaFFkM2FKejN0MlNzTVJfVEpQOFk1Q3BKRU90TThwem5tcmRCZVdkVXppWHRENUNTSU94V0pSSjVuN2VsNk1TQnktSWtFR3g2b3BWMDd5Z0hXNEpVb0ZqWG1lY0xMNlBNRTBlaUxJOU5jVFlJbW9VX2k?oc=5",
-          "publishedAt": "Wed, 08 Apr 2026 00:58:52 GMT",
-          "titleZh": "Pakistan appeals to Trump to extend deadline, Iran to reopen Hormuz Strait - Al Jazeera",
-          "summaryZh": "Pakistan appeals to Trump to extend deadline, Iran to reopen Hormuz Strait&nbsp;&nbsp;Al Jazeera"
         }
       ]
     },
@@ -551,6 +629,19 @@
   ],
   "commentary": [
     {
+      "id": "economist-commentary-0-https://news.google.com/",
+      "sourceId": "economist",
+      "source": "The Economist",
+      "sourceSite": "economist.com",
+      "type": "commentary",
+      "title": "Iran and America agree to pause their war - The Economist",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNN2Uxa3dVZVlkdWN5WVcxdlpHOGpfZEVwSnV0YmRwZ0FoZW5MdlRkSWd6UHdpYWdyRGRVYVJqcE8tQ0xiTUMwVl9MQ3J6NjV6eDRVTmhxT19ZNC1pakNtSVY4SWduRVc0b1NFYXF6OFZuR3BCU3lPcmpucFBHYUhHblhfbFRHXzBfc3pDZG1rSTVBdzhIOU5MeTZWZ0YtSlJXRzVF?oc=5\" target=\"_blank\">Iran and America agree to pause their war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN2Uxa3dVZVlkdWN5WVcxdlpHOGpfZEVwSnV0YmRwZ0FoZW5MdlRkSWd6UHdpYWdyRGRVYVJqcE8tQ0xiTUMwVl9MQ3J6NjV6eDRVTmhxT19ZNC1pakNtSVY4SWduRVc0b1NFYXF6OFZuR3BCU3lPcmpucFBHYUhHblhfbFRHXzBfc3pDZG1rSTVBdzhIOU5MeTZWZ0YtSlJXRzVF?oc=5",
+      "publishedAt": "Wed, 08 Apr 2026 04:35:59 GMT",
+      "titleZh": "Iran and America agree to pause their war - The Economist",
+      "summaryZh": "Iran and America agree to pause their war&nbsp;&nbsp;The Economist"
+    },
+    {
       "id": "foreignpolicy-commentary-0-https://news.google.com/",
       "sourceId": "foreignpolicy",
       "source": "Foreign Policy",
@@ -559,7 +650,7 @@
       "title": "U.S. and Iran Agree to 2-Week Cease-Fire - Foreign Policy",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNcVcwT0NSODhFLTUzZk5yblBtNXlEREtoRVA0N0xsNk1QaWowX1VJUi0tazJxazh6NTROZ3ltZXh4TzY2WjFnTng5U0k0SkY2dTd4d2dmTnA0RjJHSXpaOTh2UE1Pb0pOME15NjJ6UVNYeEh4ZjU0MDZ2N1BLRmxHTThVNGVDOUQ0MnFVZG9kMkw?oc=5\" target=\"_blank\">U.S. and Iran Agree to 2-Week Cease-Fire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Policy</font>",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcVcwT0NSODhFLTUzZk5yblBtNXlEREtoRVA0N0xsNk1QaWowX1VJUi0tazJxazh6NTROZ3ltZXh4TzY2WjFnTng5U0k0SkY2dTd4d2dmTnA0RjJHSXpaOTh2UE1Pb0pOME15NjJ6UVNYeEh4ZjU0MDZ2N1BLRmxHTThVNGVDOUQ0MnFVZG9kMkw?oc=5",
-      "publishedAt": "Wed, 08 Apr 2026 01:53:17 GMT",
+      "publishedAt": "Wed, 08 Apr 2026 04:02:54 GMT",
       "titleZh": "U.S. and Iran Agree to 2-Week Cease-Fire - Foreign Policy",
       "summaryZh": "U.S. and Iran Agree to 2-Week Cease-Fire&nbsp;&nbsp;Foreign Policy"
     },
@@ -569,12 +660,12 @@
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
       "type": "commentary",
-      "title": "Video: Inside the Race to Find a Downed U.S. Airman in Iran - The New York Times",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPbDd1cGg3a2pfMlVPWmltel96SHVmVzlyTV8wei1GYjRqTjBRekpoYTZuNEJlblA0T3hmQUJ5WjM4TXo4dlpMell4MzlrOFdZOTNsOUlvb0M1bUI1ZkhrM3FHOG5OcVR3b003VURQNmxDQllkdkVBanZiTm9Td2Vrc3lLU1otMThwRExRVjJHWFFNaXduVV9Yb0ttZEVHOGRyQnZMa1RNRk5BMF8yWTdwOEV1cw?oc=5\" target=\"_blank\">Video: Inside the Race to Find a Downed U.S. Airman in Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "title": "Video: Inside the Race to Find a Downed U.S. Airman in Iran - nytimes.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPbDd1cGg3a2pfMlVPWmltel96SHVmVzlyTV8wei1GYjRqTjBRekpoYTZuNEJlblA0T3hmQUJ5WjM4TXo4dlpMell4MzlrOFdZOTNsOUlvb0M1bUI1ZkhrM3FHOG5OcVR3b003VURQNmxDQllkdkVBanZiTm9Td2Vrc3lLU1otMThwRExRVjJHWFFNaXduVV9Yb0ttZEVHOGRyQnZMa1RNRk5BMF8yWTdwOEV1cw?oc=5\" target=\"_blank\">Video: Inside the Race to Find a Downed U.S. Airman in Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nytimes.com</font>",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbDd1cGg3a2pfMlVPWmltel96SHVmVzlyTV8wei1GYjRqTjBRekpoYTZuNEJlblA0T3hmQUJ5WjM4TXo4dlpMell4MzlrOFdZOTNsOUlvb0M1bUI1ZkhrM3FHOG5OcVR3b003VURQNmxDQllkdkVBanZiTm9Td2Vrc3lLU1otMThwRExRVjJHWFFNaXduVV9Yb0ttZEVHOGRyQnZMa1RNRk5BMF8yWTdwOEV1cw?oc=5",
       "publishedAt": "Wed, 08 Apr 2026 01:28:06 GMT",
-      "titleZh": "Video: Inside the Race to Find a Downed U.S. Airman in Iran - The New York Times",
-      "summaryZh": "Video: Inside the Race to Find a Downed U.S. Airman in Iran&nbsp;&nbsp;The New York Times"
+      "titleZh": "Video: Inside the Race to Find a Downed U.S. Airman in Iran - nytimes.com",
+      "summaryZh": "Video: Inside the Race to Find a Downed U.S. Airman in Iran&nbsp;&nbsp;nytimes.com"
     },
     {
       "id": "foreignpolicy-commentary-2-https://news.google.com/",
@@ -595,15 +686,41 @@
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
       "type": "commentary",
-      "title": "Opinion | The Iranian Advantage Is an Illusion - The New York Times",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5QTHYzY0tfZVUzSF9FaHB0bXRHdEpTVlVOS05fdFlHRkZKc21LcmY2RTFJZUdINWw2XzM2bnlEd0ZCeWVsV0tqeUNGaXhsYm9lOU5RR0t0Y01lcVc2T0xUUFE5RTNDLVJybUhUbHo3c1NrUQ?oc=5\" target=\"_blank\">Opinion | The Iranian Advantage Is an Illusion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "title": "Opinion | The Iranian Advantage Is an Illusion - nytimes.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5QTHYzY0tfZVUzSF9FaHB0bXRHdEpTVlVOS05fdFlHRkZKc21LcmY2RTFJZUdINWw2XzM2bnlEd0ZCeWVsV0tqeUNGaXhsYm9lOU5RR0t0Y01lcVc2T0xUUFE5RTNDLVJybUhUbHo3c1NrUQ?oc=5\" target=\"_blank\">Opinion | The Iranian Advantage Is an Illusion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nytimes.com</font>",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QTHYzY0tfZVUzSF9FaHB0bXRHdEpTVlVOS05fdFlHRkZKc21LcmY2RTFJZUdINWw2XzM2bnlEd0ZCeWVsV0tqeUNGaXhsYm9lOU5RR0t0Y01lcVc2T0xUUFE5RTNDLVJybUhUbHo3c1NrUQ?oc=5",
       "publishedAt": "Tue, 07 Apr 2026 21:00:06 GMT",
-      "titleZh": "Opinion | The Iranian Advantage Is an Illusion - The New York Times",
-      "summaryZh": "Opinion | The Iranian Advantage Is an Illusion&nbsp;&nbsp;The New York Times"
+      "titleZh": "Opinion | The Iranian Advantage Is an Illusion - nytimes.com",
+      "summaryZh": "Opinion | The Iranian Advantage Is an Illusion&nbsp;&nbsp;nytimes.com"
     },
     {
-      "id": "economist-commentary-0-https://news.google.com/",
+      "id": "foreignpolicy-commentary-6-https://news.google.com/",
+      "sourceId": "foreignpolicy",
+      "source": "Foreign Policy",
+      "sourceSite": "foreignpolicy.com",
+      "type": "commentary",
+      "title": "The Iran War Is Exposing Iraq’s Weaknesses - Foreign Policy",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBYWGRha0pROGNRZ1JoY2Z6UEpPaHB0OVZfZ0RQbUdNMnNLTTQ2MzVSczNub0poR2lWRlp3UWtzWFRDVzhlTTUxdU9VZ1pldVhRN2d2dVZDcjd1dUljMmJmTThseGNVeS02R3VGbw?oc=5\" target=\"_blank\">The Iran War Is Exposing Iraq’s Weaknesses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Policy</font>",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYWGRha0pROGNRZ1JoY2Z6UEpPaHB0OVZfZ0RQbUdNMnNLTTQ2MzVSczNub0poR2lWRlp3UWtzWFRDVzhlTTUxdU9VZ1pldVhRN2d2dVZDcjd1dUljMmJmTThseGNVeS02R3VGbw?oc=5",
+      "publishedAt": "Tue, 07 Apr 2026 19:05:54 GMT",
+      "titleZh": "The Iran War Is Exposing Iraq’s Weaknesses - Foreign Policy",
+      "summaryZh": "The Iran War Is Exposing Iraq’s Weaknesses&nbsp;&nbsp;Foreign Policy"
+    },
+    {
+      "id": "nytimes-commentary-6-https://news.google.com/",
+      "sourceId": "nytimes",
+      "source": "The New York Times",
+      "sourceSite": "nytimes.com",
+      "type": "commentary",
+      "title": "Iranians Voice Shock and Defiance in Face of Trump’s Looming Deadline - nytimes.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPV0lqZ1ZWNnZOdE5Rb0hiaTljb2xTb3ZJM212ZWx1X3lfMXhwclVGb0trZzB4ZXZoeGtxQnVkN3daYk9OZVd5Z1NLWm1KQmFKSjBrWHQ0MklWNG9jS2RsM1FvdEw2cTd3aWxOV3MxbHgwMlozU3ljbFpIVjl3MEtvaWxVQV9zaWMtVjEwTDhtQmhnV3RYZ0U4MklXUVRNOGc?oc=5\" target=\"_blank\">Iranians Voice Shock and Defiance in Face of Trump’s Looming Deadline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nytimes.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV0lqZ1ZWNnZOdE5Rb0hiaTljb2xTb3ZJM212ZWx1X3lfMXhwclVGb0trZzB4ZXZoeGtxQnVkN3daYk9OZVd5Z1NLWm1KQmFKSjBrWHQ0MklWNG9jS2RsM1FvdEw2cTd3aWxOV3MxbHgwMlozU3ljbFpIVjl3MEtvaWxVQV9zaWMtVjEwTDhtQmhnV3RYZ0U4MklXUVRNOGc?oc=5",
+      "publishedAt": "Tue, 07 Apr 2026 18:43:16 GMT",
+      "titleZh": "Iranians Voice Shock and Defiance in Face of Trump’s Looming Deadline - nytimes.com",
+      "summaryZh": "Iranians Voice Shock and Defiance in Face of Trump’s Looming Deadline&nbsp;&nbsp;nytimes.com"
+    },
+    {
+      "id": "economist-commentary-2-https://news.google.com/",
       "sourceId": "economist",
       "source": "The Economist",
       "sourceSite": "economist.com",
@@ -616,7 +733,7 @@
       "summaryZh": "A month into the war, Iran shows no sign of running out of missiles&nbsp;&nbsp;The Economist"
     },
     {
-      "id": "economist-commentary-2-https://news.google.com/",
+      "id": "economist-commentary-3-https://news.google.com/",
       "sourceId": "economist",
       "source": "The Economist",
       "sourceSite": "economist.com",
@@ -673,25 +790,12 @@
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
       "type": "commentary",
-      "title": "Opinion | What the Iran War Will Do to Your Life and Our Economy - The New York Times",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaWxMX2tLTWVubi1vVTA0TE1nTUJjQ0dYMDZMYlloZVZoRl9rck8yaldJNFpVMVVhX2ZJcXNXYTJSQUt5Q2J4czA0U0pCeXVXVGpfRUVGRFljYjNqVFhBYkpsakMtaDBrVWxza01yWU4yNTdxVXlxV2RaY0xhMlRXOTR1Sy1YckdzWXNz?oc=5\" target=\"_blank\">Opinion | What the Iran War Will Do to Your Life and Our Economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "title": "Opinion | What the Iran War Will Do to Your Life and Our Economy - nytimes.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaWxMX2tLTWVubi1vVTA0TE1nTUJjQ0dYMDZMYlloZVZoRl9rck8yaldJNFpVMVVhX2ZJcXNXYTJSQUt5Q2J4czA0U0pCeXVXVGpfRUVGRFljYjNqVFhBYkpsakMtaDBrVWxza01yWU4yNTdxVXlxV2RaY0xhMlRXOTR1Sy1YckdzWXNz?oc=5\" target=\"_blank\">Opinion | What the Iran War Will Do to Your Life and Our Economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nytimes.com</font>",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaWxMX2tLTWVubi1vVTA0TE1nTUJjQ0dYMDZMYlloZVZoRl9rck8yaldJNFpVMVVhX2ZJcXNXYTJSQUt5Q2J4czA0U0pCeXVXVGpfRUVGRFljYjNqVFhBYkpsakMtaDBrVWxza01yWU4yNTdxVXlxV2RaY0xhMlRXOTR1Sy1YckdzWXNz?oc=5",
       "publishedAt": "Tue, 07 Apr 2026 15:00:07 GMT",
-      "titleZh": "Opinion | What the Iran War Will Do to Your Life and Our Economy - The New York Times",
-      "summaryZh": "Opinion | What the Iran War Will Do to Your Life and Our Economy&nbsp;&nbsp;The New York Times"
-    },
-    {
-      "id": "nytimes-commentary-6-https://news.google.com/",
-      "sourceId": "nytimes",
-      "source": "The New York Times",
-      "sourceSite": "nytimes.com",
-      "type": "commentary",
-      "title": "Iranians Voice Shock and Defiance in Face of Trump’s Looming Deadline - The New York Times",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPV0lqZ1ZWNnZOdE5Rb0hiaTljb2xTb3ZJM212ZWx1X3lfMXhwclVGb0trZzB4ZXZoeGtxQnVkN3daYk9OZVd5Z1NLWm1KQmFKSjBrWHQ0MklWNG9jS2RsM1FvdEw2cTd3aWxOV3MxbHgwMlozU3ljbFpIVjl3MEtvaWxVQV9zaWMtVjEwTDhtQmhnV3RYZ0U4MklXUVRNOGc?oc=5\" target=\"_blank\">Iranians Voice Shock and Defiance in Face of Trump’s Looming Deadline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV0lqZ1ZWNnZOdE5Rb0hiaTljb2xTb3ZJM212ZWx1X3lfMXhwclVGb0trZzB4ZXZoeGtxQnVkN3daYk9OZVd5Z1NLWm1KQmFKSjBrWHQ0MklWNG9jS2RsM1FvdEw2cTd3aWxOV3MxbHgwMlozU3ljbFpIVjl3MEtvaWxVQV9zaWMtVjEwTDhtQmhnV3RYZ0U4MklXUVRNOGc?oc=5",
-      "publishedAt": "Tue, 07 Apr 2026 13:15:44 GMT",
-      "titleZh": "Iranians Voice Shock and Defiance in Face of Trump’s Looming Deadline - The New York Times",
-      "summaryZh": "Iranians Voice Shock and Defiance in Face of Trump’s Looming Deadline&nbsp;&nbsp;The New York Times"
+      "titleZh": "Opinion | What the Iran War Will Do to Your Life and Our Economy - nytimes.com",
+      "summaryZh": "Opinion | What the Iran War Will Do to Your Life and Our Economy&nbsp;&nbsp;nytimes.com"
     },
     {
       "id": "foreignpolicy-commentary-5-https://news.google.com/",
@@ -725,15 +829,15 @@
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
       "type": "commentary",
-      "title": "Video: Opinion | Why the Strait of Hormuz Is Iran’s Trump Card - The New York Times",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ2luSWtDZ1I5Y1A0cWtuT2hIVGhNemRLYzhuQmFBUU54OVMzWW52TEF4SHliMDh3V19LYXhyaTM4U2duYU80V19zVFNxR0RfUG1SVUQzZmF5SlNlY1JrNndmX1B4YmxxdEdOVzJUVzZWamUwVy1BV29PdUlPR1pWa0xNQjMxY2F0b2kzOXQ4dDROUE9CMlVzWVBVQ3p1cTRrRU9GZEV3?oc=5\" target=\"_blank\">Video: Opinion | Why the Strait of Hormuz Is Iran’s Trump Card</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "title": "Video: Opinion | Why the Strait of Hormuz Is Iran’s Trump Card - nytimes.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ2luSWtDZ1I5Y1A0cWtuT2hIVGhNemRLYzhuQmFBUU54OVMzWW52TEF4SHliMDh3V19LYXhyaTM4U2duYU80V19zVFNxR0RfUG1SVUQzZmF5SlNlY1JrNndmX1B4YmxxdEdOVzJUVzZWamUwVy1BV29PdUlPR1pWa0xNQjMxY2F0b2kzOXQ4dDROUE9CMlVzWVBVQ3p1cTRrRU9GZEV3?oc=5\" target=\"_blank\">Video: Opinion | Why the Strait of Hormuz Is Iran’s Trump Card</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nytimes.com</font>",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ2luSWtDZ1I5Y1A0cWtuT2hIVGhNemRLYzhuQmFBUU54OVMzWW52TEF4SHliMDh3V19LYXhyaTM4U2duYU80V19zVFNxR0RfUG1SVUQzZmF5SlNlY1JrNndmX1B4YmxxdEdOVzJUVzZWamUwVy1BV29PdUlPR1pWa0xNQjMxY2F0b2kzOXQ4dDROUE9CMlVzWVBVQ3p1cTRrRU9GZEV3?oc=5",
       "publishedAt": "Mon, 06 Apr 2026 20:33:16 GMT",
-      "titleZh": "Video: Opinion | Why the Strait of Hormuz Is Iran’s Trump Card - The New York Times",
-      "summaryZh": "Video: Opinion | Why the Strait of Hormuz Is Iran’s Trump Card&nbsp;&nbsp;The New York Times"
+      "titleZh": "Video: Opinion | Why the Strait of Hormuz Is Iran’s Trump Card - nytimes.com",
+      "summaryZh": "Video: Opinion | Why the Strait of Hormuz Is Iran’s Trump Card&nbsp;&nbsp;nytimes.com"
     },
     {
-      "id": "economist-commentary-4-https://news.google.com/",
+      "id": "economist-commentary-5-https://news.google.com/",
       "sourceId": "economist",
       "source": "The Economist",
       "sourceSite": "economist.com",
@@ -746,7 +850,7 @@
       "summaryZh": "Iran and America are spinning stories about the size of their victories&nbsp;&nbsp;The Economist"
     },
     {
-      "id": "economist-commentary-3-https://news.google.com/",
+      "id": "economist-commentary-4-https://news.google.com/",
       "sourceId": "economist",
       "source": "The Economist",
       "sourceSite": "economist.com",
@@ -764,28 +868,15 @@
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
       "type": "commentary",
-      "title": "Opinion | The War Is Turning Iran Into a Major World Power - The New York Times",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5abUQ1VVJub0hSUlJTd3Qtd1ZycDdZQWVjdl9OU2daVHk4SXctaHBmcEVES2ZXUnRoUnJNb3ZGZFl1S1FQejBjNkJSd0xWY1YwX2ZoZVZ4cmItZFNzaWlhRmZPN2k2RXROUjRWQjdfVXhtbER4OUxqYlFn?oc=5\" target=\"_blank\">Opinion | The War Is Turning Iran Into a Major World Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "title": "Opinion | The War Is Turning Iran Into a Major World Power - nytimes.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5abUQ1VVJub0hSUlJTd3Qtd1ZycDdZQWVjdl9OU2daVHk4SXctaHBmcEVES2ZXUnRoUnJNb3ZGZFl1S1FQejBjNkJSd0xWY1YwX2ZoZVZ4cmItZFNzaWlhRmZPN2k2RXROUjRWQjdfVXhtbER4OUxqYlFn?oc=5\" target=\"_blank\">Opinion | The War Is Turning Iran Into a Major World Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nytimes.com</font>",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5abUQ1VVJub0hSUlJTd3Qtd1ZycDdZQWVjdl9OU2daVHk4SXctaHBmcEVES2ZXUnRoUnJNb3ZGZFl1S1FQejBjNkJSd0xWY1YwX2ZoZVZ4cmItZFNzaWlhRmZPN2k2RXROUjRWQjdfVXhtbER4OUxqYlFn?oc=5",
       "publishedAt": "Mon, 06 Apr 2026 05:00:06 GMT",
-      "titleZh": "Opinion | The War Is Turning Iran Into a Major World Power - The New York Times",
-      "summaryZh": "Opinion | The War Is Turning Iran Into a Major World Power&nbsp;&nbsp;The New York Times"
+      "titleZh": "Opinion | The War Is Turning Iran Into a Major World Power - nytimes.com",
+      "summaryZh": "Opinion | The War Is Turning Iran Into a Major World Power&nbsp;&nbsp;nytimes.com"
     },
     {
-      "id": "foreignaffairs-commentary-0-https://news.google.com/",
-      "sourceId": "foreignaffairs",
-      "source": "Foreign Affairs",
-      "sourceSite": "foreignaffairs.com",
-      "type": "commentary",
-      "title": "The Iran Shock - Foreign Affairs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxNFNzUzZIQlIxMkVDdUp5d2RURnZQOVFRbWNRX0JJckVTc19OSWUxZTlPMUdmeDBuT0hKY3N0cmdVN21nUmZqaGdKdDhUWG5keFBBclVBSzJ6UQ?oc=5\" target=\"_blank\">The Iran Shock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxNFNzUzZIQlIxMkVDdUp5d2RURnZQOVFRbWNRX0JJckVTc19OSWUxZTlPMUdmeDBuT0hKY3N0cmdVN21nUmZqaGdKdDhUWG5keFBBclVBSzJ6UQ?oc=5",
-      "publishedAt": "Mon, 06 Apr 2026 04:00:00 GMT",
-      "titleZh": "The Iran Shock - Foreign Affairs",
-      "summaryZh": "The Iran Shock&nbsp;&nbsp;Foreign Affairs"
-    },
-    {
-      "id": "economist-commentary-5-https://news.google.com/",
+      "id": "economist-commentary-6-https://news.google.com/",
       "sourceId": "economist",
       "source": "The Economist",
       "sourceSite": "economist.com",
@@ -803,15 +894,15 @@
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
       "type": "commentary",
-      "title": "Opinion | Finish the Job: How Trump Can Still Win in Iran - The New York Times",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFB1VklnVUNmZ1lOTDJIa1ZKZTU4cEwwTW91NmZ6RVlJdFRwVWFWQWtCV05uVF9ncV9TdF9uWWVZQy00ektJa0hKSGVBZDFXM1dEWFFIbmhpdnMySG1iU3dobko4NHhDU2tvNHlHc1lXblBFeHk5?oc=5\" target=\"_blank\">Opinion | Finish the Job: How Trump Can Still Win in Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "title": "Opinion | Finish the Job: How Trump Can Still Win in Iran - nytimes.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFB1VklnVUNmZ1lOTDJIa1ZKZTU4cEwwTW91NmZ6RVlJdFRwVWFWQWtCV05uVF9ncV9TdF9uWWVZQy00ektJa0hKSGVBZDFXM1dEWFFIbmhpdnMySG1iU3dobko4NHhDU2tvNHlHc1lXblBFeHk5?oc=5\" target=\"_blank\">Opinion | Finish the Job: How Trump Can Still Win in Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nytimes.com</font>",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1VklnVUNmZ1lOTDJIa1ZKZTU4cEwwTW91NmZ6RVlJdFRwVWFWQWtCV05uVF9ncV9TdF9uWWVZQy00ektJa0hKSGVBZDFXM1dEWFFIbmhpdnMySG1iU3dobko4NHhDU2tvNHlHc1lXblBFeHk5?oc=5",
       "publishedAt": "Sat, 04 Apr 2026 11:00:05 GMT",
-      "titleZh": "Opinion | Finish the Job: How Trump Can Still Win in Iran - The New York Times",
-      "summaryZh": "Opinion | Finish the Job: How Trump Can Still Win in Iran&nbsp;&nbsp;The New York Times"
+      "titleZh": "Opinion | Finish the Job: How Trump Can Still Win in Iran - nytimes.com",
+      "summaryZh": "Opinion | Finish the Job: How Trump Can Still Win in Iran&nbsp;&nbsp;nytimes.com"
     },
     {
-      "id": "foreignpolicy-commentary-6-https://news.google.com/",
+      "id": "foreignpolicy-commentary-7-https://news.google.com/",
       "sourceId": "foreignpolicy",
       "source": "Foreign Policy",
       "sourceSite": "foreignpolicy.com",
@@ -824,7 +915,7 @@
       "summaryZh": "Iran Shoots Down U.S. Fighter Jet, One Crew Member Still Missing&nbsp;&nbsp;Foreign Policy"
     },
     {
-      "id": "economist-commentary-6-https://news.google.com/",
+      "id": "economist-commentary-7-https://news.google.com/",
       "sourceId": "economist",
       "source": "The Economist",
       "sourceSite": "economist.com",
@@ -842,129 +933,12 @@
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
       "type": "commentary",
-      "title": "Opinion | Is Iran Winning? - The New York Times",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQYXdFNDVXQVZIcUNrOG5HQ1VSU1ppVzE4Y2thYmRqQUlVNmdvWmhYYU5JTXVjUGlGOFhHcllPd1JuNlk0Wk1ILXlVeGZ3UGlEVkJNRkxDZF9mT01ldDNGSXQ1cEtCZDdTa09FcVgwY2pnMkM2RTdZU1RUYXAyX1pNakdPVS1ybHRvbkE?oc=5\" target=\"_blank\">Opinion | Is Iran Winning?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "title": "Opinion | Is Iran Winning? - nytimes.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQYXdFNDVXQVZIcUNrOG5HQ1VSU1ppVzE4Y2thYmRqQUlVNmdvWmhYYU5JTXVjUGlGOFhHcllPd1JuNlk0Wk1ILXlVeGZ3UGlEVkJNRkxDZF9mT01ldDNGSXQ1cEtCZDdTa09FcVgwY2pnMkM2RTdZU1RUYXAyX1pNakdPVS1ybHRvbkE?oc=5\" target=\"_blank\">Opinion | Is Iran Winning?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nytimes.com</font>",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYXdFNDVXQVZIcUNrOG5HQ1VSU1ppVzE4Y2thYmRqQUlVNmdvWmhYYU5JTXVjUGlGOFhHcllPd1JuNlk0Wk1ILXlVeGZ3UGlEVkJNRkxDZF9mT01ldDNGSXQ1cEtCZDdTa09FcVgwY2pnMkM2RTdZU1RUYXAyX1pNakdPVS1ybHRvbkE?oc=5",
       "publishedAt": "Fri, 03 Apr 2026 09:01:42 GMT",
-      "titleZh": "Opinion | Is Iran Winning? - The New York Times",
-      "summaryZh": "Opinion | Is Iran Winning?&nbsp;&nbsp;The New York Times"
-    },
-    {
-      "id": "foreignaffairs-commentary-1-https://news.google.com/",
-      "sourceId": "foreignaffairs",
-      "source": "Foreign Affairs",
-      "sourceSite": "foreignaffairs.com",
-      "type": "commentary",
-      "title": "Javad Zarif: How Iran Should End the War - Foreign Affairs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQUkoxZHpCamZSekxHSW5FRVdxOXdzT1A2czRMUVUtZXRaUzdOaHloV3c1SGpqd1hTdnpXcVdPbFRBeDVtV2dncEZSR0FIUXczcWNzNnFBLXZncm11NkxWOHcwRmpIbDBMczlweWwyWnhYS21hN3BEMDRfbXFrVlA0UDJTWDY?oc=5\" target=\"_blank\">Javad Zarif: How Iran Should End the War</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUkoxZHpCamZSekxHSW5FRVdxOXdzT1A2czRMUVUtZXRaUzdOaHloV3c1SGpqd1hTdnpXcVdPbFRBeDVtV2dncEZSR0FIUXczcWNzNnFBLXZncm11NkxWOHcwRmpIbDBMczlweWwyWnhYS21hN3BEMDRfbXFrVlA0UDJTWDY?oc=5",
-      "publishedAt": "Fri, 03 Apr 2026 04:00:00 GMT",
-      "titleZh": "Javad Zarif: How Iran Should End the War - Foreign Affairs",
-      "summaryZh": "Javad Zarif: How Iran Should End the War&nbsp;&nbsp;Foreign Affairs"
-    },
-    {
-      "id": "foreignpolicy-commentary-7-https://news.google.com/",
-      "sourceId": "foreignpolicy",
-      "source": "Foreign Policy",
-      "sourceSite": "foreignpolicy.com",
-      "type": "commentary",
-      "title": "Tehran Is Setting a Trap for Trump - Foreign Policy",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPQVdCeEpFSTVIZFd2TGpmTXV1Zm00M2hodDBMVWc3LTZMaVZXVkFNaFBHM2FLb3dKYWRmUFc1MEMyZkdTeHhzdklaRzlkWWx1SjNSLVhUbXp0dHdOVmVUUEdXTHI2VUVuZmNUOXRJMkxvS2VWV1UwSlJtbWlPVHJxYU9IcE95ZV96bnF1WWxtYncwYUdDNW1J?oc=5\" target=\"_blank\">Tehran Is Setting a Trap for Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Policy</font>",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQVdCeEpFSTVIZFd2TGpmTXV1Zm00M2hodDBMVWc3LTZMaVZXVkFNaFBHM2FLb3dKYWRmUFc1MEMyZkdTeHhzdklaRzlkWWx1SjNSLVhUbXp0dHdOVmVUUEdXTHI2VUVuZmNUOXRJMkxvS2VWV1UwSlJtbWlPVHJxYU9IcE95ZV96bnF1WWxtYncwYUdDNW1J?oc=5",
-      "publishedAt": "Wed, 01 Apr 2026 19:06:15 GMT",
-      "titleZh": "Tehran Is Setting a Trap for Trump - Foreign Policy",
-      "summaryZh": "Tehran Is Setting a Trap for Trump&nbsp;&nbsp;Foreign Policy"
-    },
-    {
-      "id": "economist-commentary-7-https://news.google.com/",
-      "sourceId": "economist",
-      "source": "The Economist",
-      "sourceSite": "economist.com",
-      "type": "commentary",
-      "title": "Iran has damaged a surprising amount of American kit - The Economist",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPbmNuX1QzWFhQb0VzNktabGJrZVp3SklHaUtfa3I1WHlDcmh0blJfUUhuWHhqc3FtX19tOXdmLUJ2YkJfellqN3JlYlpFT2J6eEdkX2tBNWtqMGMxbW83UFJSLVpxWXFrY1d6SElINGpoYU50N1hUVUhTU3Jqa184RVVLbnlKZWhqWGZTLTFLalZmS2U3SkNKdm01Ukp3WmV4ajM0eHNwUHQ3TDZEUVJxenpB?oc=5\" target=\"_blank\">Iran has damaged a surprising amount of American kit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbmNuX1QzWFhQb0VzNktabGJrZVp3SklHaUtfa3I1WHlDcmh0blJfUUhuWHhqc3FtX19tOXdmLUJ2YkJfellqN3JlYlpFT2J6eEdkX2tBNWtqMGMxbW83UFJSLVpxWXFrY1d6SElINGpoYU50N1hUVUhTU3Jqa184RVVLbnlKZWhqWGZTLTFLalZmS2U3SkNKdm01Ukp3WmV4ajM0eHNwUHQ3TDZEUVJxenpB?oc=5",
-      "publishedAt": "Wed, 01 Apr 2026 12:51:24 GMT",
-      "titleZh": "Iran has damaged a surprising amount of American kit - The Economist",
-      "summaryZh": "Iran has damaged a surprising amount of American kit&nbsp;&nbsp;The Economist"
-    },
-    {
-      "id": "foreignaffairs-commentary-2-https://news.google.com/",
-      "sourceId": "foreignaffairs",
-      "source": "Foreign Affairs",
-      "sourceSite": "foreignaffairs.com",
-      "type": "commentary",
-      "title": "The Third Islamic Republic: A War’s Unintended Consequences—for Iran, the Middle East, and the Global Order - Foreign Affairs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBMWmZFUkRCZ0dRNmI5Tnpnb3ZrMVFxVVZUdFJjR21RczliYWRVd0d0VWVWZVQxVDlVZHRJZ1ZIenZnSk1GUXdFanBPVlF1ejdlNVZ0dm9ja0dXMWhZZXNOcGVJd0dCSnBWUC1qd3hpbk9FT3RWS1Z1MXFB?oc=5\" target=\"_blank\">The Third Islamic Republic: A War’s Unintended Consequences—for Iran, the Middle East, and the Global Order</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMWmZFUkRCZ0dRNmI5Tnpnb3ZrMVFxVVZUdFJjR21RczliYWRVd0d0VWVWZVQxVDlVZHRJZ1ZIenZnSk1GUXdFanBPVlF1ejdlNVZ0dm9ja0dXMWhZZXNOcGVJd0dCSnBWUC1qd3hpbk9FT3RWS1Z1MXFB?oc=5",
-      "publishedAt": "Wed, 01 Apr 2026 04:00:00 GMT",
-      "titleZh": "The Third Islamic Republic: A War’s Unintended Consequences—for Iran, the Middle East, and the Global Order - Foreign Affairs",
-      "summaryZh": "The Third Islamic Republic: A War’s Unintended Consequences—for Iran, the Middle East, and the Global Order&nbsp;&nbsp;Foreign Affairs"
-    },
-    {
-      "id": "foreignaffairs-commentary-3-https://news.google.com/",
-      "sourceId": "foreignaffairs",
-      "source": "Foreign Affairs",
-      "sourceSite": "foreignaffairs.com",
-      "type": "commentary",
-      "title": "The Real War for Iran’s Future - Foreign Affairs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UeFktbHl6TmN4VUl2YnhDY1NaUjhKckloRUxxQldnbDlBMUxibEFmWHlNcUZMNGRZZWU2aUVXZXFLdm5tWGlvU1h6Wk03WGgwalhKZk1kMU9MeXYyckwwOVJXTEJqVm9l?oc=5\" target=\"_blank\">The Real War for Iran’s Future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UeFktbHl6TmN4VUl2YnhDY1NaUjhKckloRUxxQldnbDlBMUxibEFmWHlNcUZMNGRZZWU2aUVXZXFLdm5tWGlvU1h6Wk03WGgwalhKZk1kMU9MeXYyckwwOVJXTEJqVm9l?oc=5",
-      "publishedAt": "Tue, 31 Mar 2026 04:00:00 GMT",
-      "titleZh": "The Real War for Iran’s Future - Foreign Affairs",
-      "summaryZh": "The Real War for Iran’s Future&nbsp;&nbsp;Foreign Affairs"
-    },
-    {
-      "id": "foreignaffairs-commentary-4-https://news.google.com/",
-      "sourceId": "foreignaffairs",
-      "source": "Foreign Affairs",
-      "sourceSite": "foreignaffairs.com",
-      "type": "commentary",
-      "title": "What the Iran War Means for China - Foreign Affairs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1iOWdFSnBNSjczYjRIU04tWThYbzg2N0d1bURESVl3UmRkb3NiV0FzTTlUbmRwN1g3M2VqVm5Wd2N0T0pxV3lEU0FoVHhHTXVnWjBFU0F4VDdEM0N1Tl9sME5CdE03c1ZxZ3pPSFdDRQ?oc=5\" target=\"_blank\">What the Iran War Means for China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iOWdFSnBNSjczYjRIU04tWThYbzg2N0d1bURESVl3UmRkb3NiV0FzTTlUbmRwN1g3M2VqVm5Wd2N0T0pxV3lEU0FoVHhHTXVnWjBFU0F4VDdEM0N1Tl9sME5CdE03c1ZxZ3pPSFdDRQ?oc=5",
-      "publishedAt": "Mon, 30 Mar 2026 07:00:00 GMT",
-      "titleZh": "What the Iran War Means for China - Foreign Affairs",
-      "summaryZh": "What the Iran War Means for China&nbsp;&nbsp;Foreign Affairs"
-    },
-    {
-      "id": "foreignaffairs-commentary-5-https://news.google.com/",
-      "sourceId": "foreignaffairs",
-      "source": "Foreign Affairs",
-      "sourceSite": "foreignaffairs.com",
-      "type": "commentary",
-      "title": "How Congress Can Prevent a Quagmire in Iran - Foreign Affairs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5OTmlDaTU5Tnc3NFdNam9adzd4VjJ4YXdZQ3VUaXpLVzhsNVlab0kxdDEtTTlhYXNxMlYtRTVCVXdCUkVyOE9UTU1rclY1VGYtZlpfQ3d0anlJRUxYMmxDVFEzWVQxZ054UDd5MkxTLWhBVWRLWVN0MlJmbTFxTEE?oc=5\" target=\"_blank\">How Congress Can Prevent a Quagmire in Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OTmlDaTU5Tnc3NFdNam9adzd4VjJ4YXdZQ3VUaXpLVzhsNVlab0kxdDEtTTlhYXNxMlYtRTVCVXdCUkVyOE9UTU1rclY1VGYtZlpfQ3d0anlJRUxYMmxDVFEzWVQxZ054UDd5MkxTLWhBVWRLWVN0MlJmbTFxTEE?oc=5",
-      "publishedAt": "Mon, 30 Mar 2026 07:00:00 GMT",
-      "titleZh": "How Congress Can Prevent a Quagmire in Iran - Foreign Affairs",
-      "summaryZh": "How Congress Can Prevent a Quagmire in Iran&nbsp;&nbsp;Foreign Affairs"
-    },
-    {
-      "id": "foreignaffairs-commentary-6-https://news.google.com/",
-      "sourceId": "foreignaffairs",
-      "source": "Foreign Affairs",
-      "sourceSite": "foreignaffairs.com",
-      "type": "commentary",
-      "title": "The Price of Strategic Incoherence in Iran: For America, the War’s Benefits Won’t Outweigh Its Costs - Foreign Affairs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9QbE1kVkxPWjVKbklETFFUMFJZUkRjU3FBSUVZZWxKa0tyWGNrODRWRU5KM3RxZ3ROSldpYTlDd2V5ZVlmRTNsWkdjRlN2MmJWYWJiZlFxWDIyd0MxR1JSVUxWVDZZcjhwNHFKdXNIT3U3a0hYRW44?oc=5\" target=\"_blank\">The Price of Strategic Incoherence in Iran: For America, the War’s Benefits Won’t Outweigh Its Costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9QbE1kVkxPWjVKbklETFFUMFJZUkRjU3FBSUVZZWxKa0tyWGNrODRWRU5KM3RxZ3ROSldpYTlDd2V5ZVlmRTNsWkdjRlN2MmJWYWJiZlFxWDIyd0MxR1JSVUxWVDZZcjhwNHFKdXNIT3U3a0hYRW44?oc=5",
-      "publishedAt": "Fri, 27 Mar 2026 07:00:00 GMT",
-      "titleZh": "The Price of Strategic Incoherence in Iran: For America, the War’s Benefits Won’t Outweigh Its Costs - Foreign Affairs",
-      "summaryZh": "The Price of Strategic Incoherence in Iran: For America, the War’s Benefits Won’t Outweigh Its Costs&nbsp;&nbsp;Foreign Affairs"
-    },
-    {
-      "id": "foreignaffairs-commentary-7-https://news.google.com/",
-      "sourceId": "foreignaffairs",
-      "source": "Foreign Affairs",
-      "sourceSite": "foreignaffairs.com",
-      "type": "commentary",
-      "title": "The War in Iran Could Become Like the War in Ukraine - Foreign Affairs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9qNFRsTS1qNUhhLUNoelgyc29WbE5NQkhNaVBKTUpvMXNLV1l1dTZ6UC0xUzNqNW02TWxwWERVUlhLS0MwU1JJbEZKRGx1cmRoVGFnckZnaEV5TElFVUVUNXZCUXlxRWxka3lyLUVwQVJIbVlia19uXw?oc=5\" target=\"_blank\">The War in Iran Could Become Like the War in Ukraine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qNFRsTS1qNUhhLUNoelgyc29WbE5NQkhNaVBKTUpvMXNLV1l1dTZ6UC0xUzNqNW02TWxwWERVUlhLS0MwU1JJbEZKRGx1cmRoVGFnckZnaEV5TElFVUVUNXZCUXlxRWxka3lyLUVwQVJIbVlia19uXw?oc=5",
-      "publishedAt": "Fri, 27 Mar 2026 07:00:00 GMT",
-      "titleZh": "The War in Iran Could Become Like the War in Ukraine - Foreign Affairs",
-      "summaryZh": "The War in Iran Could Become Like the War in Ukraine&nbsp;&nbsp;Foreign Affairs"
+      "titleZh": "Opinion | Is Iran Winning? - nytimes.com",
+      "summaryZh": "Opinion | Is Iran Winning?&nbsp;&nbsp;nytimes.com"
     }
   ]
 }
