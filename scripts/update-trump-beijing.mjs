@@ -7,7 +7,8 @@ const TARGET_NEWS_SOURCES = [
   { id: "reuters", name: "Reuters", site: "reuters.com" },
   { id: "bbc", name: "BBC", site: "bbc.com" },
   { id: "aljazeera", name: "Al Jazeera", site: "aljazeera.com" },
-  { id: "zaobao", name: "联合早报", site: "zaobao.com.sg" }
+  { id: "zaobao", name: "联合早报", site: "zaobao.com.sg" },
+  { id: "general", name: "其他可信来源", site: "" }
 ];
 
 const TARGET_COMMENTARY_SOURCES = [
@@ -22,8 +23,11 @@ const NEWS_FEEDS = [
   "https://news.google.com/rss/search?q=Trump+Beijing+talks&hl=en-US&gl=US&ceid=US:en",
   "https://news.google.com/rss/search?q=Trump+China+Beijing+meeting&hl=en-US&gl=US&ceid=US:en",
   "https://news.google.com/rss/search?q=Trump+Xi+Beijing+talks&hl=en-US&gl=US&ceid=US:en",
+  "https://news.google.com/rss/search?q=Trump+state+visit+China+Beijing+CEOs&hl=en-US&gl=US&ceid=US:en",
+  "https://news.google.com/rss/search?q=Trump+Xi+summit+business+leaders+Beijing&hl=en-US&gl=US&ceid=US:en",
   "https://news.google.com/rss/search?q=特朗普+北京+会谈&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-  "https://news.google.com/rss/search?q=中美+北京+会谈+特朗普&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+  "https://news.google.com/rss/search?q=中美+北京+会谈+特朗普&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+  "https://news.google.com/rss/search?q=特朗普+访华+美国企业家&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
 ];
 
 const COMMENTARY_FEEDS = [
@@ -38,6 +42,14 @@ const SOCIAL_FEEDS = [
   "https://news.google.com/rss/search?q=Trump+Beijing+talks+X+OR+Twitter&hl=en-US&gl=US&ceid=US:en",
   "https://news.google.com/rss/search?q=特朗普+北京+会谈+微博+大V&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
   "https://news.google.com/rss/search?q=特朗普+访华+企业家+微博&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+];
+
+const GDELT_QUERIES = [
+  "Trump Beijing talks",
+  "Trump Xi Beijing summit",
+  "Trump China state visit CEOs",
+  "特朗普 北京 会谈",
+  "特朗普 访华 美国企业家"
 ];
 
 const KEYWORDS = [
@@ -124,7 +136,15 @@ function normalizeItems(xml) {
 function includesTopic(text) {
   const lowered = text.toLowerCase();
   const hasTrump = lowered.includes("trump") || lowered.includes("特朗普");
-  const hasChina = lowered.includes("china") || lowered.includes("beijing") || lowered.includes("中国") || lowered.includes("北京") || lowered.includes("中美");
+  const hasChina =
+    lowered.includes("china") ||
+    lowered.includes("beijing") ||
+    lowered.includes("xi") ||
+    lowered.includes("中国") ||
+    lowered.includes("北京") ||
+    lowered.includes("中美") ||
+    lowered.includes("习近平") ||
+    lowered.includes("访华");
   return hasTrump && hasChina;
 }
 
@@ -148,6 +168,15 @@ function sourceMatches(item, source) {
   return false;
 }
 
+function asGeneralSource(item) {
+  const sourceName = guessSourceName(item) || "综合来源";
+  return {
+    id: "general",
+    name: sourceName,
+    site: ""
+  };
+}
+
 function dedupeByUrl(items) {
   const seen = new Set();
   return items.filter((item) => {
@@ -164,6 +193,28 @@ async function fetchRss(url) {
   });
   if (!res.ok) throw new Error(`RSS fetch failed: ${res.status}`);
   return normalizeItems(await res.text());
+}
+
+async function fetchGdelt(query) {
+  const params = new URLSearchParams({
+    query,
+    mode: "ArtList",
+    format: "json",
+    maxrecords: "50",
+    sort: "HybridRel"
+  });
+  const res = await fetch(`https://api.gdeltproject.org/api/v2/doc/doc?${params}`, {
+    headers: { "User-Agent": "trump-beijing-tracker/1.0" }
+  });
+  if (!res.ok) throw new Error(`GDELT fetch failed: ${res.status}`);
+  const data = await res.json();
+  return (data.articles || []).map((article) => ({
+    title: article.title || "",
+    link: article.url || "",
+    source: article.sourceCommonName || article.domain || "",
+    description: article.seendate ? `${article.sourceCommonName || ""} ${article.seendate}` : article.sourceCommonName || "",
+    pubDate: article.seendate || null
+  }));
 }
 
 function sortByTimeDesc(items) {
@@ -302,14 +353,43 @@ async function collectFeeds(feeds, label) {
   return { items: dedupeByUrl(all), diagnostics };
 }
 
+async function collectGdelt(label) {
+  const all = [];
+  const diagnostics = [];
+  for (const query of GDELT_QUERIES) {
+    try {
+      const items = await fetchGdelt(query);
+      diagnostics.push({ feed: `gdelt:${query}`, count: items.length, status: "ok" });
+      all.push(...items);
+    } catch (err) {
+      diagnostics.push({ feed: `gdelt:${query}`, count: 0, status: "failed", error: err.message });
+      console.error(`[${label}] gdelt failed:`, err.message);
+    }
+  }
+  return { items: dedupeByUrl(all), diagnostics };
+}
+
 async function buildTimeline() {
-  const { items, diagnostics } = await collectFeeds(NEWS_FEEDS, "news");
+  const rss = await collectFeeds(NEWS_FEEDS, "news");
+  const gdelt = await collectGdelt("news");
+  const items = dedupeByUrl([...rss.items, ...gdelt.items]);
+  const diagnostics = [...rss.diagnostics, ...gdelt.diagnostics];
   const pool = items.filter((item) => includesTopic(`${item.title} ${item.description}`));
   const selected = [];
+  const selectedKeys = new Set();
   for (const source of TARGET_NEWS_SOURCES) {
+    if (source.id === "general") continue;
     const matched = pool.filter((item) => sourceMatches(item, source)).slice(0, 12);
-    selected.push(...matched.map((item, idx) => toEntry(source, "news", item, idx)));
+    for (const [idx, item] of matched.entries()) {
+      selectedKeys.add(item.link || item.title);
+      selected.push(toEntry(source, "news", item, idx));
+    }
   }
+  const general = pool
+    .filter((item) => !selectedKeys.has(item.link || item.title))
+    .slice(0, 20)
+    .map((item, idx) => toEntry(asGeneralSource(item), "news", item, idx));
+  selected.push(...general);
   const translated = await translateBatch(selected, "news");
   const timeline = sortByTimeDesc(translated.items);
   return {
