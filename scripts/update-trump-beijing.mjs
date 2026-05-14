@@ -2,6 +2,7 @@ import fs from "node:fs/promises";
 import path from "node:path";
 
 const OUT_FILE = path.resolve("data/trump-beijing.json");
+const MIN_PUBLISHED_AT = new Date("2026-05-14T00:00:00+08:00").getTime();
 
 const TARGET_NEWS_SOURCES = [
   { id: "reuters", name: "Reuters", site: "reuters.com" },
@@ -104,6 +105,28 @@ function cleanText(s = "") {
     .trim();
 }
 
+function normalizeDate(value) {
+  if (!value) return null;
+  const raw = String(value).trim();
+  const gdelt = raw.match(/^(\d{4})(\d{2})(\d{2})T?(\d{2})?(\d{2})?(\d{2})?Z?$/);
+  if (gdelt) {
+    const [, year, month, day, hour = "00", minute = "00", second = "00"] = gdelt;
+    return `${year}-${month}-${day}T${hour}:${minute}:${second}Z`;
+  }
+  return raw;
+}
+
+function timeValue(value) {
+  const normalized = normalizeDate(value);
+  if (!normalized) return 0;
+  const time = new Date(normalized).getTime();
+  return Number.isNaN(time) ? 0 : time;
+}
+
+function isAfterCutoff(item) {
+  return timeValue(item.pubDate || item.publishedAt) >= MIN_PUBLISHED_AT;
+}
+
 function extractTag(block, tag) {
   const safeTag = escapeRegExp(tag);
   const cdataRegex = new RegExp(`<${safeTag}[^>]*><!\\[CDATA\\[([\\s\\S]*?)\\]\\]><\\/${safeTag}>`, "i");
@@ -129,7 +152,7 @@ function normalizeItems(xml) {
     link: extractTag(block, "link") || extractTag(block, "guid"),
     source: extractTag(block, "source"),
     description: extractTag(block, "description") || extractTag(block, "summary") || extractTag(block, "content"),
-    pubDate: extractTag(block, "pubDate") || extractTag(block, "updated") || extractTag(block, "published") || null
+    pubDate: normalizeDate(extractTag(block, "pubDate") || extractTag(block, "updated") || extractTag(block, "published")) || null
   }));
 }
 
@@ -213,15 +236,13 @@ async function fetchGdelt(query) {
     link: article.url || "",
     source: article.sourceCommonName || article.domain || "",
     description: article.seendate ? `${article.sourceCommonName || ""} ${article.seendate}` : article.sourceCommonName || "",
-    pubDate: article.seendate || null
+    pubDate: normalizeDate(article.seendate) || null
   }));
 }
 
 function sortByTimeDesc(items) {
   return [...items].sort((a, b) => {
-    const ta = a.publishedAt ? new Date(a.publishedAt).getTime() : 0;
-    const tb = b.publishedAt ? new Date(b.publishedAt).getTime() : 0;
-    return tb - ta;
+    return timeValue(b.publishedAt) - timeValue(a.publishedAt);
   });
 }
 
@@ -375,17 +396,18 @@ async function buildTimeline() {
   const items = dedupeByUrl([...rss.items, ...gdelt.items]);
   const diagnostics = [...rss.diagnostics, ...gdelt.diagnostics];
   const pool = items.filter((item) => includesTopic(`${item.title} ${item.description}`));
+  const recentPool = pool.filter(isAfterCutoff);
   const selected = [];
   const selectedKeys = new Set();
   for (const source of TARGET_NEWS_SOURCES) {
     if (source.id === "general") continue;
-    const matched = pool.filter((item) => sourceMatches(item, source)).slice(0, 12);
+    const matched = recentPool.filter((item) => sourceMatches(item, source)).slice(0, 12);
     for (const [idx, item] of matched.entries()) {
       selectedKeys.add(item.link || item.title);
       selected.push(toEntry(source, "news", item, idx));
     }
   }
-  const general = pool
+  const general = recentPool
     .filter((item) => !selectedKeys.has(item.link || item.title))
     .slice(0, 20)
     .map((item, idx) => toEntry(asGeneralSource(item), "news", item, idx));
@@ -397,7 +419,7 @@ async function buildTimeline() {
     bySource: TARGET_NEWS_SOURCES.map((source) => ({
       sourceId: source.id,
       source: source.name,
-      items: timeline.filter((item) => item.sourceId === source.id).slice(0, 8)
+      items: timeline.filter((item) => item.sourceId === source.id)
     })),
     diagnostics,
     translation: { news: translated.status, newsReason: translated.reason || null }
@@ -406,7 +428,7 @@ async function buildTimeline() {
 
 async function buildCommentary() {
   const { items, diagnostics } = await collectFeeds(COMMENTARY_FEEDS, "commentary");
-  const pool = items.filter((item) => includesTopic(`${item.title} ${item.description}`));
+  const pool = items.filter((item) => includesTopic(`${item.title} ${item.description}`)).filter(isAfterCutoff);
   const selected = [];
   for (const source of TARGET_COMMENTARY_SOURCES) {
     const matched = pool.filter((item) => sourceMatches(item, source)).slice(0, 8);
@@ -424,6 +446,7 @@ async function buildSocialSignals() {
   const { items, diagnostics } = await collectFeeds(SOCIAL_FEEDS, "social");
   const selected = items
     .filter((item) => includesTopic(`${item.title} ${item.description}`))
+    .filter(isAfterCutoff)
     .slice(0, 24)
     .map((item, idx) =>
       toEntry(
@@ -489,6 +512,7 @@ async function main() {
     totalCommentary: commentaryData.commentary.length,
     totalSocial: socialData.social.length,
     totalMarkets: markets.filter((quote) => quote.status === "ok").length,
+    minPublishedAt: new Date(MIN_PUBLISHED_AT).toISOString(),
     translation: {
       ...newsTranslation,
       ...commentaryData.translation,
