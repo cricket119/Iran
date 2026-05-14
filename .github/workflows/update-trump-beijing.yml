@@ -1,6 +1,15 @@
 name: Update Trump Beijing Feed
 
 on:
+  push:
+    branches: ["main"]
+    paths:
+      - "trump-beijing.html"
+      - "assets/trump-beijing.js"
+      - "assets/style.css"
+      - "scripts/update-trump-beijing.mjs"
+      - "package.json"
+      - ".github/workflows/update-trump-beijing.yml"
   schedule:
     - cron: "0 */4 * * *"
   workflow_dispatch:

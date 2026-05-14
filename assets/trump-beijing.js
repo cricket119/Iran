@@ -140,4 +140,4 @@ async function refreshData() {
 }
 
 refreshData();
-setInterval(refreshData, 60 * 1000);
+setInterval(refreshData, 60 * 60 * 1000);
