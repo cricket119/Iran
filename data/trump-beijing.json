@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-14T17:57:13.600Z",
+  "generatedAt": "2026-05-14T21:15:06.765Z",
   "topic": "特朗普北京会谈",
-  "totalNews": 52,
-  "totalCommentary": 6,
+  "totalNews": 51,
+  "totalCommentary": 7,
   "totalSocial": 24,
   "totalMarkets": 11,
   "minPublishedAt": "2026-05-13T16:00:00.000Z",
@@ -15,6 +15,71 @@
     "socialReason": "OpenAI API failed: 429 {\n  \"error\": {\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\",\n    \"type\": \"insufficient_quota\",\n    \"param\": null,\n    \"code\": \"insufficient_quota\"\n  }\n}"
   },
   "timeline": [
+    {
+      "id": "general-news-3-https://news.google.com/",
+      "sourceId": "general",
+      "source": "NBC News",
+      "sourceSite": "",
+      "type": "news",
+      "title": "Live updates: China’s Xi warns Trump over Taiwan during Beijing summit; Vance campaigns in Maine - NBC News",
+      "description": "Live updates: China’s Xi warns Trump over Taiwan during Beijing summit; Vance campaigns in Maine NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaGhwRERFTGRBa19VSjdEbGpqZkx6a3Yya2ZsUXFvVmVlSGdWMUV4dlNqUEc5cUx2SS0zY0xVb2EtWF9QSVppZk9zTEJwVWdMLTBCbjNac1d5OGlxYzdLcENhU2dqbk5fWTJuYkRJMlpWVTRQZ1NTMUFGRHBOVlZvRGJtWVdnVWh0ci1BUW40MkU0OWU5NGZHaVl3SjR6MjVFRF84T18wdm9CcTA?oc=5",
+      "publishedAt": "Thu, 14 May 2026 21:03:11 GMT",
+      "titleZh": "Live updates: China’s Xi warns Trump over Taiwan during Beijing summit; Vance campaigns in Maine - NBC News",
+      "summaryZh": "Live updates: China’s Xi warns Trump over Taiwan during Beijing summit; Vance campaigns in Maine NBC News"
+    },
+    {
+      "id": "reuters-news-2-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
+      "type": "news",
+      "title": "Beijing trip unlikely to ease Trump’s problems at home - Reuters",
+      "description": "Beijing trip unlikely to ease Trump’s problems at home Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSGJaWVNmWEg1aWNicDBwT19JYUQzM0RMVFBOVUFVS3Fsc3Q5QXlBMkRISVZuQWdLMUVlRWhEaVFTSUdjLVVmR3N4YTl2dTlEUndHTk0wZ2dnSEk2cGRiX0NLY0dBOHlrM0NHUmt2aXdjeUJYRTNxc0RlMEhtQTA3bW04ekYyZw?oc=5",
+      "publishedAt": "Thu, 14 May 2026 18:55:00 GMT",
+      "titleZh": "Beijing trip unlikely to ease Trump’s problems at home - Reuters",
+      "summaryZh": "Beijing trip unlikely to ease Trump’s problems at home Reuters"
+    },
+    {
+      "id": "general-news-7-https://news.google.com/",
+      "sourceId": "general",
+      "source": "NewsNation",
+      "sourceSite": "",
+      "type": "news",
+      "title": "Live updates: Trump and Xi open high-stakes summit in Beijing - NewsNation",
+      "description": "Live updates: Trump and Xi open high-stakes summit in Beijing NewsNation",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTmJWZ0xvb19RUjNHX1FyMW1JU09TTTBzZnBEN1FtWTZjMDIzNzlqU3lIQUdwTTIxcG4wOHMydlZDY0Uxd0RVSy11bC1GWFJlc3p4dkxHejcyOVZfM2dqbEUwY0gzTVRvTUt0VER5dE9KSFBuOXVlR01FVUFKNGtodlR1YzNpTkd1SENLSWhzTVd2b2x4OGNLZXZJMHpKRmJKcnpSeTJB0gGrAUFVX3lxTE1qT192ZlNldTNBdEhVcWxZZDk3bzlRWWpEZDl1TG93NU5aYUttcWZCMUd2UTVrMHpINVBnT0gzY0VyVU5uZGJjcnFjaEFjNzF5RzNlSmg2aEhHcUN0ZWh3bGNoMGtRWGt4R3JkVkcwRnIxcWVScnJOQUtNRW1lRnlRYk85M08xTmlMSGlQenF1c0lsdlN6Y2pjUFkwVERTYmhpa1p5SmF1R3dFcw?oc=5",
+      "publishedAt": "Thu, 14 May 2026 18:26:53 GMT",
+      "titleZh": "Live updates: Trump and Xi open high-stakes summit in Beijing - NewsNation",
+      "summaryZh": "Live updates: Trump and Xi open high-stakes summit in Beijing NewsNation"
+    },
+    {
+      "id": "general-news-0-https://news.google.com/",
+      "sourceId": "general",
+      "source": "CNN",
+      "sourceSite": "",
+      "type": "news",
+      "title": "Live updates: Xi hails US-China relations as world’s most consequential, but warns Trump on Taiwan - CNN",
+      "description": "Live updates: Xi hails US-China relations as world’s most consequential, but warns Trump on Taiwan CNN",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0LXNSdGhVUUlfVzRRZkwySUdwV3E3Z19zR0Q0UkVESlRJYjd3QXFhdWNRdUhCbDZKU0tEU3RDYjI0b2ZBTl9sSDV1bkJtMk9yMjlHX0NQdG9ack8zODQ2M0hqV2lRUzE4N1NaSVVPaFAwUlJoMTNEam9RUQ?oc=5",
+      "publishedAt": "Thu, 14 May 2026 18:06:00 GMT",
+      "titleZh": "Live updates: Xi hails US-China relations as world’s most consequential, but warns Trump on Taiwan - CNN",
+      "summaryZh": "Live updates: Xi hails US-China relations as world’s most consequential, but warns Trump on Taiwan CNN"
+    },
+    {
+      "id": "general-news-17-https://news.google.com/",
+      "sourceId": "general",
+      "source": "The Washington Post",
+      "sourceSite": "",
+      "type": "news",
+      "title": "Xi warns Trump that mishandling Taiwan could spark ‘conflicts’ - The Washington Post",
+      "description": "Xi warns Trump that mishandling Taiwan could spark ‘conflicts’ The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObGtKSTY0Zk9raVpKRllVdG5jQ1p4eEhaUThfYXFFaDY0bGp5djNmSUN3X3lkcVVTOHhrWU9rNTA2ZTEyNFZOdm5Na0xaWXg5QVcxTE1QbDV4ZjNnRWFhel9FRGNxYlYtRmx5Wkt1OUlRMUdzaTlMWEdtWG1zTGp6elo1U18wdk9QUnc0UEJMdDFzb2dKNDRKX2xTWE95VVIzRm9sRW9n?oc=5",
+      "publishedAt": "Thu, 14 May 2026 18:02:13 GMT",
+      "titleZh": "Xi warns Trump that mishandling Taiwan could spark ‘conflicts’ - The Washington Post",
+      "summaryZh": "Xi warns Trump that mishandling Taiwan could spark ‘conflicts’ The Washington Post"
+    },
     {
       "id": "aljazeera-news-4-https://news.google.com/",
       "sourceId": "aljazeera",
@@ -29,33 +94,7 @@
       "summaryZh": "Trump, Xi discuss Strait of Hormuz as Chinese vessels transit key waterway Al Jazeera"
     },
     {
-      "id": "general-news-3-https://news.google.com/",
-      "sourceId": "general",
-      "source": "Fox News",
-      "sourceSite": "",
-      "type": "news",
-      "title": "Trump, Xi make remarks at state banquet on day two of critical China visit - Fox News",
-      "description": "Trump, Xi make remarks at state banquet on day two of critical China visit Fox News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOV1lXSXFFMFctQzN3ak5MdmhhT1pWMlU3YzNLaWM2SC02V0dodDRvelRNTzE1SGtJMm52aVNLNm9jMkxjNHVCZnB1bmluYzBvS25lcHlDaUNha3RHUFBIV3RYWXdDaFhOWm1wcGpkTTJ3SHBBa01Ya0VoVWl1eV9QOEdBYXkzZWEzVlhqd29Nd3lBdTVjak11dTVNZkM5cW5VdVpvdnNvcTFaT1ZnVFhZOTFZMEdqQmlLanFwSUJ3eVBfSVpLc2VsYmJ5TFFsQdIB0wFBVV95cUxPbzdoWTZ5TGlEaTdrMkowQlREZnpNV2RrbWlOc0RNS2ZZX0ZUUVJIVkNBNzJMSGFRLXlNZDd4alZRN2l4TS1CWXBMY1VwVUtDUG5rQzkwczlRQUpLbm5JXzZIT0RPZWc4T05uRS13cTkwdTJLZW90dGxwM29QZWg4YlphSUV0WTZETFMxd1Nra0N1b3dzV2h4MUtXQklGMjJPbGZhWU9BQWMyXzcxaGFUUDZJY1dxUWlORUdCVE9NeFVqNklQNjBFOHA0M3RkajZxVmw0?oc=5",
-      "publishedAt": "Thu, 14 May 2026 17:11:50 GMT",
-      "titleZh": "Trump, Xi make remarks at state banquet on day two of critical China visit - Fox News",
-      "summaryZh": "Trump, Xi make remarks at state banquet on day two of critical China visit Fox News"
-    },
-    {
       "id": "general-news-16-https://news.google.com/",
-      "sourceId": "general",
-      "source": "The Washington Post",
-      "sourceSite": "",
-      "type": "news",
-      "title": "Xi warns Trump that mishandling Taiwan could spark ‘conflicts’ - The Washington Post",
-      "description": "Xi warns Trump that mishandling Taiwan could spark ‘conflicts’ The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObGtKSTY0Zk9raVpKRllVdG5jQ1p4eEhaUThfYXFFaDY0bGp5djNmSUN3X3lkcVVTOHhrWU9rNTA2ZTEyNFZOdm5Na0xaWXg5QVcxTE1QbDV4ZjNnRWFhel9FRGNxYlYtRmx5Wkt1OUlRMUdzaTlMWEdtWG1zTGp6elo1U18wdk9QUnc0UEJMdDFzb2dKNDRKX2xTWE95VVIzRm9sRW9n?oc=5",
-      "publishedAt": "Thu, 14 May 2026 16:30:14 GMT",
-      "titleZh": "Xi warns Trump that mishandling Taiwan could spark ‘conflicts’ - The Washington Post",
-      "summaryZh": "Xi warns Trump that mishandling Taiwan could spark ‘conflicts’ The Washington Post"
-    },
-    {
-      "id": "general-news-15-https://news.google.com/",
       "sourceId": "general",
       "source": "dw.com",
       "sourceSite": "",
@@ -63,38 +102,25 @@
       "title": "Trump and Xi hold high-stakes US-China summit in Beijing - dw.com",
       "description": "Trump and Xi hold high-stakes US-China summit in Beijing dw.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmFUa3FJZ08zOG1iR0tidTloOE1HYjc5VURiZ0pBSWp5WnA2U3JTblYzT0ZXUDNXblA3aHZYcHBZejB4Ulp2UXgzUDNIRTVtblVaM21hSjF5VjMxaHNkWVBEQ2lNQmEyeFlOa0xveVgwbUhVVjFrQ2JDYTQxLUxMR2RudTQ1cGw3NXNNWlVOS21PdWlHU29GQQ?oc=5",
-      "publishedAt": "Thu, 14 May 2026 16:29:59 GMT",
+      "publishedAt": "Thu, 14 May 2026 17:13:44 GMT",
       "titleZh": "Trump and Xi hold high-stakes US-China summit in Beijing - dw.com",
       "summaryZh": "Trump and Xi hold high-stakes US-China summit in Beijing dw.com"
     },
     {
-      "id": "general-news-1-https://news.google.com/",
+      "id": "general-news-19-https://news.google.com/",
       "sourceId": "general",
-      "source": "NBC News",
+      "source": "Yahoo",
       "sourceSite": "",
       "type": "news",
-      "title": "Live updates: Senators vote to withhold their pay during shutdowns; China’s Xi warns Trump over Taiwan - NBC News",
-      "description": "Live updates: Senators vote to withhold their pay during shutdowns; China’s Xi warns Trump over Taiwan NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaGhwRERFTGRBa19VSjdEbGpqZkx6a3Yya2ZsUXFvVmVlSGdWMUV4dlNqUEc5cUx2SS0zY0xVb2EtWF9QSVppZk9zTEJwVWdMLTBCbjNac1d5OGlxYzdLcENhU2dqbk5fWTJuYkRJMlpWVTRQZ1NTMUFGRHBOVlZvRGJtWVdnVWh0ci1BUW40MkU0OWU5NGZHaVl3SjR6MjVFRF84T18wdm9CcTA?oc=5",
-      "publishedAt": "Thu, 14 May 2026 16:21:11 GMT",
-      "titleZh": "Live updates: Senators vote to withhold their pay during shutdowns; China’s Xi warns Trump over Taiwan - NBC News",
-      "summaryZh": "Live updates: Senators vote to withhold their pay during shutdowns; China’s Xi warns Trump over Taiwan NBC News"
+      "title": "Xi warns Trump on Taiwan at Beijing summit - Yahoo",
+      "description": "Xi warns Trump on Taiwan at Beijing summit Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdmZWNS1SWjc0MXVsZFhoWFhCaFcxeGdmYld1aHdJRFp4UzdZeG5YQ01Hc29McENyVVFNbWdOQkdVbVhYMzBkYXZKNnE1U2gtcjVISXRxc2hEaTdkS21CZlQ3NGR5VDZzbktncElZNnFMYXpLUnprdHgtU0FVZ0NDTg?oc=5",
+      "publishedAt": "Thu, 14 May 2026 15:54:41 GMT",
+      "titleZh": "Xi warns Trump on Taiwan at Beijing summit - Yahoo",
+      "summaryZh": "Xi warns Trump on Taiwan at Beijing summit Yahoo"
     },
     {
-      "id": "general-news-4-https://news.google.com/",
-      "sourceId": "general",
-      "source": "The Guardian",
-      "sourceSite": "",
-      "type": "news",
-      "title": "Trump China visit live: ‘US and China should be partners, not rivals’, Xi says after earlier warning on Taiwan - The Guardian",
-      "description": "Trump China visit live: ‘US and China should be partners, not rivals’, Xi says after earlier warning on Taiwan The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQN1Nxa05VVmRvWXJKTi1zLTVKMjdWa1VQZFVEN3k1cUQtY2s5NXBxejlpaVdUVVU4OE5HOXFqNGJwbmdNcUV6R3dOOU5LaU1LNXI0U2tYRjNIbC04c0pnWlBnZ0k4NmpOSmZBUTZJQjJBT0NJWW91VmpVb0ZRZHRaVW12OUZxNC1NZEt3cWh6LTJhWHN3ZFY1UF80Smx5RjVSdnpuVDE5Uy10MDNMdEV6SGRzSFl2MG5FNDNha3JVZ0NQZks2YXdrb1NRSUJKSnlwTUphMWxPRlVLUQ?oc=5",
-      "publishedAt": "Thu, 14 May 2026 16:11:00 GMT",
-      "titleZh": "Trump China visit live: ‘US and China should be partners, not rivals’, Xi says after earlier warning on Taiwan - The Guardian",
-      "summaryZh": "Trump China visit live: ‘US and China should be partners, not rivals’, Xi says after earlier warning on Taiwan The Guardian"
-    },
-    {
-      "id": "zaobao-news-1-https://news.google.com/",
+      "id": "zaobao-news-0-https://news.google.com/",
       "sourceId": "zaobao",
       "source": "联合早报",
       "sourceSite": "zaobao.com.sg",
@@ -107,30 +133,30 @@
       "summaryZh": "分析：特朗普处于弱姿态与习近平谈判 联合早报"
     },
     {
-      "id": "general-news-9-https://news.google.com/",
+      "id": "general-news-14-https://news.google.com/",
       "sourceId": "general",
-      "source": "NewsNation",
+      "source": "The Guardian",
       "sourceSite": "",
       "type": "news",
-      "title": "Live updates: Trump and Xi open high-stakes summit in Beijing - NewsNation",
-      "description": "Live updates: Trump and Xi open high-stakes summit in Beijing NewsNation",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTmJWZ0xvb19RUjNHX1FyMW1JU09TTTBzZnBEN1FtWTZjMDIzNzlqU3lIQUdwTTIxcG4wOHMydlZDY0Uxd0RVSy11bC1GWFJlc3p4dkxHejcyOVZfM2dqbEUwY0gzTVRvTUt0VER5dE9KSFBuOXVlR01FVUFKNGtodlR1YzNpTkd1SENLSWhzTVd2b2x4OGNLZXZJMHpKRmJKcnpSeTJB0gGrAUFVX3lxTE1qT192ZlNldTNBdEhVcWxZZDk3bzlRWWpEZDl1TG93NU5aYUttcWZCMUd2UTVrMHpINVBnT0gzY0VyVU5uZGJjcnFjaEFjNzF5RzNlSmg2aEhHcUN0ZWh3bGNoMGtRWGt4R3JkVkcwRnIxcWVScnJOQUtNRW1lRnlRYk85M08xTmlMSGlQenF1c0lsdlN6Y2pjUFkwVERTYmhpa1p5SmF1R3dFcw?oc=5",
-      "publishedAt": "Thu, 14 May 2026 15:49:33 GMT",
-      "titleZh": "Live updates: Trump and Xi open high-stakes summit in Beijing - NewsNation",
-      "summaryZh": "Live updates: Trump and Xi open high-stakes summit in Beijing NewsNation"
+      "title": "For anxious Taiwan, Trump’s silence after Xi talks is best possible outcome - The Guardian",
+      "description": "For anxious Taiwan, Trump’s silence after Xi talks is best possible outcome The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX2tWLVhXeWlSaUpvVXdMN196Qkw2VzdldkdxdzUzalZ2VEpuT3BoUlFoZUE2WExJUVFzOUZsZzMtdkhtblRyRC1kTkVZZUZZSS05VUlOX2NZcGg4dll3TTVJTnVjamU2N1kwWTkyaGZpY293YWlMZGhOU2YtZFBIcTM1LUJYR2MxLV9tNHh1ODFWalR3?oc=5",
+      "publishedAt": "Thu, 14 May 2026 15:34:00 GMT",
+      "titleZh": "For anxious Taiwan, Trump’s silence after Xi talks is best possible outcome - The Guardian",
+      "summaryZh": "For anxious Taiwan, Trump’s silence after Xi talks is best possible outcome The Guardian"
     },
     {
-      "id": "bbc-news-7-https://news.google.com/",
+      "id": "bbc-news-9-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
       "type": "news",
       "title": "特朗普访华：习近平迎接美国总统，但棘手问题仍未解决 - BBC",
-      "description": "特朗普访华：习近平迎接美国总统，但棘手问题仍未解决 BBC习近平同美国总统特朗普会谈 新华网特朗普总统北京国宴致辞：美中关系“非常特殊”，邀请习近平9月访白宫 美国之音特习会实时／习近平称“台海和平稳定是中美最大公约数” DW.com特朗普：中美之间会有更美好的未来 观察者特朗普对华雄心为何大幅缩水 纽约时报中文网实时更新：特朗普邀请习近平访问白宫 华尔街日报中文网特朗普抵京学者：习近平将面对谈判高手– 普通话主页 Radio Free Asia特朗普出发前往北京人民大会堂 联合早报",
+      "description": "特朗普访华：习近平迎接美国总统，但棘手问题仍未解决 BBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaeVlQVV96Y25DRWZwb21VU0U2WFFhZFRNZExqaW5IM1N2UkhHejFvNnpxdlBBZ25oZmIzLVlDdy1kZ19uTkNDeUlhaHgzMTR5Y2N3aGVBVHFPWXZvQjFxZHY1Y1hWUdIBa0FVX3lxTFBXRFZ1T1dZOTdNNk5URVhFc0pULURpTkV5SENreHZfWUhia3VfQUVVc19QLTQ1Q2F2NEVIQVJ4dTB2bW15M3pyR1VvdVdSYV8yc0x3SnFvNzJWSmJBamYwZllSYXpMWkNMZHZN?oc=5",
       "publishedAt": "Thu, 14 May 2026 15:30:26 GMT",
       "titleZh": "特朗普访华：习近平迎接美国总统，但棘手问题仍未解决 - BBC",
-      "summaryZh": "特朗普访华：习近平迎接美国总统，但棘手问题仍未解决 BBC习近平同美国总统特朗普会谈 新华网特朗普总统北京国宴致辞：美中关系“非常特殊”，邀请习近平9月访白宫 美国之音特习会实时／习近平称“台海和平稳定是中美最大公约数” DW.com特朗普：中美之间会有更美好的未来 观察者特朗普对华雄心为何大幅缩水 纽约时报中文网实时更新：特朗普邀请习近平访问白宫 华尔街日报中文网特朗普抵京学者：习近平将面对谈判高手– 普通话主页 Radio Free"
+      "summaryZh": "特朗普访华：习近平迎接美国总统，但棘手问题仍未解决 BBC"
     },
     {
       "id": "aljazeera-news-1-https://news.google.com/",
@@ -146,19 +172,6 @@
       "summaryZh": "China’s Xi warns Trump about Taiwan at Beijing summit Al Jazeera"
     },
     {
-      "id": "general-news-2-https://news.google.com/",
-      "sourceId": "general",
-      "source": "CNN",
-      "sourceSite": "",
-      "type": "news",
-      "title": "Live updates: Xi hails US-China relations as world’s most consequential, but warns Trump on Taiwan - CNN",
-      "description": "Live updates: Xi hails US-China relations as world’s most consequential, but warns Trump on Taiwan CNN",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0LXNSdGhVUUlfVzRRZkwySUdwV3E3Z19zR0Q0UkVESlRJYjd3QXFhdWNRdUhCbDZKU0tEU3RDYjI0b2ZBTl9sSDV1bkJtMk9yMjlHX0NQdG9ack8zODQ2M0hqV2lRUzE4N1NaSVVPaFAwUlJoMTNEam9RUQ?oc=5",
-      "publishedAt": "Thu, 14 May 2026 15:11:00 GMT",
-      "titleZh": "Live updates: Xi hails US-China relations as world’s most consequential, but warns Trump on Taiwan - CNN",
-      "summaryZh": "Live updates: Xi hails US-China relations as world’s most consequential, but warns Trump on Taiwan CNN"
-    },
-    {
       "id": "bbc-news-1-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
@@ -172,7 +185,7 @@
       "summaryZh": "In pictures: Trump hosted by Xi Jinping in Beijing on two-day summit BBC"
     },
     {
-      "id": "general-news-7-https://news.google.com/",
+      "id": "general-news-6-https://news.google.com/",
       "sourceId": "general",
       "source": "Council on Foreign Relations",
       "sourceSite": "",
@@ -198,7 +211,7 @@
       "summaryZh": "‘Never mess it up’: What Xi and Trump said on day one of Beijing talks Al Jazeera"
     },
     {
-      "id": "general-news-17-https://news.google.com/",
+      "id": "general-news-10-https://news.google.com/",
       "sourceId": "general",
       "source": "The Hill",
       "sourceSite": "",
@@ -211,7 +224,20 @@
       "summaryZh": "In Beijing, Trump easily holds the winning hand The Hill"
     },
     {
-      "id": "bbc-news-10-https://news.google.com/",
+      "id": "general-news-2-https://news.google.com/",
+      "sourceId": "general",
+      "source": "The New York Times",
+      "sourceSite": "",
+      "type": "news",
+      "title": "In Photos and Video: President Trump Goes to China - The New York Times",
+      "description": "In Photos and Video: President Trump Goes to China The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fUjdBTEliWFotNGpvQ0FaTWswdXRqOVFTbWxWdzhkM0NPNzhNaFdBWlBNVk1YdGF2bGxNWVNBdS0wWHZpNEtNYzhQQTZWTGhZOGZKbGJXNnluaUp5RENUclNwUjJpemVyaHgyeXRQT1ItS3FPa3QyUw?oc=5",
+      "publishedAt": "Thu, 14 May 2026 13:40:00 GMT",
+      "titleZh": "In Photos and Video: President Trump Goes to China - The New York Times",
+      "summaryZh": "In Photos and Video: President Trump Goes to China The New York Times"
+    },
+    {
+      "id": "bbc-news-11-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -250,20 +276,7 @@
       "summaryZh": "Trump in China: Xi Jinping welcomes US president but thorny issues remain BBC"
     },
     {
-      "id": "general-news-19-https://news.google.com/",
-      "sourceId": "general",
-      "source": "AP News",
-      "sourceSite": "",
-      "type": "news",
-      "title": "Photos of Trump in China for talks with Xi Jinping - AP News",
-      "description": "Photos of Trump in China for talks with Xi Jinping AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0J6d19jUlNyOHlYeE94Vm1NRTBzR2Z2LXN2T3BFTDBJS2F1eUN2ZjV2dnBzbEdYZUotcWFETm5mZ0NGY05GNFVEZmVBZ1NwcGRWQ09yTFhUY1hua3U4aDFhNnVGRUE2Qk5qZUV2VWFoLS1nZXN3WGFLR2t2dUw4RVFpQ2szM0oxa0gwdUhfTl94LTZERU5fWENKY0NtSVpGSHZDaWdvQnZ6Zw?oc=5",
-      "publishedAt": "Thu, 14 May 2026 12:31:00 GMT",
-      "titleZh": "Photos of Trump in China for talks with Xi Jinping - AP News",
-      "summaryZh": "Photos of Trump in China for talks with Xi Jinping AP News"
-    },
-    {
-      "id": "bbc-news-8-https://news.google.com/",
+      "id": "bbc-news-7-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -289,7 +302,7 @@
       "summaryZh": "Xi warns Trump of possible conflict over Taiwan at grand Beijing summit NBC News"
     },
     {
-      "id": "reuters-news-2-https://news.google.com/",
+      "id": "reuters-news-3-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -328,7 +341,7 @@
       "summaryZh": "China’s Xi warns Trump on Taiwan at Beijing summit The Hill"
     },
     {
-      "id": "general-news-10-https://news.google.com/",
+      "id": "general-news-9-https://news.google.com/",
       "sourceId": "general",
       "source": "Politico",
       "sourceSite": "",
@@ -341,7 +354,7 @@
       "summaryZh": "Taiwan emerges as flash point in Trump-Xi talks Politico"
     },
     {
-      "id": "bbc-news-9-https://news.google.com/",
+      "id": "bbc-news-8-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -354,17 +367,17 @@
       "summaryZh": "特朗普访华：中美元首会谈逾2小时 结束后同游天坛 BBC"
     },
     {
-      "id": "reuters-news-3-https://news.google.com/",
-      "sourceId": "reuters",
-      "source": "Reuters",
-      "sourceSite": "reuters.com",
+      "id": "general-news-5-https://news.google.com/",
+      "sourceId": "general",
+      "source": "Xinhua",
+      "sourceSite": "",
       "type": "news",
-      "title": "Taiwan: no surprises from Trump-Xi summit, China should end military pressure - Reuters",
-      "description": "Taiwan: no surprises from Trump-Xi summit, China should end military pressure Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZDZoQlNId1hod1hJWm4yUXhwYi1iSzI0bEFwdEZCcWJ0bnRlNFVRZ0tncFR6Y084WjZGNDN3WUNjLWhpNS15djhTQVprWHFaWjR2Sm9jUVl2UG9FWVdtMFlpd2pWaUJxYUNBSWd5SkVsMFJuTmdmQmk5R3I4d3A4Tlp5R3lqdHJKOGNqd1JvWWhlMnJ2MXAxWmdtemV1bHFBMmRUSENxc2lsTTFBaXdqRDBfb21VQlh4S2c?oc=5",
-      "publishedAt": "Thu, 14 May 2026 09:36:07 GMT",
-      "titleZh": "Taiwan: no surprises from Trump-Xi summit, China should end military pressure - Reuters",
-      "summaryZh": "Taiwan: no surprises from Trump-Xi summit, China should end military pressure Reuters"
+      "title": "Xi holds talks with Trump in Beijing - Xinhua",
+      "description": "Xi holds talks with Trump in Beijing Xinhua",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJelA5YjZsMG9qSzNGVE4yR1dtY2JqeFNGRXpIdGpsczlvWGRvTktBSUtyNjZhVkQxOE4wMjRya1hFdDJKbFRXSXBfSEZkQnJORHM4MnBkTmUyVVFuZUV1ckJhSVRISW01OUdVVXZaZHVnZHNoa3V2WlRURmE?oc=5",
+      "publishedAt": "Thu, 14 May 2026 09:08:45 GMT",
+      "titleZh": "Xi holds talks with Trump in Beijing - Xinhua",
+      "summaryZh": "Xi holds talks with Trump in Beijing Xinhua"
     },
     {
       "id": "bbc-news-2-https://news.google.com/",
@@ -432,7 +445,7 @@
       "summaryZh": "【视频】随特朗普访华美商界领袖与李强会面 联合早报"
     },
     {
-      "id": "reuters-news-8-https://news.google.com/",
+      "id": "reuters-news-6-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -471,20 +484,7 @@
       "summaryZh": "Trump in China: Follow live updates as US president meets Xi BBC"
     },
     {
-      "id": "general-news-5-https://news.google.com/",
-      "sourceId": "general",
-      "source": "The New York Times",
-      "sourceSite": "",
-      "type": "news",
-      "title": "In Photos and Video: President Trump Goes to China - The New York Times",
-      "description": "In Photos and Video: President Trump Goes to China The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fUjdBTEliWFotNGpvQ0FaTWswdXRqOVFTbWxWdzhkM0NPNzhNaFdBWlBNVk1YdGF2bGxNWVNBdS0wWHZpNEtNYzhQQTZWTGhZOGZKbGJXNnluaUp5RENUclNwUjJpemVyaHgyeXRQT1ItS3FPa3QyUw?oc=5",
-      "publishedAt": "Thu, 14 May 2026 04:21:54 GMT",
-      "titleZh": "In Photos and Video: President Trump Goes to China - The New York Times",
-      "summaryZh": "In Photos and Video: President Trump Goes to China The New York Times"
-    },
-    {
-      "id": "reuters-news-9-https://news.google.com/",
+      "id": "reuters-news-7-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -510,33 +510,7 @@
       "summaryZh": "Trump and Xi shake hands ahead of Beijing talks Reuters"
     },
     {
-      "id": "reuters-news-7-https://news.google.com/",
-      "sourceId": "reuters",
-      "source": "Reuters",
-      "sourceSite": "reuters.com",
-      "type": "news",
-      "title": "Trump and Xi shake hands ahead of Beijing talks - Reuters",
-      "description": "Trump and Xi shake hands ahead of Beijing talks Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHQTlZcEc3WGJ0M0I1dldpa1JCSS12NjY0Umc3aHNOZVZORl80SWp3YXVRYlFFTU1jZmRyQmxLQnp4R2xRVThyOTMzX2Q4SU9ndFBSWEVVeFhfUHJNTFl2YXo2RUhpbnVBa3ExZkFTa3EwQUY5aFJNdmlR?oc=5",
-      "publishedAt": "Thu, 14 May 2026 03:58:37 GMT",
-      "titleZh": "Trump and Xi shake hands ahead of Beijing talks - Reuters",
-      "summaryZh": "Trump and Xi shake hands ahead of Beijing talks Reuters"
-    },
-    {
-      "id": "reuters-news-6-https://news.google.com/",
-      "sourceId": "reuters",
-      "source": "Reuters",
-      "sourceSite": "reuters.com",
-      "type": "news",
-      "title": "New attacks hit ships near Hormuz as Trump discusses Iran with Xi - Reuters",
-      "description": "New attacks hit ships near Hormuz as Trump discusses Iran with Xi Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbFd0ejg3MHE1NzY3MmdESTZ4bkxtNGtpQkFxZnhTSlVmLWVXSTZRRkRXbVBRNVlmS3FtbEk2NS1uaGFIX3Mxazc0UzFFbkJkbHdtQm9BS2NzSTFWTEVYQkxidUFZWE1MSEFiRlB0M3hYUFNRQm10eWN1dGhIei1URkYtRE5rS05pMFo5dmpZN3d6azVES2NiaWswZGMzZUl1SzVLejlWRzg?oc=5",
-      "publishedAt": "Thu, 14 May 2026 03:56:00 GMT",
-      "titleZh": "New attacks hit ships near Hormuz as Trump discusses Iran with Xi - Reuters",
-      "summaryZh": "New attacks hit ships near Hormuz as Trump discusses Iran with Xi Reuters"
-    },
-    {
-      "id": "bbc-news-11-https://news.google.com/",
+      "id": "bbc-news-10-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -562,7 +536,7 @@
       "summaryZh": "Xi warns Trump of ‘clashes and even conflicts’ with US over Taiwan The Guardian"
     },
     {
-      "id": "general-news-14-https://news.google.com/",
+      "id": "general-news-15-https://news.google.com/",
       "sourceId": "general",
       "source": "The Hill",
       "sourceSite": "",
@@ -575,7 +549,7 @@
       "summaryZh": "Trump arrives in Beijing for talks with Chinese President Xi Jinping The Hill"
     },
     {
-      "id": "general-news-0-https://news.google.com/",
+      "id": "general-news-1-https://news.google.com/",
       "sourceId": "general",
       "source": "CNBC",
       "sourceSite": "",
@@ -588,7 +562,7 @@
       "summaryZh": "Xi warns Trump: Mishandling Taiwan will put U.S.-China relationship in 'great jeopardy' CNBC"
     },
     {
-      "id": "general-news-6-https://news.google.com/",
+      "id": "general-news-4-https://news.google.com/",
       "sourceId": "general",
       "source": "CBS News",
       "sourceSite": "",
@@ -601,17 +575,17 @@
       "summaryZh": "China's Xi warns Trump about \"conflicts\" if Taiwan isn't \"handled properly\" CBS News"
     },
     {
-      "id": "zaobao-news-0-https://news.google.com/",
+      "id": "zaobao-news-1-https://news.google.com/",
       "sourceId": "zaobao",
       "source": "联合早报",
       "sourceSite": "zaobao.com.sg",
       "type": "news",
-      "title": "【视频】中国为特朗普举行欢迎仪式 习特会登场 - 联合早报",
-      "description": "【视频】中国为特朗普举行欢迎仪式 习特会登场 联合早报",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zR19TaHJZUWs4eU16Ui11cmZPdkhmRkl5bVhramFCeDM2dEVvSFE5TEszbzJIU0J5LXJDQjFrb3ZRUG9tNGlzdGRxN0J6ek55dGE2bzk0TmNSaE1HQ2tPeU9XNFF2ZjU5eHc?oc=5",
-      "publishedAt": "Thu, 14 May 2026 01:53:00 GMT",
-      "titleZh": "【视频】中国为特朗普举行欢迎仪式 习特会登场 - 联合早报",
-      "summaryZh": "【视频】中国为特朗普举行欢迎仪式 习特会登场 联合早报"
+      "title": "习近平将在北京人民大会堂与特朗普举行会谈 - 联合早报",
+      "description": "习近平将在北京人民大会堂与特朗普举行会谈 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sdWtENFhHZDlZeDR6enpwWTNYRFUyd1NVbzlEY09BbTNiT19RWURGTXg3ejVDX0tNWDV2dVJOUGFVdzEtZk5rMjQ0cHhQNENYWDNmSVJlRUV6MzY3d2JaSllxbTBScmhRU3c?oc=5",
+      "publishedAt": "Thu, 14 May 2026 01:16:00 GMT",
+      "titleZh": "习近平将在北京人民大会堂与特朗普举行会谈 - 联合早报",
+      "summaryZh": "习近平将在北京人民大会堂与特朗普举行会谈 联合早报"
     },
     {
       "id": "general-news-8-https://news.google.com/",
@@ -640,7 +614,7 @@
       "summaryZh": "Xi tells Trump that mishandling of Taiwan could lead to 'dangerous' place Reuters"
     },
     {
-      "id": "bbc-news-4-https://news.google.com/",
+      "id": "bbc-news-5-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -679,7 +653,20 @@
       "summaryZh": "Trump wants China's help on Iran. Beijing may have other ideas Reuters"
     },
     {
-      "id": "bbc-news-5-https://news.google.com/",
+      "id": "aljazeera-news-7-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "Trump-Xi summit: China’s help in Iran may require US concessions - Al Jazeera",
+      "description": "Trump-Xi summit: China’s help in Iran may require US concessions Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLTBLWkJ2UDF5NXFlS0MzeEN5eTMtY2ZLQWp0TF8tUGZWZzVLM0NrckdhenJFc1Ezb1l1a2FkdGFHQzZMMG9KY29oUGVxODBNeWV5SWZxYXlrQ1NVZno4WjJmbFJQZHZwVmtwSDlHUlprU1pFNTNDVFVLZUF1dHFjRG52M1VFOC1SLXRuMk0wUmNJV0dVS1NhQWpNdzFLQ0U1WU84bGtR0gGrAUFVX3lxTFBVZGlNbXpMSjRwc2c2NXB2RnBZZU5xWHkwUmFacktOLWI3aTdLYUlxcmVZMDVXOVJKRHZPQzhlNVRrQVBIRnR5dnRURGd3ZUlnY2pOUXVhVlpma3NqeFctRlBxT01nRU55MUNmbzlrdDZZRDJaMjhOaUhGUV9yMGdMbDRGc3Z5bUJidmlZMnRwX0lNWlRmSmg3bHJGbmw5TGNYdWJwY3BNRnNfTQ?oc=5",
+      "publishedAt": "Wed, 13 May 2026 17:32:57 GMT",
+      "titleZh": "Trump-Xi summit: China’s help in Iran may require US concessions - Al Jazeera",
+      "summaryZh": "Trump-Xi summit: China’s help in Iran may require US concessions Al Jazeera"
+    },
+    {
+      "id": "bbc-news-4-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -703,6 +690,19 @@
           "source": "Reuters",
           "sourceSite": "reuters.com",
           "type": "news",
+          "title": "Beijing trip unlikely to ease Trump’s problems at home - Reuters",
+          "description": "Beijing trip unlikely to ease Trump’s problems at home Reuters",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSGJaWVNmWEg1aWNicDBwT19JYUQzM0RMVFBOVUFVS3Fsc3Q5QXlBMkRISVZuQWdLMUVlRWhEaVFTSUdjLVVmR3N4YTl2dTlEUndHTk0wZ2dnSEk2cGRiX0NLY0dBOHlrM0NHUmt2aXdjeUJYRTNxc0RlMEhtQTA3bW04ekYyZw?oc=5",
+          "publishedAt": "Thu, 14 May 2026 18:55:00 GMT",
+          "titleZh": "Beijing trip unlikely to ease Trump’s problems at home - Reuters",
+          "summaryZh": "Beijing trip unlikely to ease Trump’s problems at home Reuters"
+        },
+        {
+          "id": "reuters-news-3-https://news.google.com/",
+          "sourceId": "reuters",
+          "source": "Reuters",
+          "sourceSite": "reuters.com",
+          "type": "news",
           "title": "U.S. officials flag prospect of Chinese energy purchases after Trump-Xi meeting - Reuters",
           "description": "U.S. officials flag prospect of Chinese energy purchases after Trump-Xi meeting Reuters",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZzNLTkJTTF9kelVrZUNaWTY3Uk1hSlpacmpvWFJyQnZTaVF2ZW93TWVRcEpfVURUNHBvSDB0NC00aEZ4WXktZl9maVRpdHBCMndpSFljbXNYMXRHSDNvZnBQcTBXcC03Uk9RTEF2NjR5M0ZabzZCWnExcEpFNkk1SHlhUFh4azFHWnRiRVZoLVhMSFZiQV9FczlNQzRocUZ0Tl9Qc243VnpaYmZIUU00OA?oc=5",
@@ -711,20 +711,7 @@
           "summaryZh": "U.S. officials flag prospect of Chinese energy purchases after Trump-Xi meeting Reuters"
         },
         {
-          "id": "reuters-news-3-https://news.google.com/",
-          "sourceId": "reuters",
-          "source": "Reuters",
-          "sourceSite": "reuters.com",
-          "type": "news",
-          "title": "Taiwan: no surprises from Trump-Xi summit, China should end military pressure - Reuters",
-          "description": "Taiwan: no surprises from Trump-Xi summit, China should end military pressure Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZDZoQlNId1hod1hJWm4yUXhwYi1iSzI0bEFwdEZCcWJ0bnRlNFVRZ0tncFR6Y084WjZGNDN3WUNjLWhpNS15djhTQVprWHFaWjR2Sm9jUVl2UG9FWVdtMFlpd2pWaUJxYUNBSWd5SkVsMFJuTmdmQmk5R3I4d3A4Tlp5R3lqdHJKOGNqd1JvWWhlMnJ2MXAxWmdtemV1bHFBMmRUSENxc2lsTTFBaXdqRDBfb21VQlh4S2c?oc=5",
-          "publishedAt": "Thu, 14 May 2026 09:36:07 GMT",
-          "titleZh": "Taiwan: no surprises from Trump-Xi summit, China should end military pressure - Reuters",
-          "summaryZh": "Taiwan: no surprises from Trump-Xi summit, China should end military pressure Reuters"
-        },
-        {
-          "id": "reuters-news-8-https://news.google.com/",
+          "id": "reuters-news-6-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -750,7 +737,7 @@
           "summaryZh": "Beijing state banquet sets the table for Trump-Xi reset Reuters"
         },
         {
-          "id": "reuters-news-9-https://news.google.com/",
+          "id": "reuters-news-7-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -774,32 +761,6 @@
           "publishedAt": "Thu, 14 May 2026 03:58:37 GMT",
           "titleZh": "Trump and Xi shake hands ahead of Beijing talks - Reuters",
           "summaryZh": "Trump and Xi shake hands ahead of Beijing talks Reuters"
-        },
-        {
-          "id": "reuters-news-7-https://news.google.com/",
-          "sourceId": "reuters",
-          "source": "Reuters",
-          "sourceSite": "reuters.com",
-          "type": "news",
-          "title": "Trump and Xi shake hands ahead of Beijing talks - Reuters",
-          "description": "Trump and Xi shake hands ahead of Beijing talks Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHQTlZcEc3WGJ0M0I1dldpa1JCSS12NjY0Umc3aHNOZVZORl80SWp3YXVRYlFFTU1jZmRyQmxLQnp4R2xRVThyOTMzX2Q4SU9ndFBSWEVVeFhfUHJNTFl2YXo2RUhpbnVBa3ExZkFTa3EwQUY5aFJNdmlR?oc=5",
-          "publishedAt": "Thu, 14 May 2026 03:58:37 GMT",
-          "titleZh": "Trump and Xi shake hands ahead of Beijing talks - Reuters",
-          "summaryZh": "Trump and Xi shake hands ahead of Beijing talks Reuters"
-        },
-        {
-          "id": "reuters-news-6-https://news.google.com/",
-          "sourceId": "reuters",
-          "source": "Reuters",
-          "sourceSite": "reuters.com",
-          "type": "news",
-          "title": "New attacks hit ships near Hormuz as Trump discusses Iran with Xi - Reuters",
-          "description": "New attacks hit ships near Hormuz as Trump discusses Iran with Xi Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbFd0ejg3MHE1NzY3MmdESTZ4bkxtNGtpQkFxZnhTSlVmLWVXSTZRRkRXbVBRNVlmS3FtbEk2NS1uaGFIX3Mxazc0UzFFbkJkbHdtQm9BS2NzSTFWTEVYQkxidUFZWE1MSEFiRlB0M3hYUFNRQm10eWN1dGhIei1URkYtRE5rS05pMFo5dmpZN3d6azVES2NiaWswZGMzZUl1SzVLejlWRzg?oc=5",
-          "publishedAt": "Thu, 14 May 2026 03:56:00 GMT",
-          "titleZh": "New attacks hit ships near Hormuz as Trump discusses Iran with Xi - Reuters",
-          "summaryZh": "New attacks hit ships near Hormuz as Trump discusses Iran with Xi Reuters"
         },
         {
           "id": "reuters-news-0-https://news.google.com/",
@@ -834,17 +795,17 @@
       "source": "BBC",
       "items": [
         {
-          "id": "bbc-news-7-https://news.google.com/",
+          "id": "bbc-news-9-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
           "type": "news",
           "title": "特朗普访华：习近平迎接美国总统，但棘手问题仍未解决 - BBC",
-          "description": "特朗普访华：习近平迎接美国总统，但棘手问题仍未解决 BBC习近平同美国总统特朗普会谈 新华网特朗普总统北京国宴致辞：美中关系“非常特殊”，邀请习近平9月访白宫 美国之音特习会实时／习近平称“台海和平稳定是中美最大公约数” DW.com特朗普：中美之间会有更美好的未来 观察者特朗普对华雄心为何大幅缩水 纽约时报中文网实时更新：特朗普邀请习近平访问白宫 华尔街日报中文网特朗普抵京学者：习近平将面对谈判高手– 普通话主页 Radio Free Asia特朗普出发前往北京人民大会堂 联合早报",
+          "description": "特朗普访华：习近平迎接美国总统，但棘手问题仍未解决 BBC",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaeVlQVV96Y25DRWZwb21VU0U2WFFhZFRNZExqaW5IM1N2UkhHejFvNnpxdlBBZ25oZmIzLVlDdy1kZ19uTkNDeUlhaHgzMTR5Y2N3aGVBVHFPWXZvQjFxZHY1Y1hWUdIBa0FVX3lxTFBXRFZ1T1dZOTdNNk5URVhFc0pULURpTkV5SENreHZfWUhia3VfQUVVc19QLTQ1Q2F2NEVIQVJ4dTB2bW15M3pyR1VvdVdSYV8yc0x3SnFvNzJWSmJBamYwZllSYXpMWkNMZHZN?oc=5",
           "publishedAt": "Thu, 14 May 2026 15:30:26 GMT",
           "titleZh": "特朗普访华：习近平迎接美国总统，但棘手问题仍未解决 - BBC",
-          "summaryZh": "特朗普访华：习近平迎接美国总统，但棘手问题仍未解决 BBC习近平同美国总统特朗普会谈 新华网特朗普总统北京国宴致辞：美中关系“非常特殊”，邀请习近平9月访白宫 美国之音特习会实时／习近平称“台海和平稳定是中美最大公约数” DW.com特朗普：中美之间会有更美好的未来 观察者特朗普对华雄心为何大幅缩水 纽约时报中文网实时更新：特朗普邀请习近平访问白宫 华尔街日报中文网特朗普抵京学者：习近平将面对谈判高手– 普通话主页 Radio Free"
+          "summaryZh": "特朗普访华：习近平迎接美国总统，但棘手问题仍未解决 BBC"
         },
         {
           "id": "bbc-news-1-https://news.google.com/",
@@ -860,7 +821,7 @@
           "summaryZh": "In pictures: Trump hosted by Xi Jinping in Beijing on two-day summit BBC"
         },
         {
-          "id": "bbc-news-10-https://news.google.com/",
+          "id": "bbc-news-11-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -886,7 +847,7 @@
           "summaryZh": "Trump in China: Xi Jinping welcomes US president but thorny issues remain BBC"
         },
         {
-          "id": "bbc-news-8-https://news.google.com/",
+          "id": "bbc-news-7-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -899,7 +860,7 @@
           "summaryZh": "红毯、国宴、会谈、台湾、黄仁勋：特朗普重返北京后的几大关键时刻 BBC"
         },
         {
-          "id": "bbc-news-9-https://news.google.com/",
+          "id": "bbc-news-8-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -951,7 +912,7 @@
           "summaryZh": "Trump in China: Follow live updates as US president meets Xi BBC"
         },
         {
-          "id": "bbc-news-11-https://news.google.com/",
+          "id": "bbc-news-10-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -964,7 +925,7 @@
           "summaryZh": "特朗普时隔九年再度访华，中国年轻一代的“美国梦”在褪色吗？ BBC"
         },
         {
-          "id": "bbc-news-4-https://news.google.com/",
+          "id": "bbc-news-5-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -977,7 +938,7 @@
           "summaryZh": "Why is Donald Trump meeting with China’s President Xi? BBC"
         },
         {
-          "id": "bbc-news-5-https://news.google.com/",
+          "id": "bbc-news-4-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -1085,6 +1046,19 @@
           "publishedAt": "Wed, 13 May 2026 21:18:09 GMT",
           "titleZh": "Trump-Xi summit: Why Beijing might have the advantage - Al Jazeera",
           "summaryZh": "Trump-Xi summit: Why Beijing might have the advantage Al Jazeera"
+        },
+        {
+          "id": "aljazeera-news-7-https://news.google.com/",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "sourceSite": "aljazeera.com",
+          "type": "news",
+          "title": "Trump-Xi summit: China’s help in Iran may require US concessions - Al Jazeera",
+          "description": "Trump-Xi summit: China’s help in Iran may require US concessions Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLTBLWkJ2UDF5NXFlS0MzeEN5eTMtY2ZLQWp0TF8tUGZWZzVLM0NrckdhenJFc1Ezb1l1a2FkdGFHQzZMMG9KY29oUGVxODBNeWV5SWZxYXlrQ1NVZno4WjJmbFJQZHZwVmtwSDlHUlprU1pFNTNDVFVLZUF1dHFjRG52M1VFOC1SLXRuMk0wUmNJV0dVS1NhQWpNdzFLQ0U1WU84bGtR0gGrAUFVX3lxTFBVZGlNbXpMSjRwc2c2NXB2RnBZZU5xWHkwUmFacktOLWI3aTdLYUlxcmVZMDVXOVJKRHZPQzhlNVRrQVBIRnR5dnRURGd3ZUlnY2pOUXVhVlpma3NqeFctRlBxT01nRU55MUNmbzlrdDZZRDJaMjhOaUhGUV9yMGdMbDRGc3Z5bUJidmlZMnRwX0lNWlRmSmg3bHJGbmw5TGNYdWJwY3BNRnNfTQ?oc=5",
+          "publishedAt": "Wed, 13 May 2026 17:32:57 GMT",
+          "titleZh": "Trump-Xi summit: China’s help in Iran may require US concessions - Al Jazeera",
+          "summaryZh": "Trump-Xi summit: China’s help in Iran may require US concessions Al Jazeera"
         }
       ]
     },
@@ -1093,7 +1067,7 @@
       "source": "联合早报",
       "items": [
         {
-          "id": "zaobao-news-1-https://news.google.com/",
+          "id": "zaobao-news-0-https://news.google.com/",
           "sourceId": "zaobao",
           "source": "联合早报",
           "sourceSite": "zaobao.com.sg",
@@ -1119,17 +1093,17 @@
           "summaryZh": "【视频】随特朗普访华美商界领袖与李强会面 联合早报"
         },
         {
-          "id": "zaobao-news-0-https://news.google.com/",
+          "id": "zaobao-news-1-https://news.google.com/",
           "sourceId": "zaobao",
           "source": "联合早报",
           "sourceSite": "zaobao.com.sg",
           "type": "news",
-          "title": "【视频】中国为特朗普举行欢迎仪式 习特会登场 - 联合早报",
-          "description": "【视频】中国为特朗普举行欢迎仪式 习特会登场 联合早报",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zR19TaHJZUWs4eU16Ui11cmZPdkhmRkl5bVhramFCeDM2dEVvSFE5TEszbzJIU0J5LXJDQjFrb3ZRUG9tNGlzdGRxN0J6ek55dGE2bzk0TmNSaE1HQ2tPeU9XNFF2ZjU5eHc?oc=5",
-          "publishedAt": "Thu, 14 May 2026 01:53:00 GMT",
-          "titleZh": "【视频】中国为特朗普举行欢迎仪式 习特会登场 - 联合早报",
-          "summaryZh": "【视频】中国为特朗普举行欢迎仪式 习特会登场 联合早报"
+          "title": "习近平将在北京人民大会堂与特朗普举行会谈 - 联合早报",
+          "description": "习近平将在北京人民大会堂与特朗普举行会谈 联合早报",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sdWtENFhHZDlZeDR6enpwWTNYRFUyd1NVbzlEY09BbTNiT19RWURGTXg3ejVDX0tNWDV2dVJOUGFVdzEtZk5rMjQ0cHhQNENYWDNmSVJlRUV6MzY3d2JaSllxbTBScmhRU3c?oc=5",
+          "publishedAt": "Thu, 14 May 2026 01:16:00 GMT",
+          "titleZh": "习近平将在北京人民大会堂与特朗普举行会谈 - 联合早报",
+          "summaryZh": "习近平将在北京人民大会堂与特朗普举行会谈 联合早报"
         }
       ]
     },
@@ -1140,70 +1114,18 @@
         {
           "id": "general-news-3-https://news.google.com/",
           "sourceId": "general",
-          "source": "Fox News",
-          "sourceSite": "",
-          "type": "news",
-          "title": "Trump, Xi make remarks at state banquet on day two of critical China visit - Fox News",
-          "description": "Trump, Xi make remarks at state banquet on day two of critical China visit Fox News",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOV1lXSXFFMFctQzN3ak5MdmhhT1pWMlU3YzNLaWM2SC02V0dodDRvelRNTzE1SGtJMm52aVNLNm9jMkxjNHVCZnB1bmluYzBvS25lcHlDaUNha3RHUFBIV3RYWXdDaFhOWm1wcGpkTTJ3SHBBa01Ya0VoVWl1eV9QOEdBYXkzZWEzVlhqd29Nd3lBdTVjak11dTVNZkM5cW5VdVpvdnNvcTFaT1ZnVFhZOTFZMEdqQmlLanFwSUJ3eVBfSVpLc2VsYmJ5TFFsQdIB0wFBVV95cUxPbzdoWTZ5TGlEaTdrMkowQlREZnpNV2RrbWlOc0RNS2ZZX0ZUUVJIVkNBNzJMSGFRLXlNZDd4alZRN2l4TS1CWXBMY1VwVUtDUG5rQzkwczlRQUpLbm5JXzZIT0RPZWc4T05uRS13cTkwdTJLZW90dGxwM29QZWg4YlphSUV0WTZETFMxd1Nra0N1b3dzV2h4MUtXQklGMjJPbGZhWU9BQWMyXzcxaGFUUDZJY1dxUWlORUdCVE9NeFVqNklQNjBFOHA0M3RkajZxVmw0?oc=5",
-          "publishedAt": "Thu, 14 May 2026 17:11:50 GMT",
-          "titleZh": "Trump, Xi make remarks at state banquet on day two of critical China visit - Fox News",
-          "summaryZh": "Trump, Xi make remarks at state banquet on day two of critical China visit Fox News"
-        },
-        {
-          "id": "general-news-16-https://news.google.com/",
-          "sourceId": "general",
-          "source": "The Washington Post",
-          "sourceSite": "",
-          "type": "news",
-          "title": "Xi warns Trump that mishandling Taiwan could spark ‘conflicts’ - The Washington Post",
-          "description": "Xi warns Trump that mishandling Taiwan could spark ‘conflicts’ The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObGtKSTY0Zk9raVpKRllVdG5jQ1p4eEhaUThfYXFFaDY0bGp5djNmSUN3X3lkcVVTOHhrWU9rNTA2ZTEyNFZOdm5Na0xaWXg5QVcxTE1QbDV4ZjNnRWFhel9FRGNxYlYtRmx5Wkt1OUlRMUdzaTlMWEdtWG1zTGp6elo1U18wdk9QUnc0UEJMdDFzb2dKNDRKX2xTWE95VVIzRm9sRW9n?oc=5",
-          "publishedAt": "Thu, 14 May 2026 16:30:14 GMT",
-          "titleZh": "Xi warns Trump that mishandling Taiwan could spark ‘conflicts’ - The Washington Post",
-          "summaryZh": "Xi warns Trump that mishandling Taiwan could spark ‘conflicts’ The Washington Post"
-        },
-        {
-          "id": "general-news-15-https://news.google.com/",
-          "sourceId": "general",
-          "source": "dw.com",
-          "sourceSite": "",
-          "type": "news",
-          "title": "Trump and Xi hold high-stakes US-China summit in Beijing - dw.com",
-          "description": "Trump and Xi hold high-stakes US-China summit in Beijing dw.com",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmFUa3FJZ08zOG1iR0tidTloOE1HYjc5VURiZ0pBSWp5WnA2U3JTblYzT0ZXUDNXblA3aHZYcHBZejB4Ulp2UXgzUDNIRTVtblVaM21hSjF5VjMxaHNkWVBEQ2lNQmEyeFlOa0xveVgwbUhVVjFrQ2JDYTQxLUxMR2RudTQ1cGw3NXNNWlVOS21PdWlHU29GQQ?oc=5",
-          "publishedAt": "Thu, 14 May 2026 16:29:59 GMT",
-          "titleZh": "Trump and Xi hold high-stakes US-China summit in Beijing - dw.com",
-          "summaryZh": "Trump and Xi hold high-stakes US-China summit in Beijing dw.com"
-        },
-        {
-          "id": "general-news-1-https://news.google.com/",
-          "sourceId": "general",
           "source": "NBC News",
           "sourceSite": "",
           "type": "news",
-          "title": "Live updates: Senators vote to withhold their pay during shutdowns; China’s Xi warns Trump over Taiwan - NBC News",
-          "description": "Live updates: Senators vote to withhold their pay during shutdowns; China’s Xi warns Trump over Taiwan NBC News",
+          "title": "Live updates: China’s Xi warns Trump over Taiwan during Beijing summit; Vance campaigns in Maine - NBC News",
+          "description": "Live updates: China’s Xi warns Trump over Taiwan during Beijing summit; Vance campaigns in Maine NBC News",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaGhwRERFTGRBa19VSjdEbGpqZkx6a3Yya2ZsUXFvVmVlSGdWMUV4dlNqUEc5cUx2SS0zY0xVb2EtWF9QSVppZk9zTEJwVWdMLTBCbjNac1d5OGlxYzdLcENhU2dqbk5fWTJuYkRJMlpWVTRQZ1NTMUFGRHBOVlZvRGJtWVdnVWh0ci1BUW40MkU0OWU5NGZHaVl3SjR6MjVFRF84T18wdm9CcTA?oc=5",
-          "publishedAt": "Thu, 14 May 2026 16:21:11 GMT",
-          "titleZh": "Live updates: Senators vote to withhold their pay during shutdowns; China’s Xi warns Trump over Taiwan - NBC News",
-          "summaryZh": "Live updates: Senators vote to withhold their pay during shutdowns; China’s Xi warns Trump over Taiwan NBC News"
+          "publishedAt": "Thu, 14 May 2026 21:03:11 GMT",
+          "titleZh": "Live updates: China’s Xi warns Trump over Taiwan during Beijing summit; Vance campaigns in Maine - NBC News",
+          "summaryZh": "Live updates: China’s Xi warns Trump over Taiwan during Beijing summit; Vance campaigns in Maine NBC News"
         },
         {
-          "id": "general-news-4-https://news.google.com/",
-          "sourceId": "general",
-          "source": "The Guardian",
-          "sourceSite": "",
-          "type": "news",
-          "title": "Trump China visit live: ‘US and China should be partners, not rivals’, Xi says after earlier warning on Taiwan - The Guardian",
-          "description": "Trump China visit live: ‘US and China should be partners, not rivals’, Xi says after earlier warning on Taiwan The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQN1Nxa05VVmRvWXJKTi1zLTVKMjdWa1VQZFVEN3k1cUQtY2s5NXBxejlpaVdUVVU4OE5HOXFqNGJwbmdNcUV6R3dOOU5LaU1LNXI0U2tYRjNIbC04c0pnWlBnZ0k4NmpOSmZBUTZJQjJBT0NJWW91VmpVb0ZRZHRaVW12OUZxNC1NZEt3cWh6LTJhWHN3ZFY1UF80Smx5RjVSdnpuVDE5Uy10MDNMdEV6SGRzSFl2MG5FNDNha3JVZ0NQZks2YXdrb1NRSUJKSnlwTUphMWxPRlVLUQ?oc=5",
-          "publishedAt": "Thu, 14 May 2026 16:11:00 GMT",
-          "titleZh": "Trump China visit live: ‘US and China should be partners, not rivals’, Xi says after earlier warning on Taiwan - The Guardian",
-          "summaryZh": "Trump China visit live: ‘US and China should be partners, not rivals’, Xi says after earlier warning on Taiwan The Guardian"
-        },
-        {
-          "id": "general-news-9-https://news.google.com/",
+          "id": "general-news-7-https://news.google.com/",
           "sourceId": "general",
           "source": "NewsNation",
           "sourceSite": "",
@@ -1211,12 +1133,12 @@
           "title": "Live updates: Trump and Xi open high-stakes summit in Beijing - NewsNation",
           "description": "Live updates: Trump and Xi open high-stakes summit in Beijing NewsNation",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTmJWZ0xvb19RUjNHX1FyMW1JU09TTTBzZnBEN1FtWTZjMDIzNzlqU3lIQUdwTTIxcG4wOHMydlZDY0Uxd0RVSy11bC1GWFJlc3p4dkxHejcyOVZfM2dqbEUwY0gzTVRvTUt0VER5dE9KSFBuOXVlR01FVUFKNGtodlR1YzNpTkd1SENLSWhzTVd2b2x4OGNLZXZJMHpKRmJKcnpSeTJB0gGrAUFVX3lxTE1qT192ZlNldTNBdEhVcWxZZDk3bzlRWWpEZDl1TG93NU5aYUttcWZCMUd2UTVrMHpINVBnT0gzY0VyVU5uZGJjcnFjaEFjNzF5RzNlSmg2aEhHcUN0ZWh3bGNoMGtRWGt4R3JkVkcwRnIxcWVScnJOQUtNRW1lRnlRYk85M08xTmlMSGlQenF1c0lsdlN6Y2pjUFkwVERTYmhpa1p5SmF1R3dFcw?oc=5",
-          "publishedAt": "Thu, 14 May 2026 15:49:33 GMT",
+          "publishedAt": "Thu, 14 May 2026 18:26:53 GMT",
           "titleZh": "Live updates: Trump and Xi open high-stakes summit in Beijing - NewsNation",
           "summaryZh": "Live updates: Trump and Xi open high-stakes summit in Beijing NewsNation"
         },
         {
-          "id": "general-news-2-https://news.google.com/",
+          "id": "general-news-0-https://news.google.com/",
           "sourceId": "general",
           "source": "CNN",
           "sourceSite": "",
@@ -1224,12 +1146,64 @@
           "title": "Live updates: Xi hails US-China relations as world’s most consequential, but warns Trump on Taiwan - CNN",
           "description": "Live updates: Xi hails US-China relations as world’s most consequential, but warns Trump on Taiwan CNN",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0LXNSdGhVUUlfVzRRZkwySUdwV3E3Z19zR0Q0UkVESlRJYjd3QXFhdWNRdUhCbDZKU0tEU3RDYjI0b2ZBTl9sSDV1bkJtMk9yMjlHX0NQdG9ack8zODQ2M0hqV2lRUzE4N1NaSVVPaFAwUlJoMTNEam9RUQ?oc=5",
-          "publishedAt": "Thu, 14 May 2026 15:11:00 GMT",
+          "publishedAt": "Thu, 14 May 2026 18:06:00 GMT",
           "titleZh": "Live updates: Xi hails US-China relations as world’s most consequential, but warns Trump on Taiwan - CNN",
           "summaryZh": "Live updates: Xi hails US-China relations as world’s most consequential, but warns Trump on Taiwan CNN"
         },
         {
-          "id": "general-news-7-https://news.google.com/",
+          "id": "general-news-17-https://news.google.com/",
+          "sourceId": "general",
+          "source": "The Washington Post",
+          "sourceSite": "",
+          "type": "news",
+          "title": "Xi warns Trump that mishandling Taiwan could spark ‘conflicts’ - The Washington Post",
+          "description": "Xi warns Trump that mishandling Taiwan could spark ‘conflicts’ The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObGtKSTY0Zk9raVpKRllVdG5jQ1p4eEhaUThfYXFFaDY0bGp5djNmSUN3X3lkcVVTOHhrWU9rNTA2ZTEyNFZOdm5Na0xaWXg5QVcxTE1QbDV4ZjNnRWFhel9FRGNxYlYtRmx5Wkt1OUlRMUdzaTlMWEdtWG1zTGp6elo1U18wdk9QUnc0UEJMdDFzb2dKNDRKX2xTWE95VVIzRm9sRW9n?oc=5",
+          "publishedAt": "Thu, 14 May 2026 18:02:13 GMT",
+          "titleZh": "Xi warns Trump that mishandling Taiwan could spark ‘conflicts’ - The Washington Post",
+          "summaryZh": "Xi warns Trump that mishandling Taiwan could spark ‘conflicts’ The Washington Post"
+        },
+        {
+          "id": "general-news-16-https://news.google.com/",
+          "sourceId": "general",
+          "source": "dw.com",
+          "sourceSite": "",
+          "type": "news",
+          "title": "Trump and Xi hold high-stakes US-China summit in Beijing - dw.com",
+          "description": "Trump and Xi hold high-stakes US-China summit in Beijing dw.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmFUa3FJZ08zOG1iR0tidTloOE1HYjc5VURiZ0pBSWp5WnA2U3JTblYzT0ZXUDNXblA3aHZYcHBZejB4Ulp2UXgzUDNIRTVtblVaM21hSjF5VjMxaHNkWVBEQ2lNQmEyeFlOa0xveVgwbUhVVjFrQ2JDYTQxLUxMR2RudTQ1cGw3NXNNWlVOS21PdWlHU29GQQ?oc=5",
+          "publishedAt": "Thu, 14 May 2026 17:13:44 GMT",
+          "titleZh": "Trump and Xi hold high-stakes US-China summit in Beijing - dw.com",
+          "summaryZh": "Trump and Xi hold high-stakes US-China summit in Beijing dw.com"
+        },
+        {
+          "id": "general-news-19-https://news.google.com/",
+          "sourceId": "general",
+          "source": "Yahoo",
+          "sourceSite": "",
+          "type": "news",
+          "title": "Xi warns Trump on Taiwan at Beijing summit - Yahoo",
+          "description": "Xi warns Trump on Taiwan at Beijing summit Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdmZWNS1SWjc0MXVsZFhoWFhCaFcxeGdmYld1aHdJRFp4UzdZeG5YQ01Hc29McENyVVFNbWdOQkdVbVhYMzBkYXZKNnE1U2gtcjVISXRxc2hEaTdkS21CZlQ3NGR5VDZzbktncElZNnFMYXpLUnprdHgtU0FVZ0NDTg?oc=5",
+          "publishedAt": "Thu, 14 May 2026 15:54:41 GMT",
+          "titleZh": "Xi warns Trump on Taiwan at Beijing summit - Yahoo",
+          "summaryZh": "Xi warns Trump on Taiwan at Beijing summit Yahoo"
+        },
+        {
+          "id": "general-news-14-https://news.google.com/",
+          "sourceId": "general",
+          "source": "The Guardian",
+          "sourceSite": "",
+          "type": "news",
+          "title": "For anxious Taiwan, Trump’s silence after Xi talks is best possible outcome - The Guardian",
+          "description": "For anxious Taiwan, Trump’s silence after Xi talks is best possible outcome The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX2tWLVhXeWlSaUpvVXdMN196Qkw2VzdldkdxdzUzalZ2VEpuT3BoUlFoZUE2WExJUVFzOUZsZzMtdkhtblRyRC1kTkVZZUZZSS05VUlOX2NZcGg4dll3TTVJTnVjamU2N1kwWTkyaGZpY293YWlMZGhOU2YtZFBIcTM1LUJYR2MxLV9tNHh1ODFWalR3?oc=5",
+          "publishedAt": "Thu, 14 May 2026 15:34:00 GMT",
+          "titleZh": "For anxious Taiwan, Trump’s silence after Xi talks is best possible outcome - The Guardian",
+          "summaryZh": "For anxious Taiwan, Trump’s silence after Xi talks is best possible outcome The Guardian"
+        },
+        {
+          "id": "general-news-6-https://news.google.com/",
           "sourceId": "general",
           "source": "Council on Foreign Relations",
           "sourceSite": "",
@@ -1242,7 +1216,7 @@
           "summaryZh": "Trump-Xi Talks Are Underway in Beijing Council on Foreign Relations"
         },
         {
-          "id": "general-news-17-https://news.google.com/",
+          "id": "general-news-10-https://news.google.com/",
           "sourceId": "general",
           "source": "The Hill",
           "sourceSite": "",
@@ -1253,6 +1227,19 @@
           "publishedAt": "Thu, 14 May 2026 14:00:00 GMT",
           "titleZh": "In Beijing, Trump easily holds the winning hand - The Hill",
           "summaryZh": "In Beijing, Trump easily holds the winning hand The Hill"
+        },
+        {
+          "id": "general-news-2-https://news.google.com/",
+          "sourceId": "general",
+          "source": "The New York Times",
+          "sourceSite": "",
+          "type": "news",
+          "title": "In Photos and Video: President Trump Goes to China - The New York Times",
+          "description": "In Photos and Video: President Trump Goes to China The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fUjdBTEliWFotNGpvQ0FaTWswdXRqOVFTbWxWdzhkM0NPNzhNaFdBWlBNVk1YdGF2bGxNWVNBdS0wWHZpNEtNYzhQQTZWTGhZOGZKbGJXNnluaUp5RENUclNwUjJpemVyaHgyeXRQT1ItS3FPa3QyUw?oc=5",
+          "publishedAt": "Thu, 14 May 2026 13:40:00 GMT",
+          "titleZh": "In Photos and Video: President Trump Goes to China - The New York Times",
+          "summaryZh": "In Photos and Video: President Trump Goes to China The New York Times"
         },
         {
           "id": "general-news-18-https://news.google.com/",
@@ -1266,19 +1253,6 @@
           "publishedAt": "Thu, 14 May 2026 13:09:13 GMT",
           "titleZh": "Trump-Xi summit could hinge on these two crucial tech flashpoints - CNBC",
           "summaryZh": "Trump-Xi summit could hinge on these two crucial tech flashpoints CNBC"
-        },
-        {
-          "id": "general-news-19-https://news.google.com/",
-          "sourceId": "general",
-          "source": "AP News",
-          "sourceSite": "",
-          "type": "news",
-          "title": "Photos of Trump in China for talks with Xi Jinping - AP News",
-          "description": "Photos of Trump in China for talks with Xi Jinping AP News",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0J6d19jUlNyOHlYeE94Vm1NRTBzR2Z2LXN2T3BFTDBJS2F1eUN2ZjV2dnBzbEdYZUotcWFETm5mZ0NGY05GNFVEZmVBZ1NwcGRWQ09yTFhUY1hua3U4aDFhNnVGRUE2Qk5qZUV2VWFoLS1nZXN3WGFLR2t2dUw4RVFpQ2szM0oxa0gwdUhfTl94LTZERU5fWENKY0NtSVpGSHZDaWdvQnZ6Zw?oc=5",
-          "publishedAt": "Thu, 14 May 2026 12:31:00 GMT",
-          "titleZh": "Photos of Trump in China for talks with Xi Jinping - AP News",
-          "summaryZh": "Photos of Trump in China for talks with Xi Jinping AP News"
         },
         {
           "id": "general-news-13-https://news.google.com/",
@@ -1307,7 +1281,7 @@
           "summaryZh": "China’s Xi warns Trump on Taiwan at Beijing summit The Hill"
         },
         {
-          "id": "general-news-10-https://news.google.com/",
+          "id": "general-news-9-https://news.google.com/",
           "sourceId": "general",
           "source": "Politico",
           "sourceSite": "",
@@ -1322,15 +1296,15 @@
         {
           "id": "general-news-5-https://news.google.com/",
           "sourceId": "general",
-          "source": "The New York Times",
+          "source": "Xinhua",
           "sourceSite": "",
           "type": "news",
-          "title": "In Photos and Video: President Trump Goes to China - The New York Times",
-          "description": "In Photos and Video: President Trump Goes to China The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fUjdBTEliWFotNGpvQ0FaTWswdXRqOVFTbWxWdzhkM0NPNzhNaFdBWlBNVk1YdGF2bGxNWVNBdS0wWHZpNEtNYzhQQTZWTGhZOGZKbGJXNnluaUp5RENUclNwUjJpemVyaHgyeXRQT1ItS3FPa3QyUw?oc=5",
-          "publishedAt": "Thu, 14 May 2026 04:21:54 GMT",
-          "titleZh": "In Photos and Video: President Trump Goes to China - The New York Times",
-          "summaryZh": "In Photos and Video: President Trump Goes to China The New York Times"
+          "title": "Xi holds talks with Trump in Beijing - Xinhua",
+          "description": "Xi holds talks with Trump in Beijing Xinhua",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJelA5YjZsMG9qSzNGVE4yR1dtY2JqeFNGRXpIdGpsczlvWGRvTktBSUtyNjZhVkQxOE4wMjRya1hFdDJKbFRXSXBfSEZkQnJORHM4MnBkTmUyVVFuZUV1ckJhSVRISW01OUdVVXZaZHVnZHNoa3V2WlRURmE?oc=5",
+          "publishedAt": "Thu, 14 May 2026 09:08:45 GMT",
+          "titleZh": "Xi holds talks with Trump in Beijing - Xinhua",
+          "summaryZh": "Xi holds talks with Trump in Beijing Xinhua"
         },
         {
           "id": "general-news-11-https://news.google.com/",
@@ -1346,7 +1320,7 @@
           "summaryZh": "Xi warns Trump of ‘clashes and even conflicts’ with US over Taiwan The Guardian"
         },
         {
-          "id": "general-news-14-https://news.google.com/",
+          "id": "general-news-15-https://news.google.com/",
           "sourceId": "general",
           "source": "The Hill",
           "sourceSite": "",
@@ -1359,7 +1333,7 @@
           "summaryZh": "Trump arrives in Beijing for talks with Chinese President Xi Jinping The Hill"
         },
         {
-          "id": "general-news-0-https://news.google.com/",
+          "id": "general-news-1-https://news.google.com/",
           "sourceId": "general",
           "source": "CNBC",
           "sourceSite": "",
@@ -1372,7 +1346,7 @@
           "summaryZh": "Xi warns Trump: Mishandling Taiwan will put U.S.-China relationship in 'great jeopardy' CNBC"
         },
         {
-          "id": "general-news-6-https://news.google.com/",
+          "id": "general-news-4-https://news.google.com/",
           "sourceId": "general",
           "source": "CBS News",
           "sourceSite": "",
@@ -1402,17 +1376,30 @@
   ],
   "commentary": [
     {
-      "id": "ft-commentary-3-https://news.google.com/",
+      "id": "foreignpolicy-commentary-0-https://news.google.com/",
+      "sourceId": "foreignpolicy",
+      "source": "Foreign Policy",
+      "sourceSite": "foreignpolicy.com",
+      "type": "commentary",
+      "title": "Day 1 of Beijing Summit Produces No Big Wins for Trump - Foreign Policy",
+      "description": "Day 1 of Beijing Summit Produces No Big Wins for Trump Foreign Policy",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWGxQN0lUQXVveUlDYWhpcElDR3VMTWUteVRVN2o5TGdVUXBPcUpmbHp5N3ctendKcmV6WFJ3THlNLWFVQk1jYTZ2ZnAydktRVjBqN25ya3NXc0ZoX3ZQZkJ3MXZ4YWd1cDQ1NEd1OUw4NzFHUHNpbDA1UVZDRmRLT1NtSmNTTHRsQTVteHlDcExQdkFy?oc=5",
+      "publishedAt": "Thu, 14 May 2026 20:34:39 GMT",
+      "titleZh": "Day 1 of Beijing Summit Produces No Big Wins for Trump - Foreign Policy",
+      "summaryZh": "Day 1 of Beijing Summit Produces No Big Wins for Trump Foreign Policy"
+    },
+    {
+      "id": "ft-commentary-0-https://news.google.com/",
       "sourceId": "ft",
       "source": "Financial Times",
       "sourceSite": "ft.com",
       "type": "commentary",
-      "title": "What Xi Jinping and Donald Trump want from their Beijing summit - Financial Times",
-      "description": "What Xi Jinping and Donald Trump want from their Beijing summit Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY2ZuU0ZxSzB4cEQ2N0ZIMnNNbDlsczJBZXZrS0lYV05EX1JIcFNSbTJmTERuTV8wdXlFVmdhemxJOVh5S3l1OFZQdnRYS2VYRVo0QU9zcl9XT1gxS1BBcmlBamFHR05qdk9JVUtMNjNkblM5Rjh6UnVmc0JXR2NXQktUUm8?oc=5",
-      "publishedAt": "Thu, 14 May 2026 10:50:19 GMT",
-      "titleZh": "What Xi Jinping and Donald Trump want from their Beijing summit - Financial Times",
-      "summaryZh": "What Xi Jinping and Donald Trump want from their Beijing summit Financial Times"
+      "title": "US-China relations depend on Taiwan, Xi Jinping warns Donald Trump - Financial Times",
+      "description": "US-China relations depend on Taiwan, Xi Jinping warns Donald Trump Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObmF2b2hSRGItM0NlVkk4SmtzOE5xRmIwdmtYdXNTN0NqRWFsNlNTbnhTblIxLURPdWpTUTVXckpNRFhNOUE4RkpJWlhpWG14Z2ZEbGMyRm4tZHZsdWc3RG9CemFTSjl6YmRwZ0p4bVNsMTNJUTFZUEdCYmk5OFdtOWY1aTQ?oc=5",
+      "publishedAt": "Thu, 14 May 2026 10:35:48 GMT",
+      "titleZh": "US-China relations depend on Taiwan, Xi Jinping warns Donald Trump - Financial Times",
+      "summaryZh": "US-China relations depend on Taiwan, Xi Jinping warns Donald Trump Financial Times"
     },
     {
       "id": "economist-commentary-0-https://news.google.com/",
@@ -1428,17 +1415,17 @@
       "summaryZh": "Trade or Taiwan? Trump and Xi struggle to set the terms The Economist"
     },
     {
-      "id": "ft-commentary-0-https://news.google.com/",
+      "id": "ft-commentary-3-https://news.google.com/",
       "sourceId": "ft",
       "source": "Financial Times",
       "sourceSite": "ft.com",
       "type": "commentary",
-      "title": "US-China relations depend on Taiwan, Xi Jinping warns Donald Trump - Financial Times",
-      "description": "US-China relations depend on Taiwan, Xi Jinping warns Donald Trump Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObmF2b2hSRGItM0NlVkk4SmtzOE5xRmIwdmtYdXNTN0NqRWFsNlNTbnhTblIxLURPdWpTUTVXckpNRFhNOUE4RkpJWlhpWG14Z2ZEbGMyRm4tZHZsdWc3RG9CemFTSjl6YmRwZ0p4bVNsMTNJUTFZUEdCYmk5OFdtOWY1aTQ?oc=5",
-      "publishedAt": "Thu, 14 May 2026 01:55:44 GMT",
-      "titleZh": "US-China relations depend on Taiwan, Xi Jinping warns Donald Trump - Financial Times",
-      "summaryZh": "US-China relations depend on Taiwan, Xi Jinping warns Donald Trump Financial Times"
+      "title": "What Xi Jinping and Donald Trump want from their Beijing summit - Financial Times",
+      "description": "What Xi Jinping and Donald Trump want from their Beijing summit Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY2ZuU0ZxSzB4cEQ2N0ZIMnNNbDlsczJBZXZrS0lYV05EX1JIcFNSbTJmTERuTV8wdXlFVmdhemxJOVh5S3l1OFZQdnRYS2VYRVo0QU9zcl9XT1gxS1BBcmlBamFHR05qdk9JVUtMNjNkblM5Rjh6UnVmc0JXR2NXQktUUm8?oc=5",
+      "publishedAt": "Thu, 14 May 2026 01:00:03 GMT",
+      "titleZh": "What Xi Jinping and Donald Trump want from their Beijing summit - Financial Times",
+      "summaryZh": "What Xi Jinping and Donald Trump want from their Beijing summit Financial Times"
     },
     {
       "id": "ft-commentary-1-https://news.google.com/",
@@ -1454,7 +1441,7 @@
       "summaryZh": "FirstFT: Donald Trump calls on Xi Jinping to ‘open’ China to US business Financial Times"
     },
     {
-      "id": "foreignpolicy-commentary-0-https://news.google.com/",
+      "id": "foreignpolicy-commentary-1-https://news.google.com/",
       "sourceId": "foreignpolicy",
       "source": "Foreign Policy",
       "sourceSite": "foreignpolicy.com",
@@ -1482,7 +1469,20 @@
   ],
   "social": [
     {
-      "id": "social-social-11-https://news.google.com/",
+      "id": "social-social-16-https://news.google.com/",
+      "sourceId": "social",
+      "source": "The Express Tribune",
+      "sourceSite": "",
+      "type": "social",
+      "title": "No hugs, ancient Greece and KFC: Five highlights from Trump-Xi talks - The Express Tribune",
+      "description": "No hugs, ancient Greece and KFC: Five highlights from Trump-Xi talks The Express Tribune",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSGh2SlJkNy1CVnZQNUh4TURTRm9ibnppV1kwV2djZWw2QnJFV2tGVXFkandSWFVIalI4YUxhZS02STM0X3pzWFFFSTB0N3UwYzNVWGI5Y0NTNFZTeWNIdW1yNG5HU2xOdkFfVC1wMTl2Mm95eHMzV2FlOURqRlItVFRSVURfV2JKQjV4bnFQNjJraGRDTl9qdUJNZFpISDloOS1DcXRn0gGuAUFVX3lxTE8xcGZjMHpMTTFGWk55OEdhMFJORFZhaTlvM3dEMFpma1RtQ1BTSUt1emRxX2VEMEZLeHBHZHd3TXhfWm5rTXdvMGkzaDR0VHMzM1JJT2NBWFYyc3Q5dFByeVRVdEM3RGJNZ3llbEstOEdUQjFzUDlUdmx3aUxOcGlXS0FRTm1iY1IzTllCNHRqZnBldTUzcGVnb2Rsc1NjZWNhZ3NGNUVldkVqN3pBUQ?oc=5",
+      "publishedAt": "Thu, 14 May 2026 18:17:12 GMT",
+      "titleZh": "No hugs, ancient Greece and KFC: Five highlights from Trump-Xi talks - The Express Tribune",
+      "summaryZh": "No hugs, ancient Greece and KFC: Five highlights from Trump-Xi talks The Express Tribune"
+    },
+    {
+      "id": "social-social-12-https://news.google.com/",
       "sourceId": "social",
       "source": "Al Jazeera",
       "sourceSite": "",
@@ -1495,20 +1495,7 @@
       "summaryZh": "Trump, Xi discuss Strait of Hormuz as Chinese vessels transit key waterway Al Jazeera"
     },
     {
-      "id": "social-social-3-https://news.google.com/",
-      "sourceId": "social",
-      "source": "Moneycontrol.com",
-      "sourceSite": "",
-      "type": "social",
-      "title": "Marco Rubio was caught looking up at Beijing’s Great Hall ceiling during Trump-Xi talks. The internet... - Moneycontrol.com",
-      "description": "Marco Rubio was caught looking up at Beijing’s Great Hall ceiling during Trump-Xi talks. The internet... Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNNjFZcWQzUjNsRDlhRGp3LUVmTnZXSHRQZ0FnVVhkQzIxZHlSUmxiNnphdVlpWERkT1U4LWtNU1B6azNndm9JcC1Lbjk4OFlTREQzQkRFTjVYSnlWa0txdkw1bElMb3VRLThkQUhmTUxmN2FtUWluSFF3X2NrcmJlMlgzZ2dxUUZNMTgtbTZ2dm41ci1XVTBSYXhiM28yZDNtNDlTUFZiTXdsRmdrX2ZQSGp5dGRnRzRNam5PazFkTnFkTmpkS0lud2dQQ3Rzd0o3cXhMdXZPSW5PZURlY0MyYUVLWDhPZ3hWcDJmM19TU0RiMEQ3OTY1V2wzQm1nbERSTEE1TkxzaFhBYjhnRXNOcFhhaTPSAZoCQVVfeXFMT0ppcC1VcTVnUkVpVHQ1WFpSdVdWVU1IbG4wV1F0WWZWZVRDMWlBVWR6YXJITE1seFd5dWM0OVVjdnoyTWpBYWVYRFN2M0FRdFlJWnNwc2NGZWFLWmxNdDRVMFN1bjc2VHpabUtYTU02UHFpNDB3azg3d0JnaEQ5SkdZYmpoUnFCUm85NGtDcWhJQmkzVC1nTkNTR04zR1ZwN3h1bGFhVEd0UWlxWkNzNXRfa1BQZXA2Z1dnMldsWjFjenlZeGU4WC15TGlUSmlUNWI5cWRqMWJtOUtUaDJDX0J6d1Z4REw0dFZneGNvVEhpNzFfS0NpRVpacTNxV2lvRy1zOXpnSHZtM3NTbHpueXdjNlFkNFNNbm53?oc=5",
-      "publishedAt": "Thu, 14 May 2026 17:22:31 GMT",
-      "titleZh": "Marco Rubio was caught looking up at Beijing’s Great Hall ceiling during Trump-Xi talks. The internet... - Moneycontrol.com",
-      "summaryZh": "Marco Rubio was caught looking up at Beijing’s Great Hall ceiling during Trump-Xi talks. The internet... Moneycontrol.com"
-    },
-    {
-      "id": "social-social-16-https://news.google.com/",
+      "id": "social-social-18-https://news.google.com/",
       "sourceId": "social",
       "source": "International Business Times UK",
       "sourceSite": "",
@@ -1521,7 +1508,7 @@
       "summaryZh": "Donald Trump Uncharacteristically Shuts Down After a Tense 2-Hour Meeting with Xi Jinping: Report International Business Times UK"
     },
     {
-      "id": "social-social-18-https://news.google.com/",
+      "id": "social-social-20-https://news.google.com/",
       "sourceId": "social",
       "source": "news.meaww.com",
       "sourceSite": "",
@@ -1529,12 +1516,12 @@
       "title": "'Must remain open': How the Trump-Xi summit quietly set a red line for Iran - news.meaww.com",
       "description": "'Must remain open': How the Trump-Xi summit quietly set a red line for Iran news.meaww.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMkhSV0N3ZDhEVTdnTi02MDFDb3dwWFpybGdqeENaaGtvNW4zUWxfUUxna21CSXRfVjN4dFU1aVZQMDczV2lLVTdReF9TSFhLSmN0UWVwMjdaa2dpenNUNkhtb2ZEcU5CbG9OdWNBTnVCcDhCUWs4Wmt1VldaWlhEWW1WTEJfSzI2YTlsZTFDSzlMVFlsSGtteThBbw?oc=5",
-      "publishedAt": "Thu, 14 May 2026 15:06:22 GMT",
+      "publishedAt": "Thu, 14 May 2026 15:09:51 GMT",
       "titleZh": "'Must remain open': How the Trump-Xi summit quietly set a red line for Iran - news.meaww.com",
       "summaryZh": "'Must remain open': How the Trump-Xi summit quietly set a red line for Iran news.meaww.com"
     },
     {
-      "id": "social-social-8-https://news.google.com/",
+      "id": "social-social-9-https://news.google.com/",
       "sourceId": "social",
       "source": "BBC",
       "sourceSite": "",
@@ -1560,7 +1547,7 @@
       "summaryZh": "Trump-Xi Talks Are Underway in Beijing Council on Foreign Relations"
     },
     {
-      "id": "social-social-21-https://news.google.com/",
+      "id": "social-social-22-https://news.google.com/",
       "sourceId": "social",
       "source": "手机新浪网",
       "sourceSite": "",
@@ -1573,7 +1560,7 @@
       "summaryZh": "特朗普访华晚宴举行_新浪新闻 手机新浪网"
     },
     {
-      "id": "social-social-6-https://news.google.com/",
+      "id": "social-social-8-https://news.google.com/",
       "sourceId": "social",
       "source": "Al Jazeera",
       "sourceSite": "",
@@ -1586,7 +1573,7 @@
       "summaryZh": "‘Never mess it up’: What Xi and Trump said on day one of Beijing talks Al Jazeera"
     },
     {
-      "id": "social-social-17-https://news.google.com/",
+      "id": "social-social-19-https://news.google.com/",
       "sourceId": "social",
       "source": "financial-world.org",
       "sourceSite": "",
@@ -1599,20 +1586,7 @@
       "summaryZh": "Beijing frames Trump-Xi talks as reset with Taiwan still central financial-world.org"
     },
     {
-      "id": "social-social-23-https://news.google.com/",
-      "sourceId": "social",
-      "source": "手机新浪网",
-      "sourceSite": "",
-      "type": "social",
-      "title": "特朗普访华欢迎宴会_新浪新闻 - 手机新浪网",
-      "description": "特朗普访华欢迎宴会_新浪新闻 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1odzR4N3Nyand0R2VlbHV4bjNmOEd1OEEtNE5NUHpVY2pUTWI0VEMzUkRRZGNZUW9XRWwwcmg5MEs3WDFxbWV1a2NObnFuUlJGb3hPQzY0cXRJREx5Y2xsZlNRVQ?oc=5",
-      "publishedAt": "Thu, 14 May 2026 13:52:00 GMT",
-      "titleZh": "特朗普访华欢迎宴会_新浪新闻 - 手机新浪网",
-      "summaryZh": "特朗普访华欢迎宴会_新浪新闻 手机新浪网"
-    },
-    {
-      "id": "social-social-14-https://news.google.com/",
+      "id": "social-social-15-https://news.google.com/",
       "sourceId": "social",
       "source": "Spectrum News",
       "sourceSite": "",
@@ -1638,20 +1612,7 @@
       "summaryZh": "China’s Xi warns Trump on Taiwan at Beijing summit The Hill"
     },
     {
-      "id": "social-social-20-https://news.google.com/",
-      "sourceId": "social",
-      "source": "MoneyCheck",
-      "sourceSite": "",
-      "type": "social",
-      "title": "Crude Oil Market Analysis: Trump-Xi Beijing Talks and Iran Conflict Impact - MoneyCheck",
-      "description": "Crude Oil Market Analysis: Trump-Xi Beijing Talks and Iran Conflict Impact MoneyCheck",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUVFBRDJ6MzBVOVkxU00wTzdwZGtBeUVTUGd0b051Wm9WbklIbGpLSk5wMXRlMnVwbm1sUE91djY3RUZIVmp6ZUNQdG1MZllidjdObHQ5VXB0dFR4R0JaaTRqakJrdXZXeTJGdXpJWW5TUWRCdlhwSGszeXVIVkJRSVpYb2llanZtTTkzS2s4bFhrWVFkNkhnQmtwRnJZdw?oc=5",
-      "publishedAt": "Thu, 14 May 2026 08:13:47 GMT",
-      "titleZh": "Crude Oil Market Analysis: Trump-Xi Beijing Talks and Iran Conflict Impact - MoneyCheck",
-      "summaryZh": "Crude Oil Market Analysis: Trump-Xi Beijing Talks and Iran Conflict Impact MoneyCheck"
-    },
-    {
-      "id": "social-social-13-https://news.google.com/",
+      "id": "social-social-14-https://news.google.com/",
       "sourceId": "social",
       "source": "AFR",
       "sourceSite": "",
@@ -1664,7 +1625,7 @@
       "summaryZh": "Xi warns Trump of ‘clashes’ if Taiwan is mishandled in ‘red-line’ talks AFR"
     },
     {
-      "id": "social-social-2-https://news.google.com/",
+      "id": "social-social-3-https://news.google.com/",
       "sourceId": "social",
       "source": "Australian Broadcasting Corporation",
       "sourceSite": "",
@@ -1672,12 +1633,25 @@
       "title": "The key takeaways from Trump and Xi's meeting in China - Australian Broadcasting Corporation",
       "description": "The key takeaways from Trump and Xi's meeting in China Australian Broadcasting Corporation",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY3Vla29fbHVPTXAxMElSU2lJSTNnXzRTZ3JsX0ZvV0RvVVRNay1aVlNJTE1jWlRfTEpZRTkzSkZxU2x6SkFLbm5hMGRPRVZHQnczQTZKS0JGd1RXN0RYcVh0NWdXYjlsSkR3a0lhMkR5TmxrY3VTMG5kMlg0NzBOZUNKZmlCNkx4RXpZdURkQ3hJa3VYRDlNYzJR?oc=5",
-      "publishedAt": "Thu, 14 May 2026 06:41:20 GMT",
+      "publishedAt": "Thu, 14 May 2026 06:41:59 GMT",
       "titleZh": "The key takeaways from Trump and Xi's meeting in China - Australian Broadcasting Corporation",
       "summaryZh": "The key takeaways from Trump and Xi's meeting in China Australian Broadcasting Corporation"
     },
     {
-      "id": "social-social-5-https://news.google.com/",
+      "id": "social-social-17-https://news.google.com/",
+      "sourceId": "social",
+      "source": "News18",
+      "sourceSite": "",
+      "type": "social",
+      "title": "'China Is Beautiful': Trump Visits Beijing’s Temple Of Heaven With Xi After High-Stakes Talks | Watch - News18",
+      "description": "'China Is Beautiful': Trump Visits Beijing’s Temple Of Heaven With Xi After High-Stakes Talks | Watch News18",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbXcxUUxZZmxzRV9MMl9CTnJpSDg4blJTM2ZFeDUzd0xGYl9HRmlwUmVTdmNNMjYzcTg3M3loaTJmMDVoUmJCVy1fV3JnQ09lMldMbGZSd1Z2QnFDTlU5S3dTNjE2TDVfM0d4clE1a3E3bzBLX0dWcTRGY0djbnpDdlBpVUd2ckhROXVxdm9EaEFwdW1ZMnhJSDBscWpFWG1rZl81bFFJWnhSMkR5bEd4bXJ2WlpDSTI1ZE5qZ3U5YWh4RmxuSTN3UVE1aHdTZ2NjeEhMLWdhRmV6ZlJfckHSAeMBQVVfeXFMT2ZZci1URm5DUU9xZjNWUnBjRXpweWZIX09vclFmUUxmWXpqcmczeDhQLXBURDFnRFhaZlRXOEJkZnh3c210NDBOOFEwUkhZLVVzM29MZ09LODk0VXpQb1llTnNXX1lRVG5ZU1JKaVdnNkt6NzRmWlBOU2NIc0dQUTc1TklxTVpPUko2amxlR1laR3hUWUltc2VNcjlfbXdxendyTWpSSWdYaUxuWDBDMjZlUmNPbU5QSmpjdTBUYnAtYzFIRDdZYVdVdzJuWVZjNkYxTFRJcjdqakFPdGRzdFA2aEU?oc=5",
+      "publishedAt": "Thu, 14 May 2026 05:56:32 GMT",
+      "titleZh": "'China Is Beautiful': Trump Visits Beijing’s Temple Of Heaven With Xi After High-Stakes Talks | Watch - News18",
+      "summaryZh": "'China Is Beautiful': Trump Visits Beijing’s Temple Of Heaven With Xi After High-Stakes Talks | Watch News18"
+    },
+    {
+      "id": "social-social-4-https://news.google.com/",
       "sourceId": "social",
       "source": "Khaama Press",
       "sourceSite": "",
@@ -1688,19 +1662,6 @@
       "publishedAt": "Thu, 14 May 2026 04:52:13 GMT",
       "titleZh": "Trump, Xi Holding High-Stakes Beijing Talks on Trade, Taiwan and Iran - Khaama Press",
       "summaryZh": "Trump, Xi Holding High-Stakes Beijing Talks on Trade, Taiwan and Iran Khaama Press"
-    },
-    {
-      "id": "social-social-19-https://news.google.com/",
-      "sourceId": "social",
-      "source": "NewsX",
-      "sourceSite": "",
-      "type": "social",
-      "title": "US-China Summit: Trump Calls Beijing Meeting The ‘Biggest Summit Ever’ As Talks Begin - NewsX",
-      "description": "US-China Summit: Trump Calls Beijing Meeting The ‘Biggest Summit Ever’ As Talks Begin NewsX",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNE9LSnV3RnRhbnQzYzVBRGJKR2hXVng3eWgwRHFRZW41dnR5M3Nma25IcG55YnhoclRfSldjd1h0X1FiWm1ub0tWcWw0UDVFcXY3ZTU3UXgtZ1FLZms5VUt3dDc1dk85ZEY2aElVOG5ISEEtS2E0V1BhUWk5aXJfN3RPU2lUb0RLQ1ZoWmN6cGh1d3FLSTU2OHliWXRCU1FHZUxlelZCTjBpSGpjbnNjUksxa3ZuV1RLalV3MzlaNXh5aVRVNWpkMdIBzgFBVV95cUxOcmt5RTE2aGFOSXlELXItY2VGdkZFR2RkX2FMVDBJSjdoUEg2NWlXSmUzUVlVcm1DTmdUX1BaaFF6WUUzTERpUDlUQXNqZ21XWnZnZEVRUzUxZldIb2tnSENZUUFvVEI4UTNzLXg1eXZ4MXBnZGE0ZUY3NkZQcThMVHpncmpBbVhoRkhLOHpocHhyU1hSYUoyanZHa2N5MllJbXNYQWlPM0Y3Q202M00yd1ZLdEJuZnZkRFRuRlNSM2xZendlWFVUUFFkblExQQ?oc=5",
-      "publishedAt": "Thu, 14 May 2026 03:58:00 GMT",
-      "titleZh": "US-China Summit: Trump Calls Beijing Meeting The ‘Biggest Summit Ever’ As Talks Begin - NewsX",
-      "summaryZh": "US-China Summit: Trump Calls Beijing Meeting The ‘Biggest Summit Ever’ As Talks Begin NewsX"
     },
     {
       "id": "social-social-10-https://news.google.com/",
@@ -1716,7 +1677,7 @@
       "summaryZh": "Trump’s upbeat China message collides with deepening Beijing rivalry Fox News"
     },
     {
-      "id": "social-social-4-https://news.google.com/",
+      "id": "social-social-5-https://news.google.com/",
       "sourceId": "social",
       "source": "Aaj English TV",
       "sourceSite": "",
@@ -1729,7 +1690,7 @@
       "summaryZh": "Trump seeks ‘fantastic future’ in Beijing talks with Xi Aaj English TV"
     },
     {
-      "id": "social-social-12-https://news.google.com/",
+      "id": "social-social-13-https://news.google.com/",
       "sourceId": "social",
       "source": "Anadolu Ajansı",
       "sourceSite": "",
@@ -1742,7 +1703,7 @@
       "summaryZh": "Trump, Xi meet in Beijing as Iran war looms over talks Anadolu Ajansı"
     },
     {
-      "id": "social-social-9-https://news.google.com/",
+      "id": "social-social-11-https://news.google.com/",
       "sourceId": "social",
       "source": "The Guardian",
       "sourceSite": "",
@@ -1755,7 +1716,7 @@
       "summaryZh": "Xi warns Trump of ‘clashes and even conflicts’ with US over Taiwan The Guardian"
     },
     {
-      "id": "social-social-22-https://news.google.com/",
+      "id": "social-social-23-https://news.google.com/",
       "sourceId": "social",
       "source": "新京报",
       "sourceSite": "",
@@ -1768,17 +1729,43 @@
       "summaryZh": "习近平与特朗普握手 新京报"
     },
     {
-      "id": "social-social-15-https://news.google.com/",
+      "id": "social-social-21-https://news.google.com/",
       "sourceId": "social",
-      "source": "Taiwan News",
+      "source": "香港01",
       "sourceSite": "",
       "type": "social",
-      "title": "Trump, Xi set for Beijing talks with trade truce, Iran war at stake - Taiwan News",
-      "description": "Trump, Xi set for Beijing talks with trade truce, Iran war at stake Taiwan News",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1IOGYtZFBRbzAyRjBDNDcydXBoS0I3bkt1emU5cEFzYXV1OWwtNnprSV9wc2VWRWpXZ0RiVjd4el9nSTM4cGtEb1FxbXlSV2JSWDg5Tw?oc=5",
-      "publishedAt": "Thu, 14 May 2026 00:38:00 GMT",
-      "titleZh": "Trump, Xi set for Beijing talks with trade truce, Iran war at stake - Taiwan News",
-      "summaryZh": "Trump, Xi set for Beijing talks with trade truce, Iran war at stake Taiwan News"
+      "title": "特朗普访华｜台湾问题连总统也不能乱讲 美官方谈话守则曝光 - 香港01",
+      "description": "特朗普访华｜台湾问题连总统也不能乱讲 美官方谈话守则曝光 香港01",
+      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxPdXpHV3hVQmZXazRzaG5MczczZTZ2RlBPMWVlSGdpZzJWYzA4dHFxN1JmeDJ4OWxicXByZDlOUFBCSVBXelRmV3ZzcXYtRGdZMjVFS3h3c0dSWmRsLUNBNlNVdGlCRVZyMG1qS01HdFVhQjdJUkhRdjNXbTg1cldwUDZ3OW5rU3B0SVo2eWxfUjlTaDRia05rTlJ3YkQwTW9xQ3Rnc1c4bFpaSmFVVE1FNnR2U204X3VGNEpZSzdYZW1IWXVIU1dham42VnowUXZVQ0JRZkJZZ3BjMzRtbHoyNWtKVTBBb1RjaVIxWTFpalhGTWVNWHRlUW9RUUFRbTVsMkNtX05uMnRNWXBKZ1U0Vm9KNE14Q2xhRkZQQWFNakt3Zm9KU2NFcnJvem5FTDBQV3NXWnRYUWNXTy16Wmt6SmZ2eDRXTWhPUVhFazlGcjdHRXdmakw3U2FuYUNmZHBDb2RMSnRHNHZ1dDk0dkRKbU1KdGdqYTE0MFpWdFljMUxNWHZ5R0NIU19GejlPVHUydF9ZZW9GSlA1dkU3UVBaeHVBdUh0UmZoNzNnbFRYTGhQYUdT?oc=5",
+      "publishedAt": "Thu, 14 May 2026 01:24:00 GMT",
+      "titleZh": "特朗普访华｜台湾问题连总统也不能乱讲 美官方谈话守则曝光 - 香港01",
+      "summaryZh": "特朗普访华｜台湾问题连总统也不能乱讲 美官方谈话守则曝光 香港01"
+    },
+    {
+      "id": "social-social-2-https://news.google.com/",
+      "sourceId": "social",
+      "source": "dw.com",
+      "sourceSite": "",
+      "type": "social",
+      "title": "China warns Trump over Taiwan question at high-stakes summit - dw.com",
+      "description": "China warns Trump over Taiwan question at high-stakes summit dw.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdG1JUlRwenZUX0FjRXZTaXUtUFh0SU5DTGYtMGNCdFFHS2hmY1FmWENJTnlHQm5zcExSNVhiT1JzVlUyYXRaMWZqT0lpS1pHQ2UtZ09EYXBVMWJrWmhlVG5XaE9NbHphS2x6M3ZZenhFU010TjN1SGJTZzFBN0dZbmVFeXU0VFZUczFFUU9MZERYRU5PdjFDWFZhSXE?oc=5",
+      "publishedAt": "Thu, 14 May 2026 00:06:44 GMT",
+      "titleZh": "China warns Trump over Taiwan question at high-stakes summit - dw.com",
+      "summaryZh": "China warns Trump over Taiwan question at high-stakes summit dw.com"
+    },
+    {
+      "id": "social-social-6-https://news.google.com/",
+      "sourceId": "social",
+      "source": "Deccan Herald",
+      "sourceSite": "",
+      "type": "social",
+      "title": "Trump, Xi Jinping set for Beijing talks with trade truce, Iran war at stake - Deccan Herald",
+      "description": "Trump, Xi Jinping set for Beijing talks with trade truce, Iran war at stake Deccan Herald",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUGlGV2hwWkpwT1RNVm1NQkVRZXlsdjRKNFJMR3VvZC1nM2pjVkx1dk55RHBGWjVyb2JOeHItMThmcDlNYlNSVGpwcWNOVFlZc1JpWG42eFBoUk5tZXpDUVJaQXBCUW42WEdLU0RkRjRHZ3JHNGlhWncwWTdrbDY3X1R4XzBpTEFlMVloZU4zNGw5SjNVNkxZRF9xWHY5WWphdGFyMm1QS1JlUEdqOUY1dFRjMXFyYkJqT19jRUVJcGE1THBQRUFB?oc=5",
+      "publishedAt": "Wed, 13 May 2026 22:48:00 GMT",
+      "titleZh": "Trump, Xi Jinping set for Beijing talks with trade truce, Iran war at stake - Deccan Herald",
+      "summaryZh": "Trump, Xi Jinping set for Beijing talks with trade truce, Iran war at stake Deccan Herald"
     },
     {
       "id": "social-social-7-https://news.google.com/",
@@ -1799,143 +1786,143 @@
       "symbol": "TSLA",
       "company": "Tesla",
       "representative": "Elon Musk / Tesla",
-      "price": 446.96,
+      "price": 443.3,
       "previous": 411.79,
-      "change": 35.16999999999996,
-      "changePct": 8.540761067534412,
+      "change": 31.50999999999999,
+      "changePct": 7.651958522547899,
       "currency": "USD",
       "exchange": "NMS",
-      "marketTime": "2026-05-14T17:56:09.000Z",
+      "marketTime": "2026-05-14T20:00:00.000Z",
       "status": "ok"
     },
     {
       "symbol": "AAPL",
       "company": "Apple",
       "representative": "Tim Cook / Apple",
-      "price": 298.29,
+      "price": 298.21,
       "previous": 287.44,
-      "change": 10.850000000000023,
-      "changePct": 3.7747008071249732,
+      "change": 10.769999999999982,
+      "changePct": 3.7468689117728853,
       "currency": "USD",
       "exchange": "NMS",
-      "marketTime": "2026-05-14T17:56:10.000Z",
+      "marketTime": "2026-05-14T20:00:01.000Z",
       "status": "ok"
     },
     {
       "symbol": "NVDA",
       "company": "Nvidia",
       "representative": "Jensen Huang / Nvidia",
-      "price": 234.79,
+      "price": 235.74,
       "previous": 211.5,
-      "change": 23.289999999999992,
-      "changePct": 11.011820330969263,
+      "change": 24.24000000000001,
+      "changePct": 11.460992907801423,
       "currency": "USD",
       "exchange": "NMS",
-      "marketTime": "2026-05-14T17:56:11.000Z",
+      "marketTime": "2026-05-14T20:00:00.000Z",
       "status": "ok"
     },
     {
       "symbol": "MSFT",
       "company": "Microsoft",
       "representative": "Microsoft",
-      "price": 409.637,
+      "price": 409.43,
       "previous": 420.77,
-      "change": -11.132999999999981,
-      "changePct": -2.6458635358984677,
+      "change": -11.339999999999975,
+      "changePct": -2.6950590583929404,
       "currency": "USD",
       "exchange": "NMS",
-      "marketTime": "2026-05-14T17:56:09.000Z",
+      "marketTime": "2026-05-14T20:00:01.000Z",
       "status": "ok"
     },
     {
       "symbol": "GOOGL",
       "company": "Alphabet",
       "representative": "Google / Alphabet",
-      "price": 402.545,
+      "price": 401.07,
       "previous": 397.99,
-      "change": 4.555000000000007,
-      "changePct": 1.1445011181185474,
+      "change": 3.079999999999984,
+      "changePct": 0.7738887911756537,
       "currency": "USD",
       "exchange": "NMS",
-      "marketTime": "2026-05-14T17:56:10.000Z",
+      "marketTime": "2026-05-14T20:00:01.000Z",
       "status": "ok"
     },
     {
       "symbol": "AMZN",
       "company": "Amazon",
       "representative": "Amazon",
-      "price": 269.145,
+      "price": 267.22,
       "previous": 271.17,
-      "change": -2.025000000000034,
-      "changePct": -0.7467640225688809,
+      "change": -3.9499999999999886,
+      "changePct": -1.4566508094553188,
       "currency": "USD",
       "exchange": "NMS",
-      "marketTime": "2026-05-14T17:56:09.000Z",
+      "marketTime": "2026-05-14T20:00:01.000Z",
       "status": "ok"
     },
     {
       "symbol": "JPM",
       "company": "JPMorgan Chase",
       "representative": "Jamie Dimon / JPMorgan",
-      "price": 300.575,
+      "price": 299.91,
       "previous": 306.27,
-      "change": -5.694999999999993,
-      "changePct": -1.859470401932933,
+      "change": -6.359999999999957,
+      "changePct": -2.0765990792437905,
       "currency": "USD",
       "exchange": "NYQ",
-      "marketTime": "2026-05-14T17:56:09.000Z",
+      "marketTime": "2026-05-14T20:00:02.000Z",
       "status": "ok"
     },
     {
       "symbol": "BA",
       "company": "Boeing",
       "representative": "Boeing",
-      "price": 231.48,
+      "price": 229.21,
       "previous": 231.03,
-      "change": 0.44999999999998863,
-      "changePct": 0.19477989871444773,
+      "change": -1.8199999999999932,
+      "changePct": -0.7877764792451167,
       "currency": "USD",
       "exchange": "NYQ",
-      "marketTime": "2026-05-14T17:56:09.000Z",
+      "marketTime": "2026-05-14T20:00:03.000Z",
       "status": "ok"
     },
     {
       "symbol": "GM",
       "company": "General Motors",
       "representative": "GM",
-      "price": 78.25,
+      "price": 77.75,
       "previous": 78.41,
-      "change": -0.1599999999999966,
-      "changePct": -0.2040556051523997,
+      "change": -0.6599999999999966,
+      "changePct": -0.8417293712536623,
       "currency": "USD",
       "exchange": "NYQ",
-      "marketTime": "2026-05-14T17:55:45.000Z",
+      "marketTime": "2026-05-14T20:00:02.000Z",
       "status": "ok"
     },
     {
       "symbol": "F",
       "company": "Ford",
       "representative": "Ford",
-      "price": 14.496,
+      "price": 14.48,
       "previous": 12.18,
-      "change": 2.3160000000000007,
-      "changePct": 19.014778325123157,
+      "change": 2.3000000000000007,
+      "changePct": 18.88341543513958,
       "currency": "USD",
       "exchange": "NYQ",
-      "marketTime": "2026-05-14T17:56:09.000Z",
+      "marketTime": "2026-05-14T20:00:36.000Z",
       "status": "ok"
     },
     {
       "symbol": "CAT",
       "company": "Caterpillar",
       "representative": "Caterpillar",
-      "price": 913.81,
+      "price": 920.22,
       "previous": 895.69,
-      "change": 18.11999999999989,
-      "changePct": 2.0230213578358462,
+      "change": 24.529999999999973,
+      "changePct": 2.7386707454588053,
       "currency": "USD",
       "exchange": "NYQ",
-      "marketTime": "2026-05-14T17:55:56.000Z",
+      "marketTime": "2026-05-14T20:00:02.000Z",
       "status": "ok"
     }
   ],
@@ -1958,7 +1945,7 @@
       },
       {
         "feed": "https://news.google.com/rss/search?q=Trump+state+visit+China+Beijing+CEOs&hl=en-US&gl=US&ceid=US:en",
-        "count": 61,
+        "count": 66,
         "status": "ok"
       },
       {
@@ -1978,7 +1965,7 @@
       },
       {
         "feed": "https://news.google.com/rss/search?q=特朗普+访华+美国企业家&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "count": 69,
+        "count": 97,
         "status": "ok"
       },
       {
@@ -1991,7 +1978,7 @@
         "feed": "gdelt:Trump Xi Beijing summit",
         "count": 0,
         "status": "failed",
-        "error": "GDELT fetch failed: 429"
+        "error": "fetch failed"
       },
       {
         "feed": "gdelt:Trump China state visit CEOs",
@@ -2009,13 +1996,13 @@
         "feed": "gdelt:特朗普 访华 美国企业家",
         "count": 0,
         "status": "failed",
-        "error": "GDELT fetch failed: 429"
+        "error": "fetch failed"
       }
     ],
     "commentary": [
       {
         "feed": "https://news.google.com/rss/search?q=Trump+Beijing+China+talks+analysis&hl=en-US&gl=US&ceid=US:en",
-        "count": 62,
+        "count": 57,
         "status": "ok"
       },
       {
@@ -2047,7 +2034,7 @@
       },
       {
         "feed": "https://news.google.com/rss/search?q=特朗普+北京+会谈+微博+大V&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "count": 48,
+        "count": 52,
         "status": "ok"
       },
       {
