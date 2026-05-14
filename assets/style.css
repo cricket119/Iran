@@ -135,6 +135,41 @@ a:hover { text-decoration: underline; }
   color: var(--muted);
 }
 
+.market-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 10px;
+}
+
+.market-card {
+  border: 1px solid #1f3950;
+  border-radius: 12px;
+  padding: 12px;
+  background: rgba(7, 17, 27, .82);
+}
+
+.market-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.market-company {
+  margin-top: 5px;
+  color: var(--muted);
+  font-size: .86rem;
+}
+
+.market-price {
+  margin-top: 8px;
+  font-size: 1.15rem;
+  font-weight: 700;
+}
+
+.market-up { color: #72d28b; }
+.market-down { color: #ff8b80; }
+
 @media (max-width: 960px) {
   .grid {
     grid-template-columns: 1fr;

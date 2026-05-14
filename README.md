@@ -13,9 +13,15 @@
 ```bash
 npm install
 npm run update
+npm run update:trump-beijing
 npm run start
 # 打开 http://localhost:8080
 ```
+
+## 页面入口
+
+- 伊朗局势追踪：`/index.html`
+- 特朗普北京会谈追踪：`/trump-beijing.html`
 
 ## 部署到 GitHub
 

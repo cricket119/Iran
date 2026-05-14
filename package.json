@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "update": "node scripts/update-data.mjs",
+    "update:trump-beijing": "node scripts/update-trump-beijing.mjs",
     "start": "python3 -m http.server 8080"
   }
 }

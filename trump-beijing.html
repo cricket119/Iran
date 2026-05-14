@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>特朗普北京会谈追踪</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./assets/style.css" />
+  </head>
+  <body>
+    <main class="container">
+      <section class="hero">
+        <h1>特朗普北京会谈追踪</h1>
+        <div id="status" class="meta">正在加载数据...</div>
+        <div id="translation-status" class="meta">AI 中文摘要：正在检测</div>
+        <div class="footer-note">
+          自动抓取：Reuters / BBC / Al Jazeera / 联合早报；评论与分析：Foreign Affairs / Foreign Policy / The Economist / NYT / FT；社交线索：X / 微博 / KOL 聚合搜索。
+          默认每 4 小时更新一次，页面每 60 秒自动刷新显示。
+        </div>
+      </section>
+
+      <section class="grid">
+        <div class="section">
+          <h2>时间线（最新在前）</h2>
+          <div id="timeline"></div>
+        </div>
+
+        <div class="section">
+          <h2>媒体同页对比</h2>
+          <div id="compare"></div>
+        </div>
+      </section>
+
+      <section class="section" style="margin-top: 16px;">
+        <h2>资本市场影响</h2>
+        <div id="markets"></div>
+      </section>
+
+      <section class="grid">
+        <div class="section">
+          <h2>X / 微博 / KOL 线索</h2>
+          <div id="social"></div>
+        </div>
+
+        <div class="section">
+          <h2>评论与后续影响分析</h2>
+          <div id="commentary"></div>
+        </div>
+      </section>
+    </main>
+    <script src="./assets/trump-beijing.js" type="module"></script>
+  </body>
+</html>
