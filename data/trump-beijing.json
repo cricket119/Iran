@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-20T10:36:00.880Z",
+  "generatedAt": "2026-06-20T14:11:54.175Z",
   "topic": "特朗普北京会谈",
-  "totalNews": 50,
+  "totalNews": 48,
   "totalCommentary": 10,
   "totalSocial": 24,
   "totalMarkets": 11,
@@ -15,19 +15,6 @@
     "socialReason": "OpenAI API failed: 429 {\n  \"error\": {\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\",\n    \"type\": \"insufficient_quota\",\n    \"param\": null,\n    \"code\": \"insufficient_quota\"\n  }\n}"
   },
   "timeline": [
-    {
-      "id": "reuters-news-2-https://news.google.com/",
-      "sourceId": "reuters",
-      "source": "Reuters",
-      "sourceSite": "reuters.com",
-      "type": "news",
-      "title": "Trump says he is going to Turkey, China this year - Reuters",
-      "description": "Trump says he is going to Turkey, China this year Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa2tNRFVNVEdDTGpSbVY0OXRWdVBiZ2hyQnF4ZHV2V2IxdmFsWXVnZElURjdOZUN1NTh2Z0QwYVRjMlRZY1NfWmd1VXBLQVpVYmlQNC0tY012dnhnSVp2LXc4MGZwaTMwbXVNdFI2LWYxLWR5Z05sbE1PNHdPbXZ1MktGLTVzZDhYRUdtUHVJZFplWldoWExQLQ?oc=5",
-      "publishedAt": "Fri, 19 Jun 2026 20:22:15 GMT",
-      "titleZh": "Trump says he is going to Turkey, China this year - Reuters",
-      "summaryZh": "Trump says he is going to Turkey, China this year Reuters"
-    },
     {
       "id": "general-news-3-https://news.google.com/",
       "sourceId": "general",
@@ -133,7 +120,7 @@
       "summaryZh": "CNBC's The China Connection newsletter: Three major shifts from the Trump-Xi meeting CNBC"
     },
     {
-      "id": "reuters-news-4-https://news.google.com/",
+      "id": "reuters-news-3-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -159,7 +146,7 @@
       "summaryZh": "Xi gives Trump rare tour of secret garden at heart of Chinese government Reuters"
     },
     {
-      "id": "reuters-news-5-https://news.google.com/",
+      "id": "reuters-news-4-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -172,7 +159,7 @@
       "summaryZh": "Trump leaves Beijing with few wins but warm words for Xi Reuters"
     },
     {
-      "id": "reuters-news-6-https://news.google.com/",
+      "id": "reuters-news-5-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -198,7 +185,7 @@
       "summaryZh": "Trump-Xi summit: US and China conclude 'very successful' talks but few deals confirmed BBC"
     },
     {
-      "id": "bbc-news-5-https://news.google.com/",
+      "id": "bbc-news-4-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -289,6 +276,19 @@
       "summaryZh": "Trump departs China touting deals, but little clarity on Iran or Taiwan Al Jazeera"
     },
     {
+      "id": "zaobao-news-0-https://news.google.com/",
+      "sourceId": "zaobao",
+      "source": "联合早报",
+      "sourceSite": "zaobao.com.sg",
+      "type": "news",
+      "title": "特朗普结束访华 乘专机离开北京 - 联合早报",
+      "description": "特朗普结束访华 乘专机离开北京 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5faXE5cHpuM2haU0xaVGtpNlJOUnNOaUx1Z2g3a1RQMlFCakJDU0Q5eTNMN2diNWFDa0NaU21jLWRaTzNRQUtoM0pPb0ItZHc5Z09CQktRYllXZy1JR0gwS0FKTlYtN2h3U1E?oc=5",
+      "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
+      "titleZh": "特朗普结束访华 乘专机离开北京 - 联合早报",
+      "summaryZh": "特朗普结束访华 乘专机离开北京 联合早报"
+    },
+    {
       "id": "zaobao-news-1-https://news.google.com/",
       "sourceId": "zaobao",
       "source": "联合早报",
@@ -300,19 +300,6 @@
       "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
       "titleZh": "【视频】特朗普：与习近平达成非常棒贸易协议 双方冀霍尔木兹海峡畅通 - 联合早报",
       "summaryZh": "【视频】特朗普：与习近平达成非常棒贸易协议 双方冀霍尔木兹海峡畅通 联合早报"
-    },
-    {
-      "id": "zaobao-news-2-https://news.google.com/",
-      "sourceId": "zaobao",
-      "source": "联合早报",
-      "sourceSite": "zaobao.com.sg",
-      "type": "news",
-      "title": "特朗普结束访华 乘专机离开北京 - 联合早报",
-      "description": "特朗普结束访华 乘专机离开北京 联合早报",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5faXE5cHpuM2haU0xaVGtpNlJOUnNOaUx1Z2g3a1RQMlFCakJDU0Q5eTNMN2diNWFDa0NaU21jLWRaTzNRQUtoM0pPb0ItZHc5Z09CQktRYllXZy1JR0gwS0FKTlYtN2h3U1E?oc=5",
-      "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
-      "titleZh": "特朗普结束访华 乘专机离开北京 - 联合早报",
-      "summaryZh": "特朗普结束访华 乘专机离开北京 联合早报"
     },
     {
       "id": "general-news-2-https://news.google.com/",
@@ -356,6 +343,19 @@
     {
       "id": "general-news-7-https://news.google.com/",
       "sourceId": "general",
+      "source": "CNBC",
+      "sourceSite": "",
+      "type": "news",
+      "title": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
+      "description": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVGtCaV9hM2dFZXpwajNOVjd3Ujg5TWlRODEzQjdvb1d3NjdERy1iWkJTZWlYRnh3ZFhFNG9pNVF5WFFiSkszSklvLW5pNWZYQjdRTTBicG1vRGVPbnltR2dvbC05djVYbzF6X2xhdVBPckhmTkE1S2plVlBIMllhZ29vQ2RSNXZHTXcycmdyTzTSAZYBQVVfeXFMUHFPcFMydTFFS21aSDJqMjQ5ZVZ3TDQtSEEyYWd3Z1pOYTd0QzB1eGFCY0gxV0tFdTYyYUV2Z3RCeUYtLXVZbE10SlF5TFpIc0hzRzdVcjdadkR3MkFBemdPZnl3cjJ6MU5hcnk5ckFkLW4wNXR2WEhDNnR2aGpDellnRGtTLWptbjlTMnRNWFM4UHJqZnB3?oc=5",
+      "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
+      "titleZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
+      "summaryZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC"
+    },
+    {
+      "id": "general-news-8-https://news.google.com/",
+      "sourceId": "general",
       "source": "Time Magazine",
       "sourceSite": "",
       "type": "news",
@@ -367,7 +367,7 @@
       "summaryZh": "How A.I. Was the Elephant in the Room at the Trump-Xi Summit Time Magazine"
     },
     {
-      "id": "general-news-8-https://news.google.com/",
+      "id": "general-news-9-https://news.google.com/",
       "sourceId": "general",
       "source": "AP News",
       "sourceSite": "",
@@ -380,33 +380,7 @@
       "summaryZh": "Photos of Trump in China for talks with Xi Jinping AP News"
     },
     {
-      "id": "general-news-9-https://news.google.com/",
-      "sourceId": "general",
-      "source": "CNBC",
-      "sourceSite": "",
-      "type": "news",
-      "title": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
-      "description": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVGtCaV9hM2dFZXpwajNOVjd3Ujg5TWlRODEzQjdvb1d3NjdERy1iWkJTZWlYRnh3ZFhFNG9pNVF5WFFiSkszSklvLW5pNWZYQjdRTTBicG1vRGVPbnltR2dvbC05djVYbzF6X2xhdVBPckhmTkE1S2plVlBIMllhZ29vQ2RSNXZHTXcycmdyTzTSAZYBQVVfeXFMUHFPcFMydTFFS21aSDJqMjQ5ZVZ3TDQtSEEyYWd3Z1pOYTd0QzB1eGFCY0gxV0tFdTYyYUV2Z3RCeUYtLXVZbE10SlF5TFpIc0hzRzdVcjdadkR3MkFBemdPZnl3cjJ6MU5hcnk5ckFkLW4wNXR2WEhDNnR2aGpDellnRGtTLWptbjlTMnRNWFM4UHJqZnB3?oc=5",
-      "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
-      "titleZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
-      "summaryZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC"
-    },
-    {
       "id": "general-news-10-https://news.google.com/",
-      "sourceId": "general",
-      "source": "CNN",
-      "sourceSite": "",
-      "type": "news",
-      "title": "Trump and Xi begin Day Two of talks in Beijing, stress ‘constructive stability” in US-China relationship - CNN",
-      "description": "Trump and Xi begin Day Two of talks in Beijing, stress ‘constructive stability” in US-China relationship CNN",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNd1h6Zzd5UGVVR3dGdlRqempiWk54OS1NZllRaThuUGVRZjJ0dE1hT2haWGxUNXB0bHJaeDFZV2xlRjNiV3NSeEFaSTM4WTgyM3pqRmY2eDA0NXdyRXhMakpvQkdKNVpha3FwNUE4cW8wZEhhd29zN1NDdy12S3A3YklIbTFkTXZtRkJxWVV5M2NkSEtwUkw5OFVRcm1STmVpaWtMYUpiUFZSTE5Tc3liRHVHbFlycVJjLU41akpmRTZLZ3l4c2d0V0dlMzdvN3pBTUxvcFNqRlpzOWMxY2cyRlRWWS01dWxiNXBF?oc=5",
-      "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
-      "titleZh": "Trump and Xi begin Day Two of talks in Beijing, stress ‘constructive stability” in US-China relationship - CNN",
-      "summaryZh": "Trump and Xi begin Day Two of talks in Beijing, stress ‘constructive stability” in US-China relationship CNN"
-    },
-    {
-      "id": "general-news-12-https://news.google.com/",
       "sourceId": "general",
       "source": "S&P Global",
       "sourceSite": "",
@@ -419,7 +393,7 @@
       "summaryZh": "Trump says China wants to buy US oil and LNG after Beijing talks S&P Global"
     },
     {
-      "id": "general-news-14-https://news.google.com/",
+      "id": "general-news-13-https://news.google.com/",
       "sourceId": "general",
       "source": "Forbes",
       "sourceSite": "",
@@ -432,7 +406,7 @@
       "summaryZh": "Trump Leaves China After Two Days Of Talks With Xi (Live) Forbes"
     },
     {
-      "id": "general-news-15-https://news.google.com/",
+      "id": "general-news-14-https://news.google.com/",
       "sourceId": "general",
       "source": "The New York Times",
       "sourceSite": "",
@@ -443,6 +417,19 @@
       "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
       "titleZh": "In Photos and Video: President Trump Goes to China - The New York Times",
       "summaryZh": "In Photos and Video: President Trump Goes to China The New York Times"
+    },
+    {
+      "id": "general-news-15-https://news.google.com/",
+      "sourceId": "general",
+      "source": "CNN",
+      "sourceSite": "",
+      "type": "news",
+      "title": "Trump and Xi begin Day Two of talks in Beijing, stress ‘constructive stability” in US-China relationship - CNN",
+      "description": "Trump and Xi begin Day Two of talks in Beijing, stress ‘constructive stability” in US-China relationship CNN",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNd1h6Zzd5UGVVR3dGdlRqempiWk54OS1NZllRaThuUGVRZjJ0dE1hT2haWGxUNXB0bHJaeDFZV2xlRjNiV3NSeEFaSTM4WTgyM3pqRmY2eDA0NXdyRXhMakpvQkdKNVpha3FwNUE4cW8wZEhhd29zN1NDdy12S3A3YklIbTFkTXZtRkJxWVV5M2NkSEtwUkw5OFVRcm1STmVpaWtMYUpiUFZSTE5Tc3liRHVHbFlycVJjLU41akpmRTZLZ3l4c2d0V0dlMzdvN3pBTUxvcFNqRlpzOWMxY2cyRlRWWS01dWxiNXBF?oc=5",
+      "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
+      "titleZh": "Trump and Xi begin Day Two of talks in Beijing, stress ‘constructive stability” in US-China relationship - CNN",
+      "summaryZh": "Trump and Xi begin Day Two of talks in Beijing, stress ‘constructive stability” in US-China relationship CNN"
     },
     {
       "id": "general-news-16-https://news.google.com/",
@@ -458,7 +445,7 @@
       "summaryZh": "Trump says China and Taiwan should 'both cool it' CNBC"
     },
     {
-      "id": "reuters-news-3-https://news.google.com/",
+      "id": "reuters-news-2-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -497,7 +484,7 @@
       "summaryZh": "Trump China trip: What to know as president meets Xi Jinping BBC"
     },
     {
-      "id": "bbc-news-4-https://news.google.com/",
+      "id": "bbc-news-5-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -562,20 +549,7 @@
       "summaryZh": "‘Never mess it up’: What Xi and Trump said on day one of Beijing talks Al Jazeera"
     },
     {
-      "id": "zaobao-news-0-https://news.google.com/",
-      "sourceId": "zaobao",
-      "source": "联合早报",
-      "sourceSite": "zaobao.com.sg",
-      "type": "news",
-      "title": "分析：特朗普处于弱姿态与习近平谈判 - 联合早报",
-      "description": "分析：特朗普处于弱姿态与习近平谈判 联合早报",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnNnYydXN4WTltRV84V1ptcUtVb3JBTXRudnFTdkxsQk1lNzdIQ2MxVTU2aUJpTHBQM05NS3dvT2NrR0ZVMFVBWGppLU9QS3BaWEt3MGRPTjF0UWJJSXUtZnppWkhUcDNvamc?oc=5",
-      "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
-      "titleZh": "分析：特朗普处于弱姿态与习近平谈判 - 联合早报",
-      "summaryZh": "分析：特朗普处于弱姿态与习近平谈判 联合早报"
-    },
-    {
-      "id": "zaobao-news-3-https://news.google.com/",
+      "id": "zaobao-news-2-https://news.google.com/",
       "sourceId": "zaobao",
       "source": "联合早报",
       "sourceSite": "zaobao.com.sg",
@@ -588,7 +562,7 @@
       "summaryZh": "随特朗普访华商界高管总财富超1.07万亿美元 联合早报"
     },
     {
-      "id": "zaobao-news-4-https://news.google.com/",
+      "id": "zaobao-news-3-https://news.google.com/",
       "sourceId": "zaobao",
       "source": "联合早报",
       "sourceSite": "zaobao.com.sg",
@@ -640,7 +614,7 @@
       "summaryZh": "Trump heads to Beijing for high-stakes Xi talks as trade war, Taiwan tensions simmer Fox News"
     },
     {
-      "id": "general-news-13-https://news.google.com/",
+      "id": "general-news-12-https://news.google.com/",
       "sourceId": "general",
       "source": "The New York Times",
       "sourceSite": "",
@@ -672,19 +646,6 @@
       "source": "Reuters",
       "items": [
         {
-          "id": "reuters-news-2-https://news.google.com/",
-          "sourceId": "reuters",
-          "source": "Reuters",
-          "sourceSite": "reuters.com",
-          "type": "news",
-          "title": "Trump says he is going to Turkey, China this year - Reuters",
-          "description": "Trump says he is going to Turkey, China this year Reuters",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa2tNRFVNVEdDTGpSbVY0OXRWdVBiZ2hyQnF4ZHV2V2IxdmFsWXVnZElURjdOZUN1NTh2Z0QwYVRjMlRZY1NfWmd1VXBLQVpVYmlQNC0tY012dnhnSVp2LXc4MGZwaTMwbXVNdFI2LWYxLWR5Z05sbE1PNHdPbXZ1MktGLTVzZDhYRUdtUHVJZFplWldoWExQLQ?oc=5",
-          "publishedAt": "Fri, 19 Jun 2026 20:22:15 GMT",
-          "titleZh": "Trump says he is going to Turkey, China this year - Reuters",
-          "summaryZh": "Trump says he is going to Turkey, China this year Reuters"
-        },
-        {
           "id": "reuters-news-0-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
@@ -698,7 +659,7 @@
           "summaryZh": "Xi hosted Trump, then Putin: Spot the differences in Beijing Reuters"
         },
         {
-          "id": "reuters-news-4-https://news.google.com/",
+          "id": "reuters-news-3-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -724,7 +685,7 @@
           "summaryZh": "Xi gives Trump rare tour of secret garden at heart of Chinese government Reuters"
         },
         {
-          "id": "reuters-news-5-https://news.google.com/",
+          "id": "reuters-news-4-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -737,7 +698,7 @@
           "summaryZh": "Trump leaves Beijing with few wins but warm words for Xi Reuters"
         },
         {
-          "id": "reuters-news-6-https://news.google.com/",
+          "id": "reuters-news-5-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -750,7 +711,7 @@
           "summaryZh": "Boeing, GE Aerospace CEOs meet China's state planner after Trump-Xi summit Reuters"
         },
         {
-          "id": "reuters-news-3-https://news.google.com/",
+          "id": "reuters-news-2-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -795,7 +756,7 @@
           "summaryZh": "Trump-Xi summit: US and China conclude 'very successful' talks but few deals confirmed BBC"
         },
         {
-          "id": "bbc-news-5-https://news.google.com/",
+          "id": "bbc-news-4-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -873,7 +834,7 @@
           "summaryZh": "Trump China trip: What to know as president meets Xi Jinping BBC"
         },
         {
-          "id": "bbc-news-4-https://news.google.com/",
+          "id": "bbc-news-5-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -1015,6 +976,19 @@
       "source": "联合早报",
       "items": [
         {
+          "id": "zaobao-news-0-https://news.google.com/",
+          "sourceId": "zaobao",
+          "source": "联合早报",
+          "sourceSite": "zaobao.com.sg",
+          "type": "news",
+          "title": "特朗普结束访华 乘专机离开北京 - 联合早报",
+          "description": "特朗普结束访华 乘专机离开北京 联合早报",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5faXE5cHpuM2haU0xaVGtpNlJOUnNOaUx1Z2g3a1RQMlFCakJDU0Q5eTNMN2diNWFDa0NaU21jLWRaTzNRQUtoM0pPb0ItZHc5Z09CQktRYllXZy1JR0gwS0FKTlYtN2h3U1E?oc=5",
+          "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
+          "titleZh": "特朗普结束访华 乘专机离开北京 - 联合早报",
+          "summaryZh": "特朗普结束访华 乘专机离开北京 联合早报"
+        },
+        {
           "id": "zaobao-news-1-https://news.google.com/",
           "sourceId": "zaobao",
           "source": "联合早报",
@@ -1033,32 +1007,6 @@
           "source": "联合早报",
           "sourceSite": "zaobao.com.sg",
           "type": "news",
-          "title": "特朗普结束访华 乘专机离开北京 - 联合早报",
-          "description": "特朗普结束访华 乘专机离开北京 联合早报",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5faXE5cHpuM2haU0xaVGtpNlJOUnNOaUx1Z2g3a1RQMlFCakJDU0Q5eTNMN2diNWFDa0NaU21jLWRaTzNRQUtoM0pPb0ItZHc5Z09CQktRYllXZy1JR0gwS0FKTlYtN2h3U1E?oc=5",
-          "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
-          "titleZh": "特朗普结束访华 乘专机离开北京 - 联合早报",
-          "summaryZh": "特朗普结束访华 乘专机离开北京 联合早报"
-        },
-        {
-          "id": "zaobao-news-0-https://news.google.com/",
-          "sourceId": "zaobao",
-          "source": "联合早报",
-          "sourceSite": "zaobao.com.sg",
-          "type": "news",
-          "title": "分析：特朗普处于弱姿态与习近平谈判 - 联合早报",
-          "description": "分析：特朗普处于弱姿态与习近平谈判 联合早报",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnNnYydXN4WTltRV84V1ptcUtVb3JBTXRudnFTdkxsQk1lNzdIQ2MxVTU2aUJpTHBQM05NS3dvT2NrR0ZVMFVBWGppLU9QS3BaWEt3MGRPTjF0UWJJSXUtZnppWkhUcDNvamc?oc=5",
-          "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
-          "titleZh": "分析：特朗普处于弱姿态与习近平谈判 - 联合早报",
-          "summaryZh": "分析：特朗普处于弱姿态与习近平谈判 联合早报"
-        },
-        {
-          "id": "zaobao-news-3-https://news.google.com/",
-          "sourceId": "zaobao",
-          "source": "联合早报",
-          "sourceSite": "zaobao.com.sg",
-          "type": "news",
           "title": "随特朗普访华商界高管总财富超1.07万亿美元 - 联合早报",
           "description": "随特朗普访华商界高管总财富超1.07万亿美元 联合早报",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PaHRoaEl3aFc5bW4wRml0MVFGeU4yUHoxV0UxdlFaZjhTYjdDejVIcHFBS3FNZm40bmFYQkRJSEZicVRDOEFHa0l2SHRIRzJXMUhrc3dDQkdBRGF1QXdYRFNESllldEFnR3c?oc=5",
@@ -1067,7 +1015,7 @@
           "summaryZh": "随特朗普访华商界高管总财富超1.07万亿美元 联合早报"
         },
         {
-          "id": "zaobao-news-4-https://news.google.com/",
+          "id": "zaobao-news-3-https://news.google.com/",
           "sourceId": "zaobao",
           "source": "联合早报",
           "sourceSite": "zaobao.com.sg",
@@ -1179,6 +1127,19 @@
         {
           "id": "general-news-7-https://news.google.com/",
           "sourceId": "general",
+          "source": "CNBC",
+          "sourceSite": "",
+          "type": "news",
+          "title": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
+          "description": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVGtCaV9hM2dFZXpwajNOVjd3Ujg5TWlRODEzQjdvb1d3NjdERy1iWkJTZWlYRnh3ZFhFNG9pNVF5WFFiSkszSklvLW5pNWZYQjdRTTBicG1vRGVPbnltR2dvbC05djVYbzF6X2xhdVBPckhmTkE1S2plVlBIMllhZ29vQ2RSNXZHTXcycmdyTzTSAZYBQVVfeXFMUHFPcFMydTFFS21aSDJqMjQ5ZVZ3TDQtSEEyYWd3Z1pOYTd0QzB1eGFCY0gxV0tFdTYyYUV2Z3RCeUYtLXVZbE10SlF5TFpIc0hzRzdVcjdadkR3MkFBemdPZnl3cjJ6MU5hcnk5ckFkLW4wNXR2WEhDNnR2aGpDellnRGtTLWptbjlTMnRNWFM4UHJqZnB3?oc=5",
+          "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
+          "titleZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
+          "summaryZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC"
+        },
+        {
+          "id": "general-news-8-https://news.google.com/",
+          "sourceId": "general",
           "source": "Time Magazine",
           "sourceSite": "",
           "type": "news",
@@ -1190,7 +1151,7 @@
           "summaryZh": "How A.I. Was the Elephant in the Room at the Trump-Xi Summit Time Magazine"
         },
         {
-          "id": "general-news-8-https://news.google.com/",
+          "id": "general-news-9-https://news.google.com/",
           "sourceId": "general",
           "source": "AP News",
           "sourceSite": "",
@@ -1203,33 +1164,7 @@
           "summaryZh": "Photos of Trump in China for talks with Xi Jinping AP News"
         },
         {
-          "id": "general-news-9-https://news.google.com/",
-          "sourceId": "general",
-          "source": "CNBC",
-          "sourceSite": "",
-          "type": "news",
-          "title": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
-          "description": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVGtCaV9hM2dFZXpwajNOVjd3Ujg5TWlRODEzQjdvb1d3NjdERy1iWkJTZWlYRnh3ZFhFNG9pNVF5WFFiSkszSklvLW5pNWZYQjdRTTBicG1vRGVPbnltR2dvbC05djVYbzF6X2xhdVBPckhmTkE1S2plVlBIMllhZ29vQ2RSNXZHTXcycmdyTzTSAZYBQVVfeXFMUHFPcFMydTFFS21aSDJqMjQ5ZVZ3TDQtSEEyYWd3Z1pOYTd0QzB1eGFCY0gxV0tFdTYyYUV2Z3RCeUYtLXVZbE10SlF5TFpIc0hzRzdVcjdadkR3MkFBemdPZnl3cjJ6MU5hcnk5ckFkLW4wNXR2WEhDNnR2aGpDellnRGtTLWptbjlTMnRNWFM4UHJqZnB3?oc=5",
-          "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
-          "titleZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
-          "summaryZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC"
-        },
-        {
           "id": "general-news-10-https://news.google.com/",
-          "sourceId": "general",
-          "source": "CNN",
-          "sourceSite": "",
-          "type": "news",
-          "title": "Trump and Xi begin Day Two of talks in Beijing, stress ‘constructive stability” in US-China relationship - CNN",
-          "description": "Trump and Xi begin Day Two of talks in Beijing, stress ‘constructive stability” in US-China relationship CNN",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNd1h6Zzd5UGVVR3dGdlRqempiWk54OS1NZllRaThuUGVRZjJ0dE1hT2haWGxUNXB0bHJaeDFZV2xlRjNiV3NSeEFaSTM4WTgyM3pqRmY2eDA0NXdyRXhMakpvQkdKNVpha3FwNUE4cW8wZEhhd29zN1NDdy12S3A3YklIbTFkTXZtRkJxWVV5M2NkSEtwUkw5OFVRcm1STmVpaWtMYUpiUFZSTE5Tc3liRHVHbFlycVJjLU41akpmRTZLZ3l4c2d0V0dlMzdvN3pBTUxvcFNqRlpzOWMxY2cyRlRWWS01dWxiNXBF?oc=5",
-          "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
-          "titleZh": "Trump and Xi begin Day Two of talks in Beijing, stress ‘constructive stability” in US-China relationship - CNN",
-          "summaryZh": "Trump and Xi begin Day Two of talks in Beijing, stress ‘constructive stability” in US-China relationship CNN"
-        },
-        {
-          "id": "general-news-12-https://news.google.com/",
           "sourceId": "general",
           "source": "S&P Global",
           "sourceSite": "",
@@ -1242,7 +1177,7 @@
           "summaryZh": "Trump says China wants to buy US oil and LNG after Beijing talks S&P Global"
         },
         {
-          "id": "general-news-14-https://news.google.com/",
+          "id": "general-news-13-https://news.google.com/",
           "sourceId": "general",
           "source": "Forbes",
           "sourceSite": "",
@@ -1255,7 +1190,7 @@
           "summaryZh": "Trump Leaves China After Two Days Of Talks With Xi (Live) Forbes"
         },
         {
-          "id": "general-news-15-https://news.google.com/",
+          "id": "general-news-14-https://news.google.com/",
           "sourceId": "general",
           "source": "The New York Times",
           "sourceSite": "",
@@ -1266,6 +1201,19 @@
           "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
           "titleZh": "In Photos and Video: President Trump Goes to China - The New York Times",
           "summaryZh": "In Photos and Video: President Trump Goes to China The New York Times"
+        },
+        {
+          "id": "general-news-15-https://news.google.com/",
+          "sourceId": "general",
+          "source": "CNN",
+          "sourceSite": "",
+          "type": "news",
+          "title": "Trump and Xi begin Day Two of talks in Beijing, stress ‘constructive stability” in US-China relationship - CNN",
+          "description": "Trump and Xi begin Day Two of talks in Beijing, stress ‘constructive stability” in US-China relationship CNN",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNd1h6Zzd5UGVVR3dGdlRqempiWk54OS1NZllRaThuUGVRZjJ0dE1hT2haWGxUNXB0bHJaeDFZV2xlRjNiV3NSeEFaSTM4WTgyM3pqRmY2eDA0NXdyRXhMakpvQkdKNVpha3FwNUE4cW8wZEhhd29zN1NDdy12S3A3YklIbTFkTXZtRkJxWVV5M2NkSEtwUkw5OFVRcm1STmVpaWtMYUpiUFZSTE5Tc3liRHVHbFlycVJjLU41akpmRTZLZ3l4c2d0V0dlMzdvN3pBTUxvcFNqRlpzOWMxY2cyRlRWWS01dWxiNXBF?oc=5",
+          "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
+          "titleZh": "Trump and Xi begin Day Two of talks in Beijing, stress ‘constructive stability” in US-China relationship - CNN",
+          "summaryZh": "Trump and Xi begin Day Two of talks in Beijing, stress ‘constructive stability” in US-China relationship CNN"
         },
         {
           "id": "general-news-16-https://news.google.com/",
@@ -1320,7 +1268,7 @@
           "summaryZh": "Trump heads to Beijing for high-stakes Xi talks as trade war, Taiwan tensions simmer Fox News"
         },
         {
-          "id": "general-news-13-https://news.google.com/",
+          "id": "general-news-12-https://news.google.com/",
           "sourceId": "general",
           "source": "The New York Times",
           "sourceSite": "",
@@ -1394,12 +1342,12 @@
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
       "type": "commentary",
-      "title": "Trump Makes a High Risk Move to Win Over Xi - The New York Times",
-      "description": "Trump Makes a High Risk Move to Win Over Xi The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTDdMNzV2X0UyUWRxel8xSVg4UlZua2tCLTRUamRtQmIzZ2d1VWxhWExBa2RMUVVxOTdxcUw2OXYtRTBoNFFTdXhtMjI0VlU3TzNnc1RUR2J6OUhyM1hIa2NBX1VDenNyVThKaDJrbzh0WktPZEJfU3ZUQlRmZ0pmUC1kbG9oRUd3dkRrVFoxUE9jUE5J?oc=5",
+      "title": "Trump Calls Xi a ‘Friend.’ But He Left China Without Any Breakthroughs. - The New York Times",
+      "description": "Trump Calls Xi a ‘Friend.’ But He Left China Without Any Breakthroughs. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5nT2dBOUg2MV8xNkpTSmRZalExbTRRTXgtcTZNRmZfaGdaYWNMRWx4OWdfNUkxV0Y3NWRmeWpWdWx5S0RJeC02bzJsckRUZWtoS0w2VHdJOUNtQUFTWHd5SGE5VWpYbUlWZHhsUFZfdmZzcnBUOUtSWE5BeU0?oc=5",
       "publishedAt": "Sat, 16 May 2026 07:00:00 GMT",
-      "titleZh": "Trump Makes a High Risk Move to Win Over Xi - The New York Times",
-      "summaryZh": "Trump Makes a High Risk Move to Win Over Xi The New York Times"
+      "titleZh": "Trump Calls Xi a ‘Friend.’ But He Left China Without Any Breakthroughs. - The New York Times",
+      "summaryZh": "Trump Calls Xi a ‘Friend.’ But He Left China Without Any Breakthroughs. The New York Times"
     },
     {
       "id": "nytimes-commentary-2-https://news.google.com/",
@@ -1407,12 +1355,12 @@
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
       "type": "commentary",
-      "title": "Trump Calls Xi a ‘Friend.’ But He Left China Without Any Breakthroughs. - The New York Times",
-      "description": "Trump Calls Xi a ‘Friend.’ But He Left China Without Any Breakthroughs. The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5nT2dBOUg2MV8xNkpTSmRZalExbTRRTXgtcTZNRmZfaGdaYWNMRWx4OWdfNUkxV0Y3NWRmeWpWdWx5S0RJeC02bzJsckRUZWtoS0w2VHdJOUNtQUFTWHd5SGE5VWpYbUlWZHhsUFZfdmZzcnBUOUtSWE5BeU0?oc=5",
+      "title": "Trump Makes a High Risk Move to Win Over Xi - The New York Times",
+      "description": "Trump Makes a High Risk Move to Win Over Xi The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTDdMNzV2X0UyUWRxel8xSVg4UlZua2tCLTRUamRtQmIzZ2d1VWxhWExBa2RMUVVxOTdxcUw2OXYtRTBoNFFTdXhtMjI0VlU3TzNnc1RUR2J6OUhyM1hIa2NBX1VDenNyVThKaDJrbzh0WktPZEJfU3ZUQlRmZ0pmUC1kbG9oRUd3dkRrVFoxUE9jUE5J?oc=5",
       "publishedAt": "Sat, 16 May 2026 07:00:00 GMT",
-      "titleZh": "Trump Calls Xi a ‘Friend.’ But He Left China Without Any Breakthroughs. - The New York Times",
-      "summaryZh": "Trump Calls Xi a ‘Friend.’ But He Left China Without Any Breakthroughs. The New York Times"
+      "titleZh": "Trump Makes a High Risk Move to Win Over Xi - The New York Times",
+      "summaryZh": "Trump Makes a High Risk Move to Win Over Xi The New York Times"
     },
     {
       "id": "economist-commentary-0-https://news.google.com/",
@@ -1495,7 +1443,7 @@
       "summaryZh": "Trump Says He and Xi Talked Extensively About Taiwan The New York Times"
     },
     {
-      "id": "social-social-7-https://news.google.com/",
+      "id": "social-social-6-https://news.google.com/",
       "sourceId": "social",
       "source": "The New York Times",
       "sourceSite": "",
@@ -1521,7 +1469,7 @@
       "summaryZh": "Xi-Trump Talks Cast Fresh Spotlight On Taiwan As Part Of China’s Maritime Strategy – Analysis Eurasia Review"
     },
     {
-      "id": "social-social-6-https://news.google.com/",
+      "id": "social-social-5-https://news.google.com/",
       "sourceId": "social",
       "source": "BBC",
       "sourceSite": "",
@@ -1651,7 +1599,7 @@
       "summaryZh": "China’s Xi warns Trump on Taiwan at Beijing summit The Hill"
     },
     {
-      "id": "social-social-5-https://news.google.com/",
+      "id": "social-social-7-https://news.google.com/",
       "sourceId": "social",
       "source": "BBC",
       "sourceSite": "",
@@ -1973,7 +1921,7 @@
       },
       {
         "feed": "https://news.google.com/rss/search?q=中美+北京+会谈+特朗普&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "count": 100,
+        "count": 24,
         "status": "ok"
       },
       {
@@ -1983,8 +1931,9 @@
       },
       {
         "feed": "gdelt:Trump Beijing talks",
-        "count": 50,
-        "status": "ok"
+        "count": 0,
+        "status": "failed",
+        "error": "GDELT fetch failed: 429"
       },
       {
         "feed": "gdelt:Trump Xi Beijing summit",
@@ -2002,13 +1951,13 @@
         "feed": "gdelt:特朗普 北京 会谈",
         "count": 0,
         "status": "failed",
-        "error": "Unexpected token 'Y', \"Your searc\"... is not valid JSON"
+        "error": "GDELT fetch failed: 429"
       },
       {
         "feed": "gdelt:特朗普 访华 美国企业家",
         "count": 0,
         "status": "failed",
-        "error": "Unexpected token 'Y', \"Your searc\"... is not valid JSON"
+        "error": "GDELT fetch failed: 429"
       }
     ],
     "commentary": [
@@ -2046,7 +1995,7 @@
       },
       {
         "feed": "https://news.google.com/rss/search?q=特朗普+北京+会谈+微博+大V&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "count": 46,
+        "count": 48,
         "status": "ok"
       },
       {
