@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T03:46:20.304Z",
+  "generatedAt": "2026-07-05T07:30:57.073Z",
   "topic": "特朗普北京会谈",
   "totalNews": 54,
   "totalCommentary": 8,
@@ -1586,17 +1586,17 @@
       "summaryZh": "Putin in China for talks days after Trump trip Anadolu Ajansı"
     },
     {
-      "id": "social-social-19-https://news.google.com/",
+      "id": "social-social-23-https://news.google.com/",
       "sourceId": "social",
-      "source": "The Japan Times",
+      "source": "News.com.au",
       "sourceSite": "",
       "type": "social",
-      "title": "Trump briefs South Korea’s Lee after summit in Beijing - The Japan Times",
-      "description": "Trump briefs South Korea’s Lee after summit in Beijing The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNjJycGc4NGtZRUtnMXBCY1Z5N2VzU2tZb3B3ZmE4UGVlSzNZSTZQSGhuYlN2SDJEMHZfMS1VdWl0S01vY3owZU96TnBwdTZNRVNMN3EyTTVCd3c5dUtnU3Jid08yaG5Eb1hJcWVIeE5FS2VHaFNRUDRqMWFhMG1tUm5HN3A5WmRrdV96RkVrX1JESGRQaGc?oc=5",
-      "publishedAt": "Mon, 18 May 2026 07:00:00 GMT",
-      "titleZh": "Trump briefs South Korea’s Lee after summit in Beijing - The Japan Times",
-      "summaryZh": "Trump briefs South Korea’s Lee after summit in Beijing The Japan Times"
+      "title": "‘Fire’: Xi’s stark warning to Trump - News.com.au",
+      "description": "‘Fire’: Xi’s stark warning to Trump News.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY0trekhlTk85VWVMeW9SaUF3VnR6YndISUhKaW9xYzJHaWlJQTBHdHM1Rlo3eHRWcFNLc0d1U2NBUklSUnQ2YUxlWmxNYm9fSk5ZN19Cc25EWTFZZXRjVEFrYU5BWFZfOEthajJlMGY2SW5RM3hqWWtGQXIxVnJyUlpfeW1MSklyUDkza2lyOWM2eFdKWm4yaUZ3bTUyWFYzOFIwUmFrSl9IYmU2N1VvWE9pT3RQR2ZyZC1nclJhSk90dzFETkdWZzZIN2ZlMlVVMnpMRk5uQ3J1Z1ZOQlhjRTVMN0dPTWRIY0Vnb2dXN21Pank00gH6AUFVX3lxTE5MUEFteHhseGlNOEJYOEFPZ1dQcjYzMXlkcHJJUkcyOHRMNmpHLWRlQ25OZkluMEhBRlFXNzRlekdDMG93bHNlY2g3RllGb3NSbjhkTjBfVUxDay16VWYxU3hRU3ZfSlE0X1JRSTNWMGVxdjVFdHFLSmZQbFprNWRHRjlmSkhDTG5ZbHJ0c0FCNnkwbHFRZnM5Q0FMWXdvX1lyRWpBVHZ6Rk1JeE9mVzRSMFVHUl9LZWhxYUxTeWJCV1RCeUpZTUJwZzdZVEhmYjdBNzR6Z3RwNkFVREFmTXhzclUzT243TE8yOFJJWGNnZmNELXR0S0J1aFE?oc=5",
+      "publishedAt": "Sun, 17 May 2026 07:00:00 GMT",
+      "titleZh": "‘Fire’: Xi’s stark warning to Trump - News.com.au",
+      "summaryZh": "‘Fire’: Xi’s stark warning to Trump News.com.au"
     },
     {
       "id": "social-social-15-https://news.google.com/",
@@ -1820,7 +1820,7 @@
       "summaryZh": "What's the point of Trump, Xi talks in China? Your questions answered USA Today"
     },
     {
-      "id": "social-social-20-https://news.google.com/",
+      "id": "social-social-19-https://news.google.com/",
       "sourceId": "social",
       "source": "New York Magazine",
       "sourceSite": "",
@@ -1833,7 +1833,7 @@
       "summaryZh": "14 Things That Definitely Happened on Day One of Trump’s China Trip New York Magazine"
     },
     {
-      "id": "social-social-21-https://news.google.com/",
+      "id": "social-social-20-https://news.google.com/",
       "sourceId": "social",
       "source": "朝日新聞",
       "sourceSite": "",
@@ -1846,7 +1846,7 @@
       "summaryZh": "Trump and Xi open Beijing summit with praise for trade progress 朝日新聞"
     },
     {
-      "id": "social-social-22-https://news.google.com/",
+      "id": "social-social-21-https://news.google.com/",
       "sourceId": "social",
       "source": "Interesting Engineering",
       "sourceSite": "",
@@ -1859,7 +1859,7 @@
       "summaryZh": "US approves NVIDIA AI chip sales to China as Trump holds talks with Xi in Beijing Interesting Engineering"
     },
     {
-      "id": "social-social-23-https://news.google.com/",
+      "id": "social-social-22-https://news.google.com/",
       "sourceId": "social",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "sourceSite": "",
@@ -2061,15 +2061,14 @@
       },
       {
         "feed": "gdelt:Trump Beijing talks",
-        "count": 0,
-        "status": "failed",
-        "error": "GDELT fetch failed: 429"
+        "count": 50,
+        "status": "ok"
       },
       {
         "feed": "gdelt:Trump Xi Beijing summit",
         "count": 0,
         "status": "failed",
-        "error": "GDELT fetch failed: 429"
+        "error": "fetch failed"
       },
       {
         "feed": "gdelt:Trump China state visit CEOs",
@@ -2087,13 +2086,13 @@
         "feed": "gdelt:特朗普 访华 美国企业家",
         "count": 0,
         "status": "failed",
-        "error": "Unexpected token 'Y', \"Your searc\"... is not valid JSON"
+        "error": "GDELT fetch failed: 429"
       }
     ],
     "commentary": [
       {
         "feed": "https://news.google.com/rss/search?q=Trump+Beijing+China+talks+analysis&hl=en-US&gl=US&ceid=US:en",
-        "count": 70,
+        "count": 65,
         "status": "ok"
       },
       {
@@ -2120,12 +2119,12 @@
     "social": [
       {
         "feed": "https://news.google.com/rss/search?q=Trump+Beijing+talks+X+OR+Twitter&hl=en-US&gl=US&ceid=US:en",
-        "count": 61,
+        "count": 60,
         "status": "ok"
       },
       {
         "feed": "https://news.google.com/rss/search?q=特朗普+北京+会谈+微博+大V&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "count": 62,
+        "count": 60,
         "status": "ok"
       },
       {
