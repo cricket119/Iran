@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-15T17:21:16.105Z",
+  "generatedAt": "2026-07-15T21:04:18.612Z",
   "topic": "特朗普北京会谈",
-  "totalNews": 52,
+  "totalNews": 51,
   "totalCommentary": 12,
   "totalSocial": 24,
   "totalMarkets": 11,
@@ -16,7 +16,20 @@
   },
   "timeline": [
     {
-      "id": "general-news-4-https://news.google.com/",
+      "id": "general-news-0-https://news.google.com/",
+      "sourceId": "general",
+      "source": "Los Angeles Times",
+      "sourceSite": "",
+      "type": "news",
+      "title": "China and Xi are seen more favorably than the U.S. and Trump in many nations, new survey says - Los Angeles Times",
+      "description": "China and Xi are seen more favorably than the U.S. and Trump in many nations, new survey says Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVkxPX3Z1WEtuMDVwQURvUjV2NjNKRmw0U3k2cFI5dVhGOHpxR0RKd0RfRG4xbEZMeE1rV1lZNHZQOE13M0xVNUpKV1p6a1QtRXlVTVJPRGYzeWZZdWRJSXN6eTRHMUxNVTVYejJaUXZXWjYtSmc0em5pXzl0V0FwZTlyV3djcTE0UktOSHdQX25HRW5pdWZTTGtXbHkyU1VTenRjdS1adkRHTW9MNFl0Z3J5NDN6WkRUSGxqZjE3bmRPWHBBbkxQYW03dUlkQQ?oc=5",
+      "publishedAt": "Wed, 15 Jul 2026 18:35:21 GMT",
+      "titleZh": "China and Xi are seen more favorably than the U.S. and Trump in many nations, new survey says - Los Angeles Times",
+      "summaryZh": "China and Xi are seen more favorably than the U.S. and Trump in many nations, new survey says Los Angeles Times"
+    },
+    {
+      "id": "general-news-5-https://news.google.com/",
       "sourceId": "general",
       "source": "East Asia Forum",
       "sourceSite": "",
@@ -107,7 +120,7 @@
       "summaryZh": "US CEOs follow Trump's footsteps with diplomacy in Beijing Reuters"
     },
     {
-      "id": "general-news-7-https://news.google.com/",
+      "id": "general-news-8-https://news.google.com/",
       "sourceId": "general",
       "source": "CNN",
       "sourceSite": "",
@@ -118,19 +131,6 @@
       "publishedAt": "Sat, 16 May 2026 07:00:00 GMT",
       "titleZh": "Trump’s Beijing visit was more vibes than details. And Xi set the tone - CNN",
       "summaryZh": "Trump’s Beijing visit was more vibes than details. And Xi set the tone CNN"
-    },
-    {
-      "id": "general-news-19-https://news.google.com/",
-      "sourceId": "general",
-      "source": "The Guardian",
-      "sourceSite": "",
-      "type": "news",
-      "title": "Pomp, pageantry but precious little to show for Trump’s Beijing excursion - The Guardian",
-      "description": "Pomp, pageantry but precious little to show for Trump’s Beijing excursion The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSWRGLWs0c1lGSkF4aVFOaXZDZzVKTFFfX21RUkhzazY2V0tYMVpwTnhuOW0zN2NZZThrbS14SXdtcDJKYVI0ZThKaW9CUnVJYVVYNS1QQWtlVWtEXzEzMEtnck9DTjE3OWVhdE5BZDd3Tm42OF9NeUxMSjJNdU5VU0tBaTFrb0ZYSTVkRg?oc=5",
-      "publishedAt": "Sat, 16 May 2026 07:00:00 GMT",
-      "titleZh": "Pomp, pageantry but precious little to show for Trump’s Beijing excursion - The Guardian",
-      "summaryZh": "Pomp, pageantry but precious little to show for Trump’s Beijing excursion The Guardian"
     },
     {
       "id": "reuters-news-1-https://news.google.com/",
@@ -250,7 +250,7 @@
       "summaryZh": "Trump departs China touting deals, but little clarity on Iran or Taiwan Al Jazeera"
     },
     {
-      "id": "aljazeera-news-4-https://news.google.com/",
+      "id": "aljazeera-news-3-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -263,7 +263,7 @@
       "summaryZh": "Trump-Xi summit: China, US disagree on what they agreed on Al Jazeera"
     },
     {
-      "id": "aljazeera-news-5-https://news.google.com/",
+      "id": "aljazeera-news-4-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -276,7 +276,7 @@
       "summaryZh": "How Xi-Trump summit failed to yield Iran war breakthrough Al Jazeera"
     },
     {
-      "id": "aljazeera-news-6-https://news.google.com/",
+      "id": "aljazeera-news-5-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -289,7 +289,7 @@
       "summaryZh": "Iran war day 77: Trump, Xi discuss Hormuz as Tehran rallies BRICS Al Jazeera"
     },
     {
-      "id": "aljazeera-news-7-https://news.google.com/",
+      "id": "aljazeera-news-6-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -302,7 +302,7 @@
       "summaryZh": "After Trump’s pledge to ‘open up’ China, low expectations for trade deal Al Jazeera"
     },
     {
-      "id": "general-news-1-https://news.google.com/",
+      "id": "general-news-2-https://news.google.com/",
       "sourceId": "general",
       "source": "Atlantic Council",
       "sourceSite": "",
@@ -315,7 +315,7 @@
       "summaryZh": "What did Trump and Xi accomplish? Atlantic Council"
     },
     {
-      "id": "general-news-5-https://news.google.com/",
+      "id": "general-news-6-https://news.google.com/",
       "sourceId": "general",
       "source": "Bloomberg.com",
       "sourceSite": "",
@@ -328,30 +328,17 @@
       "summaryZh": "Winners and Losers From Trump and Xi’s Two-Day Beijing Summit Bloomberg.com"
     },
     {
-      "id": "general-news-9-https://news.google.com/",
-      "sourceId": "general",
-      "source": "CNBC",
-      "sourceSite": "",
-      "type": "news",
-      "title": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
-      "description": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVGtCaV9hM2dFZXpwajNOVjd3Ujg5TWlRODEzQjdvb1d3NjdERy1iWkJTZWlYRnh3ZFhFNG9pNVF5WFFiSkszSklvLW5pNWZYQjdRTTBicG1vRGVPbnltR2dvbC05djVYbzF6X2xhdVBPckhmTkE1S2plVlBIMllhZ29vQ2RSNXZHTXcycmdyTzTSAZYBQVVfeXFMUHFPcFMydTFFS21aSDJqMjQ5ZVZ3TDQtSEEyYWd3Z1pOYTd0QzB1eGFCY0gxV0tFdTYyYUV2Z3RCeUYtLXVZbE10SlF5TFpIc0hzRzdVcjdadkR3MkFBemdPZnl3cjJ6MU5hcnk5ckFkLW4wNXR2WEhDNnR2aGpDellnRGtTLWptbjlTMnRNWFM4UHJqZnB3?oc=5",
-      "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
-      "titleZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
-      "summaryZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC"
-    },
-    {
       "id": "general-news-10-https://news.google.com/",
       "sourceId": "general",
-      "source": "Forbes",
+      "source": "S&P Global",
       "sourceSite": "",
       "type": "news",
-      "title": "Trump Leaves China After Two Days Of Talks With Xi (Live) - Forbes",
-      "description": "Trump Leaves China After Two Days Of Talks With Xi (Live) Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd1pUUnNiR3hvV1g1VFRRamdERXBwQ3hKY196UTM1clg5b1Ixbm8teEdVQTBxU19mU2h5aHdGQnA5dTVlNzJOeHNjM0pSUFY1X1V4S2plLXZYWm5Ga3RVblF1Vm1lLXlxQmlSYWNDUmVWbFFsVnRyN2JiekVaTnE4SVEzQVRzQjVqRzZJb1JZbTNZTGJqZE83Si1iT2pndEduUE9xaTlFUnI?oc=5",
+      "title": "Trump says China wants to buy US oil and LNG after Beijing talks - S&P Global",
+      "description": "Trump says China wants to buy US oil and LNG after Beijing talks S&P Global",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSXhYTVB5akRSdy1SRW5vWGJXWjVSWE53V3ltOE4tV0R1RUdhY2RJd1lfenhNQzNMY3AyRVdNZmxNZ3VfNGFWdlZBa2FhZ1c5TUR1VjZlb3I2QWhjUnJuOE5mVXh0M3ZDVFFHek9uY0NSSjFLbE8zdlA2cW5tbER4RDhsM0U4UGw2QzhxUktmTW1Mb1VMUzNHeGZZY293RnJtVFByTll3UW9QY2t0bGplSDlwWnFVd3V6bE1SY2lTTmdPMVNkdnBPNWg0WVNYOWpEdlFodVpOUlUybHRS?oc=5",
       "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
-      "titleZh": "Trump Leaves China After Two Days Of Talks With Xi (Live) - Forbes",
-      "summaryZh": "Trump Leaves China After Two Days Of Talks With Xi (Live) Forbes"
+      "titleZh": "Trump says China wants to buy US oil and LNG after Beijing talks - S&P Global",
+      "summaryZh": "Trump says China wants to buy US oil and LNG after Beijing talks S&P Global"
     },
     {
       "id": "general-news-11-https://news.google.com/",
@@ -369,18 +356,31 @@
     {
       "id": "general-news-13-https://news.google.com/",
       "sourceId": "general",
-      "source": "S&P Global",
+      "source": "CNBC",
       "sourceSite": "",
       "type": "news",
-      "title": "Trump says China wants to buy US oil and LNG after Beijing talks - S&P Global",
-      "description": "Trump says China wants to buy US oil and LNG after Beijing talks S&P Global",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSXhYTVB5akRSdy1SRW5vWGJXWjVSWE53V3ltOE4tV0R1RUdhY2RJd1lfenhNQzNMY3AyRVdNZmxNZ3VfNGFWdlZBa2FhZ1c5TUR1VjZlb3I2QWhjUnJuOE5mVXh0M3ZDVFFHek9uY0NSSjFLbE8zdlA2cW5tbER4RDhsM0U4UGw2QzhxUktmTW1Mb1VMUzNHeGZZY293RnJtVFByTll3UW9QY2t0bGplSDlwWnFVd3V6bE1SY2lTTmdPMVNkdnBPNWg0WVNYOWpEdlFodVpOUlUybHRS?oc=5",
+      "title": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
+      "description": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVGtCaV9hM2dFZXpwajNOVjd3Ujg5TWlRODEzQjdvb1d3NjdERy1iWkJTZWlYRnh3ZFhFNG9pNVF5WFFiSkszSklvLW5pNWZYQjdRTTBicG1vRGVPbnltR2dvbC05djVYbzF6X2xhdVBPckhmTkE1S2plVlBIMllhZ29vQ2RSNXZHTXcycmdyTzTSAZYBQVVfeXFMUHFPcFMydTFFS21aSDJqMjQ5ZVZ3TDQtSEEyYWd3Z1pOYTd0QzB1eGFCY0gxV0tFdTYyYUV2Z3RCeUYtLXVZbE10SlF5TFpIc0hzRzdVcjdadkR3MkFBemdPZnl3cjJ6MU5hcnk5ckFkLW4wNXR2WEhDNnR2aGpDellnRGtTLWptbjlTMnRNWFM4UHJqZnB3?oc=5",
       "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
-      "titleZh": "Trump says China wants to buy US oil and LNG after Beijing talks - S&P Global",
-      "summaryZh": "Trump says China wants to buy US oil and LNG after Beijing talks S&P Global"
+      "titleZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
+      "summaryZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC"
     },
     {
       "id": "general-news-14-https://news.google.com/",
+      "sourceId": "general",
+      "source": "Forbes",
+      "sourceSite": "",
+      "type": "news",
+      "title": "Trump Leaves China After Two Days Of Talks With Xi (Live) - Forbes",
+      "description": "Trump Leaves China After Two Days Of Talks With Xi (Live) Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd1pUUnNiR3hvV1g1VFRRamdERXBwQ3hKY196UTM1clg5b1Ixbm8teEdVQTBxU19mU2h5aHdGQnA5dTVlNzJOeHNjM0pSUFY1X1V4S2plLXZYWm5Ga3RVblF1Vm1lLXlxQmlSYWNDUmVWbFFsVnRyN2JiekVaTnE4SVEzQVRzQjVqRzZJb1JZbTNZTGJqZE83Si1iT2pndEduUE9xaTlFUnI?oc=5",
+      "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
+      "titleZh": "Trump Leaves China After Two Days Of Talks With Xi (Live) - Forbes",
+      "summaryZh": "Trump Leaves China After Two Days Of Talks With Xi (Live) Forbes"
+    },
+    {
+      "id": "general-news-15-https://news.google.com/",
       "sourceId": "general",
       "source": "CNBC",
       "sourceSite": "",
@@ -393,7 +393,7 @@
       "summaryZh": "Trump says China and Taiwan should 'both cool it' CNBC"
     },
     {
-      "id": "general-news-16-https://news.google.com/",
+      "id": "general-news-17-https://news.google.com/",
       "sourceId": "general",
       "source": "Fast Company",
       "sourceSite": "",
@@ -406,7 +406,7 @@
       "summaryZh": "Trump and Xi Jinping wrap Beijing summit. Here’s where U.S.-China relations stand Fast Company"
     },
     {
-      "id": "general-news-17-https://news.google.com/",
+      "id": "general-news-18-https://news.google.com/",
       "sourceId": "general",
       "source": "The Conversation",
       "sourceSite": "",
@@ -554,19 +554,6 @@
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
       "type": "news",
-      "title": "Xi Jinping welcomes Donald Trump with ceremony ahead of high-stakes meeting - Al Jazeera",
-      "description": "Xi Jinping welcomes Donald Trump with ceremony ahead of high-stakes meeting Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeVFFWFpzeUljSG15OXJUeUp0VnJOYnZ6SzZfRnpoN0xqOVpDd1M4bWltYmJxaE5PUDIxbFo0b0pIdW9UNFVEVHVHdHpNMVMyOV9OdFBXT2dVZGJLRkFrak1ZR0s1M05nRnJ3S1FxMk80WTA1b2JRVFpaWjlPZG1NVHlaY012NGpGcEVaMFFLT3IwUzFhNnY0OEpid3VSZEJ1YjVVUTV4NTB5Y2Y2U0YwMFZmUXdHNkQ3dzE5aExzT2ZuR1ox0gHKAUFVX3lxTE9nUXhyWlZPQlQ2XzJ6N1BoUVluR0pvazhnS1dfbWdma3FWaUZGVlZkTmtfUmdSN0FyWkxTZHBCZUdEWFNRMF9fLVZER0JTVjlDeU5fX1FFLV9qcWtfVUNkWV9GRGQ5X0FEWU9paERmMGhhWi1kMGIyYkFFV2JvbVRYOTRsRzc3UzZMRWdkQ1NrOXJIWWpCc0pvWjhmSmZpYXJUVHhkSHlBMFA2VnFCeFNqM0Zvc1JtOEVDeXZ3U3o4NGwxbnpoemNVMXc?oc=5",
-      "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
-      "titleZh": "Xi Jinping welcomes Donald Trump with ceremony ahead of high-stakes meeting - Al Jazeera",
-      "summaryZh": "Xi Jinping welcomes Donald Trump with ceremony ahead of high-stakes meeting Al Jazeera"
-    },
-    {
-      "id": "aljazeera-news-3-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
       "title": "Trump praises China as he ignores question about Taiwan - Al Jazeera",
       "description": "Trump praises China as he ignores question about Taiwan Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdnJqSm51RmV4eDZWUVVYZTA2SXdWTXY1RVZVNV9sVmxZa2laM1k2ck5WLTFzUDZROW5qRHFtSDZoTklZQ1FXN0VRODN4VmdNRmZFZzM2REpRUlBUYWFTWGFhOG81VDllcERmQnMtQzZaLTNSQXFRY0ZOM0kybTdERW5qNmxmVGhJbGEyWDJNUG84d0xWalhBb2NheHo5UnJWekRSZGw1T0kxQdIBrwFBVV95cUxPUmszQlpFSi1zZWlSOG9GLUdZeW5LMjZPemY5YzVHckNsZ2E1N3UwdEt2Tkc1T1ZxNEo3WHN2WWRSTEhaQ3MzUEFEblhuR294TTktRklzVlo4R3dTajJucTFUVkVEXzBTaXc2bnZ3OEhsaW53bTdZaXU2bmNvMVNUUHRza1VVeEE4cVBITlBxOXRsdHdlNUFTWXZ5amd4RU1GQ3RSbUZJTFlfb2tTOXQ4?oc=5",
@@ -588,7 +575,7 @@
       "summaryZh": "会见随特朗普访华美企巨头 李强承诺政策环境稳定开放 联合早报"
     },
     {
-      "id": "general-news-0-https://news.google.com/",
+      "id": "general-news-1-https://news.google.com/",
       "sourceId": "general",
       "source": "Council on Foreign Relations",
       "sourceSite": "",
@@ -601,7 +588,7 @@
       "summaryZh": "Trump-Xi Talks Are Underway in Beijing Council on Foreign Relations"
     },
     {
-      "id": "general-news-2-https://news.google.com/",
+      "id": "general-news-3-https://news.google.com/",
       "sourceId": "general",
       "source": "The Hill",
       "sourceSite": "",
@@ -614,7 +601,7 @@
       "summaryZh": "In Beijing, Trump easily holds the winning hand The Hill"
     },
     {
-      "id": "general-news-3-https://news.google.com/",
+      "id": "general-news-4-https://news.google.com/",
       "sourceId": "general",
       "source": "mfa.gov.cn",
       "sourceSite": "",
@@ -627,7 +614,7 @@
       "summaryZh": "President Xi Jinping Holds Talks with U.S. President Donald J. Trump mfa.gov.cn"
     },
     {
-      "id": "general-news-6-https://news.google.com/",
+      "id": "general-news-7-https://news.google.com/",
       "sourceId": "general",
       "source": "The Christian Science Monitor",
       "sourceSite": "",
@@ -640,7 +627,7 @@
       "summaryZh": "As Trump and Xi talk business, questions about Taiwan loom The Christian Science Monitor"
     },
     {
-      "id": "general-news-8-https://news.google.com/",
+      "id": "general-news-9-https://news.google.com/",
       "sourceId": "general",
       "source": "The New York Times",
       "sourceSite": "",
@@ -666,7 +653,7 @@
       "summaryZh": "Trump and Xi begin Day Two of talks in Beijing, stress ‘constructive stability” in US-China relationship CNN"
     },
     {
-      "id": "general-news-15-https://news.google.com/",
+      "id": "general-news-16-https://news.google.com/",
       "sourceId": "general",
       "source": "marketplace.org",
       "sourceSite": "",
@@ -679,7 +666,7 @@
       "summaryZh": "What to expect from Trump's visit to China marketplace.org"
     },
     {
-      "id": "general-news-18-https://news.google.com/",
+      "id": "general-news-19-https://news.google.com/",
       "sourceId": "general",
       "source": "E&E News by POLITICO",
       "sourceSite": "",
@@ -1022,7 +1009,7 @@
           "summaryZh": "Trump departs China touting deals, but little clarity on Iran or Taiwan Al Jazeera"
         },
         {
-          "id": "aljazeera-news-4-https://news.google.com/",
+          "id": "aljazeera-news-3-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -1035,7 +1022,7 @@
           "summaryZh": "Trump-Xi summit: China, US disagree on what they agreed on Al Jazeera"
         },
         {
-          "id": "aljazeera-news-5-https://news.google.com/",
+          "id": "aljazeera-news-4-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -1048,7 +1035,7 @@
           "summaryZh": "How Xi-Trump summit failed to yield Iran war breakthrough Al Jazeera"
         },
         {
-          "id": "aljazeera-news-6-https://news.google.com/",
+          "id": "aljazeera-news-5-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -1061,7 +1048,7 @@
           "summaryZh": "Iran war day 77: Trump, Xi discuss Hormuz as Tehran rallies BRICS Al Jazeera"
         },
         {
-          "id": "aljazeera-news-7-https://news.google.com/",
+          "id": "aljazeera-news-6-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -1088,19 +1075,6 @@
         },
         {
           "id": "aljazeera-news-2-https://news.google.com/",
-          "sourceId": "aljazeera",
-          "source": "Al Jazeera",
-          "sourceSite": "aljazeera.com",
-          "type": "news",
-          "title": "Xi Jinping welcomes Donald Trump with ceremony ahead of high-stakes meeting - Al Jazeera",
-          "description": "Xi Jinping welcomes Donald Trump with ceremony ahead of high-stakes meeting Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeVFFWFpzeUljSG15OXJUeUp0VnJOYnZ6SzZfRnpoN0xqOVpDd1M4bWltYmJxaE5PUDIxbFo0b0pIdW9UNFVEVHVHdHpNMVMyOV9OdFBXT2dVZGJLRkFrak1ZR0s1M05nRnJ3S1FxMk80WTA1b2JRVFpaWjlPZG1NVHlaY012NGpGcEVaMFFLT3IwUzFhNnY0OEpid3VSZEJ1YjVVUTV4NTB5Y2Y2U0YwMFZmUXdHNkQ3dzE5aExzT2ZuR1ox0gHKAUFVX3lxTE9nUXhyWlZPQlQ2XzJ6N1BoUVluR0pvazhnS1dfbWdma3FWaUZGVlZkTmtfUmdSN0FyWkxTZHBCZUdEWFNRMF9fLVZER0JTVjlDeU5fX1FFLV9qcWtfVUNkWV9GRGQ5X0FEWU9paERmMGhhWi1kMGIyYkFFV2JvbVRYOTRsRzc3UzZMRWdkQ1NrOXJIWWpCc0pvWjhmSmZpYXJUVHhkSHlBMFA2VnFCeFNqM0Zvc1JtOEVDeXZ3U3o4NGwxbnpoemNVMXc?oc=5",
-          "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
-          "titleZh": "Xi Jinping welcomes Donald Trump with ceremony ahead of high-stakes meeting - Al Jazeera",
-          "summaryZh": "Xi Jinping welcomes Donald Trump with ceremony ahead of high-stakes meeting Al Jazeera"
-        },
-        {
-          "id": "aljazeera-news-3-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -1138,7 +1112,20 @@
       "source": "其他可信来源",
       "items": [
         {
-          "id": "general-news-4-https://news.google.com/",
+          "id": "general-news-0-https://news.google.com/",
+          "sourceId": "general",
+          "source": "Los Angeles Times",
+          "sourceSite": "",
+          "type": "news",
+          "title": "China and Xi are seen more favorably than the U.S. and Trump in many nations, new survey says - Los Angeles Times",
+          "description": "China and Xi are seen more favorably than the U.S. and Trump in many nations, new survey says Los Angeles Times",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVkxPX3Z1WEtuMDVwQURvUjV2NjNKRmw0U3k2cFI5dVhGOHpxR0RKd0RfRG4xbEZMeE1rV1lZNHZQOE13M0xVNUpKV1p6a1QtRXlVTVJPRGYzeWZZdWRJSXN6eTRHMUxNVTVYejJaUXZXWjYtSmc0em5pXzl0V0FwZTlyV3djcTE0UktOSHdQX25HRW5pdWZTTGtXbHkyU1VTenRjdS1adkRHTW9MNFl0Z3J5NDN6WkRUSGxqZjE3bmRPWHBBbkxQYW03dUlkQQ?oc=5",
+          "publishedAt": "Wed, 15 Jul 2026 18:35:21 GMT",
+          "titleZh": "China and Xi are seen more favorably than the U.S. and Trump in many nations, new survey says - Los Angeles Times",
+          "summaryZh": "China and Xi are seen more favorably than the U.S. and Trump in many nations, new survey says Los Angeles Times"
+        },
+        {
+          "id": "general-news-5-https://news.google.com/",
           "sourceId": "general",
           "source": "East Asia Forum",
           "sourceSite": "",
@@ -1151,7 +1138,7 @@
           "summaryZh": "China turns Trump’s ill-prepared summit towards Taiwan East Asia Forum"
         },
         {
-          "id": "general-news-7-https://news.google.com/",
+          "id": "general-news-8-https://news.google.com/",
           "sourceId": "general",
           "source": "CNN",
           "sourceSite": "",
@@ -1164,20 +1151,7 @@
           "summaryZh": "Trump’s Beijing visit was more vibes than details. And Xi set the tone CNN"
         },
         {
-          "id": "general-news-19-https://news.google.com/",
-          "sourceId": "general",
-          "source": "The Guardian",
-          "sourceSite": "",
-          "type": "news",
-          "title": "Pomp, pageantry but precious little to show for Trump’s Beijing excursion - The Guardian",
-          "description": "Pomp, pageantry but precious little to show for Trump’s Beijing excursion The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSWRGLWs0c1lGSkF4aVFOaXZDZzVKTFFfX21RUkhzazY2V0tYMVpwTnhuOW0zN2NZZThrbS14SXdtcDJKYVI0ZThKaW9CUnVJYVVYNS1QQWtlVWtEXzEzMEtnck9DTjE3OWVhdE5BZDd3Tm42OF9NeUxMSjJNdU5VU0tBaTFrb0ZYSTVkRg?oc=5",
-          "publishedAt": "Sat, 16 May 2026 07:00:00 GMT",
-          "titleZh": "Pomp, pageantry but precious little to show for Trump’s Beijing excursion - The Guardian",
-          "summaryZh": "Pomp, pageantry but precious little to show for Trump’s Beijing excursion The Guardian"
-        },
-        {
-          "id": "general-news-1-https://news.google.com/",
+          "id": "general-news-2-https://news.google.com/",
           "sourceId": "general",
           "source": "Atlantic Council",
           "sourceSite": "",
@@ -1190,7 +1164,7 @@
           "summaryZh": "What did Trump and Xi accomplish? Atlantic Council"
         },
         {
-          "id": "general-news-5-https://news.google.com/",
+          "id": "general-news-6-https://news.google.com/",
           "sourceId": "general",
           "source": "Bloomberg.com",
           "sourceSite": "",
@@ -1203,30 +1177,17 @@
           "summaryZh": "Winners and Losers From Trump and Xi’s Two-Day Beijing Summit Bloomberg.com"
         },
         {
-          "id": "general-news-9-https://news.google.com/",
-          "sourceId": "general",
-          "source": "CNBC",
-          "sourceSite": "",
-          "type": "news",
-          "title": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
-          "description": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVGtCaV9hM2dFZXpwajNOVjd3Ujg5TWlRODEzQjdvb1d3NjdERy1iWkJTZWlYRnh3ZFhFNG9pNVF5WFFiSkszSklvLW5pNWZYQjdRTTBicG1vRGVPbnltR2dvbC05djVYbzF6X2xhdVBPckhmTkE1S2plVlBIMllhZ29vQ2RSNXZHTXcycmdyTzTSAZYBQVVfeXFMUHFPcFMydTFFS21aSDJqMjQ5ZVZ3TDQtSEEyYWd3Z1pOYTd0QzB1eGFCY0gxV0tFdTYyYUV2Z3RCeUYtLXVZbE10SlF5TFpIc0hzRzdVcjdadkR3MkFBemdPZnl3cjJ6MU5hcnk5ckFkLW4wNXR2WEhDNnR2aGpDellnRGtTLWptbjlTMnRNWFM4UHJqZnB3?oc=5",
-          "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
-          "titleZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
-          "summaryZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC"
-        },
-        {
           "id": "general-news-10-https://news.google.com/",
           "sourceId": "general",
-          "source": "Forbes",
+          "source": "S&P Global",
           "sourceSite": "",
           "type": "news",
-          "title": "Trump Leaves China After Two Days Of Talks With Xi (Live) - Forbes",
-          "description": "Trump Leaves China After Two Days Of Talks With Xi (Live) Forbes",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd1pUUnNiR3hvV1g1VFRRamdERXBwQ3hKY196UTM1clg5b1Ixbm8teEdVQTBxU19mU2h5aHdGQnA5dTVlNzJOeHNjM0pSUFY1X1V4S2plLXZYWm5Ga3RVblF1Vm1lLXlxQmlSYWNDUmVWbFFsVnRyN2JiekVaTnE4SVEzQVRzQjVqRzZJb1JZbTNZTGJqZE83Si1iT2pndEduUE9xaTlFUnI?oc=5",
+          "title": "Trump says China wants to buy US oil and LNG after Beijing talks - S&P Global",
+          "description": "Trump says China wants to buy US oil and LNG after Beijing talks S&P Global",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSXhYTVB5akRSdy1SRW5vWGJXWjVSWE53V3ltOE4tV0R1RUdhY2RJd1lfenhNQzNMY3AyRVdNZmxNZ3VfNGFWdlZBa2FhZ1c5TUR1VjZlb3I2QWhjUnJuOE5mVXh0M3ZDVFFHek9uY0NSSjFLbE8zdlA2cW5tbER4RDhsM0U4UGw2QzhxUktmTW1Mb1VMUzNHeGZZY293RnJtVFByTll3UW9QY2t0bGplSDlwWnFVd3V6bE1SY2lTTmdPMVNkdnBPNWg0WVNYOWpEdlFodVpOUlUybHRS?oc=5",
           "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
-          "titleZh": "Trump Leaves China After Two Days Of Talks With Xi (Live) - Forbes",
-          "summaryZh": "Trump Leaves China After Two Days Of Talks With Xi (Live) Forbes"
+          "titleZh": "Trump says China wants to buy US oil and LNG after Beijing talks - S&P Global",
+          "summaryZh": "Trump says China wants to buy US oil and LNG after Beijing talks S&P Global"
         },
         {
           "id": "general-news-11-https://news.google.com/",
@@ -1244,18 +1205,31 @@
         {
           "id": "general-news-13-https://news.google.com/",
           "sourceId": "general",
-          "source": "S&P Global",
+          "source": "CNBC",
           "sourceSite": "",
           "type": "news",
-          "title": "Trump says China wants to buy US oil and LNG after Beijing talks - S&P Global",
-          "description": "Trump says China wants to buy US oil and LNG after Beijing talks S&P Global",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSXhYTVB5akRSdy1SRW5vWGJXWjVSWE53V3ltOE4tV0R1RUdhY2RJd1lfenhNQzNMY3AyRVdNZmxNZ3VfNGFWdlZBa2FhZ1c5TUR1VjZlb3I2QWhjUnJuOE5mVXh0M3ZDVFFHek9uY0NSSjFLbE8zdlA2cW5tbER4RDhsM0U4UGw2QzhxUktmTW1Mb1VMUzNHeGZZY293RnJtVFByTll3UW9QY2t0bGplSDlwWnFVd3V6bE1SY2lTTmdPMVNkdnBPNWg0WVNYOWpEdlFodVpOUlUybHRS?oc=5",
+          "title": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
+          "description": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVGtCaV9hM2dFZXpwajNOVjd3Ujg5TWlRODEzQjdvb1d3NjdERy1iWkJTZWlYRnh3ZFhFNG9pNVF5WFFiSkszSklvLW5pNWZYQjdRTTBicG1vRGVPbnltR2dvbC05djVYbzF6X2xhdVBPckhmTkE1S2plVlBIMllhZ29vQ2RSNXZHTXcycmdyTzTSAZYBQVVfeXFMUHFPcFMydTFFS21aSDJqMjQ5ZVZ3TDQtSEEyYWd3Z1pOYTd0QzB1eGFCY0gxV0tFdTYyYUV2Z3RCeUYtLXVZbE10SlF5TFpIc0hzRzdVcjdadkR3MkFBemdPZnl3cjJ6MU5hcnk5ckFkLW4wNXR2WEhDNnR2aGpDellnRGtTLWptbjlTMnRNWFM4UHJqZnB3?oc=5",
           "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
-          "titleZh": "Trump says China wants to buy US oil and LNG after Beijing talks - S&P Global",
-          "summaryZh": "Trump says China wants to buy US oil and LNG after Beijing talks S&P Global"
+          "titleZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
+          "summaryZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC"
         },
         {
           "id": "general-news-14-https://news.google.com/",
+          "sourceId": "general",
+          "source": "Forbes",
+          "sourceSite": "",
+          "type": "news",
+          "title": "Trump Leaves China After Two Days Of Talks With Xi (Live) - Forbes",
+          "description": "Trump Leaves China After Two Days Of Talks With Xi (Live) Forbes",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd1pUUnNiR3hvV1g1VFRRamdERXBwQ3hKY196UTM1clg5b1Ixbm8teEdVQTBxU19mU2h5aHdGQnA5dTVlNzJOeHNjM0pSUFY1X1V4S2plLXZYWm5Ga3RVblF1Vm1lLXlxQmlSYWNDUmVWbFFsVnRyN2JiekVaTnE4SVEzQVRzQjVqRzZJb1JZbTNZTGJqZE83Si1iT2pndEduUE9xaTlFUnI?oc=5",
+          "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
+          "titleZh": "Trump Leaves China After Two Days Of Talks With Xi (Live) - Forbes",
+          "summaryZh": "Trump Leaves China After Two Days Of Talks With Xi (Live) Forbes"
+        },
+        {
+          "id": "general-news-15-https://news.google.com/",
           "sourceId": "general",
           "source": "CNBC",
           "sourceSite": "",
@@ -1268,7 +1242,7 @@
           "summaryZh": "Trump says China and Taiwan should 'both cool it' CNBC"
         },
         {
-          "id": "general-news-16-https://news.google.com/",
+          "id": "general-news-17-https://news.google.com/",
           "sourceId": "general",
           "source": "Fast Company",
           "sourceSite": "",
@@ -1281,7 +1255,7 @@
           "summaryZh": "Trump and Xi Jinping wrap Beijing summit. Here’s where U.S.-China relations stand Fast Company"
         },
         {
-          "id": "general-news-17-https://news.google.com/",
+          "id": "general-news-18-https://news.google.com/",
           "sourceId": "general",
           "source": "The Conversation",
           "sourceSite": "",
@@ -1294,7 +1268,7 @@
           "summaryZh": "Donald Trump left Beijing empty-handed – but avoided something worse The Conversation"
         },
         {
-          "id": "general-news-0-https://news.google.com/",
+          "id": "general-news-1-https://news.google.com/",
           "sourceId": "general",
           "source": "Council on Foreign Relations",
           "sourceSite": "",
@@ -1307,7 +1281,7 @@
           "summaryZh": "Trump-Xi Talks Are Underway in Beijing Council on Foreign Relations"
         },
         {
-          "id": "general-news-2-https://news.google.com/",
+          "id": "general-news-3-https://news.google.com/",
           "sourceId": "general",
           "source": "The Hill",
           "sourceSite": "",
@@ -1320,7 +1294,7 @@
           "summaryZh": "In Beijing, Trump easily holds the winning hand The Hill"
         },
         {
-          "id": "general-news-3-https://news.google.com/",
+          "id": "general-news-4-https://news.google.com/",
           "sourceId": "general",
           "source": "mfa.gov.cn",
           "sourceSite": "",
@@ -1333,7 +1307,7 @@
           "summaryZh": "President Xi Jinping Holds Talks with U.S. President Donald J. Trump mfa.gov.cn"
         },
         {
-          "id": "general-news-6-https://news.google.com/",
+          "id": "general-news-7-https://news.google.com/",
           "sourceId": "general",
           "source": "The Christian Science Monitor",
           "sourceSite": "",
@@ -1346,7 +1320,7 @@
           "summaryZh": "As Trump and Xi talk business, questions about Taiwan loom The Christian Science Monitor"
         },
         {
-          "id": "general-news-8-https://news.google.com/",
+          "id": "general-news-9-https://news.google.com/",
           "sourceId": "general",
           "source": "The New York Times",
           "sourceSite": "",
@@ -1372,7 +1346,7 @@
           "summaryZh": "Trump and Xi begin Day Two of talks in Beijing, stress ‘constructive stability” in US-China relationship CNN"
         },
         {
-          "id": "general-news-15-https://news.google.com/",
+          "id": "general-news-16-https://news.google.com/",
           "sourceId": "general",
           "source": "marketplace.org",
           "sourceSite": "",
@@ -1385,7 +1359,7 @@
           "summaryZh": "What to expect from Trump's visit to China marketplace.org"
         },
         {
-          "id": "general-news-18-https://news.google.com/",
+          "id": "general-news-19-https://news.google.com/",
           "sourceId": "general",
           "source": "E&E News by POLITICO",
           "sourceSite": "",
@@ -1822,19 +1796,6 @@
     {
       "id": "social-social-19-https://news.google.com/",
       "sourceId": "social",
-      "source": "CBC",
-      "sourceSite": "",
-      "type": "social",
-      "title": "Trump leaves Beijing with few wins, but warm words for Xi - CBC",
-      "description": "Trump leaves Beijing with few wins, but warm words for Xi CBC",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa25vVWt6X0N0TFBQZDRvVGZOUl96UENjMVJFaGd5TkUyUW8zVzAzRXpIYWU3MEhwQnhXODhWc2JNdmdHT0gzXzFraWVkbzFmMEg1aE9EWHVMQU9mdzZPbndmSUtKRXJpRmxidnFnUlJKSG5XbTJiSU5oVUVJR2pfb0dqaWRzUkk?oc=5",
-      "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
-      "titleZh": "Trump leaves Beijing with few wins, but warm words for Xi - CBC",
-      "summaryZh": "Trump leaves Beijing with few wins, but warm words for Xi CBC"
-    },
-    {
-      "id": "social-social-20-https://news.google.com/",
-      "sourceId": "social",
       "source": "Yahoo",
       "sourceSite": "",
       "type": "social",
@@ -1844,6 +1805,19 @@
       "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
       "titleZh": "Dejected Trump Reacts to China Meeting With 9-Word Response - Yahoo",
       "summaryZh": "Dejected Trump Reacts to China Meeting With 9-Word Response Yahoo"
+    },
+    {
+      "id": "social-social-20-https://news.google.com/",
+      "sourceId": "social",
+      "source": "CBC",
+      "sourceSite": "",
+      "type": "social",
+      "title": "Trump leaves Beijing with few wins, but warm words for Xi - CBC",
+      "description": "Trump leaves Beijing with few wins, but warm words for Xi CBC",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa25vVWt6X0N0TFBQZDRvVGZOUl96UENjMVJFaGd5TkUyUW8zVzAzRXpIYWU3MEhwQnhXODhWc2JNdmdHT0gzXzFraWVkbzFmMEg1aE9EWHVMQU9mdzZPbndmSUtKRXJpRmxidnFnUlJKSG5XbTJiSU5oVUVJR2pfb0dqaWRzUkk?oc=5",
+      "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
+      "titleZh": "Trump leaves Beijing with few wins, but warm words for Xi - CBC",
+      "summaryZh": "Trump leaves Beijing with few wins, but warm words for Xi CBC"
     },
     {
       "id": "social-social-22-https://news.google.com/",
@@ -1877,39 +1851,39 @@
       "symbol": "TSLA",
       "company": "Tesla",
       "representative": "Elon Musk / Tesla",
-      "price": 395.545,
+      "price": 394.46,
       "previous": 394.06,
-      "change": 1.4850000000000136,
-      "changePct": 0.37684616555854783,
+      "change": 0.39999999999997726,
+      "changePct": 0.1015073846622284,
       "currency": "USD",
       "exchange": "NMS",
-      "marketTime": "2026-07-15T17:20:06.000Z",
+      "marketTime": "2026-07-15T20:00:00.000Z",
       "status": "ok"
     },
     {
       "symbol": "AAPL",
       "company": "Apple",
       "representative": "Tim Cook / Apple",
-      "price": 326.43,
+      "price": 327.5,
       "previous": 313.39,
-      "change": 13.04000000000002,
-      "changePct": 4.160949615495077,
+      "change": 14.110000000000014,
+      "changePct": 4.502377229649961,
       "currency": "USD",
       "exchange": "NMS",
-      "marketTime": "2026-07-15T17:20:05.000Z",
+      "marketTime": "2026-07-15T20:00:00.000Z",
       "status": "ok"
     },
     {
       "symbol": "NVDA",
       "company": "Nvidia",
       "representative": "Jensen Huang / Nvidia",
-      "price": 209.01,
+      "price": 212.5,
       "previous": 204.12,
-      "change": 4.889999999999986,
-      "changePct": 2.3956496178718334,
+      "change": 8.379999999999995,
+      "changePct": 4.105428179502251,
       "currency": "USD",
       "exchange": "NMS",
-      "marketTime": "2026-07-15T17:20:07.000Z",
+      "marketTime": "2026-07-15T20:00:00.000Z",
       "status": "ok"
     },
     {
@@ -1922,98 +1896,98 @@
       "changePct": 3.2060311994574064,
       "currency": "USD",
       "exchange": "NMS",
-      "marketTime": "2026-07-15T17:20:05.000Z",
+      "marketTime": "2026-07-15T20:00:01.000Z",
       "status": "ok"
     },
     {
       "symbol": "GOOGL",
       "company": "Alphabet",
       "representative": "Google / Alphabet",
-      "price": 370.91,
+      "price": 370.92,
       "previous": 361.92,
-      "change": 8.990000000000009,
-      "changePct": 2.4839743589743613,
+      "change": 9,
+      "changePct": 2.486737400530504,
       "currency": "USD",
       "exchange": "NMS",
-      "marketTime": "2026-07-15T17:20:04.000Z",
+      "marketTime": "2026-07-15T20:00:01.000Z",
       "status": "ok"
     },
     {
       "symbol": "AMZN",
       "company": "Amazon",
       "representative": "Amazon",
-      "price": 255.23,
+      "price": 254.96,
       "previous": 243.62,
-      "change": 11.609999999999985,
-      "changePct": 4.765618586322956,
+      "change": 11.340000000000003,
+      "changePct": 4.654790247106151,
       "currency": "USD",
       "exchange": "NMS",
-      "marketTime": "2026-07-15T17:20:07.000Z",
+      "marketTime": "2026-07-15T20:00:01.000Z",
       "status": "ok"
     },
     {
       "symbol": "JPM",
       "company": "JPMorgan Chase",
       "representative": "Jamie Dimon / JPMorgan",
-      "price": 346.415,
+      "price": 346.91,
       "previous": 330.62,
-      "change": 15.795000000000016,
-      "changePct": 4.777387937813809,
+      "change": 16.29000000000002,
+      "changePct": 4.927106648115668,
       "currency": "USD",
       "exchange": "NYQ",
-      "marketTime": "2026-07-15T17:20:06.000Z",
+      "marketTime": "2026-07-15T20:00:02.000Z",
       "status": "ok"
     },
     {
       "symbol": "BA",
       "company": "Boeing",
       "representative": "Boeing",
-      "price": 219.06,
+      "price": 218.12,
       "previous": 224.95,
-      "change": -5.889999999999986,
-      "changePct": -2.618359635474544,
+      "change": -6.829999999999984,
+      "changePct": -3.036230273394081,
       "currency": "USD",
       "exchange": "NYQ",
-      "marketTime": "2026-07-15T17:20:06.000Z",
+      "marketTime": "2026-07-15T20:00:02.000Z",
       "status": "ok"
     },
     {
       "symbol": "GM",
       "company": "General Motors",
       "representative": "GM",
-      "price": 77.12,
+      "price": 77.64,
       "previous": 76.24,
-      "change": 0.8800000000000097,
-      "changePct": 1.154249737670527,
+      "change": 1.4000000000000057,
+      "changePct": 1.836306400839462,
       "currency": "USD",
       "exchange": "NYQ",
-      "marketTime": "2026-07-15T17:20:03.000Z",
+      "marketTime": "2026-07-15T20:00:03.000Z",
       "status": "ok"
     },
     {
       "symbol": "F",
       "company": "Ford",
       "representative": "Ford",
-      "price": 14.185,
+      "price": 14.18,
       "previous": 13.5,
-      "change": 0.6850000000000005,
-      "changePct": 5.074074074074078,
+      "change": 0.6799999999999997,
+      "changePct": 5.037037037037035,
       "currency": "USD",
       "exchange": "NYQ",
-      "marketTime": "2026-07-15T17:20:03.000Z",
+      "marketTime": "2026-07-15T20:04:22.000Z",
       "status": "ok"
     },
     {
       "symbol": "CAT",
       "company": "Caterpillar",
       "representative": "Caterpillar",
-      "price": 902.765,
+      "price": 914.3,
       "previous": 948.08,
-      "change": -45.315000000000055,
-      "changePct": -4.779659944308503,
+      "change": -33.780000000000086,
+      "changePct": -3.562990464939676,
       "currency": "USD",
       "exchange": "NYQ",
-      "marketTime": "2026-07-15T17:20:05.000Z",
+      "marketTime": "2026-07-15T20:00:02.000Z",
       "status": "ok"
     }
   ],
@@ -2069,7 +2043,7 @@
         "feed": "gdelt:Trump Xi Beijing summit",
         "count": 0,
         "status": "failed",
-        "error": "Unexpected token 'Y', \"Your searc\"... is not valid JSON"
+        "error": "GDELT fetch failed: 429"
       },
       {
         "feed": "gdelt:Trump China state visit CEOs",
@@ -2087,13 +2061,13 @@
         "feed": "gdelt:特朗普 访华 美国企业家",
         "count": 0,
         "status": "failed",
-        "error": "Unexpected token 'Y', \"Your searc\"... is not valid JSON"
+        "error": "GDELT fetch failed: 429"
       }
     ],
     "commentary": [
       {
         "feed": "https://news.google.com/rss/search?q=Trump+Beijing+China+talks+analysis&hl=en-US&gl=US&ceid=US:en",
-        "count": 70,
+        "count": 71,
         "status": "ok"
       },
       {
@@ -2120,17 +2094,17 @@
     "social": [
       {
         "feed": "https://news.google.com/rss/search?q=Trump+Beijing+talks+X+OR+Twitter&hl=en-US&gl=US&ceid=US:en",
-        "count": 63,
+        "count": 70,
         "status": "ok"
       },
       {
         "feed": "https://news.google.com/rss/search?q=特朗普+北京+会谈+微博+大V&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "count": 56,
+        "count": 57,
         "status": "ok"
       },
       {
         "feed": "https://news.google.com/rss/search?q=特朗普+访华+企业家+微博&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "count": 60,
+        "count": 62,
         "status": "ok"
       }
     ]
