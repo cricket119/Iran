@@ -1,10 +1,23 @@
 {
-  "generatedAt": "2026-07-17T02:19:34.795Z",
-  "totalNews": 25,
-  "totalCommentary": 32,
+  "generatedAt": "2026-07-17T05:38:18.205Z",
+  "totalNews": 26,
+  "totalCommentary": 31,
   "timeline": [
     {
-      "id": "bbc-news-1-https://news.google.com/",
+      "id": "aljazeera-news-1-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "US bombards Iran in sixth-straight night of attacks - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQWW50dGhURV82b19UaEVSYTJ5YjA2UFBYWVpVd0FUeWhrNHVlVjdRYnBwYkxYVUk3RG8zd1E3OGZReFgyWWVneGhSV1Y2d2liWkRSM1lSVXFhUnJmcmNfT0tXSTE1REFmR0pwZkxfYVJaYmktTTFoNEk5ODh3UUVfNkdYV1l5Vmx4dmZOLUZkRFJ6X0JnZlNWZTJtbEtHNklPZjZOR9IBqgFBVV95cUxNVlBxeVpVZjhnREo4WWtFTkVib3BoVjBHVzlNbUVtbEhKU2hKMVdkUnlRakd1SGJQVzRJSGJ2azIxMkJUdG11Vl84Rno0RkZPWmdJM21XdHBVMG1rNlpYb0hUVjgzcTlQZVJSTThuX0EyMjA3cHU4cUw2THpuOHIyWUtCa3VBcmVTUlNYTjl5amNVM1lkZTRVODNlZnBidlFBQUJyVjdMRVJRZw?oc=5\" target=\"_blank\">US bombards Iran in sixth-straight night of attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWW50dGhURV82b19UaEVSYTJ5YjA2UFBYWVpVd0FUeWhrNHVlVjdRYnBwYkxYVUk3RG8zd1E3OGZReFgyWWVneGhSV1Y2d2liWkRSM1lSVXFhUnJmcmNfT0tXSTE1REFmR0pwZkxfYVJaYmktTTFoNEk5ODh3UUVfNkdYV1l5Vmx4dmZOLUZkRFJ6X0JnZlNWZTJtbEtHNklPZjZOR9IBqgFBVV95cUxNVlBxeVpVZjhnREo4WWtFTkVib3BoVjBHVzlNbUVtbEhKU2hKMVdkUnlRakd1SGJQVzRJSGJ2azIxMkJUdG11Vl84Rno0RkZPWmdJM21XdHBVMG1rNlpYb0hUVjgzcTlQZVJSTThuX0EyMjA3cHU4cUw2THpuOHIyWUtCa3VBcmVTUlNYTjl5amNVM1lkZTRVODNlZnBidlFBQUJyVjdMRVJRZw?oc=5",
+      "publishedAt": "Fri, 17 Jul 2026 05:03:45 GMT",
+      "titleZh": "US bombards Iran in sixth-straight night of attacks - Al Jazeera",
+      "summaryZh": "US bombards Iran in sixth-straight night of attacks&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "bbc-news-0-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -12,9 +25,35 @@
       "title": "Blasts reported in Iran as US launches new wave of strikes - BBC",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGS2EteFNKR1VrbVVwZ0kwRkpWaVdCTFhwNWtISThhYnFnYzRPNTRCYWpaa3FGdDYzUWJmcmZfN1VhQWNuM2pSZ2l3WGVkTW1BeHM3b3ZkWW5UQQ?oc=5\" target=\"_blank\">Blasts reported in Iran as US launches new wave of strikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGS2EteFNKR1VrbVVwZ0kwRkpWaVdCTFhwNWtISThhYnFnYzRPNTRCYWpaa3FGdDYzUWJmcmZfN1VhQWNuM2pSZ2l3WGVkTW1BeHM3b3ZkWW5UQQ?oc=5",
-      "publishedAt": "Thu, 16 Jul 2026 23:57:26 GMT",
+      "publishedAt": "Fri, 17 Jul 2026 03:21:07 GMT",
       "titleZh": "Blasts reported in Iran as US launches new wave of strikes - BBC",
       "summaryZh": "Blasts reported in Iran as US launches new wave of strikes&nbsp;&nbsp;BBC"
+    },
+    {
+      "id": "aljazeera-news-4-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "Iran says seven killed in latest US strikes, warns war ‘will spread’ - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGFiQkZGcXRqQjFIbDdzVEVxUGV1dWR0WnlMb0JPanluS1pqckNsZXFkQmxvRHMzLTQwUVlJZ2laRDNmMGJRZEQ1N2d1S1N1dWFMdFdnRGQwT2ZBeEExVTFtd2F3SWdRSWNDNG95bU1NZlpsX2xLWmtFRjV4T1BiZlQ4SmJRVks2bGdmMnRKbHNoN3pyOUhKV1ZBcnFmb080TGNfSTc3UWFvd0Q1Q2fSAbMBQVVfeXFMTUNQS2ZSbGg0cVFyT2VCVTN4YWJrNnEtajdiSTVMN3k5MU1rRGRubTFic1YxR3gteUlBWko3MXlJb1V5WHNSYTlSdHNOVmYtTHF5NDF3WVNud24tX3duamlfYWYzZGJ5bC13QmQ4SlYwMmc0SnBoRnpXTjdpTHlTanJWU3VGNFg5d0VBN2pMTEk0Y3FZSXdIOXQwdTdPcWptTk9kU1FTR0g4aWd2OGNHaXNNaTg?oc=5\" target=\"_blank\">Iran says seven killed in latest US strikes, warns war ‘will spread’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGFiQkZGcXRqQjFIbDdzVEVxUGV1dWR0WnlMb0JPanluS1pqckNsZXFkQmxvRHMzLTQwUVlJZ2laRDNmMGJRZEQ1N2d1S1N1dWFMdFdnRGQwT2ZBeEExVTFtd2F3SWdRSWNDNG95bU1NZlpsX2xLWmtFRjV4T1BiZlQ4SmJRVks2bGdmMnRKbHNoN3pyOUhKV1ZBcnFmb080TGNfSTc3UWFvd0Q1Q2fSAbMBQVVfeXFMTUNQS2ZSbGg0cVFyT2VCVTN4YWJrNnEtajdiSTVMN3k5MU1rRGRubTFic1YxR3gteUlBWko3MXlJb1V5WHNSYTlSdHNOVmYtTHF5NDF3WVNud24tX3duamlfYWYzZGJ5bC13QmQ4SlYwMmc0SnBoRnpXTjdpTHlTanJWU3VGNFg5d0VBN2pMTEk0Y3FZSXdIOXQwdTdPcWptTk9kU1FTR0g4aWd2OGNHaXNNaTg?oc=5",
+      "publishedAt": "Fri, 17 Jul 2026 03:20:57 GMT",
+      "titleZh": "Iran says seven killed in latest US strikes, warns war ‘will spread’ - Al Jazeera",
+      "summaryZh": "Iran says seven killed in latest US strikes, warns war ‘will spread’&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "reuters-news-4-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
+      "type": "news",
+      "title": "US military says it completed latest strikes on Iran, marking 6th consecutive night of attacks - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNcU5Ec2J3b2lDc21BVGR3cWYxV185VjZLdk9tTzlndk5Tc3hPblNOQXVZY3hrYjU3bW9Mek9yZXVFV2tUV2d1NThXTnZ5SkhucHh4X3VPTlkxdk9SX2FlTndvTWRRUnB4ak01QmFWVzQ2RzVaYk1pWU1VMElXRW5jaFM5czAzR2VWeF9neExJZlgwaDhvV2pJbWh4LWV1bWJ5bnRRZmVyckRhNFNwNkVjdEJGdlFYbHc4d2FBTEx0U0ZsRFVaT1RIUmNNWHlrdw?oc=5\" target=\"_blank\">US military says it completed latest strikes on Iran, marking 6th consecutive night of attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcU5Ec2J3b2lDc21BVGR3cWYxV185VjZLdk9tTzlndk5Tc3hPblNOQXVZY3hrYjU3bW9Mek9yZXVFV2tUV2d1NThXTnZ5SkhucHh4X3VPTlkxdk9SX2FlTndvTWRRUnB4ak01QmFWVzQ2RzVaYk1pWU1VMElXRW5jaFM5czAzR2VWeF9neExJZlgwaDhvV2pJbWh4LWV1bWJ5bnRRZmVyckRhNFNwNkVjdEJGdlFYbHc4d2FBTEx0U0ZsRFVaT1RIUmNNWHlrdw?oc=5",
+      "publishedAt": "Fri, 17 Jul 2026 02:30:00 GMT",
+      "titleZh": "US military says it completed latest strikes on Iran, marking 6th consecutive night of attacks - Reuters",
+      "summaryZh": "US military says it completed latest strikes on Iran, marking 6th consecutive night of attacks&nbsp;&nbsp;Reuters"
     },
     {
       "id": "aljazeera-news-0-https://news.google.com/",
@@ -28,19 +67,6 @@
       "publishedAt": "Thu, 16 Jul 2026 23:47:55 GMT",
       "titleZh": "Iran war update: US launches sixth consecutive day of strikes against Iran - Al Jazeera",
       "summaryZh": "Iran war update: US launches sixth consecutive day of strikes against Iran&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "aljazeera-news-3-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "Qatar rejects Israeli reports of military action against Iran - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmFycHhLaXIycHRjczVHNDNETGh1enUwRkZ4Zmt3dzJ2SU1rZDlMQS16TzN4MGFxWm1aWU5ZOWhwR09OQlVDaVVETTQ1LVg2S1U5ZW1nbC1jX1ZhSW9jRTBuTmdYcEx5Y2N2bEkzRW0tNEI2NVdURVd5R1hlOGFwdUZjbXZKTjVWLTNBTXJDSHN6SmR0a3RmaktybEx0MG1nNUMwYmtqZUpFbTlQWWpBOS1n0gG3AUFVX3lxTE5Pa0tqZHhWeFpyWnFGUnFaUDNBUlBaRzlROEJES1FmRFZJRVkydXNrcVJzczRhTE9rN3lfVko1TDVLWVYza005bW52OFNpU2QzbjVHcE1ReUdQOGJpamVvbWdsZFdRSUtpQmMwMDhad002TUFPQXpBTHJ4SzY1alRWbEJRenVTQXpTU3VtRm1JdWdPY1VkXzdlYS01dU1ZdnFsaF9DUGd5UzZUdTJZRGRaMGlRaEJRUQ?oc=5\" target=\"_blank\">Qatar rejects Israeli reports of military action against Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmFycHhLaXIycHRjczVHNDNETGh1enUwRkZ4Zmt3dzJ2SU1rZDlMQS16TzN4MGFxWm1aWU5ZOWhwR09OQlVDaVVETTQ1LVg2S1U5ZW1nbC1jX1ZhSW9jRTBuTmdYcEx5Y2N2bEkzRW0tNEI2NVdURVd5R1hlOGFwdUZjbXZKTjVWLTNBTXJDSHN6SmR0a3RmaktybEx0MG1nNUMwYmtqZUpFbTlQWWpBOS1n0gG3AUFVX3lxTE5Pa0tqZHhWeFpyWnFGUnFaUDNBUlBaRzlROEJES1FmRFZJRVkydXNrcVJzczRhTE9rN3lfVko1TDVLWVYza005bW52OFNpU2QzbjVHcE1ReUdQOGJpamVvbWdsZFdRSUtpQmMwMDhad002TUFPQXpBTHJ4SzY1alRWbEJRenVTQXpTU3VtRm1JdWdPY1VkXzdlYS01dU1ZdnFsaF9DUGd5UzZUdTJZRGRaMGlRaEJRUQ?oc=5",
-      "publishedAt": "Thu, 16 Jul 2026 23:18:57 GMT",
-      "titleZh": "Qatar rejects Israeli reports of military action against Iran - Al Jazeera",
-      "summaryZh": "Qatar rejects Israeli reports of military action against Iran&nbsp;&nbsp;Al Jazeera"
     },
     {
       "id": "zaobao-news-0-https://news.google.com/",
@@ -69,7 +95,7 @@
       "summaryZh": "US House Republicans push forward on Trump funding plan for Iran war, election overhaul&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "reuters-news-1-https://news.google.com/",
+      "id": "reuters-news-2-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -82,7 +108,7 @@
       "summaryZh": "Iran and US step up attacks, release of American in dispute&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "bbc-news-0-https://news.google.com/",
+      "id": "bbc-news-3-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -95,20 +121,7 @@
       "summaryZh": "JD Vance accuses Israel of 'manipulating' US public opinion to prolong Iran war&nbsp;&nbsp;BBC"
     },
     {
-      "id": "aljazeera-news-2-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "US mounts sixth straight night of attacks as Iran warns of wider war - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGFiQkZGcXRqQjFIbDdzVEVxUGV1dWR0WnlMb0JPanluS1pqckNsZXFkQmxvRHMzLTQwUVlJZ2laRDNmMGJRZEQ1N2d1S1N1dWFMdFdnRGQwT2ZBeEExVTFtd2F3SWdRSWNDNG95bU1NZlpsX2xLWmtFRjV4T1BiZlQ4SmJRVks2bGdmMnRKbHNoN3pyOUhKV1ZBcnFmb080TGNfSTc3UWFvd0Q1Q2fSAbMBQVVfeXFMTUNQS2ZSbGg0cVFyT2VCVTN4YWJrNnEtajdiSTVMN3k5MU1rRGRubTFic1YxR3gteUlBWko3MXlJb1V5WHNSYTlSdHNOVmYtTHF5NDF3WVNud24tX3duamlfYWYzZGJ5bC13QmQ4SlYwMmc0SnBoRnpXTjdpTHlTanJWU3VGNFg5d0VBN2pMTEk0Y3FZSXdIOXQwdTdPcWptTk9kU1FTR0g4aWd2OGNHaXNNaTg?oc=5\" target=\"_blank\">US mounts sixth straight night of attacks as Iran warns of wider war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGFiQkZGcXRqQjFIbDdzVEVxUGV1dWR0WnlMb0JPanluS1pqckNsZXFkQmxvRHMzLTQwUVlJZ2laRDNmMGJRZEQ1N2d1S1N1dWFMdFdnRGQwT2ZBeEExVTFtd2F3SWdRSWNDNG95bU1NZlpsX2xLWmtFRjV4T1BiZlQ4SmJRVks2bGdmMnRKbHNoN3pyOUhKV1ZBcnFmb080TGNfSTc3UWFvd0Q1Q2fSAbMBQVVfeXFMTUNQS2ZSbGg0cVFyT2VCVTN4YWJrNnEtajdiSTVMN3k5MU1rRGRubTFic1YxR3gteUlBWko3MXlJb1V5WHNSYTlSdHNOVmYtTHF5NDF3WVNud24tX3duamlfYWYzZGJ5bC13QmQ4SlYwMmc0SnBoRnpXTjdpTHlTanJWU3VGNFg5d0VBN2pMTEk0Y3FZSXdIOXQwdTdPcWptTk9kU1FTR0g4aWd2OGNHaXNNaTg?oc=5",
-      "publishedAt": "Thu, 16 Jul 2026 21:04:03 GMT",
-      "titleZh": "US mounts sixth straight night of attacks as Iran warns of wider war - Al Jazeera",
-      "summaryZh": "US mounts sixth straight night of attacks as Iran warns of wider war&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "aljazeera-news-5-https://news.google.com/",
+      "id": "aljazeera-news-3-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -121,20 +134,7 @@
       "summaryZh": "The hardest party to manage in the Iran talks isn’t Iran&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-6-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "Iran condemns ‘barbaric’ US attack near children’s cancer hospital - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOUHAwTU1xYzJiWjkzWWN2bF95SXl3NjBJbFp6eWVOS0hhenpYTFRBTTlveGlrRGNBVkpHQ2h0YUo1SGJHMV9ia2xILXJKU0xnTm5lLThvMWotczFIX0xjTE8wQkFNdlhNM0RlSlVldzlsYVlXTTFQQzNCUkw4Mktod0tSQ3dYVVoycWlHUzNncWxTQTl4eWJGQ2VqMy1VaWFiUllNR1B1Z9IBrAFBVV95cUxOTzdvLTM2amNmYXBlbGFfZlpCY2l3RWxQZ0h3WWdvb2VKbU5OdlJUWE1TMkxncWcxQnpwR2VvcnlPZ0lyZ1Y5d3hMUUI0aXJQU0l2d1ZUTmVwa2pKTG5MTUJvOUZ4MTBLV21fYnRFRUkxZW5OTVJzRDhUZk93LURjM1VkWjV3OF9DZThIanJwRUpLZ0lBXzRHSFNNU3RLZ1VRRHN3TWJMOTBPSElf?oc=5\" target=\"_blank\">Iran condemns ‘barbaric’ US attack near children’s cancer hospital</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUHAwTU1xYzJiWjkzWWN2bF95SXl3NjBJbFp6eWVOS0hhenpYTFRBTTlveGlrRGNBVkpHQ2h0YUo1SGJHMV9ia2xILXJKU0xnTm5lLThvMWotczFIX0xjTE8wQkFNdlhNM0RlSlVldzlsYVlXTTFQQzNCUkw4Mktod0tSQ3dYVVoycWlHUzNncWxTQTl4eWJGQ2VqMy1VaWFiUllNR1B1Z9IBrAFBVV95cUxOTzdvLTM2amNmYXBlbGFfZlpCY2l3RWxQZ0h3WWdvb2VKbU5OdlJUWE1TMkxncWcxQnpwR2VvcnlPZ0lyZ1Y5d3hMUUI0aXJQU0l2d1ZUTmVwa2pKTG5MTUJvOUZ4MTBLV21fYnRFRUkxZW5OTVJzRDhUZk93LURjM1VkWjV3OF9DZThIanJwRUpLZ0lBXzRHSFNNU3RLZ1VRRHN3TWJMOTBPSElf?oc=5",
-      "publishedAt": "Thu, 16 Jul 2026 18:45:01 GMT",
-      "titleZh": "Iran condemns ‘barbaric’ US attack near children’s cancer hospital - Al Jazeera",
-      "summaryZh": "Iran condemns ‘barbaric’ US attack near children’s cancer hospital&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "aljazeera-news-1-https://news.google.com/",
+      "id": "aljazeera-news-2-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -147,20 +147,20 @@
       "summaryZh": "Vance says Israeli campaign tried to sway US opinion against Iran diplomacy&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-7-https://news.google.com/",
+      "id": "aljazeera-news-6-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
       "type": "news",
       "title": "US or Iran — Who needs a new truce deal more? - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPWm9nN3hmeXl4SVdqVnVZNkNfUGxtSUk5b25pQ19yNTJ1bFF5cnA2YXRwQVhGSUVUNzJVcHRzd1d0TFpaRjNEd3FaRzZFZ2dKdEM1U1hGQlhONXJLZ1NKVVJEWTJXa1loNmlrc2w5ck43T01CVmxnX3p3REYwalZrQ0h4NkM?oc=5\" target=\"_blank\">US or Iran — Who needs a new truce deal more?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWm9nN3hmeXl4SVdqVnVZNkNfUGxtSUk5b25pQ19yNTJ1bFF5cnA2YXRwQVhGSUVUNzJVcHRzd1d0TFpaRjNEd3FaRzZFZ2dKdEM1U1hGQlhONXJLZ1NKVVJEWTJXa1loNmlrc2w5ck43T01CVmxnX3p3REYwalZrQ0h4NkM?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPWm9nN3hmeXl4SVdqVnVZNkNfUGxtSUk5b25pQ19yNTJ1bFF5cnA2YXRwQVhGSUVUNzJVcHRzd1d0TFpaRjNEd3FaRzZFZ2dKdEM1U1hGQlhONXJLZ1NKVVJEWTJXa1loNmlrc2w5ck43T01CVmxnX3p3REYwalZrQ0h4NkPSAYoBQVVfeXFMUDhERWxVeGwtQ1JuNmlGTWdQU0xlRVNiekxRR3F6d1N0Y3RlWkgzZUdicDBPLXVFV2F5YmVmREV4STBXcktCYmNCNE8yMEhRcDZaSjBSWGpCeVU1ZWRYQUE2RTZFaVpvQk1rYTZmQ0lLRkZqWWlXOTI0czdycURIUnBhYXZqb0RwZmhR?oc=5\" target=\"_blank\">US or Iran — Who needs a new truce deal more?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWm9nN3hmeXl4SVdqVnVZNkNfUGxtSUk5b25pQ19yNTJ1bFF5cnA2YXRwQVhGSUVUNzJVcHRzd1d0TFpaRjNEd3FaRzZFZ2dKdEM1U1hGQlhONXJLZ1NKVVJEWTJXa1loNmlrc2w5ck43T01CVmxnX3p3REYwalZrQ0h4NkPSAYoBQVVfeXFMUDhERWxVeGwtQ1JuNmlGTWdQU0xlRVNiekxRR3F6d1N0Y3RlWkgzZUdicDBPLXVFV2F5YmVmREV4STBXcktCYmNCNE8yMEhRcDZaSjBSWGpCeVU1ZWRYQUE2RTZFaVpvQk1rYTZmQ0lLRkZqWWlXOTI0czdycURIUnBhYXZqb0RwZmhR?oc=5",
       "publishedAt": "Thu, 16 Jul 2026 14:15:04 GMT",
       "titleZh": "US or Iran — Who needs a new truce deal more? - Al Jazeera",
       "summaryZh": "US or Iran — Who needs a new truce deal more?&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "reuters-news-2-https://news.google.com/",
+      "id": "reuters-news-1-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -186,30 +186,17 @@
       "summaryZh": "Iran targets military bases as US launches wave of strikes&nbsp;&nbsp;BBC"
     },
     {
-      "id": "aljazeera-news-4-https://news.google.com/",
+      "id": "aljazeera-news-5-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
       "type": "news",
-      "title": "Iran says peace deal voided, fighting ‘existential war’ after US attacks | US-Israel war on Iran News - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0hzZlNqQU9DQ0pIUU1jME52NXBLLV85TGpab2liWkVHaV9yRy0wcUx1NVFYdVJaMmxWY1dmQ0FtQmZ5Z3lCemw4UEZDVXJUbU1OUThFU3FXeHZEN0ItTkZuMWR3bGJTR3p4M2NsUGhadTBaRU5nRnZtVjNHWDYwZnFGT0tWS3BLMzBmSzRGZ2NINnNiSXJJV1VKMnlhS3VKd0lXZ2FZNkV0ZjV0TUFv?oc=5\" target=\"_blank\">Iran says peace deal voided, fighting ‘existential war’ after US attacks | US-Israel war on Iran News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0hzZlNqQU9DQ0pIUU1jME52NXBLLV85TGpab2liWkVHaV9yRy0wcUx1NVFYdVJaMmxWY1dmQ0FtQmZ5Z3lCemw4UEZDVXJUbU1OUThFU3FXeHZEN0ItTkZuMWR3bGJTR3p4M2NsUGhadTBaRU5nRnZtVjNHWDYwZnFGT0tWS3BLMzBmSzRGZ2NINnNiSXJJV1VKMnlhS3VKd0lXZ2FZNkV0ZjV0TUFv?oc=5",
+      "title": "Iran says peace deal voided, fighting ‘existential war’ after US attacks - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0hzZlNqQU9DQ0pIUU1jME52NXBLLV85TGpab2liWkVHaV9yRy0wcUx1NVFYdVJaMmxWY1dmQ0FtQmZ5Z3lCemw4UEZDVXJUbU1OUThFU3FXeHZEN0ItTkZuMWR3bGJTR3p4M2NsUGhadTBaRU5nRnZtVjNHWDYwZnFGT0tWS3BLMzBmSzRGZ2NINnNiSXJJV1VKMnlhS3VKd0lXZ2FZNkV0ZjV0TUFv0gG0AUFVX3lxTE8tTnQ2QW40WVg5eDBmUzZhOUJnMnVNUElUTTJDQnptc25vSHJfenloOWlXWm9QOFlTZWJFOWZxclMzMHUzNjExSGZZZDc0RDJQYjRZZW9teUlKSElSYWdjelg2TVd3TTd0ejdFVzNhaHk1SGp2b0t5djdZSmY1bkRxTmxEcXpJY3Q3bHhsUGc4VEdLTXBaZW1hWE11SEQ2ck5BaDB3VzQxMTRhOUROUlZKQ3k3Mw?oc=5\" target=\"_blank\">Iran says peace deal voided, fighting ‘existential war’ after US attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0hzZlNqQU9DQ0pIUU1jME52NXBLLV85TGpab2liWkVHaV9yRy0wcUx1NVFYdVJaMmxWY1dmQ0FtQmZ5Z3lCemw4UEZDVXJUbU1OUThFU3FXeHZEN0ItTkZuMWR3bGJTR3p4M2NsUGhadTBaRU5nRnZtVjNHWDYwZnFGT0tWS3BLMzBmSzRGZ2NINnNiSXJJV1VKMnlhS3VKd0lXZ2FZNkV0ZjV0TUFv0gG0AUFVX3lxTE8tTnQ2QW40WVg5eDBmUzZhOUJnMnVNUElUTTJDQnptc25vSHJfenloOWlXWm9QOFlTZWJFOWZxclMzMHUzNjExSGZZZDc0RDJQYjRZZW9teUlKSElSYWdjelg2TVd3TTd0ejdFVzNhaHk1SGp2b0t5djdZSmY1bkRxTmxEcXpJY3Q3bHhsUGc4VEdLTXBaZW1hWE11SEQ2ck5BaDB3VzQxMTRhOUROUlZKQ3k3Mw?oc=5",
       "publishedAt": "Thu, 16 Jul 2026 06:42:20 GMT",
-      "titleZh": "Iran says peace deal voided, fighting ‘existential war’ after US attacks | US-Israel war on Iran News - Al Jazeera",
-      "summaryZh": "Iran says peace deal voided, fighting ‘existential war’ after US attacks | US-Israel war on Iran News&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "bbc-news-3-https://news.google.com/",
-      "sourceId": "bbc",
-      "source": "BBC",
-      "sourceSite": "bbc.com",
-      "type": "news",
-      "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave' - BBC",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE04Y29uM0stWFdBX2ZvYno1emtKc25RYTZJdFVqazNHMWdJTFdCb2tlV3FqblB0dHBJRDdoNUxMeXNweGM2NW5hakdCLU9jelo4V2VKby1laGVZdw?oc=5\" target=\"_blank\">US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04Y29uM0stWFdBX2ZvYno1emtKc25RYTZJdFVqazNHMWdJTFdCb2tlV3FqblB0dHBJRDdoNUxMeXNweGM2NW5hakdCLU9jelo4V2VKby1laGVZdw?oc=5",
-      "publishedAt": "Thu, 16 Jul 2026 04:06:11 GMT",
-      "titleZh": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave' - BBC",
-      "summaryZh": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'&nbsp;&nbsp;BBC"
+      "titleZh": "Iran says peace deal voided, fighting ‘existential war’ after US attacks - Al Jazeera",
+      "summaryZh": "Iran says peace deal voided, fighting ‘existential war’ after US attacks&nbsp;&nbsp;Al Jazeera"
     },
     {
       "id": "reuters-news-3-https://news.google.com/",
@@ -220,12 +207,25 @@
       "title": "US launches sixth night of attacks as Iran signals it could prod Houthis to close Red Sea oil route - as it happened - Reuters",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNOEx3dDRJajZOY0pLYXhWNnJfS0N5VS1laTVab2NhLUxERzZETDZ5OFlJOXh2UkoxZXo2ZVVJVmZVdllTa0RMSy1mRDJyVENPUnc5M3M3cWU5endCT3BFNXVnOHJ6NnNZTFRkQlpTWmJaN0xaMVJlRVZhWENPQlZlTGNSVmEtTTUwcHlueVlNekFJR05KZm9nZTV3YU1GVlgzU05UeU54V2YtNXVBR3pCSkNLQjdEQQ?oc=5\" target=\"_blank\">US launches sixth night of attacks as Iran signals it could prod Houthis to close Red Sea oil route - as it happened</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOEx3dDRJajZOY0pLYXhWNnJfS0N5VS1laTVab2NhLUxERzZETDZ5OFlJOXh2UkoxZXo2ZVVJVmZVdllTa0RMSy1mRDJyVENPUnc5M3M3cWU5endCT3BFNXVnOHJ6NnNZTFRkQlpTWmJaN0xaMVJlRVZhWENPQlZlTGNSVmEtTTUwcHlueVlNekFJR05KZm9nZTV3YU1GVlgzU05UeU54V2YtNXVBR3pCSkNLQjdEQQ?oc=5",
-      "publishedAt": "Thu, 16 Jul 2026 02:24:23 GMT",
+      "publishedAt": "Thu, 16 Jul 2026 02:37:00 GMT",
       "titleZh": "US launches sixth night of attacks as Iran signals it could prod Houthis to close Red Sea oil route - as it happened - Reuters",
       "summaryZh": "US launches sixth night of attacks as Iran signals it could prod Houthis to close Red Sea oil route - as it happened&nbsp;&nbsp;Reuters"
     },
     {
       "id": "aljazeera-news-8-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "Iran war updates: US military carries out another wave of strikes - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWVlTLXZEcHJQTnhTMThIRmVQUGlPRk5vT1hNMmstLXNYXzZNWnlLUDJGQWJtUmI0cnlHLWFLZE1yMVctdW5RV0dSVmlWbVlvZFdSeTZrMG1ldmJvczFzUHRfbDlycEJWQ3M0SXlfNWtYZGZveEgzVzMxaVAxcXNxRXRRelpTelY1aXRyTUlHNlZGZk9qNnpNYVd1ZE9JY2RRMVo1eUd1ekliam_SAbABQVVfeXFMUHhaSU1rXzMyNHB2ZTJCbmR6REE5bUJXWDdWMzh6bHhHWnhlbGdlQ2JvVlFJTkVNamxheEU0TmNPR3gyT2syQ3prR0pBQkQ4eUVLcUVRd2x3RU9hb01UbTR6UGo3U3lnNTUxamNnTVRlbzcxaDh5cXBKUi1HUzRETzVjeFRfWGt2cE9RbzRRNndLYUw3VXBGeHVXZFJRLW1GMXNoSUFEQmxGSlRlLUtnRUk?oc=5\" target=\"_blank\">Iran war updates: US military carries out another wave of strikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWVlTLXZEcHJQTnhTMThIRmVQUGlPRk5vT1hNMmstLXNYXzZNWnlLUDJGQWJtUmI0cnlHLWFLZE1yMVctdW5RV0dSVmlWbVlvZFdSeTZrMG1ldmJvczFzUHRfbDlycEJWQ3M0SXlfNWtYZGZveEgzVzMxaVAxcXNxRXRRelpTelY1aXRyTUlHNlZGZk9qNnpNYVd1ZE9JY2RRMVo1eUd1ekliam_SAbABQVVfeXFMUHhaSU1rXzMyNHB2ZTJCbmR6REE5bUJXWDdWMzh6bHhHWnhlbGdlQ2JvVlFJTkVNamxheEU0TmNPR3gyT2syQ3prR0pBQkQ4eUVLcUVRd2x3RU9hb01UbTR6UGo3U3lnNTUxamNnTVRlbzcxaDh5cXBKUi1HUzRETzVjeFRfWGt2cE9RbzRRNndLYUw3VXBGeHVXZFJRLW1GMXNoSUFEQmxGSlRlLUtnRUk?oc=5",
+      "publishedAt": "Wed, 15 Jul 2026 23:52:24 GMT",
+      "titleZh": "Iran war updates: US military carries out another wave of strikes - Al Jazeera",
+      "summaryZh": "Iran war updates: US military carries out another wave of strikes&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "aljazeera-news-9-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -238,7 +238,7 @@
       "summaryZh": "Could the US take control of Iran’s southern islands?&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-9-https://news.google.com/",
+      "id": "aljazeera-news-7-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -316,6 +316,19 @@
       "summaryZh": "Bowen: 'Middle East is in turmoil' as Iran and Israel attack each other&nbsp;&nbsp;BBC"
     },
     {
+      "id": "bbc-news-1-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xV3g2OWxXcVhxUjZOZUpZVThPSXNkbW1lcjdqaU5KRkctWHBwRTNOSWp1dy1zSE8xNHpUU1ZpRGVKMm5qVTBJMEx2Znp3d1pUaGcwVg?oc=5\" target=\"_blank\">Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xV3g2OWxXcVhxUjZOZUpZVThPSXNkbW1lcjdqaU5KRkctWHBwRTNOSWp1dy1zSE8xNHpUU1ZpRGVKMm5qVTBJMEx2Znp3d1pUaGcwVg?oc=5",
+      "publishedAt": "Sun, 07 Jun 2026 07:00:00 GMT",
+      "titleZh": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again - BBC",
+      "summaryZh": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again&nbsp;&nbsp;BBC"
+    },
+    {
       "id": "bbc-news-6-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
@@ -335,6 +348,19 @@
       "source": "Reuters",
       "items": [
         {
+          "id": "reuters-news-4-https://news.google.com/",
+          "sourceId": "reuters",
+          "source": "Reuters",
+          "sourceSite": "reuters.com",
+          "type": "news",
+          "title": "US military says it completed latest strikes on Iran, marking 6th consecutive night of attacks - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNcU5Ec2J3b2lDc21BVGR3cWYxV185VjZLdk9tTzlndk5Tc3hPblNOQXVZY3hrYjU3bW9Mek9yZXVFV2tUV2d1NThXTnZ5SkhucHh4X3VPTlkxdk9SX2FlTndvTWRRUnB4ak01QmFWVzQ2RzVaYk1pWU1VMElXRW5jaFM5czAzR2VWeF9neExJZlgwaDhvV2pJbWh4LWV1bWJ5bnRRZmVyckRhNFNwNkVjdEJGdlFYbHc4d2FBTEx0U0ZsRFVaT1RIUmNNWHlrdw?oc=5\" target=\"_blank\">US military says it completed latest strikes on Iran, marking 6th consecutive night of attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcU5Ec2J3b2lDc21BVGR3cWYxV185VjZLdk9tTzlndk5Tc3hPblNOQXVZY3hrYjU3bW9Mek9yZXVFV2tUV2d1NThXTnZ5SkhucHh4X3VPTlkxdk9SX2FlTndvTWRRUnB4ak01QmFWVzQ2RzVaYk1pWU1VMElXRW5jaFM5czAzR2VWeF9neExJZlgwaDhvV2pJbWh4LWV1bWJ5bnRRZmVyckRhNFNwNkVjdEJGdlFYbHc4d2FBTEx0U0ZsRFVaT1RIUmNNWHlrdw?oc=5",
+          "publishedAt": "Fri, 17 Jul 2026 02:30:00 GMT",
+          "titleZh": "US military says it completed latest strikes on Iran, marking 6th consecutive night of attacks - Reuters",
+          "summaryZh": "US military says it completed latest strikes on Iran, marking 6th consecutive night of attacks&nbsp;&nbsp;Reuters"
+        },
+        {
           "id": "reuters-news-0-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
@@ -348,7 +374,7 @@
           "summaryZh": "US House Republicans push forward on Trump funding plan for Iran war, election overhaul&nbsp;&nbsp;Reuters"
         },
         {
-          "id": "reuters-news-1-https://news.google.com/",
+          "id": "reuters-news-2-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -361,7 +387,7 @@
           "summaryZh": "Iran and US step up attacks, release of American in dispute&nbsp;&nbsp;Reuters"
         },
         {
-          "id": "reuters-news-2-https://news.google.com/",
+          "id": "reuters-news-1-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -382,7 +408,7 @@
           "title": "US launches sixth night of attacks as Iran signals it could prod Houthis to close Red Sea oil route - as it happened - Reuters",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNOEx3dDRJajZOY0pLYXhWNnJfS0N5VS1laTVab2NhLUxERzZETDZ5OFlJOXh2UkoxZXo2ZVVJVmZVdllTa0RMSy1mRDJyVENPUnc5M3M3cWU5endCT3BFNXVnOHJ6NnNZTFRkQlpTWmJaN0xaMVJlRVZhWENPQlZlTGNSVmEtTTUwcHlueVlNekFJR05KZm9nZTV3YU1GVlgzU05UeU54V2YtNXVBR3pCSkNLQjdEQQ?oc=5\" target=\"_blank\">US launches sixth night of attacks as Iran signals it could prod Houthis to close Red Sea oil route - as it happened</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOEx3dDRJajZOY0pLYXhWNnJfS0N5VS1laTVab2NhLUxERzZETDZ5OFlJOXh2UkoxZXo2ZVVJVmZVdllTa0RMSy1mRDJyVENPUnc5M3M3cWU5endCT3BFNXVnOHJ6NnNZTFRkQlpTWmJaN0xaMVJlRVZhWENPQlZlTGNSVmEtTTUwcHlueVlNekFJR05KZm9nZTV3YU1GVlgzU05UeU54V2YtNXVBR3pCSkNLQjdEQQ?oc=5",
-          "publishedAt": "Thu, 16 Jul 2026 02:24:23 GMT",
+          "publishedAt": "Thu, 16 Jul 2026 02:37:00 GMT",
           "titleZh": "US launches sixth night of attacks as Iran signals it could prod Houthis to close Red Sea oil route - as it happened - Reuters",
           "summaryZh": "US launches sixth night of attacks as Iran signals it could prod Houthis to close Red Sea oil route - as it happened&nbsp;&nbsp;Reuters"
         }
@@ -393,7 +419,7 @@
       "source": "BBC",
       "items": [
         {
-          "id": "bbc-news-1-https://news.google.com/",
+          "id": "bbc-news-0-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -401,12 +427,12 @@
           "title": "Blasts reported in Iran as US launches new wave of strikes - BBC",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGS2EteFNKR1VrbVVwZ0kwRkpWaVdCTFhwNWtISThhYnFnYzRPNTRCYWpaa3FGdDYzUWJmcmZfN1VhQWNuM2pSZ2l3WGVkTW1BeHM3b3ZkWW5UQQ?oc=5\" target=\"_blank\">Blasts reported in Iran as US launches new wave of strikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGS2EteFNKR1VrbVVwZ0kwRkpWaVdCTFhwNWtISThhYnFnYzRPNTRCYWpaa3FGdDYzUWJmcmZfN1VhQWNuM2pSZ2l3WGVkTW1BeHM3b3ZkWW5UQQ?oc=5",
-          "publishedAt": "Thu, 16 Jul 2026 23:57:26 GMT",
+          "publishedAt": "Fri, 17 Jul 2026 03:21:07 GMT",
           "titleZh": "Blasts reported in Iran as US launches new wave of strikes - BBC",
           "summaryZh": "Blasts reported in Iran as US launches new wave of strikes&nbsp;&nbsp;BBC"
         },
         {
-          "id": "bbc-news-0-https://news.google.com/",
+          "id": "bbc-news-3-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -430,19 +456,6 @@
           "publishedAt": "Thu, 16 Jul 2026 11:48:49 GMT",
           "titleZh": "Iran targets military bases as US launches wave of strikes - BBC",
           "summaryZh": "Iran targets military bases as US launches wave of strikes&nbsp;&nbsp;BBC"
-        },
-        {
-          "id": "bbc-news-3-https://news.google.com/",
-          "sourceId": "bbc",
-          "source": "BBC",
-          "sourceSite": "bbc.com",
-          "type": "news",
-          "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave' - BBC",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE04Y29uM0stWFdBX2ZvYno1emtKc25RYTZJdFVqazNHMWdJTFdCb2tlV3FqblB0dHBJRDdoNUxMeXNweGM2NW5hakdCLU9jelo4V2VKby1laGVZdw?oc=5\" target=\"_blank\">US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04Y29uM0stWFdBX2ZvYno1emtKc25RYTZJdFVqazNHMWdJTFdCb2tlV3FqblB0dHBJRDdoNUxMeXNweGM2NW5hakdCLU9jelo4V2VKby1laGVZdw?oc=5",
-          "publishedAt": "Thu, 16 Jul 2026 04:06:11 GMT",
-          "titleZh": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave' - BBC",
-          "summaryZh": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'&nbsp;&nbsp;BBC"
         },
         {
           "id": "bbc-news-4-https://news.google.com/",
@@ -469,6 +482,19 @@
           "publishedAt": "Fri, 19 Jun 2026 07:00:00 GMT",
           "titleZh": "Five ways the Iran peace deal could affect you and your money - BBC",
           "summaryZh": "Five ways the Iran peace deal could affect you and your money&nbsp;&nbsp;BBC"
+        },
+        {
+          "id": "bbc-news-8-https://news.google.com/",
+          "sourceId": "bbc",
+          "source": "BBC",
+          "sourceSite": "bbc.com",
+          "type": "news",
+          "title": "Bowen: US-Iran deal raises inescapable question of what the war was for - BBC",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE45OWQ4U3lmMG1TUEd0ZVBTeUU4TFVfUG9SY1hWcl9nT21MLXBheEhKTmdDdlVGLVdvdkhIUWpvU291T1dOcjJVdHl3dGR0c3FoSW8xMXBjWXh0Zw?oc=5\" target=\"_blank\">Bowen: US-Iran deal raises inescapable question of what the war was for</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45OWQ4U3lmMG1TUEd0ZVBTeUU4TFVfUG9SY1hWcl9nT21MLXBheEhKTmdDdlVGLVdvdkhIUWpvU291T1dOcjJVdHl3dGR0c3FoSW8xMXBjWXh0Zw?oc=5",
+          "publishedAt": "Thu, 18 Jun 2026 07:00:00 GMT",
+          "titleZh": "Bowen: US-Iran deal raises inescapable question of what the war was for - BBC",
+          "summaryZh": "Bowen: US-Iran deal raises inescapable question of what the war was for&nbsp;&nbsp;BBC"
         }
       ]
     },
@@ -476,6 +502,32 @@
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "items": [
+        {
+          "id": "aljazeera-news-1-https://news.google.com/",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "sourceSite": "aljazeera.com",
+          "type": "news",
+          "title": "US bombards Iran in sixth-straight night of attacks - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQWW50dGhURV82b19UaEVSYTJ5YjA2UFBYWVpVd0FUeWhrNHVlVjdRYnBwYkxYVUk3RG8zd1E3OGZReFgyWWVneGhSV1Y2d2liWkRSM1lSVXFhUnJmcmNfT0tXSTE1REFmR0pwZkxfYVJaYmktTTFoNEk5ODh3UUVfNkdYV1l5Vmx4dmZOLUZkRFJ6X0JnZlNWZTJtbEtHNklPZjZOR9IBqgFBVV95cUxNVlBxeVpVZjhnREo4WWtFTkVib3BoVjBHVzlNbUVtbEhKU2hKMVdkUnlRakd1SGJQVzRJSGJ2azIxMkJUdG11Vl84Rno0RkZPWmdJM21XdHBVMG1rNlpYb0hUVjgzcTlQZVJSTThuX0EyMjA3cHU4cUw2THpuOHIyWUtCa3VBcmVTUlNYTjl5amNVM1lkZTRVODNlZnBidlFBQUJyVjdMRVJRZw?oc=5\" target=\"_blank\">US bombards Iran in sixth-straight night of attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWW50dGhURV82b19UaEVSYTJ5YjA2UFBYWVpVd0FUeWhrNHVlVjdRYnBwYkxYVUk3RG8zd1E3OGZReFgyWWVneGhSV1Y2d2liWkRSM1lSVXFhUnJmcmNfT0tXSTE1REFmR0pwZkxfYVJaYmktTTFoNEk5ODh3UUVfNkdYV1l5Vmx4dmZOLUZkRFJ6X0JnZlNWZTJtbEtHNklPZjZOR9IBqgFBVV95cUxNVlBxeVpVZjhnREo4WWtFTkVib3BoVjBHVzlNbUVtbEhKU2hKMVdkUnlRakd1SGJQVzRJSGJ2azIxMkJUdG11Vl84Rno0RkZPWmdJM21XdHBVMG1rNlpYb0hUVjgzcTlQZVJSTThuX0EyMjA3cHU4cUw2THpuOHIyWUtCa3VBcmVTUlNYTjl5amNVM1lkZTRVODNlZnBidlFBQUJyVjdMRVJRZw?oc=5",
+          "publishedAt": "Fri, 17 Jul 2026 05:03:45 GMT",
+          "titleZh": "US bombards Iran in sixth-straight night of attacks - Al Jazeera",
+          "summaryZh": "US bombards Iran in sixth-straight night of attacks&nbsp;&nbsp;Al Jazeera"
+        },
+        {
+          "id": "aljazeera-news-4-https://news.google.com/",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "sourceSite": "aljazeera.com",
+          "type": "news",
+          "title": "Iran says seven killed in latest US strikes, warns war ‘will spread’ - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGFiQkZGcXRqQjFIbDdzVEVxUGV1dWR0WnlMb0JPanluS1pqckNsZXFkQmxvRHMzLTQwUVlJZ2laRDNmMGJRZEQ1N2d1S1N1dWFMdFdnRGQwT2ZBeEExVTFtd2F3SWdRSWNDNG95bU1NZlpsX2xLWmtFRjV4T1BiZlQ4SmJRVks2bGdmMnRKbHNoN3pyOUhKV1ZBcnFmb080TGNfSTc3UWFvd0Q1Q2fSAbMBQVVfeXFMTUNQS2ZSbGg0cVFyT2VCVTN4YWJrNnEtajdiSTVMN3k5MU1rRGRubTFic1YxR3gteUlBWko3MXlJb1V5WHNSYTlSdHNOVmYtTHF5NDF3WVNud24tX3duamlfYWYzZGJ5bC13QmQ4SlYwMmc0SnBoRnpXTjdpTHlTanJWU3VGNFg5d0VBN2pMTEk0Y3FZSXdIOXQwdTdPcWptTk9kU1FTR0g4aWd2OGNHaXNNaTg?oc=5\" target=\"_blank\">Iran says seven killed in latest US strikes, warns war ‘will spread’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGFiQkZGcXRqQjFIbDdzVEVxUGV1dWR0WnlMb0JPanluS1pqckNsZXFkQmxvRHMzLTQwUVlJZ2laRDNmMGJRZEQ1N2d1S1N1dWFMdFdnRGQwT2ZBeEExVTFtd2F3SWdRSWNDNG95bU1NZlpsX2xLWmtFRjV4T1BiZlQ4SmJRVks2bGdmMnRKbHNoN3pyOUhKV1ZBcnFmb080TGNfSTc3UWFvd0Q1Q2fSAbMBQVVfeXFMTUNQS2ZSbGg0cVFyT2VCVTN4YWJrNnEtajdiSTVMN3k5MU1rRGRubTFic1YxR3gteUlBWko3MXlJb1V5WHNSYTlSdHNOVmYtTHF5NDF3WVNud24tX3duamlfYWYzZGJ5bC13QmQ4SlYwMmc0SnBoRnpXTjdpTHlTanJWU3VGNFg5d0VBN2pMTEk0Y3FZSXdIOXQwdTdPcWptTk9kU1FTR0g4aWd2OGNHaXNNaTg?oc=5",
+          "publishedAt": "Fri, 17 Jul 2026 03:20:57 GMT",
+          "titleZh": "Iran says seven killed in latest US strikes, warns war ‘will spread’ - Al Jazeera",
+          "summaryZh": "Iran says seven killed in latest US strikes, warns war ‘will spread’&nbsp;&nbsp;Al Jazeera"
+        },
         {
           "id": "aljazeera-news-0-https://news.google.com/",
           "sourceId": "aljazeera",
@@ -495,32 +547,6 @@
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
           "type": "news",
-          "title": "Qatar rejects Israeli reports of military action against Iran - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmFycHhLaXIycHRjczVHNDNETGh1enUwRkZ4Zmt3dzJ2SU1rZDlMQS16TzN4MGFxWm1aWU5ZOWhwR09OQlVDaVVETTQ1LVg2S1U5ZW1nbC1jX1ZhSW9jRTBuTmdYcEx5Y2N2bEkzRW0tNEI2NVdURVd5R1hlOGFwdUZjbXZKTjVWLTNBTXJDSHN6SmR0a3RmaktybEx0MG1nNUMwYmtqZUpFbTlQWWpBOS1n0gG3AUFVX3lxTE5Pa0tqZHhWeFpyWnFGUnFaUDNBUlBaRzlROEJES1FmRFZJRVkydXNrcVJzczRhTE9rN3lfVko1TDVLWVYza005bW52OFNpU2QzbjVHcE1ReUdQOGJpamVvbWdsZFdRSUtpQmMwMDhad002TUFPQXpBTHJ4SzY1alRWbEJRenVTQXpTU3VtRm1JdWdPY1VkXzdlYS01dU1ZdnFsaF9DUGd5UzZUdTJZRGRaMGlRaEJRUQ?oc=5\" target=\"_blank\">Qatar rejects Israeli reports of military action against Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmFycHhLaXIycHRjczVHNDNETGh1enUwRkZ4Zmt3dzJ2SU1rZDlMQS16TzN4MGFxWm1aWU5ZOWhwR09OQlVDaVVETTQ1LVg2S1U5ZW1nbC1jX1ZhSW9jRTBuTmdYcEx5Y2N2bEkzRW0tNEI2NVdURVd5R1hlOGFwdUZjbXZKTjVWLTNBTXJDSHN6SmR0a3RmaktybEx0MG1nNUMwYmtqZUpFbTlQWWpBOS1n0gG3AUFVX3lxTE5Pa0tqZHhWeFpyWnFGUnFaUDNBUlBaRzlROEJES1FmRFZJRVkydXNrcVJzczRhTE9rN3lfVko1TDVLWVYza005bW52OFNpU2QzbjVHcE1ReUdQOGJpamVvbWdsZFdRSUtpQmMwMDhad002TUFPQXpBTHJ4SzY1alRWbEJRenVTQXpTU3VtRm1JdWdPY1VkXzdlYS01dU1ZdnFsaF9DUGd5UzZUdTJZRGRaMGlRaEJRUQ?oc=5",
-          "publishedAt": "Thu, 16 Jul 2026 23:18:57 GMT",
-          "titleZh": "Qatar rejects Israeli reports of military action against Iran - Al Jazeera",
-          "summaryZh": "Qatar rejects Israeli reports of military action against Iran&nbsp;&nbsp;Al Jazeera"
-        },
-        {
-          "id": "aljazeera-news-2-https://news.google.com/",
-          "sourceId": "aljazeera",
-          "source": "Al Jazeera",
-          "sourceSite": "aljazeera.com",
-          "type": "news",
-          "title": "US mounts sixth straight night of attacks as Iran warns of wider war - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGFiQkZGcXRqQjFIbDdzVEVxUGV1dWR0WnlMb0JPanluS1pqckNsZXFkQmxvRHMzLTQwUVlJZ2laRDNmMGJRZEQ1N2d1S1N1dWFMdFdnRGQwT2ZBeEExVTFtd2F3SWdRSWNDNG95bU1NZlpsX2xLWmtFRjV4T1BiZlQ4SmJRVks2bGdmMnRKbHNoN3pyOUhKV1ZBcnFmb080TGNfSTc3UWFvd0Q1Q2fSAbMBQVVfeXFMTUNQS2ZSbGg0cVFyT2VCVTN4YWJrNnEtajdiSTVMN3k5MU1rRGRubTFic1YxR3gteUlBWko3MXlJb1V5WHNSYTlSdHNOVmYtTHF5NDF3WVNud24tX3duamlfYWYzZGJ5bC13QmQ4SlYwMmc0SnBoRnpXTjdpTHlTanJWU3VGNFg5d0VBN2pMTEk0Y3FZSXdIOXQwdTdPcWptTk9kU1FTR0g4aWd2OGNHaXNNaTg?oc=5\" target=\"_blank\">US mounts sixth straight night of attacks as Iran warns of wider war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGFiQkZGcXRqQjFIbDdzVEVxUGV1dWR0WnlMb0JPanluS1pqckNsZXFkQmxvRHMzLTQwUVlJZ2laRDNmMGJRZEQ1N2d1S1N1dWFMdFdnRGQwT2ZBeEExVTFtd2F3SWdRSWNDNG95bU1NZlpsX2xLWmtFRjV4T1BiZlQ4SmJRVks2bGdmMnRKbHNoN3pyOUhKV1ZBcnFmb080TGNfSTc3UWFvd0Q1Q2fSAbMBQVVfeXFMTUNQS2ZSbGg0cVFyT2VCVTN4YWJrNnEtajdiSTVMN3k5MU1rRGRubTFic1YxR3gteUlBWko3MXlJb1V5WHNSYTlSdHNOVmYtTHF5NDF3WVNud24tX3duamlfYWYzZGJ5bC13QmQ4SlYwMmc0SnBoRnpXTjdpTHlTanJWU3VGNFg5d0VBN2pMTEk0Y3FZSXdIOXQwdTdPcWptTk9kU1FTR0g4aWd2OGNHaXNNaTg?oc=5",
-          "publishedAt": "Thu, 16 Jul 2026 21:04:03 GMT",
-          "titleZh": "US mounts sixth straight night of attacks as Iran warns of wider war - Al Jazeera",
-          "summaryZh": "US mounts sixth straight night of attacks as Iran warns of wider war&nbsp;&nbsp;Al Jazeera"
-        },
-        {
-          "id": "aljazeera-news-5-https://news.google.com/",
-          "sourceId": "aljazeera",
-          "source": "Al Jazeera",
-          "sourceSite": "aljazeera.com",
-          "type": "news",
           "title": "The hardest party to manage in the Iran talks isn’t Iran - Al Jazeera",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNVFVyX2RpNDJGcTZrTWNMZVNSVXlEdEpqYU8xUjd3Um1GNlNYUnJOV0U0M1Rmc3VUSXNCVEJJWlQwWjIxdFlNTGduZndiOHFKaE9wRnROaWl2X29BM1lmclNjNlppcWtQNUlFcjZQMXl6YXF4WDlLMHpBM0t6TUZ6WER3cmlfamN6YURiUEt0b1BONnFkWUJQVl9lQlV1WFJEeXfSAacBQVVfeXFMT0dVTnZpSXpmSjU5RFdacHpDUFJfeUZUVi1Ic1FMaDN2WUtqbXR1UzcxSWdlLXRyNkJUVEtLZWVIZ0M3aVUyOVZ5cFVxajV3QktOWDhXdVU1RGFpRzc5aVVrMVpEUjBzVWdpYU9wWFdzZXBsNXE0bUg5cEpaOFQ5bVlqTVpMdHZKR1JKT0pkcDI0YWZjY0dLWWZnWm9Xa1pmdkFtanMydjg?oc=5\" target=\"_blank\">The hardest party to manage in the Iran talks isn’t Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVFVyX2RpNDJGcTZrTWNMZVNSVXlEdEpqYU8xUjd3Um1GNlNYUnJOV0U0M1Rmc3VUSXNCVEJJWlQwWjIxdFlNTGduZndiOHFKaE9wRnROaWl2X29BM1lmclNjNlppcWtQNUlFcjZQMXl6YXF4WDlLMHpBM0t6TUZ6WER3cmlfamN6YURiUEt0b1BONnFkWUJQVl9lQlV1WFJEeXfSAacBQVVfeXFMT0dVTnZpSXpmSjU5RFdacHpDUFJfeUZUVi1Ic1FMaDN2WUtqbXR1UzcxSWdlLXRyNkJUVEtLZWVIZ0M3aVUyOVZ5cFVxajV3QktOWDhXdVU1RGFpRzc5aVVrMVpEUjBzVWdpYU9wWFdzZXBsNXE0bUg5cEpaOFQ5bVlqTVpMdHZKR1JKT0pkcDI0YWZjY0dLWWZnWm9Xa1pmdkFtanMydjg?oc=5",
@@ -529,20 +555,7 @@
           "summaryZh": "The hardest party to manage in the Iran talks isn’t Iran&nbsp;&nbsp;Al Jazeera"
         },
         {
-          "id": "aljazeera-news-6-https://news.google.com/",
-          "sourceId": "aljazeera",
-          "source": "Al Jazeera",
-          "sourceSite": "aljazeera.com",
-          "type": "news",
-          "title": "Iran condemns ‘barbaric’ US attack near children’s cancer hospital - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOUHAwTU1xYzJiWjkzWWN2bF95SXl3NjBJbFp6eWVOS0hhenpYTFRBTTlveGlrRGNBVkpHQ2h0YUo1SGJHMV9ia2xILXJKU0xnTm5lLThvMWotczFIX0xjTE8wQkFNdlhNM0RlSlVldzlsYVlXTTFQQzNCUkw4Mktod0tSQ3dYVVoycWlHUzNncWxTQTl4eWJGQ2VqMy1VaWFiUllNR1B1Z9IBrAFBVV95cUxOTzdvLTM2amNmYXBlbGFfZlpCY2l3RWxQZ0h3WWdvb2VKbU5OdlJUWE1TMkxncWcxQnpwR2VvcnlPZ0lyZ1Y5d3hMUUI0aXJQU0l2d1ZUTmVwa2pKTG5MTUJvOUZ4MTBLV21fYnRFRUkxZW5OTVJzRDhUZk93LURjM1VkWjV3OF9DZThIanJwRUpLZ0lBXzRHSFNNU3RLZ1VRRHN3TWJMOTBPSElf?oc=5\" target=\"_blank\">Iran condemns ‘barbaric’ US attack near children’s cancer hospital</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUHAwTU1xYzJiWjkzWWN2bF95SXl3NjBJbFp6eWVOS0hhenpYTFRBTTlveGlrRGNBVkpHQ2h0YUo1SGJHMV9ia2xILXJKU0xnTm5lLThvMWotczFIX0xjTE8wQkFNdlhNM0RlSlVldzlsYVlXTTFQQzNCUkw4Mktod0tSQ3dYVVoycWlHUzNncWxTQTl4eWJGQ2VqMy1VaWFiUllNR1B1Z9IBrAFBVV95cUxOTzdvLTM2amNmYXBlbGFfZlpCY2l3RWxQZ0h3WWdvb2VKbU5OdlJUWE1TMkxncWcxQnpwR2VvcnlPZ0lyZ1Y5d3hMUUI0aXJQU0l2d1ZUTmVwa2pKTG5MTUJvOUZ4MTBLV21fYnRFRUkxZW5OTVJzRDhUZk93LURjM1VkWjV3OF9DZThIanJwRUpLZ0lBXzRHSFNNU3RLZ1VRRHN3TWJMOTBPSElf?oc=5",
-          "publishedAt": "Thu, 16 Jul 2026 18:45:01 GMT",
-          "titleZh": "Iran condemns ‘barbaric’ US attack near children’s cancer hospital - Al Jazeera",
-          "summaryZh": "Iran condemns ‘barbaric’ US attack near children’s cancer hospital&nbsp;&nbsp;Al Jazeera"
-        },
-        {
-          "id": "aljazeera-news-1-https://news.google.com/",
+          "id": "aljazeera-news-2-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -553,6 +566,19 @@
           "publishedAt": "Thu, 16 Jul 2026 16:22:10 GMT",
           "titleZh": "Vance says Israeli campaign tried to sway US opinion against Iran diplomacy - Al Jazeera",
           "summaryZh": "Vance says Israeli campaign tried to sway US opinion against Iran diplomacy&nbsp;&nbsp;Al Jazeera"
+        },
+        {
+          "id": "aljazeera-news-6-https://news.google.com/",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "sourceSite": "aljazeera.com",
+          "type": "news",
+          "title": "US or Iran — Who needs a new truce deal more? - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPWm9nN3hmeXl4SVdqVnVZNkNfUGxtSUk5b25pQ19yNTJ1bFF5cnA2YXRwQVhGSUVUNzJVcHRzd1d0TFpaRjNEd3FaRzZFZ2dKdEM1U1hGQlhONXJLZ1NKVVJEWTJXa1loNmlrc2w5ck43T01CVmxnX3p3REYwalZrQ0h4NkPSAYoBQVVfeXFMUDhERWxVeGwtQ1JuNmlGTWdQU0xlRVNiekxRR3F6d1N0Y3RlWkgzZUdicDBPLXVFV2F5YmVmREV4STBXcktCYmNCNE8yMEhRcDZaSjBSWGpCeVU1ZWRYQUE2RTZFaVpvQk1rYTZmQ0lLRkZqWWlXOTI0czdycURIUnBhYXZqb0RwZmhR?oc=5\" target=\"_blank\">US or Iran — Who needs a new truce deal more?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWm9nN3hmeXl4SVdqVnVZNkNfUGxtSUk5b25pQ19yNTJ1bFF5cnA2YXRwQVhGSUVUNzJVcHRzd1d0TFpaRjNEd3FaRzZFZ2dKdEM1U1hGQlhONXJLZ1NKVVJEWTJXa1loNmlrc2w5ck43T01CVmxnX3p3REYwalZrQ0h4NkPSAYoBQVVfeXFMUDhERWxVeGwtQ1JuNmlGTWdQU0xlRVNiekxRR3F6d1N0Y3RlWkgzZUdicDBPLXVFV2F5YmVmREV4STBXcktCYmNCNE8yMEhRcDZaSjBSWGpCeVU1ZWRYQUE2RTZFaVpvQk1rYTZmQ0lLRkZqWWlXOTI0czdycURIUnBhYXZqb0RwZmhR?oc=5",
+          "publishedAt": "Thu, 16 Jul 2026 14:15:04 GMT",
+          "titleZh": "US or Iran — Who needs a new truce deal more? - Al Jazeera",
+          "summaryZh": "US or Iran — Who needs a new truce deal more?&nbsp;&nbsp;Al Jazeera"
         }
       ]
     },
@@ -578,19 +604,6 @@
   ],
   "commentary": [
     {
-      "id": "nytimes-commentary-3-https://news.google.com/",
-      "sourceId": "nytimes",
-      "source": "The New York Times",
-      "sourceSite": "nytimes.com",
-      "type": "commentary",
-      "title": "In Iran, Trump Risks Another American ‘Forever War’ - The New York Times",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPVlE3dTdabEF0LVRLcm41dkU3Y2g4S19GaVBYWUw5b0lyN3VVMmM4ekMyOXlqZTdWRVNBaV9lZWhsN1lwV0hYOWtKekRoM3I5MERMRWhPajRKOFFRdUpka21sWXZNNXdTWkhNVjFMMTNSU2dGZmotTFItczF6RXprZHZOa2xaQQ?oc=5\" target=\"_blank\">In Iran, Trump Risks Another American ‘Forever War’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVlE3dTdabEF0LVRLcm41dkU3Y2g4S19GaVBYWUw5b0lyN3VVMmM4ekMyOXlqZTdWRVNBaV9lZWhsN1lwV0hYOWtKekRoM3I5MERMRWhPajRKOFFRdUpka21sWXZNNXdTWkhNVjFMMTNSU2dGZmotTFItczF6RXprZHZOa2xaQQ?oc=5",
-      "publishedAt": "Thu, 16 Jul 2026 13:20:24 GMT",
-      "titleZh": "In Iran, Trump Risks Another American ‘Forever War’ - The New York Times",
-      "summaryZh": "In Iran, Trump Risks Another American ‘Forever War’&nbsp;&nbsp;The New York Times"
-    },
-    {
       "id": "foreignpolicy-commentary-0-https://news.google.com/",
       "sourceId": "foreignpolicy",
       "source": "Foreign Policy",
@@ -604,7 +617,7 @@
       "summaryZh": "Iranian Attacks Need Not Change the Gulf’s AI Ambitions&nbsp;&nbsp;Foreign Policy"
     },
     {
-      "id": "nytimes-commentary-1-https://news.google.com/",
+      "id": "nytimes-commentary-0-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -615,6 +628,19 @@
       "publishedAt": "Thu, 16 Jul 2026 05:00:04 GMT",
       "titleZh": "Opinion | An American Strike Killed Iranian Civilians. Where’s the Accountability? - The New York Times",
       "summaryZh": "Opinion | An American Strike Killed Iranian Civilians. Where’s the Accountability?&nbsp;&nbsp;The New York Times"
+    },
+    {
+      "id": "nytimes-commentary-3-https://news.google.com/",
+      "sourceId": "nytimes",
+      "source": "The New York Times",
+      "sourceSite": "nytimes.com",
+      "type": "commentary",
+      "title": "In Iran, Trump Risks Another American ‘Forever War’ - The New York Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPVlE3dTdabEF0LVRLcm41dkU3Y2g4S19GaVBYWUw5b0lyN3VVMmM4ekMyOXlqZTdWRVNBaV9lZWhsN1lwV0hYOWtKekRoM3I5MERMRWhPajRKOFFRdUpka21sWXZNNXdTWkhNVjFMMTNSU2dGZmotTFItczF6RXprZHZOa2xaQQ?oc=5\" target=\"_blank\">In Iran, Trump Risks Another American ‘Forever War’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVlE3dTdabEF0LVRLcm41dkU3Y2g4S19GaVBYWUw5b0lyN3VVMmM4ekMyOXlqZTdWRVNBaV9lZWhsN1lwV0hYOWtKekRoM3I5MERMRWhPajRKOFFRdUpka21sWXZNNXdTWkhNVjFMMTNSU2dGZmotTFItczF6RXprZHZOa2xaQQ?oc=5",
+      "publishedAt": "Thu, 16 Jul 2026 04:01:08 GMT",
+      "titleZh": "In Iran, Trump Risks Another American ‘Forever War’ - The New York Times",
+      "summaryZh": "In Iran, Trump Risks Another American ‘Forever War’&nbsp;&nbsp;The New York Times"
     },
     {
       "id": "nytimes-commentary-6-https://news.google.com/",
@@ -630,7 +656,7 @@
       "summaryZh": "Iran, Epstein, Space Travel: 5 Takeaways From JD Vance’s Interview With Joe Rogan&nbsp;&nbsp;The New York Times"
     },
     {
-      "id": "nytimes-commentary-5-https://news.google.com/",
+      "id": "nytimes-commentary-4-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -643,20 +669,7 @@
       "summaryZh": "Court Filings Describe Ongoing Contact Between ICE and Iran on Deportations&nbsp;&nbsp;The New York Times"
     },
     {
-      "id": "nytimes-commentary-4-https://news.google.com/",
-      "sourceId": "nytimes",
-      "source": "The New York Times",
-      "sourceSite": "nytimes.com",
-      "type": "commentary",
-      "title": "For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo - The New York Times",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOZVpTTzFkRHM1OE1GWE85SjVZWC10YTZtWW5aQVgybUJRTmlUdDFrdlh1cDZ3VXdKOXptODBZRnFMN2dBYjZTVXlYdmozTVRvVE5Bbkx5aDRqc2hmZFFFSFFYd0pKaDN1WjBlRjJsY2pubmplTXIyS2ZlZ2lDbHViV2dmdw?oc=5\" target=\"_blank\">For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZVpTTzFkRHM1OE1GWE85SjVZWC10YTZtWW5aQVgybUJRTmlUdDFrdlh1cDZ3VXdKOXptODBZRnFMN2dBYjZTVXlYdmozTVRvVE5Bbkx5aDRqc2hmZFFFSFFYd0pKaDN1WjBlRjJsY2pubmplTXIyS2ZlZ2lDbHViV2dmdw?oc=5",
-      "publishedAt": "Wed, 15 Jul 2026 14:44:50 GMT",
-      "titleZh": "For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo - The New York Times",
-      "summaryZh": "For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo&nbsp;&nbsp;The New York Times"
-    },
-    {
-      "id": "nytimes-commentary-0-https://news.google.com/",
+      "id": "nytimes-commentary-5-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -700,12 +713,25 @@
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
       "type": "commentary",
-      "title": "At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate - The New York Times",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5pOTJPQ3JUUVBBRmlaV19FNzdOdnJFeTJhMEhUa1FSVTRCSG8yZjhXak0zaGx6clJYX1MtbkJZTW80emp2LTRjYnd1Z3MyaGxEOFgwNVg5bmtNOGljd29NVVlYZmZBc2N6MjFJbUhtTzdvektN?oc=5\" target=\"_blank\">At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "title": "For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo - The New York Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOZVpTTzFkRHM1OE1GWE85SjVZWC10YTZtWW5aQVgybUJRTmlUdDFrdlh1cDZ3VXdKOXptODBZRnFMN2dBYjZTVXlYdmozTVRvVE5Bbkx5aDRqc2hmZFFFSFFYd0pKaDN1WjBlRjJsY2pubmplTXIyS2ZlZ2lDbHViV2dmdw?oc=5\" target=\"_blank\">For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZVpTTzFkRHM1OE1GWE85SjVZWC10YTZtWW5aQVgybUJRTmlUdDFrdlh1cDZ3VXdKOXptODBZRnFMN2dBYjZTVXlYdmozTVRvVE5Bbkx5aDRqc2hmZFFFSFFYd0pKaDN1WjBlRjJsY2pubmplTXIyS2ZlZ2lDbHViV2dmdw?oc=5",
+      "publishedAt": "Wed, 15 Jul 2026 09:03:46 GMT",
+      "titleZh": "For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo - The New York Times",
+      "summaryZh": "For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo&nbsp;&nbsp;The New York Times"
+    },
+    {
+      "id": "nytimes-commentary-1-https://news.google.com/",
+      "sourceId": "nytimes",
+      "source": "The New York Times",
+      "sourceSite": "nytimes.com",
+      "type": "commentary",
+      "title": "In Iran, Trump Has Found an Opponent He Cannot Easily Dominate - The New York Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5pOTJPQ3JUUVBBRmlaV19FNzdOdnJFeTJhMEhUa1FSVTRCSG8yZjhXak0zaGx6clJYX1MtbkJZTW80emp2LTRjYnd1Z3MyaGxEOFgwNVg5bmtNOGljd29NVVlYZmZBc2N6MjFJbUhtTzdvektN?oc=5\" target=\"_blank\">In Iran, Trump Has Found an Opponent He Cannot Easily Dominate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pOTJPQ3JUUVBBRmlaV19FNzdOdnJFeTJhMEhUa1FSVTRCSG8yZjhXak0zaGx6clJYX1MtbkJZTW80emp2LTRjYnd1Z3MyaGxEOFgwNVg5bmtNOGljd29NVVlYZmZBc2N6MjFJbUhtTzdvektN?oc=5",
       "publishedAt": "Tue, 14 Jul 2026 23:01:39 GMT",
-      "titleZh": "At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate - The New York Times",
-      "summaryZh": "At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate&nbsp;&nbsp;The New York Times"
+      "titleZh": "In Iran, Trump Has Found an Opponent He Cannot Easily Dominate - The New York Times",
+      "summaryZh": "In Iran, Trump Has Found an Opponent He Cannot Easily Dominate&nbsp;&nbsp;The New York Times"
     },
     {
       "id": "foreignpolicy-commentary-1-https://news.google.com/",
@@ -851,19 +877,6 @@
       "summaryZh": "World in Brief: America and Iran trade strikes; the IEA predicts an oil surplus&nbsp;&nbsp;The Economist"
     },
     {
-      "id": "economist-commentary-7-https://news.google.com/",
-      "sourceId": "economist",
-      "source": "The Economist",
-      "sourceSite": "economist.com",
-      "type": "commentary",
-      "title": "World in Brief: American and Iran trade strikes; the Fed’s new task forces - The Economist",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOREN0WXA3TEZ6aDVIcmdEZ0tRR3pJbWlFM3diVTVpdTVZLWVNVFNkTE8yN0tVMFQtNHJzWXNKSkFWaEtWRVNfZVlMdnNUVVUwUlU3NUc1QUIwbGY2WS1ISVJkbF9NNVlvbHlub0MxT0RlZ0lONEZPcDJOejA3NUVfLUtvTzVDRFFpLXNpTWV3aWdLNjkzWTJr?oc=5\" target=\"_blank\">World in Brief: American and Iran trade strikes; the Fed’s new task forces</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOREN0WXA3TEZ6aDVIcmdEZ0tRR3pJbWlFM3diVTVpdTVZLWVNVFNkTE8yN0tVMFQtNHJzWXNKSkFWaEtWRVNfZVlMdnNUVVUwUlU3NUc1QUIwbGY2WS1ISVJkbF9NNVlvbHlub0MxT0RlZ0lONEZPcDJOejA3NUVfLUtvTzVDRFFpLXNpTWV3aWdLNjkzWTJr?oc=5",
-      "publishedAt": "Fri, 10 Jul 2026 05:00:08 GMT",
-      "titleZh": "World in Brief: American and Iran trade strikes; the Fed’s new task forces - The Economist",
-      "summaryZh": "World in Brief: American and Iran trade strikes; the Fed’s new task forces&nbsp;&nbsp;The Economist"
-    },
-    {
       "id": "foreignaffairs-commentary-1-https://news.google.com/",
       "sourceId": "foreignaffairs",
       "source": "Foreign Affairs",
@@ -986,12 +999,12 @@
       "source": "Foreign Affairs",
       "sourceSite": "foreignaffairs.com",
       "type": "commentary",
-      "title": "Iran’s New Revolution - Foreign Affairs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPX1VYNFl1NTRxeHNmSnV5UV9BaWtUSkVmdVlBVEowNmZzMmV5ZldjQ1Q4RjdSVFlNX2x2T1ppY25JZy1kQUdXdjBxSnhTZVJUZHNyQmVvQWxzTmhfaVpzOWk5MDR2VnFhd3pNaEVzX3JrOHkxZ3NSc0lUSnJCQVVJN3J3?oc=5\" target=\"_blank\">Iran’s New Revolution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX1VYNFl1NTRxeHNmSnV5UV9BaWtUSkVmdVlBVEowNmZzMmV5ZldjQ1Q4RjdSVFlNX2x2T1ppY25JZy1kQUdXdjBxSnhTZVJUZHNyQmVvQWxzTmhfaVpzOWk5MDR2VnFhd3pNaEVzX3JrOHkxZ3NSc0lUSnJCQVVJN3J3?oc=5",
-      "publishedAt": "Sat, 01 Jan 2000 08:00:00 GMT",
-      "titleZh": "Iran’s New Revolution - Foreign Affairs",
-      "summaryZh": "Iran’s New Revolution&nbsp;&nbsp;Foreign Affairs"
+      "title": "How Iran Sees the War - Foreign Affairs",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIblpBYjc2Z0tOb015dWFsZUN0djh0dk41NllJTkdmWUY1alUxSjZtcjlkNjVjRWVrdVZwNU5ETzB3ejV5Y2wtY0Z0Zk5WajhSTF9wbzhBeVQ1LWxTS2lWUkdkTQ?oc=5\" target=\"_blank\">How Iran Sees the War</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIblpBYjc2Z0tOb015dWFsZUN0djh0dk41NllJTkdmWUY1alUxSjZtcjlkNjVjRWVrdVZwNU5ETzB3ejV5Y2wtY0Z0Zk5WajhSTF9wbzhBeVQ1LWxTS2lWUkdkTQ?oc=5",
+      "publishedAt": "Fri, 20 Mar 2026 07:00:00 GMT",
+      "titleZh": "How Iran Sees the War - Foreign Affairs",
+      "summaryZh": "How Iran Sees the War&nbsp;&nbsp;Foreign Affairs"
     }
   ]
 }
