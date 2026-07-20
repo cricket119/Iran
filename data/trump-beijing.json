@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-19T20:54:55.034Z",
+  "generatedAt": "2026-07-20T03:29:23.174Z",
   "topic": "特朗普北京会谈",
   "totalNews": 53,
-  "totalCommentary": 10,
+  "totalCommentary": 11,
   "totalSocial": 24,
   "totalMarkets": 11,
   "minPublishedAt": "2026-05-13T16:00:00.000Z",
@@ -120,7 +120,7 @@
       "summaryZh": "US CEOs follow Trump's footsteps with diplomacy in Beijing Reuters"
     },
     {
-      "id": "general-news-6-https://news.google.com/",
+      "id": "general-news-7-https://news.google.com/",
       "sourceId": "general",
       "source": "CNN",
       "sourceSite": "",
@@ -328,7 +328,7 @@
       "summaryZh": "What did Trump and Xi accomplish? Atlantic Council"
     },
     {
-      "id": "general-news-7-https://news.google.com/",
+      "id": "general-news-6-https://news.google.com/",
       "sourceId": "general",
       "source": "CNBC",
       "sourceSite": "",
@@ -1190,7 +1190,7 @@
           "summaryZh": "China turns Trump’s ill-prepared summit towards Taiwan East Asia Forum"
         },
         {
-          "id": "general-news-6-https://news.google.com/",
+          "id": "general-news-7-https://news.google.com/",
           "sourceId": "general",
           "source": "CNN",
           "sourceSite": "",
@@ -1216,7 +1216,7 @@
           "summaryZh": "What did Trump and Xi accomplish? Atlantic Council"
         },
         {
-          "id": "general-news-7-https://news.google.com/",
+          "id": "general-news-6-https://news.google.com/",
           "sourceId": "general",
           "source": "CNBC",
           "sourceSite": "",
@@ -1439,6 +1439,19 @@
       "publishedAt": "Fri, 22 May 2026 07:00:00 GMT",
       "titleZh": "Trump Was Flattering, Xi Was Resolute. The Difference Spoke Volumes. - The New York Times",
       "summaryZh": "Trump Was Flattering, Xi Was Resolute. The Difference Spoke Volumes. The New York Times"
+    },
+    {
+      "id": "foreignpolicy-commentary-3-https://news.google.com/",
+      "sourceId": "foreignpolicy",
+      "source": "Foreign Policy",
+      "sourceSite": "foreignpolicy.com",
+      "type": "commentary",
+      "title": "Subscriber Exclusive: The Trump-Xi Summit - Foreign Policy",
+      "description": "Subscriber Exclusive: The Trump-Xi Summit Foreign Policy",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tc0tubHI4V05yMnpJeXVScmxudjNzZUY4am9IR1lpWFhsYmtJeE9hd2dCTVlfZzlKLUs5Y1B4OUJCNUxPdVl6Mno0Z2lTQWxvb2I0aDg2dlNuZ2xoVGlPUy03NnAwN2JDZnk0?oc=5",
+      "publishedAt": "Mon, 18 May 2026 07:00:00 GMT",
+      "titleZh": "Subscriber Exclusive: The Trump-Xi Summit - Foreign Policy",
+      "summaryZh": "Subscriber Exclusive: The Trump-Xi Summit Foreign Policy"
     },
     {
       "id": "foreignaffairs-commentary-0-https://news.google.com/",
@@ -2087,13 +2100,13 @@
         "feed": "gdelt:特朗普 访华 美国企业家",
         "count": 0,
         "status": "failed",
-        "error": "Unexpected token 'Y', \"Your searc\"... is not valid JSON"
+        "error": "GDELT fetch failed: 429"
       }
     ],
     "commentary": [
       {
         "feed": "https://news.google.com/rss/search?q=Trump+Beijing+China+talks+analysis&hl=en-US&gl=US&ceid=US:en",
-        "count": 70,
+        "count": 69,
         "status": "ok"
       },
       {
@@ -2120,12 +2133,12 @@
     "social": [
       {
         "feed": "https://news.google.com/rss/search?q=Trump+Beijing+talks+X+OR+Twitter&hl=en-US&gl=US&ceid=US:en",
-        "count": 63,
+        "count": 64,
         "status": "ok"
       },
       {
         "feed": "https://news.google.com/rss/search?q=特朗普+北京+会谈+微博+大V&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "count": 45,
+        "count": 44,
         "status": "ok"
       },
       {
