@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-20T14:13:14.548Z",
+  "generatedAt": "2026-07-20T18:08:09.071Z",
   "topic": "特朗普北京会谈",
   "totalNews": 54,
-  "totalCommentary": 13,
+  "totalCommentary": 11,
   "totalSocial": 24,
-  "totalMarkets": 11,
+  "totalMarkets": 8,
   "minPublishedAt": "2026-05-13T16:00:00.000Z",
   "translation": {
     "news": "fallback",
@@ -81,7 +81,7 @@
       "summaryZh": "Trump says Xi assured him China would not send weapons to Iran Al Jazeera"
     },
     {
-      "id": "reuters-news-1-https://news.google.com/",
+      "id": "reuters-news-0-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -94,7 +94,7 @@
       "summaryZh": "Trump returns from China with stability and a stalemate Reuters"
     },
     {
-      "id": "reuters-news-0-https://news.google.com/",
+      "id": "reuters-news-1-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -737,7 +737,7 @@
           "summaryZh": "Xi hosted Trump, then Putin: Spot the differences in Beijing Reuters"
         },
         {
-          "id": "reuters-news-1-https://news.google.com/",
+          "id": "reuters-news-0-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -750,7 +750,7 @@
           "summaryZh": "Trump returns from China with stability and a stalemate Reuters"
         },
         {
-          "id": "reuters-news-0-https://news.google.com/",
+          "id": "reuters-news-1-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -1454,19 +1454,6 @@
   ],
   "commentary": [
     {
-      "id": "ft-commentary-2-https://news.google.com/",
-      "sourceId": "ft",
-      "source": "Financial Times",
-      "sourceSite": "ft.com",
-      "type": "commentary",
-      "title": "Xi Jinping railed against Japan’s ‘remilitarisation’ at Donald Trump summit - Financial Times",
-      "description": "Xi Jinping railed against Japan’s ‘remilitarisation’ at Donald Trump summit Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTlAxUGNSYlEwbjNma3lOU0t6NG9oSHhpaW1KLUx3eTQ2c2dqRm9lYW5ycnU5Xy0zRDAxLUoyUEgyZWNSV29ULUExWmtvY2RoajQzWFVIUHRGWExTTS1hTDJrczZFZjNNeHdmS01Hd2UwT0hOajJ5aXUwenpwNlJ3OEVQVUY?oc=5",
-      "publishedAt": "Sun, 24 May 2026 07:00:00 GMT",
-      "titleZh": "Xi Jinping railed against Japan’s ‘remilitarisation’ at Donald Trump summit - Financial Times",
-      "summaryZh": "Xi Jinping railed against Japan’s ‘remilitarisation’ at Donald Trump summit Financial Times"
-    },
-    {
       "id": "nytimes-commentary-1-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
@@ -1480,17 +1467,17 @@
       "summaryZh": "Trump Was Flattering, Xi Was Resolute. The Difference Spoke Volumes. The New York Times"
     },
     {
-      "id": "ft-commentary-1-https://news.google.com/",
-      "sourceId": "ft",
-      "source": "Financial Times",
-      "sourceSite": "ft.com",
+      "id": "foreignpolicy-commentary-3-https://news.google.com/",
+      "sourceId": "foreignpolicy",
+      "source": "Foreign Policy",
+      "sourceSite": "foreignpolicy.com",
       "type": "commentary",
-      "title": "Xi Jinping told Donald Trump that Putin might ‘regret’ invasion of Ukraine - Financial Times",
-      "description": "Xi Jinping told Donald Trump that Putin might ‘regret’ invasion of Ukraine Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdU92OVBGaHVVOEhRSEtScWNCY19ac0tETndLTEJOODVVcld5bE5WbGk5eVU1bEdna0R6T2VOcmNoR3dwQmR4TkJXS2pibGpmam1nWnRkd1JhVkZjSTFWeDFPMFp2NTJFZW5XbTZ4U3JpLVgzeFFOMmRmRFkxNFdiTElsOGw?oc=5",
-      "publishedAt": "Tue, 19 May 2026 07:00:00 GMT",
-      "titleZh": "Xi Jinping told Donald Trump that Putin might ‘regret’ invasion of Ukraine - Financial Times",
-      "summaryZh": "Xi Jinping told Donald Trump that Putin might ‘regret’ invasion of Ukraine Financial Times"
+      "title": "What Happened When Trump Met Xi - Foreign Policy",
+      "description": "What Happened When Trump Met Xi Foreign Policy",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLVV5ejk0Tk5DRTNxb1Z1YldOQUpXTDlWZW1pUmRoaGRGaVdyYTRvTG1iRl9SLUowdW9TeThBd0xfUVgwUGtnZ0s1NUo2MFNlMXN3THVobm40RTQ0eUo3SWhkUnU3SDVORGhqWC12dWozMW8xUm9sNnRpY0pDX1o5RzR3VlpxSkJxcGlORjM0NmIzaHBjWnlBaWw1X2RtZTUzZ24wdHFHdmluanRTbmc?oc=5",
+      "publishedAt": "Mon, 18 May 2026 07:00:00 GMT",
+      "titleZh": "What Happened When Trump Met Xi - Foreign Policy",
+      "summaryZh": "What Happened When Trump Met Xi Foreign Policy"
     },
     {
       "id": "foreignaffairs-commentary-0-https://news.google.com/",
@@ -1543,19 +1530,6 @@
       "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
       "titleZh": "What did Trump and Xi actually achieve? - The Economist",
       "summaryZh": "What did Trump and Xi actually achieve? The Economist"
-    },
-    {
-      "id": "ft-commentary-0-https://news.google.com/",
-      "sourceId": "ft",
-      "source": "Financial Times",
-      "sourceSite": "ft.com",
-      "type": "commentary",
-      "title": "Donald Trump undecided on Taiwan arms sale after summit with Xi Jinping - Financial Times",
-      "description": "Donald Trump undecided on Taiwan arms sale after summit with Xi Jinping Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPclF4Q1FxNHhxamlRTmRyOHZDcWNNMGc1ODJyZUVld2hiWnh2UUhWRjlmU1dib3lhMGZuRVFVN3FUY2lGWFp2U3pjU0Fkb0d3bzVzQ3BVSTdaSlFYaG9Lbjk2WVRrV2h1ZWsycVRaY1FfR284UU1nWTRQbEN1MkZ4NGdSOTA?oc=5",
-      "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
-      "titleZh": "Donald Trump undecided on Taiwan arms sale after summit with Xi Jinping - Financial Times",
-      "summaryZh": "Donald Trump undecided on Taiwan arms sale after summit with Xi Jinping Financial Times"
     },
     {
       "id": "foreignpolicy-commentary-0-https://news.google.com/",
@@ -1942,143 +1916,125 @@
       "symbol": "TSLA",
       "company": "Tesla",
       "representative": "Elon Musk / Tesla",
-      "price": 374.875,
-      "previous": 394.76,
-      "change": -19.88499999999999,
-      "changePct": -5.037237815381496,
-      "currency": "USD",
-      "exchange": "NMS",
-      "marketTime": "2026-07-20T14:12:07.000Z",
-      "status": "ok"
+      "status": "failed",
+      "error": "quote failed: 429"
     },
     {
       "symbol": "AAPL",
       "company": "Apple",
       "representative": "Tim Cook / Apple",
-      "price": 327.66,
-      "previous": 317.31,
-      "change": 10.350000000000023,
-      "changePct": 3.261794459676664,
-      "currency": "USD",
-      "exchange": "NMS",
-      "marketTime": "2026-07-20T14:12:07.000Z",
-      "status": "ok"
+      "status": "failed",
+      "error": "quote failed: 429"
     },
     {
       "symbol": "NVDA",
       "company": "Nvidia",
       "representative": "Jensen Huang / Nvidia",
-      "price": 205.6,
+      "price": 204.68,
       "previous": 203.53,
-      "change": 2.069999999999993,
-      "changePct": 1.0170490836731652,
+      "change": 1.1500000000000057,
+      "changePct": 0.5650272687073187,
       "currency": "USD",
       "exchange": "NMS",
-      "marketTime": "2026-07-20T14:12:06.000Z",
+      "marketTime": "2026-07-20T18:06:52.000Z",
       "status": "ok"
     },
     {
       "symbol": "MSFT",
       "company": "Microsoft",
       "representative": "Microsoft",
-      "price": 391.53,
+      "price": 401.69,
       "previous": 390.99,
-      "change": 0.5399999999999636,
-      "changePct": 0.13811094912912444,
+      "change": 10.699999999999989,
+      "changePct": 2.7366428808920915,
       "currency": "USD",
       "exchange": "NMS",
-      "marketTime": "2026-07-20T14:12:07.000Z",
+      "marketTime": "2026-07-20T18:06:58.000Z",
       "status": "ok"
     },
     {
       "symbol": "GOOGL",
       "company": "Alphabet",
       "representative": "Google / Alphabet",
-      "price": 358.67,
+      "price": 352.81,
       "previous": 352.51,
-      "change": 6.160000000000025,
-      "changePct": 1.7474681569317256,
+      "change": 0.30000000000001137,
+      "changePct": 0.08510396868174275,
       "currency": "USD",
       "exchange": "NMS",
-      "marketTime": "2026-07-20T14:12:05.000Z",
+      "marketTime": "2026-07-20T18:06:58.000Z",
       "status": "ok"
     },
     {
       "symbol": "AMZN",
       "company": "Amazon",
       "representative": "Amazon",
-      "price": 249.79,
-      "previous": 247.31,
-      "change": 2.4799999999999898,
-      "changePct": 1.0027900206218874,
-      "currency": "USD",
-      "exchange": "NMS",
-      "marketTime": "2026-07-20T14:12:06.000Z",
-      "status": "ok"
+      "status": "failed",
+      "error": "quote failed: 429"
     },
     {
       "symbol": "JPM",
       "company": "JPMorgan Chase",
       "representative": "Jamie Dimon / JPMorgan",
-      "price": 341.05,
+      "price": 339.225,
       "previous": 334.53,
-      "change": 6.520000000000039,
-      "changePct": 1.9490030789465935,
+      "change": 4.69500000000005,
+      "changePct": 1.4034615729531135,
       "currency": "USD",
       "exchange": "NYQ",
-      "marketTime": "2026-07-20T14:12:04.000Z",
+      "marketTime": "2026-07-20T18:06:59.000Z",
       "status": "ok"
     },
     {
       "symbol": "BA",
       "company": "Boeing",
       "representative": "Boeing",
-      "price": 210.38,
+      "price": 210.575,
       "previous": 215.51,
-      "change": -5.1299999999999955,
-      "changePct": -2.3803999814393744,
+      "change": -4.935000000000002,
+      "changePct": -2.2899169412092255,
       "currency": "USD",
       "exchange": "NYQ",
-      "marketTime": "2026-07-20T14:12:03.000Z",
+      "marketTime": "2026-07-20T18:06:43.000Z",
       "status": "ok"
     },
     {
       "symbol": "GM",
       "company": "General Motors",
       "representative": "GM",
-      "price": 76.045,
+      "price": 75.7,
       "previous": 76.72,
-      "change": -0.6749999999999972,
-      "changePct": -0.8798227320125094,
+      "change": -1.019999999999996,
+      "changePct": -1.3295099061522369,
       "currency": "USD",
       "exchange": "NYQ",
-      "marketTime": "2026-07-20T14:11:50.000Z",
+      "marketTime": "2026-07-20T18:06:50.000Z",
       "status": "ok"
     },
     {
       "symbol": "F",
       "company": "Ford",
       "representative": "Ford",
-      "price": 14.11,
+      "price": 14.07,
       "previous": 13.85,
-      "change": 0.2599999999999998,
-      "changePct": 1.8772563176895292,
+      "change": 0.22000000000000064,
+      "changePct": 1.5884476534296075,
       "currency": "USD",
       "exchange": "NYQ",
-      "marketTime": "2026-07-20T14:12:05.000Z",
+      "marketTime": "2026-07-20T18:06:58.000Z",
       "status": "ok"
     },
     {
       "symbol": "CAT",
       "company": "Caterpillar",
       "representative": "Caterpillar",
-      "price": 877.53,
+      "price": 866.94,
       "previous": 931.47,
-      "change": -53.940000000000055,
-      "changePct": -5.790846726142554,
+      "change": -64.52999999999997,
+      "changePct": -6.927759348127151,
       "currency": "USD",
       "exchange": "NYQ",
-      "marketTime": "2026-07-20T14:12:04.000Z",
+      "marketTime": "2026-07-20T18:06:43.000Z",
       "status": "ok"
     }
   ],
@@ -2101,7 +2057,7 @@
       },
       {
         "feed": "https://news.google.com/rss/search?q=Trump+state+visit+China+Beijing+CEOs&hl=en-US&gl=US&ceid=US:en",
-        "count": 97,
+        "count": 98,
         "status": "ok"
       },
       {
@@ -2128,25 +2084,24 @@
         "feed": "gdelt:Trump Beijing talks",
         "count": 0,
         "status": "failed",
-        "error": "GDELT fetch failed: 429"
+        "error": "fetch failed"
       },
       {
         "feed": "gdelt:Trump Xi Beijing summit",
         "count": 0,
         "status": "failed",
-        "error": "fetch failed"
+        "error": "GDELT fetch failed: 429"
       },
       {
         "feed": "gdelt:Trump China state visit CEOs",
-        "count": 0,
-        "status": "failed",
-        "error": "GDELT fetch failed: 429"
+        "count": 50,
+        "status": "ok"
       },
       {
         "feed": "gdelt:特朗普 北京 会谈",
         "count": 0,
         "status": "failed",
-        "error": "GDELT fetch failed: 429"
+        "error": "Unexpected token 'Y', \"Your searc\"... is not valid JSON"
       },
       {
         "feed": "gdelt:特朗普 访华 美国企业家",
@@ -2158,7 +2113,7 @@
     "commentary": [
       {
         "feed": "https://news.google.com/rss/search?q=Trump+Beijing+China+talks+analysis&hl=en-US&gl=US&ceid=US:en",
-        "count": 68,
+        "count": 69,
         "status": "ok"
       },
       {
@@ -2195,7 +2150,7 @@
       },
       {
         "feed": "https://news.google.com/rss/search?q=特朗普+访华+企业家+微博&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "count": 65,
+        "count": 66,
         "status": "ok"
       }
     ]
