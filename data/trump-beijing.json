@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T03:15:27.787Z",
+  "generatedAt": "2026-07-23T06:33:38.685Z",
   "topic": "特朗普北京会谈",
   "totalNews": 51,
   "totalCommentary": 11,
@@ -12,7 +12,7 @@
     "commentary": "fallback",
     "commentaryReason": "OpenAI API failed: 429 {\n  \"error\": {\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\",\n    \"type\": \"insufficient_quota\",\n    \"param\": null,\n    \"code\": \"insufficient_quota\"\n  }\n}",
     "social": "fallback",
-    "socialReason": "OpenAI API failed: 429 {\n  \"error\": {\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\",\n    \"type\": \"insufficient_quota\",\n    \"param\": null,\n    \"code\": \"insufficient_quota\"\n  }\n}"
+    "socialReason": "OpenAI API failed: 500 {\n  \"error\": {\n    \"message\": \"An error occurred while processing your request. You can retry your request, or contact us through our help center at help.openai.com if the error persists. Please include the request ID req_4b24643f328b43f08cde08ab2fbe253d in your message.\",\n    \"type\": \"server_error\",\n    \"param\": null,\n    \"code\": \"server_error\"\n  }\n}"
   },
   "timeline": [
     {
@@ -255,12 +255,12 @@
       "source": "BBC",
       "sourceSite": "bbc.com",
       "type": "news",
-      "title": "特朗普访华结果分析：美国盯着3B，中国盯着3T，谁占了上风？ - BBC",
-      "description": "特朗普访华结果分析：美国盯着3B，中国盯着3T，谁占了上风？ BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrX0loU1dndVFLYlRIMzFYLWQ3YzFBNUZaanktZmw3QjJ5dXEwaUlmRW8zRTk4dzY3ZGd4bjVpSUxCSUpCZWMyc3F0QndPRlhSRVB3TFVPRm9fSkxfRS1yOGVpd0RMZ9IBa0FVX3lxTE5JbE13NWtiQzM3WVFOdE9vUzY3YXpDeXgxRHpwLTFhWXlIbVJWWmxaZWlwOFFjeGp5QW5tbW03V0VfU3NPQ05ycC1EbzdlSVVZOTJ1WGs1RWM5OW45dWVvQmxsVXFUcXpUaWM4?oc=5",
+      "title": "特朗普访华最后一程参观中南海 习近平强调这种安排“极为罕见” - BBC",
+      "description": "特朗普访华最后一程参观中南海 习近平强调这种安排“极为罕见” BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kTVljdnA0azJEZENtbGkwcC1PWVZTZ2RONDRCdE14SE43NjhXc1U2M1JsTzZ2d3BBTWhVOGxzQTlaZXcxYlVmZmxad3dqVmlLUFNrNGRWcmZGRnpnNm5EQ2N6eWtvd9IBa0FVX3lxTFBSaHo0V2VEd2F1cjVQUFdTdF9lQk1WWnMxUkR0U0FMWDNoQVhZRGZNQ3pZNjZhaWlqb1Fmd0dtZC1QeWpUekFQV0NOTk43QzVicDFmdnZFRERaRVBUMjBzUnY4ZjN5ZllaTTNN?oc=5",
       "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
-      "titleZh": "特朗普访华结果分析：美国盯着3B，中国盯着3T，谁占了上风？ - BBC",
-      "summaryZh": "特朗普访华结果分析：美国盯着3B，中国盯着3T，谁占了上风？ BBC"
+      "titleZh": "特朗普访华最后一程参观中南海 习近平强调这种安排“极为罕见” - BBC",
+      "summaryZh": "特朗普访华最后一程参观中南海 习近平强调这种安排“极为罕见” BBC"
     },
     {
       "id": "aljazeera-news-2-https://news.google.com/",
@@ -891,12 +891,12 @@
           "source": "BBC",
           "sourceSite": "bbc.com",
           "type": "news",
-          "title": "特朗普访华结果分析：美国盯着3B，中国盯着3T，谁占了上风？ - BBC",
-          "description": "特朗普访华结果分析：美国盯着3B，中国盯着3T，谁占了上风？ BBC",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrX0loU1dndVFLYlRIMzFYLWQ3YzFBNUZaanktZmw3QjJ5dXEwaUlmRW8zRTk4dzY3ZGd4bjVpSUxCSUpCZWMyc3F0QndPRlhSRVB3TFVPRm9fSkxfRS1yOGVpd0RMZ9IBa0FVX3lxTE5JbE13NWtiQzM3WVFOdE9vUzY3YXpDeXgxRHpwLTFhWXlIbVJWWmxaZWlwOFFjeGp5QW5tbW03V0VfU3NPQ05ycC1EbzdlSVVZOTJ1WGs1RWM5OW45dWVvQmxsVXFUcXpUaWM4?oc=5",
+          "title": "特朗普访华最后一程参观中南海 习近平强调这种安排“极为罕见” - BBC",
+          "description": "特朗普访华最后一程参观中南海 习近平强调这种安排“极为罕见” BBC",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kTVljdnA0azJEZENtbGkwcC1PWVZTZ2RONDRCdE14SE43NjhXc1U2M1JsTzZ2d3BBTWhVOGxzQTlaZXcxYlVmZmxad3dqVmlLUFNrNGRWcmZGRnpnNm5EQ2N6eWtvd9IBa0FVX3lxTFBSaHo0V2VEd2F1cjVQUFdTdF9lQk1WWnMxUkR0U0FMWDNoQVhZRGZNQ3pZNjZhaWlqb1Fmd0dtZC1QeWpUekFQV0NOTk43QzVicDFmdnZFRERaRVBUMjBzUnY4ZjN5ZllaTTNN?oc=5",
           "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
-          "titleZh": "特朗普访华结果分析：美国盯着3B，中国盯着3T，谁占了上风？ - BBC",
-          "summaryZh": "特朗普访华结果分析：美国盯着3B，中国盯着3T，谁占了上风？ BBC"
+          "titleZh": "特朗普访华最后一程参观中南海 习近平强调这种安排“极为罕见” - BBC",
+          "summaryZh": "特朗普访华最后一程参观中南海 习近平强调这种安排“极为罕见” BBC"
         },
         {
           "id": "bbc-news-1-https://news.google.com/",
@@ -1612,7 +1612,7 @@
       "summaryZh": "How A.I. Was the Elephant in the Room at the Trump-Xi Summit Time Magazine"
     },
     {
-      "id": "social-social-7-https://news.google.com/",
+      "id": "social-social-6-https://news.google.com/",
       "sourceId": "social",
       "source": "Al Jazeera",
       "sourceSite": "",
@@ -1716,7 +1716,7 @@
       "summaryZh": "Trump Says He and Xi Talked Extensively About Taiwan The New York Times"
     },
     {
-      "id": "social-social-6-https://news.google.com/",
+      "id": "social-social-7-https://news.google.com/",
       "sourceId": "social",
       "source": "BBC",
       "sourceSite": "",
@@ -1997,7 +1997,7 @@
       },
       {
         "feed": "https://news.google.com/rss/search?q=Trump+state+visit+China+Beijing+CEOs&hl=en-US&gl=US&ceid=US:en",
-        "count": 94,
+        "count": 95,
         "status": "ok"
       },
       {
@@ -2024,7 +2024,7 @@
         "feed": "gdelt:Trump Beijing talks",
         "count": 0,
         "status": "failed",
-        "error": "GDELT fetch failed: 429"
+        "error": "fetch failed"
       },
       {
         "feed": "gdelt:Trump Xi Beijing summit",
@@ -2036,7 +2036,7 @@
         "feed": "gdelt:Trump China state visit CEOs",
         "count": 0,
         "status": "failed",
-        "error": "GDELT fetch failed: 429"
+        "error": "fetch failed"
       },
       {
         "feed": "gdelt:特朗普 北京 会谈",
@@ -2048,7 +2048,7 @@
         "feed": "gdelt:特朗普 访华 美国企业家",
         "count": 0,
         "status": "failed",
-        "error": "fetch failed"
+        "error": "Unexpected token 'Y', \"Your searc\"... is not valid JSON"
       }
     ],
     "commentary": [
@@ -2086,12 +2086,12 @@
       },
       {
         "feed": "https://news.google.com/rss/search?q=特朗普+北京+会谈+微博+大V&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "count": 41,
+        "count": 44,
         "status": "ok"
       },
       {
         "feed": "https://news.google.com/rss/search?q=特朗普+访华+企业家+微博&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "count": 65,
+        "count": 66,
         "status": "ok"
       }
     ]
