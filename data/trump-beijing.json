@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-25T02:53:58.945Z",
+  "generatedAt": "2026-07-25T06:21:19.263Z",
   "topic": "特朗普北京会谈",
   "totalNews": 53,
-  "totalCommentary": 13,
+  "totalCommentary": 14,
   "totalSocial": 24,
   "totalMarkets": 11,
   "minPublishedAt": "2026-05-13T16:00:00.000Z",
@@ -133,7 +133,7 @@
       "summaryZh": "US says China to buy billions in agricultural goods after Trump-Xi talks Al Jazeera"
     },
     {
-      "id": "reuters-news-1-https://news.google.com/",
+      "id": "reuters-news-0-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -146,7 +146,7 @@
       "summaryZh": "Trump returns from China with stability and a stalemate Reuters"
     },
     {
-      "id": "reuters-news-0-https://news.google.com/",
+      "id": "reuters-news-1-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -724,7 +724,7 @@
           "summaryZh": "Xi hosted Trump, then Putin: Spot the differences in Beijing Reuters"
         },
         {
-          "id": "reuters-news-1-https://news.google.com/",
+          "id": "reuters-news-0-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -737,7 +737,7 @@
           "summaryZh": "Trump returns from China with stability and a stalemate Reuters"
         },
         {
-          "id": "reuters-news-0-https://news.google.com/",
+          "id": "reuters-news-1-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -1493,17 +1493,30 @@
       "summaryZh": "Trump Was Flattering, Xi Was Resolute. The Difference Spoke Volumes. The New York Times"
     },
     {
+      "id": "foreignpolicy-commentary-4-https://news.google.com/",
+      "sourceId": "foreignpolicy",
+      "source": "Foreign Policy",
+      "sourceSite": "foreignpolicy.com",
+      "type": "commentary",
+      "title": "What Happened When Trump Met Xi - Foreign Policy",
+      "description": "What Happened When Trump Met Xi Foreign Policy",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLVV5ejk0Tk5DRTNxb1Z1YldOQUpXTDlWZW1pUmRoaGRGaVdyYTRvTG1iRl9SLUowdW9TeThBd0xfUVgwUGtnZ0s1NUo2MFNlMXN3THVobm40RTQ0eUo3SWhkUnU3SDVORGhqWC12dWozMW8xUm9sNnRpY0pDX1o5RzR3VlpxSkJxcGlORjM0NmIzaHBjWnlBaWw1X2RtZTUzZ24wdHFHdmluanRTbmc?oc=5",
+      "publishedAt": "Mon, 18 May 2026 07:00:00 GMT",
+      "titleZh": "What Happened When Trump Met Xi - Foreign Policy",
+      "summaryZh": "What Happened When Trump Met Xi Foreign Policy"
+    },
+    {
       "id": "foreignaffairs-commentary-0-https://news.google.com/",
       "sourceId": "foreignaffairs",
       "source": "Foreign Affairs",
       "sourceSite": "foreignaffairs.com",
       "type": "commentary",
-      "title": "The View From the Front Row of the Trump-Xi Summit - Foreign Affairs",
-      "description": "The View From the Front Row of the Trump-Xi Summit Foreign Affairs",
+      "title": "The View From the Front Row of the Trump-Xi Summit - Foreign Affairs Magazine",
+      "description": "The View From the Front Row of the Trump-Xi Summit Foreign Affairs Magazine",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CZUF6a3NVZnFTVmNOdGZ1SWRqRk1PbEtvQmEtSm81RmcwQlBwRExjNXpsR01MUkZzX1R2b3FZM25jNGo2Y2pCUFRWNkdaVTRrLV9SWnQ4T1dzWVl3VWJEcjVPN0ZwbmctVDNkQmh5SFJ0aDZ0UDJlNERB?oc=5",
       "publishedAt": "Sat, 16 May 2026 07:00:00 GMT",
-      "titleZh": "The View From the Front Row of the Trump-Xi Summit - Foreign Affairs",
-      "summaryZh": "The View From the Front Row of the Trump-Xi Summit Foreign Affairs"
+      "titleZh": "The View From the Front Row of the Trump-Xi Summit - Foreign Affairs Magazine",
+      "summaryZh": "The View From the Front Row of the Trump-Xi Summit Foreign Affairs Magazine"
     },
     {
       "id": "nytimes-commentary-0-https://news.google.com/",
@@ -2075,7 +2088,7 @@
       },
       {
         "feed": "https://news.google.com/rss/search?q=Trump+state+visit+China+Beijing+CEOs&hl=en-US&gl=US&ceid=US:en",
-        "count": 99,
+        "count": 98,
         "status": "ok"
       },
       {
@@ -2108,13 +2121,13 @@
         "feed": "gdelt:Trump Xi Beijing summit",
         "count": 0,
         "status": "failed",
-        "error": "Unexpected token 'Y', \"Your searc\"... is not valid JSON"
+        "error": "GDELT fetch failed: 429"
       },
       {
         "feed": "gdelt:Trump China state visit CEOs",
         "count": 0,
         "status": "failed",
-        "error": "GDELT fetch failed: 429"
+        "error": "fetch failed"
       },
       {
         "feed": "gdelt:特朗普 北京 会谈",
@@ -2132,7 +2145,7 @@
     "commentary": [
       {
         "feed": "https://news.google.com/rss/search?q=Trump+Beijing+China+talks+analysis&hl=en-US&gl=US&ceid=US:en",
-        "count": 69,
+        "count": 70,
         "status": "ok"
       },
       {
@@ -2159,7 +2172,7 @@
     "social": [
       {
         "feed": "https://news.google.com/rss/search?q=Trump+Beijing+talks+X+OR+Twitter&hl=en-US&gl=US&ceid=US:en",
-        "count": 65,
+        "count": 64,
         "status": "ok"
       },
       {
@@ -2169,7 +2182,7 @@
       },
       {
         "feed": "https://news.google.com/rss/search?q=特朗普+访华+企业家+微博&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "count": 64,
+        "count": 65,
         "status": "ok"
       }
     ]
