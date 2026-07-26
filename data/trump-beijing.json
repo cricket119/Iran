@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T03:19:46.793Z",
+  "generatedAt": "2026-07-26T06:40:20.751Z",
   "topic": "特朗普北京会谈",
   "totalNews": 53,
   "totalCommentary": 14,
@@ -55,7 +55,7 @@
       "summaryZh": "As Rubio-Wang talks near, Trump dials down China election meddling rhetoric South China Morning Post"
     },
     {
-      "id": "general-news-5-https://news.google.com/",
+      "id": "general-news-6-https://news.google.com/",
       "sourceId": "general",
       "source": "South China Morning Post",
       "sourceSite": "",
@@ -289,7 +289,7 @@
       "summaryZh": "Watch: What did we learn from Trump's visit to China? BBC"
     },
     {
-      "id": "bbc-news-10-https://news.google.com/",
+      "id": "bbc-news-9-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -393,7 +393,7 @@
       "summaryZh": "After Trump’s pledge to ‘open up’ China, low expectations for trade deal Al Jazeera"
     },
     {
-      "id": "general-news-6-https://news.google.com/",
+      "id": "general-news-5-https://news.google.com/",
       "sourceId": "general",
       "source": "Atlantic Council",
       "sourceSite": "",
@@ -575,7 +575,7 @@
       "summaryZh": "红毯、国宴、会谈、台湾、黄仁勋：特朗普重返北京后的几大关键时刻 BBC"
     },
     {
-      "id": "bbc-news-9-https://news.google.com/",
+      "id": "bbc-news-10-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -912,7 +912,7 @@
           "summaryZh": "Watch: What did we learn from Trump's visit to China? BBC"
         },
         {
-          "id": "bbc-news-10-https://news.google.com/",
+          "id": "bbc-news-9-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -1003,7 +1003,7 @@
           "summaryZh": "红毯、国宴、会谈、台湾、黄仁勋：特朗普重返北京后的几大关键时刻 BBC"
         },
         {
-          "id": "bbc-news-9-https://news.google.com/",
+          "id": "bbc-news-10-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -1203,7 +1203,7 @@
           "summaryZh": "As Rubio-Wang talks near, Trump dials down China election meddling rhetoric South China Morning Post"
         },
         {
-          "id": "general-news-5-https://news.google.com/",
+          "id": "general-news-6-https://news.google.com/",
           "sourceId": "general",
           "source": "South China Morning Post",
           "sourceSite": "",
@@ -1255,7 +1255,7 @@
           "summaryZh": "Trump’s Beijing visit was more vibes than details. And Xi set the tone CNN"
         },
         {
-          "id": "general-news-6-https://news.google.com/",
+          "id": "general-news-5-https://news.google.com/",
           "sourceId": "general",
           "source": "Atlantic Council",
           "sourceSite": "",
@@ -2088,7 +2088,7 @@
       },
       {
         "feed": "https://news.google.com/rss/search?q=Trump+state+visit+China+Beijing+CEOs&hl=en-US&gl=US&ceid=US:en",
-        "count": 99,
+        "count": 98,
         "status": "ok"
       },
       {
@@ -2121,13 +2121,12 @@
         "feed": "gdelt:Trump Xi Beijing summit",
         "count": 0,
         "status": "failed",
-        "error": "GDELT fetch failed: 429"
+        "error": "Unexpected token 'Y', \"Your searc\"... is not valid JSON"
       },
       {
         "feed": "gdelt:Trump China state visit CEOs",
-        "count": 0,
-        "status": "failed",
-        "error": "GDELT fetch failed: 429"
+        "count": 50,
+        "status": "ok"
       },
       {
         "feed": "gdelt:特朗普 北京 会谈",
@@ -2139,7 +2138,7 @@
         "feed": "gdelt:特朗普 访华 美国企业家",
         "count": 0,
         "status": "failed",
-        "error": "Unexpected token 'Y', \"Your searc\"... is not valid JSON"
+        "error": "fetch failed"
       }
     ],
     "commentary": [
