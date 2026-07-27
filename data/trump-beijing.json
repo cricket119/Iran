@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-27T03:30:04.887Z",
+  "generatedAt": "2026-07-27T07:37:20.935Z",
   "topic": "特朗普北京会谈",
   "totalNews": 55,
-  "totalCommentary": 16,
+  "totalCommentary": 19,
   "totalSocial": 24,
   "totalMarkets": 11,
   "minPublishedAt": "2026-05-13T16:00:00.000Z",
@@ -276,7 +276,7 @@
       "summaryZh": "Watch: What did we learn from Trump's visit to China? BBC"
     },
     {
-      "id": "bbc-news-9-https://news.google.com/",
+      "id": "bbc-news-10-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -575,7 +575,7 @@
       "summaryZh": "红毯、国宴、会谈、台湾、黄仁勋：特朗普重返北京后的几大关键时刻 BBC"
     },
     {
-      "id": "bbc-news-10-https://news.google.com/",
+      "id": "bbc-news-9-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -951,7 +951,7 @@
           "summaryZh": "Watch: What did we learn from Trump's visit to China? BBC"
         },
         {
-          "id": "bbc-news-9-https://news.google.com/",
+          "id": "bbc-news-10-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -1042,7 +1042,7 @@
           "summaryZh": "红毯、国宴、会谈、台湾、黄仁勋：特朗普重返北京后的几大关键时刻 BBC"
         },
         {
-          "id": "bbc-news-10-https://news.google.com/",
+          "id": "bbc-news-9-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -1532,6 +1532,19 @@
       "summaryZh": "Donald Trump prepares fresh tariff barrage with 10% levies set to expire Financial Times"
     },
     {
+      "id": "ft-commentary-5-https://news.google.com/",
+      "sourceId": "ft",
+      "source": "Financial Times",
+      "sourceSite": "ft.com",
+      "type": "commentary",
+      "title": "Xi Jinping railed against Japan’s ‘remilitarisation’ at Donald Trump summit - Financial Times",
+      "description": "Xi Jinping railed against Japan’s ‘remilitarisation’ at Donald Trump summit Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTlAxUGNSYlEwbjNma3lOU0t6NG9oSHhpaW1KLUx3eTQ2c2dqRm9lYW5ycnU5Xy0zRDAxLUoyUEgyZWNSV29ULUExWmtvY2RoajQzWFVIUHRGWExTTS1hTDJrczZFZjNNeHdmS01Hd2UwT0hOajJ5aXUwenpwNlJ3OEVQVUY?oc=5",
+      "publishedAt": "Sun, 24 May 2026 07:00:00 GMT",
+      "titleZh": "Xi Jinping railed against Japan’s ‘remilitarisation’ at Donald Trump summit - Financial Times",
+      "summaryZh": "Xi Jinping railed against Japan’s ‘remilitarisation’ at Donald Trump summit Financial Times"
+    },
+    {
       "id": "nytimes-commentary-1-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
@@ -1576,12 +1589,12 @@
       "source": "Foreign Affairs",
       "sourceSite": "foreignaffairs.com",
       "type": "commentary",
-      "title": "The View From the Front Row of the Trump-Xi Summit - Foreign Affairs Magazine",
-      "description": "The View From the Front Row of the Trump-Xi Summit Foreign Affairs Magazine",
+      "title": "The View From the Front Row of the Trump-Xi Summit - Foreign Affairs",
+      "description": "The View From the Front Row of the Trump-Xi Summit Foreign Affairs",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CZUF6a3NVZnFTVmNOdGZ1SWRqRk1PbEtvQmEtSm81RmcwQlBwRExjNXpsR01MUkZzX1R2b3FZM25jNGo2Y2pCUFRWNkdaVTRrLV9SWnQ4T1dzWVl3VWJEcjVPN0ZwbmctVDNkQmh5SFJ0aDZ0UDJlNERB?oc=5",
       "publishedAt": "Sat, 16 May 2026 07:00:00 GMT",
-      "titleZh": "The View From the Front Row of the Trump-Xi Summit - Foreign Affairs Magazine",
-      "summaryZh": "The View From the Front Row of the Trump-Xi Summit Foreign Affairs Magazine"
+      "titleZh": "The View From the Front Row of the Trump-Xi Summit - Foreign Affairs",
+      "summaryZh": "The View From the Front Row of the Trump-Xi Summit Foreign Affairs"
     },
     {
       "id": "nytimes-commentary-0-https://news.google.com/",
@@ -1634,6 +1647,32 @@
       "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
       "titleZh": "Donald Trump undecided on Taiwan arms sale after summit with Xi Jinping - Financial Times",
       "summaryZh": "Donald Trump undecided on Taiwan arms sale after summit with Xi Jinping Financial Times"
+    },
+    {
+      "id": "ft-commentary-6-https://news.google.com/",
+      "sourceId": "ft",
+      "source": "Financial Times",
+      "sourceSite": "ft.com",
+      "type": "commentary",
+      "title": "FirstFT: Iran dominates second day of Trump-Xi talks - Financial Times",
+      "description": "FirstFT: Iran dominates second day of Trump-Xi talks Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTFRTS0ZveGVNLTNPNkVDLXIxZTNVcFk5SmZDMHYyMFVXelRSSE1KMHB6eUN0SUh6MENDdW1yNkdNaFZVY2dkbXA4TUdkSUk0U0dyclQ0VzFEUGp5dVRXZU5GQ3hmTkY4VUF1aDdUbDBDc1AwbElKZGh3bWhiQk9fbHVaN24?oc=5",
+      "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
+      "titleZh": "FirstFT: Iran dominates second day of Trump-Xi talks - Financial Times",
+      "summaryZh": "FirstFT: Iran dominates second day of Trump-Xi talks Financial Times"
+    },
+    {
+      "id": "ft-commentary-7-https://news.google.com/",
+      "sourceId": "ft",
+      "source": "Financial Times",
+      "sourceSite": "ft.com",
+      "type": "commentary",
+      "title": "What did Donald Trump achieve in talks with Xi Jinping? - Financial Times",
+      "description": "What did Donald Trump achieve in talks with Xi Jinping? Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN2FVaTJ2Vk1vYV9tS2k2MU5haFU1OW1lRkNQRVQzVnY4TkZKdXpDbWxjNnh2eDdXcnJMT1NHMURxVk5Idmp1SEI1OW83V1lWbm1QeHFidnV4dVdrZkdRWHlWTWpMOE9MbjNVQ3dxQm05bWpyVTkwcFlTYU5rV0V6SDNTdS0?oc=5",
+      "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
+      "titleZh": "What did Donald Trump achieve in talks with Xi Jinping? - Financial Times",
+      "summaryZh": "What did Donald Trump achieve in talks with Xi Jinping? Financial Times"
     },
     {
       "id": "foreignpolicy-commentary-1-https://news.google.com/",
@@ -2166,7 +2205,7 @@
       },
       {
         "feed": "https://news.google.com/rss/search?q=Trump+state+visit+China+Beijing+CEOs&hl=en-US&gl=US&ceid=US:en",
-        "count": 98,
+        "count": 99,
         "status": "ok"
       },
       {
@@ -2210,7 +2249,7 @@
         "feed": "gdelt:特朗普 北京 会谈",
         "count": 0,
         "status": "failed",
-        "error": "GDELT fetch failed: 429"
+        "error": "fetch failed"
       },
       {
         "feed": "gdelt:特朗普 访华 美国企业家",
@@ -2222,7 +2261,7 @@
     "commentary": [
       {
         "feed": "https://news.google.com/rss/search?q=Trump+Beijing+China+talks+analysis&hl=en-US&gl=US&ceid=US:en",
-        "count": 70,
+        "count": 69,
         "status": "ok"
       },
       {
@@ -2254,7 +2293,7 @@
       },
       {
         "feed": "https://news.google.com/rss/search?q=特朗普+北京+会谈+微博+大V&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "count": 49,
+        "count": 50,
         "status": "ok"
       },
       {
