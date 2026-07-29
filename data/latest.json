@@ -1,20 +1,72 @@
 {
-  "generatedAt": "2026-07-29T08:32:57.722Z",
-  "totalNews": 21,
+  "generatedAt": "2026-07-29T11:22:02.826Z",
+  "totalNews": 24,
   "totalCommentary": 32,
   "timeline": [
     {
-      "id": "aljazeera-news-0-https://news.google.com/",
+      "id": "reuters-news-1-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
+      "type": "news",
+      "title": "SABIC posts narrower quarterly loss, revenue falls 18% as Iran war disrupts supply chains - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQMkdSQmxWai1uTUNwZ2M1aktONy1jS0NRNWh2MDZWMm5NTHJPOXUxcmNuR2NJbm5WWjJyOHczcTVnNmRvejI0OXMzOFlQcWlyZm1mVk1oN2d1Rzd5a2lReEZrTFRLdGloZm82a0xwM2RWTi1JcGVCSFlHV1ZkUDZIclVkRXBTLUx1Y21vWW5lYnNJOFVNU0lmYWh2V2l5V1poeUd2dTNPNjNnTW90T21kWmNPNnU0R1pkZnJwZWNSQnI5MW1Dal9iYmVuVQ?oc=5\" target=\"_blank\">SABIC posts narrower quarterly loss, revenue falls 18% as Iran war disrupts supply chains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMkdSQmxWai1uTUNwZ2M1aktONy1jS0NRNWh2MDZWMm5NTHJPOXUxcmNuR2NJbm5WWjJyOHczcTVnNmRvejI0OXMzOFlQcWlyZm1mVk1oN2d1Rzd5a2lReEZrTFRLdGloZm82a0xwM2RWTi1JcGVCSFlHV1ZkUDZIclVkRXBTLUx1Y21vWW5lYnNJOFVNU0lmYWh2V2l5V1poeUd2dTNPNjNnTW90T21kWmNPNnU0R1pkZnJwZWNSQnI5MW1Dal9iYmVuVQ?oc=5",
+      "publishedAt": "Wed, 29 Jul 2026 10:21:43 GMT",
+      "titleZh": "SABIC posts narrower quarterly loss, revenue falls 18% as Iran war disrupts supply chains - Reuters",
+      "summaryZh": "SABIC posts narrower quarterly loss, revenue falls 18% as Iran war disrupts supply chains&nbsp;&nbsp;Reuters"
+    },
+    {
+      "id": "aljazeera-news-1-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
       "type": "news",
-      "title": "Iran war live: US, Saudi forces attack Iraq; IRGC fires missiles at Jordan - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTjRULWE0Y1djcEVXdDU2MmYzd2lPUVVhdGJCRU91aGc5QzFzdXZGZ0hLU1ljWXZqQmdoWDdJMWRYeW9LOG5NRERCQTBpT1dFNkxybmM5ZmlZelNBMzF1OW9mdmlET3p3MHFpYnlOMXRBSXItTDk2bWJRd1hmS3h0MHFVZWpCeGFPY2N4MDh2V0ZuenpTd0VRV3BzM3M2MmE3b19mdkZPckNOYlBITXNMQjdCV1JKX0FH0gG-AUFVX3lxTFBESHMxM0xtczZIM3RBNGNWUWpjanhzQjlNb1ljN0Y2ZXZQOG9zN1ViRk8yTGh2UHFlMTluaUJPRHJnbUNINi16WVNlRW1sVXhaVExJRUt6Ql9ONXU3SWluSUMzVW1EWjQ1aWVMU3pDQlR0Q0NwVEhOcVlWbkFTdEJpd09wMzBDVHVqRE5iV2JEUFVXSnd2WjRQVnVUa2NTX2N0VGpPQUxtTDRtb1AxTWR6MGNtRXlKRDBFeWpWS3c?oc=5\" target=\"_blank\">Iran war live: US, Saudi forces attack Iraq; IRGC fires missiles at Jordan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "title": "Iran war live: 20 killed in US-Saudi attack on Iraq; IRGC targets Jordan - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTjRULWE0Y1djcEVXdDU2MmYzd2lPUVVhdGJCRU91aGc5QzFzdXZGZ0hLU1ljWXZqQmdoWDdJMWRYeW9LOG5NRERCQTBpT1dFNkxybmM5ZmlZelNBMzF1OW9mdmlET3p3MHFpYnlOMXRBSXItTDk2bWJRd1hmS3h0MHFVZWpCeGFPY2N4MDh2V0ZuenpTd0VRV3BzM3M2MmE3b19mdkZPckNOYlBITXNMQjdCV1JKX0FH0gG-AUFVX3lxTFBESHMxM0xtczZIM3RBNGNWUWpjanhzQjlNb1ljN0Y2ZXZQOG9zN1ViRk8yTGh2UHFlMTluaUJPRHJnbUNINi16WVNlRW1sVXhaVExJRUt6Ql9ONXU3SWluSUMzVW1EWjQ1aWVMU3pDQlR0Q0NwVEhOcVlWbkFTdEJpd09wMzBDVHVqRE5iV2JEUFVXSnd2WjRQVnVUa2NTX2N0VGpPQUxtTDRtb1AxTWR6MGNtRXlKRDBFeWpWS3c?oc=5\" target=\"_blank\">Iran war live: 20 killed in US-Saudi attack on Iraq; IRGC targets Jordan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTjRULWE0Y1djcEVXdDU2MmYzd2lPUVVhdGJCRU91aGc5QzFzdXZGZ0hLU1ljWXZqQmdoWDdJMWRYeW9LOG5NRERCQTBpT1dFNkxybmM5ZmlZelNBMzF1OW9mdmlET3p3MHFpYnlOMXRBSXItTDk2bWJRd1hmS3h0MHFVZWpCeGFPY2N4MDh2V0ZuenpTd0VRV3BzM3M2MmE3b19mdkZPckNOYlBITXNMQjdCV1JKX0FH0gG-AUFVX3lxTFBESHMxM0xtczZIM3RBNGNWUWpjanhzQjlNb1ljN0Y2ZXZQOG9zN1ViRk8yTGh2UHFlMTluaUJPRHJnbUNINi16WVNlRW1sVXhaVExJRUt6Ql9ONXU3SWluSUMzVW1EWjQ1aWVMU3pDQlR0Q0NwVEhOcVlWbkFTdEJpd09wMzBDVHVqRE5iV2JEUFVXSnd2WjRQVnVUa2NTX2N0VGpPQUxtTDRtb1AxTWR6MGNtRXlKRDBFeWpWS3c?oc=5",
-      "publishedAt": "Wed, 29 Jul 2026 06:00:00 GMT",
-      "titleZh": "Iran war live: US, Saudi forces attack Iraq; IRGC fires missiles at Jordan - Al Jazeera",
-      "summaryZh": "Iran war live: US, Saudi forces attack Iraq; IRGC fires missiles at Jordan&nbsp;&nbsp;Al Jazeera"
+      "publishedAt": "Wed, 29 Jul 2026 09:00:00 GMT",
+      "titleZh": "Iran war live: 20 killed in US-Saudi attack on Iraq; IRGC targets Jordan - Al Jazeera",
+      "summaryZh": "Iran war live: 20 killed in US-Saudi attack on Iraq; IRGC targets Jordan&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "bbc-news-2-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "US launches strikes with Saudi Arabia after thwarting ‘surprise’ Iranian attack - The Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQNHdRY1JwcjNaUkV1bGJCT0JWMUxWRy1ub09rQkYxaFJkMkdrV1AtR2Jkcy1sdGtuODBBcDAzUFUxNGc3UWFVRjRiVWJsYjJIcXYyWjQ1MHhqcWNwR1dhazFPa0RwSHNnYW1pZHh4TzhTaUhOOG1DVFFGOVZDczZ6YURRN1hjNkM2bGg4Rlo5bFhLR0FRQTk2V2plbkg0b2tRMElHdQ?oc=5\" target=\"_blank\">US launches strikes with Saudi Arabia after thwarting ‘surprise’ Iranian attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times</font>",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNHdRY1JwcjNaUkV1bGJCT0JWMUxWRy1ub09rQkYxaFJkMkdrV1AtR2Jkcy1sdGtuODBBcDAzUFUxNGc3UWFVRjRiVWJsYjJIcXYyWjQ1MHhqcWNwR1dhazFPa0RwSHNnYW1pZHh4TzhTaUhOOG1DVFFGOVZDczZ6YURRN1hjNkM2bGg4Rlo5bFhLR0FRQTk2V2plbkg0b2tRMElHdQ?oc=5",
+      "publishedAt": "Wed, 29 Jul 2026 08:46:25 GMT",
+      "titleZh": "US launches strikes with Saudi Arabia after thwarting ‘surprise’ Iranian attack - The Times",
+      "summaryZh": "US launches strikes with Saudi Arabia after thwarting ‘surprise’ Iranian attack&nbsp;&nbsp;The Times"
+    },
+    {
+      "id": "bbc-news-1-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSzhZbndQb2lHQ1lnZ3FRaHdYZ1FLVGMzM1AxdnFvWWE3cW9FQW1CYlBYOGxrTnVJdXJCbXloU2V1b29xS0w0dHZYMFlNaGN2bUtxNUZ1ZXdJZw?oc=5\" target=\"_blank\">Saudi Arabia joins US in strikes on Iran-backed militias in Iraq</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSzhZbndQb2lHQ1lnZ3FRaHdYZ1FLVGMzM1AxdnFvWWE3cW9FQW1CYlBYOGxrTnVJdXJCbXloU2V1b29xS0w0dHZYMFlNaGN2bUtxNUZ1ZXdJZw?oc=5",
+      "publishedAt": "Wed, 29 Jul 2026 08:43:46 GMT",
+      "titleZh": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq - BBC",
+      "summaryZh": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq&nbsp;&nbsp;BBC"
+    },
+    {
+      "id": "aljazeera-news-2-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "Iran and Oman swap proposals to manage Strait of Hormuz: What we know - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOMVNnd2xCYUs4LUZPakJqdzdadXFYcXcxbGVIeENwM0plWGZZNVpKRlpERWowNk5DU0lKbjhfVnktWG9FWVZrdEZrUk1Mc05kUVlnTWpnLVA5dE91Q2diMGJycXBvajIzNUJuWG5sbW8tUXE4dzJGeVc2ajVzd3pxdEFqeC1yTWN5U1RmM2pFaGFWb0w1MU9lcmR3X3JRd1BvaGVIc1hkeDZiNjU5eUHSAbMBQVVfeXFMUE1mSGk4ZU5LNEFDR1VPc05PUnZRa0pmdGZQY3c1WDhzbG51alA0RGFtRmc2VllYRWQ5OW8ybGUtX1dtQjBWek5PT2RhM3ZHR2lnUmlrQTE3WldjcThRYy1IdVJYclpoRF91Yk5zNVMwRnZzM3FFUXhXeTZWc1JQSFJQbEtpZ042dmFheFFIcDZxdU1Ocnp0am5LM2tzdHItLTdISFBqMDkzWXkzQ3RHdEpQRzQ?oc=5\" target=\"_blank\">Iran and Oman swap proposals to manage Strait of Hormuz: What we know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMVNnd2xCYUs4LUZPakJqdzdadXFYcXcxbGVIeENwM0plWGZZNVpKRlpERWowNk5DU0lKbjhfVnktWG9FWVZrdEZrUk1Mc05kUVlnTWpnLVA5dE91Q2diMGJycXBvajIzNUJuWG5sbW8tUXE4dzJGeVc2ajVzd3pxdEFqeC1yTWN5U1RmM2pFaGFWb0w1MU9lcmR3X3JRd1BvaGVIc1hkeDZiNjU5eUHSAbMBQVVfeXFMUE1mSGk4ZU5LNEFDR1VPc05PUnZRa0pmdGZQY3c1WDhzbG51alA0RGFtRmc2VllYRWQ5OW8ybGUtX1dtQjBWek5PT2RhM3ZHR2lnUmlrQTE3WldjcThRYy1IdVJYclpoRF91Yk5zNVMwRnZzM3FFUXhXeTZWc1JQSFJQbEtpZ042dmFheFFIcDZxdU1Ocnp0am5LM2tzdHItLTdISFBqMDkzWXkzQ3RHdEpQRzQ?oc=5",
+      "publishedAt": "Wed, 29 Jul 2026 08:36:02 GMT",
+      "titleZh": "Iran and Oman swap proposals to manage Strait of Hormuz: What we know - Al Jazeera",
+      "summaryZh": "Iran and Oman swap proposals to manage Strait of Hormuz: What we know&nbsp;&nbsp;Al Jazeera"
     },
     {
       "id": "aljazeera-news-3-https://news.google.com/",
@@ -30,20 +82,7 @@
       "summaryZh": "Iran attacks US bases in Middle East as Trump meets Netanyahu&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "bbc-news-0-https://news.google.com/",
-      "sourceId": "bbc",
-      "source": "BBC",
-      "sourceSite": "bbc.com",
-      "type": "news",
-      "title": "Iran launches 'attempted surprise attack' on American forces in Middle East, US military says - BBC",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSzhZbndQb2lHQ1lnZ3FRaHdYZ1FLVGMzM1AxdnFvWWE3cW9FQW1CYlBYOGxrTnVJdXJCbXloU2V1b29xS0w0dHZYMFlNaGN2bUtxNUZ1ZXdJZw?oc=5\" target=\"_blank\">Iran launches 'attempted surprise attack' on American forces in Middle East, US military says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSzhZbndQb2lHQ1lnZ3FRaHdYZ1FLVGMzM1AxdnFvWWE3cW9FQW1CYlBYOGxrTnVJdXJCbXloU2V1b29xS0w0dHZYMFlNaGN2bUtxNUZ1ZXdJZw?oc=5",
-      "publishedAt": "Wed, 29 Jul 2026 04:30:08 GMT",
-      "titleZh": "Iran launches 'attempted surprise attack' on American forces in Middle East, US military says - BBC",
-      "summaryZh": "Iran launches 'attempted surprise attack' on American forces in Middle East, US military says&nbsp;&nbsp;BBC"
-    },
-    {
-      "id": "aljazeera-news-4-https://news.google.com/",
+      "id": "aljazeera-news-7-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -56,7 +95,20 @@
       "summaryZh": "Iran missiles target US forces in Jordan after a five-day pause in war&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "bbc-news-1-https://news.google.com/",
+      "id": "reuters-news-0-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
+      "type": "news",
+      "title": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPR19sNWVrRDdhcXlNdTlxcUdNR0dNWDRBcjZPd21xOEM2bEYtdDJiWTEtYzlweWs5ZmtILVlhQkVUNzdaaENHbnhqTl9SSFNCZjk3eXNMS1o4SXFzT2VBS3VZZ0p6MVlrQldWNjRMUGlTN2tDR2xUOVBUdkdkTndueExrQm9vRGtTLTdBWjNGMDhZRC1qNDZXYVk3TXB0bWZ4ZFhpYUtfZ2JaalVZdjU3emN6LUptbjA?oc=5\" target=\"_blank\">EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR19sNWVrRDdhcXlNdTlxcUdNR0dNWDRBcjZPd21xOEM2bEYtdDJiWTEtYzlweWs5ZmtILVlhQkVUNzdaaENHbnhqTl9SSFNCZjk3eXNMS1o4SXFzT2VBS3VZZ0p6MVlrQldWNjRMUGlTN2tDR2xUOVBUdkdkTndueExrQm9vRGtTLTdBWjNGMDhZRC1qNDZXYVk3TXB0bWZ4ZFhpYUtfZ2JaalVZdjU3emN6LUptbjA?oc=5",
+      "publishedAt": "Wed, 29 Jul 2026 03:04:00 GMT",
+      "titleZh": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say - Reuters",
+      "summaryZh": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say&nbsp;&nbsp;Reuters"
+    },
+    {
+      "id": "bbc-news-0-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -69,7 +121,7 @@
       "summaryZh": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on&nbsp;&nbsp;BBC"
     },
     {
-      "id": "reuters-news-0-https://news.google.com/",
+      "id": "reuters-news-3-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -82,7 +134,7 @@
       "summaryZh": "US military says US, Saudi forces struck sites of Iran-backed groups in Iraq&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "aljazeera-news-2-https://news.google.com/",
+      "id": "aljazeera-news-0-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -95,20 +147,7 @@
       "summaryZh": "Iran war updates: Tehran vows Hormuz control amid Trump-Netanyahu talks&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "bbc-news-2-https://news.google.com/",
-      "sourceId": "bbc",
-      "source": "BBC",
-      "sourceSite": "bbc.com",
-      "type": "news",
-      "title": "Saudi Arabia joins US in strikes on Iran-backed militias - BBC",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZTjduSnVhNm9MdWZ0UTFTcWxSWXlzcldjRjNqNnF3cFRHdlhZckpobDd5aHp4V29sQUc2SWUwZl9sLXE2eEJpRGlhNlVqbnAzbXJ4Y2dDRVgzUXhj?oc=5\" target=\"_blank\">Saudi Arabia joins US in strikes on Iran-backed militias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZTjduSnVhNm9MdWZ0UTFTcWxSWXlzcldjRjNqNnF3cFRHdlhZckpobDd5aHp4V29sQUc2SWUwZl9sLXE2eEJpRGlhNlVqbnAzbXJ4Y2dDRVgzUXhj?oc=5",
-      "publishedAt": "Tue, 28 Jul 2026 23:27:00 GMT",
-      "titleZh": "Saudi Arabia joins US in strikes on Iran-backed militias - BBC",
-      "summaryZh": "Saudi Arabia joins US in strikes on Iran-backed militias&nbsp;&nbsp;BBC"
-    },
-    {
-      "id": "aljazeera-news-7-https://news.google.com/",
+      "id": "aljazeera-news-9-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -121,7 +160,7 @@
       "summaryZh": "Iran and Oman exchange proposals to manage Strait of Hormuz&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-6-https://news.google.com/",
+      "id": "aljazeera-news-8-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -134,7 +173,20 @@
       "summaryZh": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-5-https://news.google.com/",
+      "id": "reuters-news-2-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
+      "type": "news",
+      "title": "Regime change? Inside Reza Pahlavi’s faltering bid to lead Iran - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOakY1cWNvRDRGX1d1S3lyMXMtUVRhWk5NVTdUNzZveGlOODc3UktYUWhXVlhZaF9aczZuUXUwNUsxYW1xOWNaMFc4QWxncXRnU1E3NGFKbUN5QjR3cldXMG1sREF2VnJONmwyMnNrVld0Tm0zWFNuY1JLamNsNF85Wk9uOXJjTVVsR2R5WV9Kei1CcDB1NGY0czI2amVSTEk1OXZ2S0YxMnJLR0tBamc?oc=5\" target=\"_blank\">Regime change? Inside Reza Pahlavi’s faltering bid to lead Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOakY1cWNvRDRGX1d1S3lyMXMtUVRhWk5NVTdUNzZveGlOODc3UktYUWhXVlhZaF9aczZuUXUwNUsxYW1xOWNaMFc4QWxncXRnU1E3NGFKbUN5QjR3cldXMG1sREF2VnJONmwyMnNrVld0Tm0zWFNuY1JLamNsNF85Wk9uOXJjTVVsR2R5WV9Kei1CcDB1NGY0czI2amVSTEk1OXZ2S0YxMnJLR0tBamc?oc=5",
+      "publishedAt": "Tue, 28 Jul 2026 20:05:33 GMT",
+      "titleZh": "Regime change? Inside Reza Pahlavi’s faltering bid to lead Iran - Reuters",
+      "summaryZh": "Regime change? Inside Reza Pahlavi’s faltering bid to lead Iran&nbsp;&nbsp;Reuters"
+    },
+    {
+      "id": "aljazeera-news-6-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -147,20 +199,20 @@
       "summaryZh": "Lindsey Graham ‘almost cried’ tears of joy over war on Iran, footage shows&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-1-https://news.google.com/",
+      "id": "aljazeera-news-4-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
       "type": "news",
-      "title": "Why has Iran’s economy not collapsed under US war pressure? - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQTm1BQnVwRWV0YlRWUGtqZWpYNHhKbDFQWGNaSm5KeDdiVDc3dnhFQ1k0XzNXWG16MXljbWFjN2pMMC0wMXZNb2ZnQkRsMzZrOVRFbXhRUFN0V0Rnb0ZyZXQ0dG8wcGptTHZrSVh5YjBGM0dzYWRCai1iV3RncElib25VOEt2cThQTVdoRkZ2RW9HQ0ZWVm9OdU1qODFMYzFJTlp30gGoAUFVX3lxTE1TQWFBa2ZDd1lTTElkR1RibTZwNHVoYm5LX3lHWENPWVFIalBQR0dMeElSR2N0ZC1RSnE4WTJuTzhkLXRMMVEzN1RmYjV6QS1jdV9TWTMyR05fTnZDYm5VbHJCSWZQcjV0bzFsZGVMVDVuN2dueUV5LXFQWXFPVG44WEFobi1kTGFJQ2VERk5RekplSmpYRW9ORlhtSU9NbEx6YjBadUZKaQ?oc=5\" target=\"_blank\">Why has Iran’s economy not collapsed under US war pressure?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "title": "How has Iran’s economy survived despite US war pressure - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQTm1BQnVwRWV0YlRWUGtqZWpYNHhKbDFQWGNaSm5KeDdiVDc3dnhFQ1k0XzNXWG16MXljbWFjN2pMMC0wMXZNb2ZnQkRsMzZrOVRFbXhRUFN0V0Rnb0ZyZXQ0dG8wcGptTHZrSVh5YjBGM0dzYWRCai1iV3RncElib25VOEt2cThQTVdoRkZ2RW9HQ0ZWVm9OdU1qODFMYzFJTlp30gGoAUFVX3lxTE1TQWFBa2ZDd1lTTElkR1RibTZwNHVoYm5LX3lHWENPWVFIalBQR0dMeElSR2N0ZC1RSnE4WTJuTzhkLXRMMVEzN1RmYjV6QS1jdV9TWTMyR05fTnZDYm5VbHJCSWZQcjV0bzFsZGVMVDVuN2dueUV5LXFQWXFPVG44WEFobi1kTGFJQ2VERk5RekplSmpYRW9ORlhtSU9NbEx6YjBadUZKaQ?oc=5\" target=\"_blank\">How has Iran’s economy survived despite US war pressure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTm1BQnVwRWV0YlRWUGtqZWpYNHhKbDFQWGNaSm5KeDdiVDc3dnhFQ1k0XzNXWG16MXljbWFjN2pMMC0wMXZNb2ZnQkRsMzZrOVRFbXhRUFN0V0Rnb0ZyZXQ0dG8wcGptTHZrSVh5YjBGM0dzYWRCai1iV3RncElib25VOEt2cThQTVdoRkZ2RW9HQ0ZWVm9OdU1qODFMYzFJTlp30gGoAUFVX3lxTE1TQWFBa2ZDd1lTTElkR1RibTZwNHVoYm5LX3lHWENPWVFIalBQR0dMeElSR2N0ZC1RSnE4WTJuTzhkLXRMMVEzN1RmYjV6QS1jdV9TWTMyR05fTnZDYm5VbHJCSWZQcjV0bzFsZGVMVDVuN2dueUV5LXFQWXFPVG44WEFobi1kTGFJQ2VERk5RekplSmpYRW9ORlhtSU9NbEx6YjBadUZKaQ?oc=5",
       "publishedAt": "Tue, 28 Jul 2026 12:32:49 GMT",
-      "titleZh": "Why has Iran’s economy not collapsed under US war pressure? - Al Jazeera",
-      "summaryZh": "Why has Iran’s economy not collapsed under US war pressure?&nbsp;&nbsp;Al Jazeera"
+      "titleZh": "How has Iran’s economy survived despite US war pressure - Al Jazeera",
+      "summaryZh": "How has Iran’s economy survived despite US war pressure&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-8-https://news.google.com/",
+      "id": "aljazeera-news-5-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -186,46 +238,20 @@
       "summaryZh": "Trump says Iran war talks taking place during lull in strikes&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-3-https://news.google.com/",
-      "sourceId": "bbc",
-      "source": "BBC",
-      "sourceSite": "bbc.com",
+      "id": "reuters-news-4-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
       "type": "news",
-      "title": "As the US pauses the war with Iran, is Trump really running out of weapons? - BBC",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mUTFLRVh1NlRybmVUSXVMaU5OQmtrMk9aVnJ6dElBMHJDOEZwRWotOXYyaUlicDNpUGxraUhoSm9jeUZRbm04ZXZGWndELVV2RGZ4Z3FqdUpQZw?oc=5\" target=\"_blank\">As the US pauses the war with Iran, is Trump really running out of weapons?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mUTFLRVh1NlRybmVUSXVMaU5OQmtrMk9aVnJ6dElBMHJDOEZwRWotOXYyaUlicDNpUGxraUhoSm9jeUZRbm04ZXZGWndELVV2RGZ4Z3FqdUpQZw?oc=5",
-      "publishedAt": "Mon, 27 Jul 2026 21:06:42 GMT",
-      "titleZh": "As the US pauses the war with Iran, is Trump really running out of weapons? - BBC",
-      "summaryZh": "As the US pauses the war with Iran, is Trump really running out of weapons?&nbsp;&nbsp;BBC"
-    },
-    {
-      "id": "aljazeera-news-9-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "Iran war updates: Trump denies US munitions low, posts AI-images of attacks - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPSTd6UkF5eDBrZ2R4N2JFLU1iMzR5WER1bnNDUVpEOTJQdUlQM3RHcVItSEsxQzVmSDhFeThBLW9LTHZtQTBRT1hZU2JVRDZtSGhKd2gyMXkwRHplMlM2SUxmS2kwX1NrUEViZ3NEUVctZzJHWHdjZHNuNDNLMWdQWVc3R0dERDhzY2ZxalJsd0E5S1NWRkFFb3plbzA5Ml82R1ZacENwRjIwSHVMS3E3N3FUYjZqcGM3YWZXSdIBwgFBVV95cUxQa2FmQnZMRTI0R2lSdWFacXFYeFBCZnhYNlJ4ZE1aU1YwVThJVGRJSGVVX3F4S1l2UGpkSFA1czQ5X1Q5a2Q2dkIxOW1Ld0NtX1hNQnBFZ2VhVVhuVjJ6MDFQU2pXVkY4aUx1NjhuQWc5OXRPX1FrWHZVUlIyN0d2SVBGN2U1cFN2b1lGM2tySjFidDR1RWIwU0R3WkMtQzl6Y1BuVnc5SlEtS1BMM05aY1B3QmpTQTRwQnRsckljRklmUQ?oc=5\" target=\"_blank\">Iran war updates: Trump denies US munitions low, posts AI-images of attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSTd6UkF5eDBrZ2R4N2JFLU1iMzR5WER1bnNDUVpEOTJQdUlQM3RHcVItSEsxQzVmSDhFeThBLW9LTHZtQTBRT1hZU2JVRDZtSGhKd2gyMXkwRHplMlM2SUxmS2kwX1NrUEViZ3NEUVctZzJHWHdjZHNuNDNLMWdQWVc3R0dERDhzY2ZxalJsd0E5S1NWRkFFb3plbzA5Ml82R1ZacENwRjIwSHVMS3E3N3FUYjZqcGM3YWZXSdIBwgFBVV95cUxQa2FmQnZMRTI0R2lSdWFacXFYeFBCZnhYNlJ4ZE1aU1YwVThJVGRJSGVVX3F4S1l2UGpkSFA1czQ5X1Q5a2Q2dkIxOW1Ld0NtX1hNQnBFZ2VhVVhuVjJ6MDFQU2pXVkY4aUx1NjhuQWc5OXRPX1FrWHZVUlIyN0d2SVBGN2U1cFN2b1lGM2tySjFidDR1RWIwU0R3WkMtQzl6Y1BuVnc5SlEtS1BMM05aY1B3QmpTQTRwQnRsckljRklmUQ?oc=5",
-      "publishedAt": "Sun, 26 Jul 2026 19:49:54 GMT",
-      "titleZh": "Iran war updates: Trump denies US munitions low, posts AI-images of attacks - Al Jazeera",
-      "summaryZh": "Iran war updates: Trump denies US munitions low, posts AI-images of attacks&nbsp;&nbsp;Al Jazeera"
+      "title": "Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPcmJEaUc4b0UwWHY1NzlsOHBDa2Zfb1dpai1kUnc5Z1k3cTgxVUlTUVVUY20tNnZzMGR2MWtwWU9RbEloZWZEWXctMFdOMWt2S0ZVbHFKUlBWRXIxby1pcEFtNjRBM0VVUDRZNVJ2ZE1uVHdhampTelpoX3Brd0M0X0xiQjltcTF2MHNtcTNWLU5talJGOTNZbGhQbUtwRnZiZDctMVFiMS02am5VVXFvNHJtNDFEQTBURzVCM01R?oc=5\" target=\"_blank\">Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcmJEaUc4b0UwWHY1NzlsOHBDa2Zfb1dpai1kUnc5Z1k3cTgxVUlTUVVUY20tNnZzMGR2MWtwWU9RbEloZWZEWXctMFdOMWt2S0ZVbHFKUlBWRXIxby1pcEFtNjRBM0VVUDRZNVJ2ZE1uVHdhampTelpoX3Brd0M0X0xiQjltcTF2MHNtcTNWLU5talJGOTNZbGhQbUtwRnZiZDctMVFiMS02am5VVXFvNHJtNDFEQTBURzVCM01R?oc=5",
+      "publishedAt": "Mon, 27 Jul 2026 20:55:03 GMT",
+      "titleZh": "Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds - Reuters",
+      "summaryZh": "Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds&nbsp;&nbsp;Reuters"
     },
     {
       "id": "bbc-news-6-https://news.google.com/",
-      "sourceId": "bbc",
-      "source": "BBC",
-      "sourceSite": "bbc.com",
-      "type": "news",
-      "title": "Iran war: What is the Strait of Hormuz and why does it matter? - BBC",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tN3d3SGFFOS1kb0ctMnU0WDdib1hmYUVaLXQ3bm5vRUFlUjVhN05nLVBJOUozTXo2ZnpDZ0NHQUJzMXpBNkdqbHdJNy13bUF0aDJSLUdLR19OQQ?oc=5\" target=\"_blank\">Iran war: What is the Strait of Hormuz and why does it matter?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tN3d3SGFFOS1kb0ctMnU0WDdib1hmYUVaLXQ3bm5vRUFlUjVhN05nLVBJOUozTXo2ZnpDZ0NHQUJzMXpBNkdqbHdJNy13bUF0aDJSLUdLR19OQQ?oc=5",
-      "publishedAt": "Tue, 14 Jul 2026 07:00:00 GMT",
-      "titleZh": "Iran war: What is the Strait of Hormuz and why does it matter? - BBC",
-      "summaryZh": "Iran war: What is the Strait of Hormuz and why does it matter?&nbsp;&nbsp;BBC"
-    },
-    {
-      "id": "bbc-news-8-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -238,7 +264,7 @@
       "summaryZh": "分析：伊朗协议为特朗普的战争划下句号，也暴露了美国主导地位的局限&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-5-https://news.google.com/",
+      "id": "bbc-news-3-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -251,7 +277,7 @@
       "summaryZh": "Bowen: 'Middle East is in turmoil' as Iran and Israel attack each other&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-9-https://news.google.com/",
+      "id": "bbc-news-7-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -264,7 +290,7 @@
       "summaryZh": "伊朗战争：特朗普需要结束这场战争，但伊朗不会退让——分析&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-7-https://news.google.com/",
+      "id": "bbc-news-5-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -275,6 +301,19 @@
       "publishedAt": "Thu, 23 Apr 2026 07:00:00 GMT",
       "titleZh": "Why did US and Israel attack Iran and how long could the war last? - BBC",
       "summaryZh": "Why did US and Israel attack Iran and how long could the war last?&nbsp;&nbsp;BBC"
+    },
+    {
+      "id": "bbc-news-8-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "伊朗战争：中国试图扮演和平调解者，这会奏效吗？ - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwT2hrZlBXU2hLTW4zNml0dWh2ZmdUR1NuNFlFVjJ3bUN2R1drNGxCZ29MMnJ1Z3ZZZWhMdTlsMFpyTlpial9oT1p2dGM4a3BBYTNBUTJ3OWQ4S1c3M3VLUWFwNllaZ9IBa0FVX3lxTE0xYmlmUTJOOEM5b2RIUVdaWmVpUENIRV9PVmk1OGFYT0RjOVkxOGdNX0lvckNJOUxSN09Od05rSU1kVzhuaUlCTHY5QnpUQThIZ0RiRlRQTm9BZXBtMFZWcFdkLVVYRmZiTDVn?oc=5\" target=\"_blank\">伊朗战争：中国试图扮演和平调解者，这会奏效吗？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwT2hrZlBXU2hLTW4zNml0dWh2ZmdUR1NuNFlFVjJ3bUN2R1drNGxCZ29MMnJ1Z3ZZZWhMdTlsMFpyTlpial9oT1p2dGM4a3BBYTNBUTJ3OWQ4S1c3M3VLUWFwNllaZ9IBa0FVX3lxTE0xYmlmUTJOOEM5b2RIUVdaWmVpUENIRV9PVmk1OGFYT0RjOVkxOGdNX0lvckNJOUxSN09Od05rSU1kVzhuaUlCTHY5QnpUQThIZ0RiRlRQTm9BZXBtMFZWcFdkLVVYRmZiTDVn?oc=5",
+      "publishedAt": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "titleZh": "伊朗战争：中国试图扮演和平调解者，这会奏效吗？ - BBC",
+      "summaryZh": "伊朗战争：中国试图扮演和平调解者，这会奏效吗？&nbsp;&nbsp;BBC"
     }
   ],
   "bySource": [
@@ -283,7 +322,33 @@
       "source": "Reuters",
       "items": [
         {
+          "id": "reuters-news-1-https://news.google.com/",
+          "sourceId": "reuters",
+          "source": "Reuters",
+          "sourceSite": "reuters.com",
+          "type": "news",
+          "title": "SABIC posts narrower quarterly loss, revenue falls 18% as Iran war disrupts supply chains - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQMkdSQmxWai1uTUNwZ2M1aktONy1jS0NRNWh2MDZWMm5NTHJPOXUxcmNuR2NJbm5WWjJyOHczcTVnNmRvejI0OXMzOFlQcWlyZm1mVk1oN2d1Rzd5a2lReEZrTFRLdGloZm82a0xwM2RWTi1JcGVCSFlHV1ZkUDZIclVkRXBTLUx1Y21vWW5lYnNJOFVNU0lmYWh2V2l5V1poeUd2dTNPNjNnTW90T21kWmNPNnU0R1pkZnJwZWNSQnI5MW1Dal9iYmVuVQ?oc=5\" target=\"_blank\">SABIC posts narrower quarterly loss, revenue falls 18% as Iran war disrupts supply chains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMkdSQmxWai1uTUNwZ2M1aktONy1jS0NRNWh2MDZWMm5NTHJPOXUxcmNuR2NJbm5WWjJyOHczcTVnNmRvejI0OXMzOFlQcWlyZm1mVk1oN2d1Rzd5a2lReEZrTFRLdGloZm82a0xwM2RWTi1JcGVCSFlHV1ZkUDZIclVkRXBTLUx1Y21vWW5lYnNJOFVNU0lmYWh2V2l5V1poeUd2dTNPNjNnTW90T21kWmNPNnU0R1pkZnJwZWNSQnI5MW1Dal9iYmVuVQ?oc=5",
+          "publishedAt": "Wed, 29 Jul 2026 10:21:43 GMT",
+          "titleZh": "SABIC posts narrower quarterly loss, revenue falls 18% as Iran war disrupts supply chains - Reuters",
+          "summaryZh": "SABIC posts narrower quarterly loss, revenue falls 18% as Iran war disrupts supply chains&nbsp;&nbsp;Reuters"
+        },
+        {
           "id": "reuters-news-0-https://news.google.com/",
+          "sourceId": "reuters",
+          "source": "Reuters",
+          "sourceSite": "reuters.com",
+          "type": "news",
+          "title": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPR19sNWVrRDdhcXlNdTlxcUdNR0dNWDRBcjZPd21xOEM2bEYtdDJiWTEtYzlweWs5ZmtILVlhQkVUNzdaaENHbnhqTl9SSFNCZjk3eXNMS1o4SXFzT2VBS3VZZ0p6MVlrQldWNjRMUGlTN2tDR2xUOVBUdkdkTndueExrQm9vRGtTLTdBWjNGMDhZRC1qNDZXYVk3TXB0bWZ4ZFhpYUtfZ2JaalVZdjU3emN6LUptbjA?oc=5\" target=\"_blank\">EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR19sNWVrRDdhcXlNdTlxcUdNR0dNWDRBcjZPd21xOEM2bEYtdDJiWTEtYzlweWs5ZmtILVlhQkVUNzdaaENHbnhqTl9SSFNCZjk3eXNMS1o4SXFzT2VBS3VZZ0p6MVlrQldWNjRMUGlTN2tDR2xUOVBUdkdkTndueExrQm9vRGtTLTdBWjNGMDhZRC1qNDZXYVk3TXB0bWZ4ZFhpYUtfZ2JaalVZdjU3emN6LUptbjA?oc=5",
+          "publishedAt": "Wed, 29 Jul 2026 03:04:00 GMT",
+          "titleZh": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say - Reuters",
+          "summaryZh": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say&nbsp;&nbsp;Reuters"
+        },
+        {
+          "id": "reuters-news-3-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -294,6 +359,32 @@
           "publishedAt": "Wed, 29 Jul 2026 00:37:00 GMT",
           "titleZh": "US military says US, Saudi forces struck sites of Iran-backed groups in Iraq - Reuters",
           "summaryZh": "US military says US, Saudi forces struck sites of Iran-backed groups in Iraq&nbsp;&nbsp;Reuters"
+        },
+        {
+          "id": "reuters-news-2-https://news.google.com/",
+          "sourceId": "reuters",
+          "source": "Reuters",
+          "sourceSite": "reuters.com",
+          "type": "news",
+          "title": "Regime change? Inside Reza Pahlavi’s faltering bid to lead Iran - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOakY1cWNvRDRGX1d1S3lyMXMtUVRhWk5NVTdUNzZveGlOODc3UktYUWhXVlhZaF9aczZuUXUwNUsxYW1xOWNaMFc4QWxncXRnU1E3NGFKbUN5QjR3cldXMG1sREF2VnJONmwyMnNrVld0Tm0zWFNuY1JLamNsNF85Wk9uOXJjTVVsR2R5WV9Kei1CcDB1NGY0czI2amVSTEk1OXZ2S0YxMnJLR0tBamc?oc=5\" target=\"_blank\">Regime change? Inside Reza Pahlavi’s faltering bid to lead Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOakY1cWNvRDRGX1d1S3lyMXMtUVRhWk5NVTdUNzZveGlOODc3UktYUWhXVlhZaF9aczZuUXUwNUsxYW1xOWNaMFc4QWxncXRnU1E3NGFKbUN5QjR3cldXMG1sREF2VnJONmwyMnNrVld0Tm0zWFNuY1JLamNsNF85Wk9uOXJjTVVsR2R5WV9Kei1CcDB1NGY0czI2amVSTEk1OXZ2S0YxMnJLR0tBamc?oc=5",
+          "publishedAt": "Tue, 28 Jul 2026 20:05:33 GMT",
+          "titleZh": "Regime change? Inside Reza Pahlavi’s faltering bid to lead Iran - Reuters",
+          "summaryZh": "Regime change? Inside Reza Pahlavi’s faltering bid to lead Iran&nbsp;&nbsp;Reuters"
+        },
+        {
+          "id": "reuters-news-4-https://news.google.com/",
+          "sourceId": "reuters",
+          "source": "Reuters",
+          "sourceSite": "reuters.com",
+          "type": "news",
+          "title": "Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPcmJEaUc4b0UwWHY1NzlsOHBDa2Zfb1dpai1kUnc5Z1k3cTgxVUlTUVVUY20tNnZzMGR2MWtwWU9RbEloZWZEWXctMFdOMWt2S0ZVbHFKUlBWRXIxby1pcEFtNjRBM0VVUDRZNVJ2ZE1uVHdhampTelpoX3Brd0M0X0xiQjltcTF2MHNtcTNWLU5talJGOTNZbGhQbUtwRnZiZDctMVFiMS02am5VVXFvNHJtNDFEQTBURzVCM01R?oc=5\" target=\"_blank\">Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcmJEaUc4b0UwWHY1NzlsOHBDa2Zfb1dpai1kUnc5Z1k3cTgxVUlTUVVUY20tNnZzMGR2MWtwWU9RbEloZWZEWXctMFdOMWt2S0ZVbHFKUlBWRXIxby1pcEFtNjRBM0VVUDRZNVJ2ZE1uVHdhampTelpoX3Brd0M0X0xiQjltcTF2MHNtcTNWLU5talJGOTNZbGhQbUtwRnZiZDctMVFiMS02am5VVXFvNHJtNDFEQTBURzVCM01R?oc=5",
+          "publishedAt": "Mon, 27 Jul 2026 20:55:03 GMT",
+          "titleZh": "Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds - Reuters",
+          "summaryZh": "Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds&nbsp;&nbsp;Reuters"
         }
       ]
     },
@@ -302,20 +393,33 @@
       "source": "BBC",
       "items": [
         {
-          "id": "bbc-news-0-https://news.google.com/",
+          "id": "bbc-news-2-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
           "type": "news",
-          "title": "Iran launches 'attempted surprise attack' on American forces in Middle East, US military says - BBC",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSzhZbndQb2lHQ1lnZ3FRaHdYZ1FLVGMzM1AxdnFvWWE3cW9FQW1CYlBYOGxrTnVJdXJCbXloU2V1b29xS0w0dHZYMFlNaGN2bUtxNUZ1ZXdJZw?oc=5\" target=\"_blank\">Iran launches 'attempted surprise attack' on American forces in Middle East, US military says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSzhZbndQb2lHQ1lnZ3FRaHdYZ1FLVGMzM1AxdnFvWWE3cW9FQW1CYlBYOGxrTnVJdXJCbXloU2V1b29xS0w0dHZYMFlNaGN2bUtxNUZ1ZXdJZw?oc=5",
-          "publishedAt": "Wed, 29 Jul 2026 04:30:08 GMT",
-          "titleZh": "Iran launches 'attempted surprise attack' on American forces in Middle East, US military says - BBC",
-          "summaryZh": "Iran launches 'attempted surprise attack' on American forces in Middle East, US military says&nbsp;&nbsp;BBC"
+          "title": "US launches strikes with Saudi Arabia after thwarting ‘surprise’ Iranian attack - The Times",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQNHdRY1JwcjNaUkV1bGJCT0JWMUxWRy1ub09rQkYxaFJkMkdrV1AtR2Jkcy1sdGtuODBBcDAzUFUxNGc3UWFVRjRiVWJsYjJIcXYyWjQ1MHhqcWNwR1dhazFPa0RwSHNnYW1pZHh4TzhTaUhOOG1DVFFGOVZDczZ6YURRN1hjNkM2bGg4Rlo5bFhLR0FRQTk2V2plbkg0b2tRMElHdQ?oc=5\" target=\"_blank\">US launches strikes with Saudi Arabia after thwarting ‘surprise’ Iranian attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNHdRY1JwcjNaUkV1bGJCT0JWMUxWRy1ub09rQkYxaFJkMkdrV1AtR2Jkcy1sdGtuODBBcDAzUFUxNGc3UWFVRjRiVWJsYjJIcXYyWjQ1MHhqcWNwR1dhazFPa0RwSHNnYW1pZHh4TzhTaUhOOG1DVFFGOVZDczZ6YURRN1hjNkM2bGg4Rlo5bFhLR0FRQTk2V2plbkg0b2tRMElHdQ?oc=5",
+          "publishedAt": "Wed, 29 Jul 2026 08:46:25 GMT",
+          "titleZh": "US launches strikes with Saudi Arabia after thwarting ‘surprise’ Iranian attack - The Times",
+          "summaryZh": "US launches strikes with Saudi Arabia after thwarting ‘surprise’ Iranian attack&nbsp;&nbsp;The Times"
         },
         {
           "id": "bbc-news-1-https://news.google.com/",
+          "sourceId": "bbc",
+          "source": "BBC",
+          "sourceSite": "bbc.com",
+          "type": "news",
+          "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq - BBC",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSzhZbndQb2lHQ1lnZ3FRaHdYZ1FLVGMzM1AxdnFvWWE3cW9FQW1CYlBYOGxrTnVJdXJCbXloU2V1b29xS0w0dHZYMFlNaGN2bUtxNUZ1ZXdJZw?oc=5\" target=\"_blank\">Saudi Arabia joins US in strikes on Iran-backed militias in Iraq</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSzhZbndQb2lHQ1lnZ3FRaHdYZ1FLVGMzM1AxdnFvWWE3cW9FQW1CYlBYOGxrTnVJdXJCbXloU2V1b29xS0w0dHZYMFlNaGN2bUtxNUZ1ZXdJZw?oc=5",
+          "publishedAt": "Wed, 29 Jul 2026 08:43:46 GMT",
+          "titleZh": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq - BBC",
+          "summaryZh": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq&nbsp;&nbsp;BBC"
+        },
+        {
+          "id": "bbc-news-0-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -326,19 +430,6 @@
           "publishedAt": "Wed, 29 Jul 2026 02:24:03 GMT",
           "titleZh": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on - BBC",
           "summaryZh": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on&nbsp;&nbsp;BBC"
-        },
-        {
-          "id": "bbc-news-2-https://news.google.com/",
-          "sourceId": "bbc",
-          "source": "BBC",
-          "sourceSite": "bbc.com",
-          "type": "news",
-          "title": "Saudi Arabia joins US in strikes on Iran-backed militias - BBC",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZTjduSnVhNm9MdWZ0UTFTcWxSWXlzcldjRjNqNnF3cFRHdlhZckpobDd5aHp4V29sQUc2SWUwZl9sLXE2eEJpRGlhNlVqbnAzbXJ4Y2dDRVgzUXhj?oc=5\" target=\"_blank\">Saudi Arabia joins US in strikes on Iran-backed militias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZTjduSnVhNm9MdWZ0UTFTcWxSWXlzcldjRjNqNnF3cFRHdlhZckpobDd5aHp4V29sQUc2SWUwZl9sLXE2eEJpRGlhNlVqbnAzbXJ4Y2dDRVgzUXhj?oc=5",
-          "publishedAt": "Tue, 28 Jul 2026 23:27:00 GMT",
-          "titleZh": "Saudi Arabia joins US in strikes on Iran-backed militias - BBC",
-          "summaryZh": "Saudi Arabia joins US in strikes on Iran-backed militias&nbsp;&nbsp;BBC"
         },
         {
           "id": "bbc-news-4-https://news.google.com/",
@@ -354,30 +445,30 @@
           "summaryZh": "Trump says Iran war talks taking place during lull in strikes&nbsp;&nbsp;BBC"
         },
         {
-          "id": "bbc-news-3-https://news.google.com/",
-          "sourceId": "bbc",
-          "source": "BBC",
-          "sourceSite": "bbc.com",
-          "type": "news",
-          "title": "As the US pauses the war with Iran, is Trump really running out of weapons? - BBC",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mUTFLRVh1NlRybmVUSXVMaU5OQmtrMk9aVnJ6dElBMHJDOEZwRWotOXYyaUlicDNpUGxraUhoSm9jeUZRbm04ZXZGWndELVV2RGZ4Z3FqdUpQZw?oc=5\" target=\"_blank\">As the US pauses the war with Iran, is Trump really running out of weapons?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mUTFLRVh1NlRybmVUSXVMaU5OQmtrMk9aVnJ6dElBMHJDOEZwRWotOXYyaUlicDNpUGxraUhoSm9jeUZRbm04ZXZGWndELVV2RGZ4Z3FqdUpQZw?oc=5",
-          "publishedAt": "Mon, 27 Jul 2026 21:06:42 GMT",
-          "titleZh": "As the US pauses the war with Iran, is Trump really running out of weapons? - BBC",
-          "summaryZh": "As the US pauses the war with Iran, is Trump really running out of weapons?&nbsp;&nbsp;BBC"
-        },
-        {
           "id": "bbc-news-6-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
           "type": "news",
-          "title": "Iran war: What is the Strait of Hormuz and why does it matter? - BBC",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tN3d3SGFFOS1kb0ctMnU0WDdib1hmYUVaLXQ3bm5vRUFlUjVhN05nLVBJOUozTXo2ZnpDZ0NHQUJzMXpBNkdqbHdJNy13bUF0aDJSLUdLR19OQQ?oc=5\" target=\"_blank\">Iran war: What is the Strait of Hormuz and why does it matter?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tN3d3SGFFOS1kb0ctMnU0WDdib1hmYUVaLXQ3bm5vRUFlUjVhN05nLVBJOUozTXo2ZnpDZ0NHQUJzMXpBNkdqbHdJNy13bUF0aDJSLUdLR19OQQ?oc=5",
-          "publishedAt": "Tue, 14 Jul 2026 07:00:00 GMT",
-          "titleZh": "Iran war: What is the Strait of Hormuz and why does it matter? - BBC",
-          "summaryZh": "Iran war: What is the Strait of Hormuz and why does it matter?&nbsp;&nbsp;BBC"
+          "title": "分析：伊朗协议为特朗普的战争划下句号，也暴露了美国主导地位的局限 - BBC",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mQ3BJTE9ES1ZqQ1dXQ1cyN0hpMTVqeWt2UmJZRHF4VEZOXzVWM3hLdGRkNlhxTkRvaTNjd1dBZUd1VHBMRExfR0ltQWlTU0tpNjFZMDZjUkd4TnliUE9WdEVNSmlXUQ?oc=5\" target=\"_blank\">分析：伊朗协议为特朗普的战争划下句号，也暴露了美国主导地位的局限</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mQ3BJTE9ES1ZqQ1dXQ1cyN0hpMTVqeWt2UmJZRHF4VEZOXzVWM3hLdGRkNlhxTkRvaTNjd1dBZUd1VHBMRExfR0ltQWlTU0tpNjFZMDZjUkd4TnliUE9WdEVNSmlXUQ?oc=5",
+          "publishedAt": "Tue, 16 Jun 2026 07:00:00 GMT",
+          "titleZh": "分析：伊朗协议为特朗普的战争划下句号，也暴露了美国主导地位的局限 - BBC",
+          "summaryZh": "分析：伊朗协议为特朗普的战争划下句号，也暴露了美国主导地位的局限&nbsp;&nbsp;BBC"
+        },
+        {
+          "id": "bbc-news-3-https://news.google.com/",
+          "sourceId": "bbc",
+          "source": "BBC",
+          "sourceSite": "bbc.com",
+          "type": "news",
+          "title": "Bowen: 'Middle East is in turmoil' as Iran and Israel attack each other - BBC",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tWTlXcllseU84VmNIdkZlY1R5Q2xVSmlPMHVRVXpRVDlnR0NScHJtS0lMY3lna1JoYzJraVlpekJodjlVREJ2dC0wNGFsVlBoTXp4ejVrQQ?oc=5\" target=\"_blank\">Bowen: 'Middle East is in turmoil' as Iran and Israel attack each other</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tWTlXcllseU84VmNIdkZlY1R5Q2xVSmlPMHVRVXpRVDlnR0NScHJtS0lMY3lna1JoYzJraVlpekJodjlVREJ2dC0wNGFsVlBoTXp4ejVrQQ?oc=5",
+          "publishedAt": "Mon, 08 Jun 2026 07:00:00 GMT",
+          "titleZh": "Bowen: 'Middle East is in turmoil' as Iran and Israel attack each other - BBC",
+          "summaryZh": "Bowen: 'Middle East is in turmoil' as Iran and Israel attack each other&nbsp;&nbsp;BBC"
         }
       ]
     },
@@ -386,17 +477,30 @@
       "source": "Al Jazeera",
       "items": [
         {
-          "id": "aljazeera-news-0-https://news.google.com/",
+          "id": "aljazeera-news-1-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
           "type": "news",
-          "title": "Iran war live: US, Saudi forces attack Iraq; IRGC fires missiles at Jordan - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTjRULWE0Y1djcEVXdDU2MmYzd2lPUVVhdGJCRU91aGc5QzFzdXZGZ0hLU1ljWXZqQmdoWDdJMWRYeW9LOG5NRERCQTBpT1dFNkxybmM5ZmlZelNBMzF1OW9mdmlET3p3MHFpYnlOMXRBSXItTDk2bWJRd1hmS3h0MHFVZWpCeGFPY2N4MDh2V0ZuenpTd0VRV3BzM3M2MmE3b19mdkZPckNOYlBITXNMQjdCV1JKX0FH0gG-AUFVX3lxTFBESHMxM0xtczZIM3RBNGNWUWpjanhzQjlNb1ljN0Y2ZXZQOG9zN1ViRk8yTGh2UHFlMTluaUJPRHJnbUNINi16WVNlRW1sVXhaVExJRUt6Ql9ONXU3SWluSUMzVW1EWjQ1aWVMU3pDQlR0Q0NwVEhOcVlWbkFTdEJpd09wMzBDVHVqRE5iV2JEUFVXSnd2WjRQVnVUa2NTX2N0VGpPQUxtTDRtb1AxTWR6MGNtRXlKRDBFeWpWS3c?oc=5\" target=\"_blank\">Iran war live: US, Saudi forces attack Iraq; IRGC fires missiles at Jordan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "title": "Iran war live: 20 killed in US-Saudi attack on Iraq; IRGC targets Jordan - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTjRULWE0Y1djcEVXdDU2MmYzd2lPUVVhdGJCRU91aGc5QzFzdXZGZ0hLU1ljWXZqQmdoWDdJMWRYeW9LOG5NRERCQTBpT1dFNkxybmM5ZmlZelNBMzF1OW9mdmlET3p3MHFpYnlOMXRBSXItTDk2bWJRd1hmS3h0MHFVZWpCeGFPY2N4MDh2V0ZuenpTd0VRV3BzM3M2MmE3b19mdkZPckNOYlBITXNMQjdCV1JKX0FH0gG-AUFVX3lxTFBESHMxM0xtczZIM3RBNGNWUWpjanhzQjlNb1ljN0Y2ZXZQOG9zN1ViRk8yTGh2UHFlMTluaUJPRHJnbUNINi16WVNlRW1sVXhaVExJRUt6Ql9ONXU3SWluSUMzVW1EWjQ1aWVMU3pDQlR0Q0NwVEhOcVlWbkFTdEJpd09wMzBDVHVqRE5iV2JEUFVXSnd2WjRQVnVUa2NTX2N0VGpPQUxtTDRtb1AxTWR6MGNtRXlKRDBFeWpWS3c?oc=5\" target=\"_blank\">Iran war live: 20 killed in US-Saudi attack on Iraq; IRGC targets Jordan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTjRULWE0Y1djcEVXdDU2MmYzd2lPUVVhdGJCRU91aGc5QzFzdXZGZ0hLU1ljWXZqQmdoWDdJMWRYeW9LOG5NRERCQTBpT1dFNkxybmM5ZmlZelNBMzF1OW9mdmlET3p3MHFpYnlOMXRBSXItTDk2bWJRd1hmS3h0MHFVZWpCeGFPY2N4MDh2V0ZuenpTd0VRV3BzM3M2MmE3b19mdkZPckNOYlBITXNMQjdCV1JKX0FH0gG-AUFVX3lxTFBESHMxM0xtczZIM3RBNGNWUWpjanhzQjlNb1ljN0Y2ZXZQOG9zN1ViRk8yTGh2UHFlMTluaUJPRHJnbUNINi16WVNlRW1sVXhaVExJRUt6Ql9ONXU3SWluSUMzVW1EWjQ1aWVMU3pDQlR0Q0NwVEhOcVlWbkFTdEJpd09wMzBDVHVqRE5iV2JEUFVXSnd2WjRQVnVUa2NTX2N0VGpPQUxtTDRtb1AxTWR6MGNtRXlKRDBFeWpWS3c?oc=5",
-          "publishedAt": "Wed, 29 Jul 2026 06:00:00 GMT",
-          "titleZh": "Iran war live: US, Saudi forces attack Iraq; IRGC fires missiles at Jordan - Al Jazeera",
-          "summaryZh": "Iran war live: US, Saudi forces attack Iraq; IRGC fires missiles at Jordan&nbsp;&nbsp;Al Jazeera"
+          "publishedAt": "Wed, 29 Jul 2026 09:00:00 GMT",
+          "titleZh": "Iran war live: 20 killed in US-Saudi attack on Iraq; IRGC targets Jordan - Al Jazeera",
+          "summaryZh": "Iran war live: 20 killed in US-Saudi attack on Iraq; IRGC targets Jordan&nbsp;&nbsp;Al Jazeera"
+        },
+        {
+          "id": "aljazeera-news-2-https://news.google.com/",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "sourceSite": "aljazeera.com",
+          "type": "news",
+          "title": "Iran and Oman swap proposals to manage Strait of Hormuz: What we know - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOMVNnd2xCYUs4LUZPakJqdzdadXFYcXcxbGVIeENwM0plWGZZNVpKRlpERWowNk5DU0lKbjhfVnktWG9FWVZrdEZrUk1Mc05kUVlnTWpnLVA5dE91Q2diMGJycXBvajIzNUJuWG5sbW8tUXE4dzJGeVc2ajVzd3pxdEFqeC1yTWN5U1RmM2pFaGFWb0w1MU9lcmR3X3JRd1BvaGVIc1hkeDZiNjU5eUHSAbMBQVVfeXFMUE1mSGk4ZU5LNEFDR1VPc05PUnZRa0pmdGZQY3c1WDhzbG51alA0RGFtRmc2VllYRWQ5OW8ybGUtX1dtQjBWek5PT2RhM3ZHR2lnUmlrQTE3WldjcThRYy1IdVJYclpoRF91Yk5zNVMwRnZzM3FFUXhXeTZWc1JQSFJQbEtpZ042dmFheFFIcDZxdU1Ocnp0am5LM2tzdHItLTdISFBqMDkzWXkzQ3RHdEpQRzQ?oc=5\" target=\"_blank\">Iran and Oman swap proposals to manage Strait of Hormuz: What we know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMVNnd2xCYUs4LUZPakJqdzdadXFYcXcxbGVIeENwM0plWGZZNVpKRlpERWowNk5DU0lKbjhfVnktWG9FWVZrdEZrUk1Mc05kUVlnTWpnLVA5dE91Q2diMGJycXBvajIzNUJuWG5sbW8tUXE4dzJGeVc2ajVzd3pxdEFqeC1yTWN5U1RmM2pFaGFWb0w1MU9lcmR3X3JRd1BvaGVIc1hkeDZiNjU5eUHSAbMBQVVfeXFMUE1mSGk4ZU5LNEFDR1VPc05PUnZRa0pmdGZQY3c1WDhzbG51alA0RGFtRmc2VllYRWQ5OW8ybGUtX1dtQjBWek5PT2RhM3ZHR2lnUmlrQTE3WldjcThRYy1IdVJYclpoRF91Yk5zNVMwRnZzM3FFUXhXeTZWc1JQSFJQbEtpZ042dmFheFFIcDZxdU1Ocnp0am5LM2tzdHItLTdISFBqMDkzWXkzQ3RHdEpQRzQ?oc=5",
+          "publishedAt": "Wed, 29 Jul 2026 08:36:02 GMT",
+          "titleZh": "Iran and Oman swap proposals to manage Strait of Hormuz: What we know - Al Jazeera",
+          "summaryZh": "Iran and Oman swap proposals to manage Strait of Hormuz: What we know&nbsp;&nbsp;Al Jazeera"
         },
         {
           "id": "aljazeera-news-3-https://news.google.com/",
@@ -412,7 +516,7 @@
           "summaryZh": "Iran attacks US bases in Middle East as Trump meets Netanyahu&nbsp;&nbsp;Al Jazeera"
         },
         {
-          "id": "aljazeera-news-4-https://news.google.com/",
+          "id": "aljazeera-news-7-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -425,7 +529,7 @@
           "summaryZh": "Iran missiles target US forces in Jordan after a five-day pause in war&nbsp;&nbsp;Al Jazeera"
         },
         {
-          "id": "aljazeera-news-2-https://news.google.com/",
+          "id": "aljazeera-news-0-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -438,7 +542,7 @@
           "summaryZh": "Iran war updates: Tehran vows Hormuz control amid Trump-Netanyahu talks&nbsp;&nbsp;Al Jazeera"
         },
         {
-          "id": "aljazeera-news-7-https://news.google.com/",
+          "id": "aljazeera-news-9-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -449,19 +553,6 @@
           "publishedAt": "Tue, 28 Jul 2026 21:03:18 GMT",
           "titleZh": "Iran and Oman exchange proposals to manage Strait of Hormuz - Al Jazeera",
           "summaryZh": "Iran and Oman exchange proposals to manage Strait of Hormuz&nbsp;&nbsp;Al Jazeera"
-        },
-        {
-          "id": "aljazeera-news-6-https://news.google.com/",
-          "sourceId": "aljazeera",
-          "source": "Al Jazeera",
-          "sourceSite": "aljazeera.com",
-          "type": "news",
-          "title": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPSmtqZndTSm9NbndUSjFPMU5fOFJ0MlAwaEVnaFhBeUJVQS1ORHlHN01fZ2d1d2E5V0gzeVE5bm9vZXExV3ZNejhOWFN3dHU4QzRKa3dZM2JRU0R3eXRwYlc2M1lId245eG9DNGVvS1dWN3RVVVZxZzhOQzhWZUtmT3VHV0Jna1lMcHQ5eGJ4OG1IaV9tNEN2d2VKMTQ0NUxiYVpNaE1YXzV6MEZZbmfSAbMBQVVfeXFMTXdUNGFVUlpKSC1uR1JobmRHaTlXSEpzZXlGZ0NtbWJXQUM5TmNLdFpVUEtWMTMzVUw0LVNvdy1hMnZzaE9FaU1JUjBjSVFnMEFtNlBCU1E1NUh0cDlGdkRySGhNZ0JrMEViYmhjQl9zZFVqdlF6dENOX0Z4d1N5cTdKcDBnTzZqNkEwamR4MUdHZTZNQ0cxSmhCM1ZaOHBaZ0htSExEM1NZQkd3TG1QVm9CUkU?oc=5\" target=\"_blank\">Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSmtqZndTSm9NbndUSjFPMU5fOFJ0MlAwaEVnaFhBeUJVQS1ORHlHN01fZ2d1d2E5V0gzeVE5bm9vZXExV3ZNejhOWFN3dHU4QzRKa3dZM2JRU0R3eXRwYlc2M1lId245eG9DNGVvS1dWN3RVVVZxZzhOQzhWZUtmT3VHV0Jna1lMcHQ5eGJ4OG1IaV9tNEN2d2VKMTQ0NUxiYVpNaE1YXzV6MEZZbmfSAbMBQVVfeXFMTXdUNGFVUlpKSC1uR1JobmRHaTlXSEpzZXlGZ0NtbWJXQUM5TmNLdFpVUEtWMTMzVUw0LVNvdy1hMnZzaE9FaU1JUjBjSVFnMEFtNlBCU1E1NUh0cDlGdkRySGhNZ0JrMEViYmhjQl9zZFVqdlF6dENOX0Z4d1N5cTdKcDBnTzZqNkEwamR4MUdHZTZNQ0cxSmhCM1ZaOHBaZ0htSExEM1NZQkd3TG1QVm9CUkU?oc=5",
-          "publishedAt": "Tue, 28 Jul 2026 20:42:02 GMT",
-          "titleZh": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack - Al Jazeera",
-          "summaryZh": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack&nbsp;&nbsp;Al Jazeera"
         }
       ]
     },
@@ -481,7 +572,7 @@
       "title": "Iran Considered Retaliatory Strike on Ukrainian Seaport - The New York Times",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9WUmprNEdueEx0N0VuTUh1dUFIUFpRYnMzbk1EUnNtSTg4c2tkWHlBT0tnLUFOODhsdmRraGhVTTJKcDVSLWNYdW96YWx6U2VVYVpXWmEycUNWUmxycG5mRG5lVWg4bFRKTldrZlh2MmpOS0lZZlNiUF9lOHpkUQ?oc=5\" target=\"_blank\">Iran Considered Retaliatory Strike on Ukrainian Seaport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WUmprNEdueEx0N0VuTUh1dUFIUFpRYnMzbk1EUnNtSTg4c2tkWHlBT0tnLUFOODhsdmRraGhVTTJKcDVSLWNYdW96YWx6U2VVYVpXWmEycUNWUmxycG5mRG5lVWg4bFRKTldrZlh2MmpOS0lZZlNiUF9lOHpkUQ?oc=5",
-      "publishedAt": "Tue, 28 Jul 2026 21:39:52 GMT",
+      "publishedAt": "Wed, 29 Jul 2026 02:05:12 GMT",
       "titleZh": "Iran Considered Retaliatory Strike on Ukrainian Seaport - The New York Times",
       "summaryZh": "Iran Considered Retaliatory Strike on Ukrainian Seaport&nbsp;&nbsp;The New York Times"
     },
@@ -497,19 +588,6 @@
       "publishedAt": "Tue, 28 Jul 2026 19:36:43 GMT",
       "titleZh": "Donald Trump is stalling for time in the war with Iran - The Economist",
       "summaryZh": "Donald Trump is stalling for time in the war with Iran&nbsp;&nbsp;The Economist"
-    },
-    {
-      "id": "nytimes-commentary-7-https://news.google.com/",
-      "sourceId": "nytimes",
-      "source": "The New York Times",
-      "sourceSite": "nytimes.com",
-      "type": "commentary",
-      "title": "As U.S. Pauses Strikes, Iran Is No Rush to Resume Cease-Fire Talks - The New York Times",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE4wN1pkOEo2VlNxN2dmdGlhWFBWdlJ5QTRzRUhQZktyN2lsOFB1X3hjb3A5RERwVEpOSVZIZXMtLU5qM2hST1ZCdHlDZ01CczlKcW40aXZKMXJCQnU4czU0RjRGTVcwajUzN1pZa2d2MkFNWnRaaVpDWjNUcTR1SFk?oc=5\" target=\"_blank\">As U.S. Pauses Strikes, Iran Is No Rush to Resume Cease-Fire Talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wN1pkOEo2VlNxN2dmdGlhWFBWdlJ5QTRzRUhQZktyN2lsOFB1X3hjb3A5RERwVEpOSVZIZXMtLU5qM2hST1ZCdHlDZ01CczlKcW40aXZKMXJCQnU4czU0RjRGTVcwajUzN1pZa2d2MkFNWnRaaVpDWjNUcTR1SFk?oc=5",
-      "publishedAt": "Tue, 28 Jul 2026 18:10:40 GMT",
-      "titleZh": "As U.S. Pauses Strikes, Iran Is No Rush to Resume Cease-Fire Talks - The New York Times",
-      "summaryZh": "As U.S. Pauses Strikes, Iran Is No Rush to Resume Cease-Fire Talks&nbsp;&nbsp;The New York Times"
     },
     {
       "id": "nytimes-commentary-4-https://news.google.com/",
@@ -629,6 +707,19 @@
       "summaryZh": "America has few good options for a “massive attack” on Iran&nbsp;&nbsp;The Economist"
     },
     {
+      "id": "nytimes-commentary-7-https://news.google.com/",
+      "sourceId": "nytimes",
+      "source": "The New York Times",
+      "sourceSite": "nytimes.com",
+      "type": "commentary",
+      "title": "U.S.-Iran War Pauses for 2nd Straight Day With Both Sides Holding Off on Strikes - The New York Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBxMVUxSFVRRVc0RHVsME5BOWFKUjEtblN4WEpLYzRMYlEtY3RjVjhyTHZmMW92bEZRZVN1Vjh5TEdvYTlJbUkzRXl0azYxU0tGS2czT2RlWm1aVVNGQ0U2WnhLX0F0X3pZZmJxWUFJUG1nOTZPNXRScmNZRlc1dms?oc=5\" target=\"_blank\">U.S.-Iran War Pauses for 2nd Straight Day With Both Sides Holding Off on Strikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxMVUxSFVRRVc0RHVsME5BOWFKUjEtblN4WEpLYzRMYlEtY3RjVjhyTHZmMW92bEZRZVN1Vjh5TEdvYTlJbUkzRXl0azYxU0tGS2czT2RlWm1aVVNGQ0U2WnhLX0F0X3pZZmJxWUFJUG1nOTZPNXRScmNZRlc1dms?oc=5",
+      "publishedAt": "Sun, 26 Jul 2026 09:53:06 GMT",
+      "titleZh": "U.S.-Iran War Pauses for 2nd Straight Day With Both Sides Holding Off on Strikes - The New York Times",
+      "summaryZh": "U.S.-Iran War Pauses for 2nd Straight Day With Both Sides Holding Off on Strikes&nbsp;&nbsp;The New York Times"
+    },
+    {
       "id": "nytimes-commentary-3-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
@@ -655,7 +746,7 @@
       "summaryZh": "Trump Holds Off on Major War Escalation Against Iran as Advisers Raise Concerns&nbsp;&nbsp;The New York Times"
     },
     {
-      "id": "foreignpolicy-commentary-4-https://news.google.com/",
+      "id": "foreignpolicy-commentary-5-https://news.google.com/",
       "sourceId": "foreignpolicy",
       "source": "Foreign Policy",
       "sourceSite": "foreignpolicy.com",
@@ -668,7 +759,7 @@
       "summaryZh": "How a U.S. Ground Operation in Iran Could Unfold&nbsp;&nbsp;Foreign Policy"
     },
     {
-      "id": "foreignpolicy-commentary-3-https://news.google.com/",
+      "id": "foreignpolicy-commentary-4-https://news.google.com/",
       "sourceId": "foreignpolicy",
       "source": "Foreign Policy",
       "sourceSite": "foreignpolicy.com",
@@ -707,7 +798,7 @@
       "summaryZh": "Robert A. Pape: Iran and the New Rules of Global Power&nbsp;&nbsp;Foreign Affairs"
     },
     {
-      "id": "foreignpolicy-commentary-5-https://news.google.com/",
+      "id": "foreignpolicy-commentary-6-https://news.google.com/",
       "sourceId": "foreignpolicy",
       "source": "Foreign Policy",
       "sourceSite": "foreignpolicy.com",
@@ -785,7 +876,7 @@
       "summaryZh": "The Iran war is consuming the Trump presidency&nbsp;&nbsp;The Economist"
     },
     {
-      "id": "foreignpolicy-commentary-6-https://news.google.com/",
+      "id": "foreignpolicy-commentary-7-https://news.google.com/",
       "sourceId": "foreignpolicy",
       "source": "Foreign Policy",
       "sourceSite": "foreignpolicy.com",
@@ -796,19 +887,6 @@
       "publishedAt": "Tue, 21 Jul 2026 18:05:04 GMT",
       "titleZh": "Nate Swanson FP Live: The Iran Expert Trump Fired - Foreign Policy",
       "summaryZh": "Nate Swanson FP Live: The Iran Expert Trump Fired&nbsp;&nbsp;Foreign Policy"
-    },
-    {
-      "id": "foreignpolicy-commentary-7-https://news.google.com/",
-      "sourceId": "foreignpolicy",
-      "source": "Foreign Policy",
-      "sourceSite": "foreignpolicy.com",
-      "type": "commentary",
-      "title": "Trump Needs to Defy History to End the Iran War - Foreign Policy",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE81eVhSeUtEZjEwZTBPZ3BZT0haVVBwa2RTbnF1RVh4NEpwaHNWQVNqdlZORXEyYTFNS3c5a0J4dEFjLUhWRVVZX3pwQjFVYnNJNXNPMjdIN3V5SVd1QWh0SHRORzc3Wlg3YnBZcS1Va0xhUQ?oc=5\" target=\"_blank\">Trump Needs to Defy History to End the Iran War</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Policy</font>",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81eVhSeUtEZjEwZTBPZ3BZT0haVVBwa2RTbnF1RVh4NEpwaHNWQVNqdlZORXEyYTFNS3c5a0J4dEFjLUhWRVVZX3pwQjFVYnNJNXNPMjdIN3V5SVd1QWh0SHRORzc3Wlg3YnBZcS1Va0xhUQ?oc=5",
-      "publishedAt": "Tue, 21 Jul 2026 16:54:57 GMT",
-      "titleZh": "Trump Needs to Defy History to End the Iran War - Foreign Policy",
-      "summaryZh": "Trump Needs to Defy History to End the Iran War&nbsp;&nbsp;Foreign Policy"
     },
     {
       "id": "foreignaffairs-commentary-2-https://news.google.com/",
@@ -887,6 +965,19 @@
       "publishedAt": "Wed, 01 Jul 2026 07:00:00 GMT",
       "titleZh": "How to Save the U.S.-Israeli Alliance: If Iran Gets a New Deal With America, So Must Israel - Foreign Affairs",
       "summaryZh": "How to Save the U.S.-Israeli Alliance: If Iran Gets a New Deal With America, So Must Israel&nbsp;&nbsp;Foreign Affairs"
+    },
+    {
+      "id": "foreignpolicy-commentary-3-https://news.google.com/",
+      "sourceId": "foreignpolicy",
+      "source": "Foreign Policy",
+      "sourceSite": "foreignpolicy.com",
+      "type": "commentary",
+      "title": "Iran Is a Bigger Defeat Than Vietnam - Foreign Policy",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE12cF9kWkNBNzRwZEpWTi1CaFIwM29lRDJPN002QkkyU2YwbVMzU0pIRnpaMGtnVjk2Tmkwd3k5NXZKQS1YWW9wSUdQeDZEc0h0WWFYS1lGUzVaN1pVT1JJejFwVlc5eWNRdTRtWldpU1FibG9Y?oc=5\" target=\"_blank\">Iran Is a Bigger Defeat Than Vietnam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Policy</font>",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12cF9kWkNBNzRwZEpWTi1CaFIwM29lRDJPN002QkkyU2YwbVMzU0pIRnpaMGtnVjk2Tmkwd3k5NXZKQS1YWW9wSUdQeDZEc0h0WWFYS1lGUzVaN1pVT1JJejFwVlc5eWNRdTRtWldpU1FibG9Y?oc=5",
+      "publishedAt": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "titleZh": "Iran Is a Bigger Defeat Than Vietnam - Foreign Policy",
+      "summaryZh": "Iran Is a Bigger Defeat Than Vietnam&nbsp;&nbsp;Foreign Policy"
     }
   ]
 }
