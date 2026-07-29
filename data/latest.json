@@ -1,8 +1,99 @@
 {
-  "generatedAt": "2026-07-29T16:17:56.148Z",
-  "totalNews": 19,
+  "generatedAt": "2026-07-29T19:08:26.597Z",
+  "totalNews": 20,
   "totalCommentary": 32,
   "timeline": [
+    {
+      "id": "bbc-news-5-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "欧洲股市下跌 爱马仕业绩黯淡叠加伊朗局势引发担忧 - 新浪财经",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxQeWg0VEFrazdUSlVtZ2FGOW5Kb3MweFZpUzk4czlGUC1IUVE4RmU0cVB4SnQyNGozRjNIV0Zoc3NkVW9pS01oNVpIY0VUZ0lYQ0tweGd1MVE3cUJYRnlqeGdIQmV1WTBOTlhxVGlwbGJsd3BLQkluRmVGcjVBV1JoTVktY09UN3RJeXJyTkVNdzJ5UnJQNGRzUy1EOWVRTWF0Vld3cmMtLU1kb19ZV0w1VW1JQmZjTnN1TnIyUlI3WUpOTDhZYjUzek12MVRFWGstRHVVYUVyRVFLVk9iSjBaT3NhbE9fZGhITE1uN2JEdzNmeGlpN2U3dTZ6aUd1S0QxNTUyT2JMRVJfYnBuNXU3UkRjWTBBcXkwNjJXWjdZSDE2cEk?oc=5\" target=\"_blank\">欧洲股市下跌 爱马仕业绩黯淡叠加伊朗局势引发担忧</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQeWg0VEFrazdUSlVtZ2FGOW5Kb3MweFZpUzk4czlGUC1IUVE4RmU0cVB4SnQyNGozRjNIV0Zoc3NkVW9pS01oNVpIY0VUZ0lYQ0tweGd1MVE3cUJYRnlqeGdIQmV1WTBOTlhxVGlwbGJsd3BLQkluRmVGcjVBV1JoTVktY09UN3RJeXJyTkVNdzJ5UnJQNGRzUy1EOWVRTWF0Vld3cmMtLU1kb19ZV0w1VW1JQmZjTnN1TnIyUlI3WUpOTDhZYjUzek12MVRFWGstRHVVYUVyRVFLVk9iSjBaT3NhbE9fZGhITE1uN2JEdzNmeGlpN2U3dTZ6aUd1S0QxNTUyT2JMRVJfYnBuNXU3UkRjWTBBcXkwNjJXWjdZSDE2cEk?oc=5",
+      "publishedAt": "Wed, 29 Jul 2026 19:03:00 GMT",
+      "titleZh": "欧洲股市下跌 爱马仕业绩黯淡叠加伊朗局势引发担忧 - 新浪财经",
+      "summaryZh": "欧洲股市下跌 爱马仕业绩黯淡叠加伊朗局势引发担忧&nbsp;&nbsp;新浪财经"
+    },
+    {
+      "id": "bbc-news-0-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4QnM4bnVUQUNKa2J3QnhtT0lDeVZFUFRibWNxZTZfYktmNy1ZSzZZZEJPWnRTbUxfV2g1Z1BNSmdfU20xM1pKUzZpaXR0Q2dQUnhxbk5qcV95QQ?oc=5\" target=\"_blank\">Saudi Arabia's dilemma as it tries to stay out of US-Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4QnM4bnVUQUNKa2J3QnhtT0lDeVZFUFRibWNxZTZfYktmNy1ZSzZZZEJPWnRTbUxfV2g1Z1BNSmdfU20xM1pKUzZpaXR0Q2dQUnhxbk5qcV95QQ?oc=5",
+      "publishedAt": "Wed, 29 Jul 2026 18:41:31 GMT",
+      "titleZh": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war - BBC",
+      "summaryZh": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war&nbsp;&nbsp;BBC"
+    },
+    {
+      "id": "aljazeera-news-1-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "Iran pushes back against US as regional attacks heat up - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPVUF2bnZ4SlNDMXk1UXBmZElvSlRsZ3BYcjc5ZG1FbE0yZS01eEZLcmFibGpGbTBLWWhuZllhaThfbGh0YXZKQzF0WUl2akdDaUVXNmU1QnpfVVBmNG1JVl9UTndVLWp0ZUxTOGVCZlg3VjZEU2JrNnJFdkdmcEMxX0xmUEtoLVN0MGpqUjBuX193cnJycVFhb0lNay3SAaIBQVVfeXFMTjhhRVlqVDl6UjAteENodEU4cjdPQkxFenZycWRyaWVxTmI0ZEhfUm1ycHhfYXBDTkxObnNpcGcyVEE5VWZxYzhBdTdLNDdzUkV4WjlON3B1SlhxX0U3SlpqMU5PQzhWMEVKdFpsbTR3T1V3Um5wZkZmUFNnY2FiRkdIbGhtcEgzU3hNTFhUTkYyeHVVcmlVd2FxVEprTExqSnBR?oc=5\" target=\"_blank\">Iran pushes back against US as regional attacks heat up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVUF2bnZ4SlNDMXk1UXBmZElvSlRsZ3BYcjc5ZG1FbE0yZS01eEZLcmFibGpGbTBLWWhuZllhaThfbGh0YXZKQzF0WUl2akdDaUVXNmU1QnpfVVBmNG1JVl9UTndVLWp0ZUxTOGVCZlg3VjZEU2JrNnJFdkdmcEMxX0xmUEtoLVN0MGpqUjBuX193cnJycVFhb0lNay3SAaIBQVVfeXFMTjhhRVlqVDl6UjAteENodEU4cjdPQkxFenZycWRyaWVxTmI0ZEhfUm1ycHhfYXBDTkxObnNpcGcyVEE5VWZxYzhBdTdLNDdzUkV4WjlON3B1SlhxX0U3SlpqMU5PQzhWMEVKdFpsbTR3T1V3Um5wZkZmUFNnY2FiRkdIbGhtcEgzU3hNTFhUTkYyeHVVcmlVd2FxVEprTExqSnBR?oc=5",
+      "publishedAt": "Wed, 29 Jul 2026 17:48:31 GMT",
+      "titleZh": "Iran pushes back against US as regional attacks heat up - Al Jazeera",
+      "summaryZh": "Iran pushes back against US as regional attacks heat up&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "aljazeera-news-4-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "Iran attacks US forces in Jordan as Trump meets Netanyahu - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPMjBFSGpuMjV3TGl0TUtZdlRCWERoc29wQU03XzJYbC1LWktVZks2ZGdpMGpUM1JFbmJLa05yQXU5QTE3WU80b1dTU18wUWdldFE4dGRTSlItYWlnNVB0TGpEa2ZGTWVCVGlJbWI4ZjVLVU5hVUtrX09OOEpacFczU1kzaDUwMThxcUR4eUZLenZaanJDODlFT2F1bk9rNGxyemtjddIBqgFBVV95cUxQOEkyVFAxd2oycDhpYVM1ZDdUYmVSaTVWMTFIQ3RZb0NZWXBmTWtFRWg2cmJrX01ISVVZSjloX3lvV2g0a3pXZTFQTDU3Z0wyTmNEOFJNd3ZiSWMtNTE1anJlMXU0SHJ1blctOFkyaFVvYVJ6UVJhQldxZG1ESzZFWllEYmFLbkRYbHg3UE9rWmdvcGY1c0s4ZHdlRERIdHUweldFM0NFd0VMZw?oc=5\" target=\"_blank\">Iran attacks US forces in Jordan as Trump meets Netanyahu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMjBFSGpuMjV3TGl0TUtZdlRCWERoc29wQU03XzJYbC1LWktVZks2ZGdpMGpUM1JFbmJLa05yQXU5QTE3WU80b1dTU18wUWdldFE4dGRTSlItYWlnNVB0TGpEa2ZGTWVCVGlJbWI4ZjVLVU5hVUtrX09OOEpacFczU1kzaDUwMThxcUR4eUZLenZaanJDODlFT2F1bk9rNGxyemtjddIBqgFBVV95cUxQOEkyVFAxd2oycDhpYVM1ZDdUYmVSaTVWMTFIQ3RZb0NZWXBmTWtFRWg2cmJrX01ISVVZSjloX3lvV2g0a3pXZTFQTDU3Z0wyTmNEOFJNd3ZiSWMtNTE1anJlMXU0SHJ1blctOFkyaFVvYVJ6UVJhQldxZG1ESzZFWllEYmFLbkRYbHg3UE9rWmdvcGY1c0s4ZHdlRERIdHUweldFM0NFd0VMZw?oc=5",
+      "publishedAt": "Wed, 29 Jul 2026 17:46:31 GMT",
+      "titleZh": "Iran attacks US forces in Jordan as Trump meets Netanyahu - Al Jazeera",
+      "summaryZh": "Iran attacks US forces in Jordan as Trump meets Netanyahu&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "aljazeera-news-0-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "Iran war live: Pezeshkian urges Iranians to ‘stand firm’ against ‘the enemy - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTjRULWE0Y1djcEVXdDU2MmYzd2lPUVVhdGJCRU91aGc5QzFzdXZGZ0hLU1ljWXZqQmdoWDdJMWRYeW9LOG5NRERCQTBpT1dFNkxybmM5ZmlZelNBMzF1OW9mdmlET3p3MHFpYnlOMXRBSXItTDk2bWJRd1hmS3h0MHFVZWpCeGFPY2N4MDh2V0ZuenpTd0VRV3BzM3M2MmE3b19mdkZPckNOYlBITXNMQjdCV1JKX0FH0gG-AUFVX3lxTFBESHMxM0xtczZIM3RBNGNWUWpjanhzQjlNb1ljN0Y2ZXZQOG9zN1ViRk8yTGh2UHFlMTluaUJPRHJnbUNINi16WVNlRW1sVXhaVExJRUt6Ql9ONXU3SWluSUMzVW1EWjQ1aWVMU3pDQlR0Q0NwVEhOcVlWbkFTdEJpd09wMzBDVHVqRE5iV2JEUFVXSnd2WjRQVnVUa2NTX2N0VGpPQUxtTDRtb1AxTWR6MGNtRXlKRDBFeWpWS3c?oc=5\" target=\"_blank\">Iran war live: Pezeshkian urges Iranians to ‘stand firm’ against ‘the enemy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTjRULWE0Y1djcEVXdDU2MmYzd2lPUVVhdGJCRU91aGc5QzFzdXZGZ0hLU1ljWXZqQmdoWDdJMWRYeW9LOG5NRERCQTBpT1dFNkxybmM5ZmlZelNBMzF1OW9mdmlET3p3MHFpYnlOMXRBSXItTDk2bWJRd1hmS3h0MHFVZWpCeGFPY2N4MDh2V0ZuenpTd0VRV3BzM3M2MmE3b19mdkZPckNOYlBITXNMQjdCV1JKX0FH0gG-AUFVX3lxTFBESHMxM0xtczZIM3RBNGNWUWpjanhzQjlNb1ljN0Y2ZXZQOG9zN1ViRk8yTGh2UHFlMTluaUJPRHJnbUNINi16WVNlRW1sVXhaVExJRUt6Ql9ONXU3SWluSUMzVW1EWjQ1aWVMU3pDQlR0Q0NwVEhOcVlWbkFTdEJpd09wMzBDVHVqRE5iV2JEUFVXSnd2WjRQVnVUa2NTX2N0VGpPQUxtTDRtb1AxTWR6MGNtRXlKRDBFeWpWS3c?oc=5",
+      "publishedAt": "Wed, 29 Jul 2026 17:31:21 GMT",
+      "titleZh": "Iran war live: Pezeshkian urges Iranians to ‘stand firm’ against ‘the enemy - Al Jazeera",
+      "summaryZh": "Iran war live: Pezeshkian urges Iranians to ‘stand firm’ against ‘the enemy&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "aljazeera-news-9-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "Fuel prices soar on back of Iran war, leaving Yemeni labourers with no work - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBzQ2o4eS1sQ212V2hqNEh6VXl0R25xSlUza2lIa0RiR3pCbVBvVnpXYXhLR2lIUEp0T3lwZ19wUnZFZ2hOV2xTdkxPUXhwYi1WMnB0RkE1WEZYWlVMejRkcnJLTmdySk9xRTVEbmNWamQwYXY1MDQyVNIBfkFVX3lxTE1aamlPTHBIM05FMDRuUzI5QjlPOFZzR3VTTjZ4N2I1R3Z5bDdDTWozaWUwVkJhcTNKazNkZlRFelJYR183a0FtSmd6eXEwOWtmLTVkdVBmRHNVUHBhejdWbEh2LXF1dUlnS2xSR0s2RW0yNklBRGlEUkhBb2xQUQ?oc=5\" target=\"_blank\">Fuel prices soar on back of Iran war, leaving Yemeni labourers with no work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzQ2o4eS1sQ212V2hqNEh6VXl0R25xSlUza2lIa0RiR3pCbVBvVnpXYXhLR2lIUEp0T3lwZ19wUnZFZ2hOV2xTdkxPUXhwYi1WMnB0RkE1WEZYWlVMejRkcnJLTmdySk9xRTVEbmNWamQwYXY1MDQyVNIBfkFVX3lxTE1aamlPTHBIM05FMDRuUzI5QjlPOFZzR3VTTjZ4N2I1R3Z5bDdDTWozaWUwVkJhcTNKazNkZlRFelJYR183a0FtSmd6eXEwOWtmLTVkdVBmRHNVUHBhejdWbEh2LXF1dUlnS2xSR0s2RW0yNklBRGlEUkhBb2xQUQ?oc=5",
+      "publishedAt": "Wed, 29 Jul 2026 17:26:15 GMT",
+      "titleZh": "Fuel prices soar on back of Iran war, leaving Yemeni labourers with no work - Al Jazeera",
+      "summaryZh": "Fuel prices soar on back of Iran war, leaving Yemeni labourers with no work&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "aljazeera-news-2-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "Trump says US to deliver ‘beating’ to Iran after bases again targeted - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPSnlRMWFnaUtJM2VGRW9YeVVua0xwY1RTR2FrcnFvN2p4LVZZWDNLS0JzbFRqQUhSc19aQ29KSFJ1TmhEUzE3SGwzMVRCcmFITFFUa3BNNFNSX2tNVk9uWVdWSDBxNGpUS2F5LVhrZGEyVzJueG9IMmFnV09WbDFTdUZVQXA3VnhsQ1J4aERqcG4xY0dQVGhZLVJwNzJuT1FvaGY1OEh1Yzk3M3Nz0gGyAUFVX3lxTE9RWG1yaUV5V1BySHl1ay1mcmQ5Qm5EWkxicHREVFc2N1A4QVB3ZU9uaEpBYWpXZk1iLW1hVjdTVE5JVF9KZThrczNTQjRENlFJY200NXdiLXc5UWlVTXZZTHFvRGlyOHVwM1A2YzZ2YnVaSHhKMmprQ0tjUWVFTTlCbXhiR0dKemhhdHlDTTdNcWJ6dENRNVJwLTVMdk55UzZ4V3RISjNORi1zX05CZnNmMFE?oc=5\" target=\"_blank\">Trump says US to deliver ‘beating’ to Iran after bases again targeted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSnlRMWFnaUtJM2VGRW9YeVVua0xwY1RTR2FrcnFvN2p4LVZZWDNLS0JzbFRqQUhSc19aQ29KSFJ1TmhEUzE3SGwzMVRCcmFITFFUa3BNNFNSX2tNVk9uWVdWSDBxNGpUS2F5LVhrZGEyVzJueG9IMmFnV09WbDFTdUZVQXA3VnhsQ1J4aERqcG4xY0dQVGhZLVJwNzJuT1FvaGY1OEh1Yzk3M3Nz0gGyAUFVX3lxTE9RWG1yaUV5V1BySHl1ay1mcmQ5Qm5EWkxicHREVFc2N1A4QVB3ZU9uaEpBYWpXZk1iLW1hVjdTVE5JVF9KZThrczNTQjRENlFJY200NXdiLXc5UWlVTXZZTHFvRGlyOHVwM1A2YzZ2YnVaSHhKMmprQ0tjUWVFTTlCbXhiR0dKemhhdHlDTTdNcWJ6dENRNVJwLTVMdk55UzZ4V3RISjNORi1zX05CZnNmMFE?oc=5",
+      "publishedAt": "Wed, 29 Jul 2026 15:56:41 GMT",
+      "titleZh": "Trump says US to deliver ‘beating’ to Iran after bases again targeted - Al Jazeera",
+      "summaryZh": "Trump says US to deliver ‘beating’ to Iran after bases again targeted&nbsp;&nbsp;Al Jazeera"
+    },
     {
       "id": "aljazeera-news-3-https://news.google.com/",
       "sourceId": "aljazeera",
@@ -12,12 +103,12 @@
       "title": "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading? - Al Jazeera",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSVV1b2V2VWVhQk1UYWVreXhnOWJnQ2cyTGc3dUtwRWlJZ3cwQVdlVTRnMmhOV0gyTFJRcHdzUWJkMkQ3TW5uTHJhRzZPaERfMDZ5Z2c3SnY4TndEMFg1LVR0QkdpbnVLUWI4ZGxaOUFxOEpSSWxkbllYOHBUYlY1YlhRcW05TE91d1ZKQmhGalZ5MUp6Ry0xX3F6RXU3dzE2TkdhV2dUNVnSAa4BQVVfeXFMT2RzYlVEN3prcnBYaHQ3cFBrSTZlZGdmdnZGSFdCcmhvWXBvQ1FYVGE3dVRTM2h4RHFvQUlFeEEwWnR1S1gzYk1xWW1QMXlWM1c0dFRlT280RDNydFVoQTJZdmRsMFQzeGJmdnVJTmxlSUlCNWt0anVMbFpPT2lOOTlXOFZVZGM3N25ndUZLUVZjZ3o2V1pPbE1WQ1M4eWlLTkluM1ZqMldVSFVETTlB?oc=5\" target=\"_blank\">Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSVV1b2V2VWVhQk1UYWVreXhnOWJnQ2cyTGc3dUtwRWlJZ3cwQVdlVTRnMmhOV0gyTFJRcHdzUWJkMkQ3TW5uTHJhRzZPaERfMDZ5Z2c3SnY4TndEMFg1LVR0QkdpbnVLUWI4ZGxaOUFxOEpSSWxkbllYOHBUYlY1YlhRcW05TE91d1ZKQmhGalZ5MUp6Ry0xX3F6RXU3dzE2TkdhV2dUNVnSAa4BQVVfeXFMT2RzYlVEN3prcnBYaHQ3cFBrSTZlZGdmdnZGSFdCcmhvWXBvQ1FYVGE3dVRTM2h4RHFvQUlFeEEwWnR1S1gzYk1xWW1QMXlWM1c0dFRlT280RDNydFVoQTJZdmRsMFQzeGJmdnVJTmxlSUlCNWt0anVMbFpPT2lOOTlXOFZVZGM3N25ndUZLUVZjZ3o2V1pPbE1WQ1M4eWlLTkluM1ZqMldVSFVETTlB?oc=5",
-      "publishedAt": "Wed, 29 Jul 2026 14:48:45 GMT",
+      "publishedAt": "Wed, 29 Jul 2026 14:52:58 GMT",
       "titleZh": "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading? - Al Jazeera",
       "summaryZh": "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-2-https://news.google.com/",
+      "id": "aljazeera-news-8-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -25,25 +116,12 @@
       "title": "US and Israeli leaders expected ‘swift outcome’ in Iran - Al Jazeera",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPRm9MWDdfcHhqU2hXdV9waHpvRHpaOEFXTmY0QjFOODFnMVBjalRHdUg3VVZNZ0NnenBoVUw4SzE3ekZzaUw2M1llQ1dpbGlIWXREVl90cHY3ZTlOS215WktoVXBxemZfZmZNbmppYllsQnMyNm9BOWV2QVpLX1dSWkU2NUEtd3dWRjlHS2VqTkVsX0JYQWJzTHVzekRHMjM5V3BmS0JHTdIBrAFBVV95cUxPMzFGY3RGRnNLaUZXWVRvZUtBVWtRMWx5aXV5U2IwTVdLQk1aUW5CTTZmWlRoZHhacE05cjU0SnhGbWpYYlVSNXlPZkE3WjZ1Q3I4Q29OZzZ5SDNuMERjWWlVd29zWnJKX0lvZkw1cGQ3SlgxV3NxXzhGYlNlNmlFRFlEVFBmRm5NRHZVdGctV2tnNGdIM2s5VzZZRk42MEY5R282R2thTHpIbXAy?oc=5\" target=\"_blank\">US and Israeli leaders expected ‘swift outcome’ in Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRm9MWDdfcHhqU2hXdV9waHpvRHpaOEFXTmY0QjFOODFnMVBjalRHdUg3VVZNZ0NnenBoVUw4SzE3ekZzaUw2M1llQ1dpbGlIWXREVl90cHY3ZTlOS215WktoVXBxemZfZmZNbmppYllsQnMyNm9BOWV2QVpLX1dSWkU2NUEtd3dWRjlHS2VqTkVsX0JYQWJzTHVzekRHMjM5V3BmS0JHTdIBrAFBVV95cUxPMzFGY3RGRnNLaUZXWVRvZUtBVWtRMWx5aXV5U2IwTVdLQk1aUW5CTTZmWlRoZHhacE05cjU0SnhGbWpYYlVSNXlPZkE3WjZ1Q3I4Q29OZzZ5SDNuMERjWWlVd29zWnJKX0lvZkw1cGQ3SlgxV3NxXzhGYlNlNmlFRFlEVFBmRm5NRHZVdGctV2tnNGdIM2s5VzZZRk42MEY5R282R2thTHpIbXAy?oc=5",
-      "publishedAt": "Wed, 29 Jul 2026 14:41:49 GMT",
+      "publishedAt": "Wed, 29 Jul 2026 14:47:28 GMT",
       "titleZh": "US and Israeli leaders expected ‘swift outcome’ in Iran - Al Jazeera",
       "summaryZh": "US and Israeli leaders expected ‘swift outcome’ in Iran&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-6-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "Trump vows to hit Iran hard as he meets with Netanyahu - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPMjBFSGpuMjV3TGl0TUtZdlRCWERoc29wQU03XzJYbC1LWktVZks2ZGdpMGpUM1JFbmJLa05yQXU5QTE3WU80b1dTU18wUWdldFE4dGRTSlItYWlnNVB0TGpEa2ZGTWVCVGlJbWI4ZjVLVU5hVUtrX09OOEpacFczU1kzaDUwMThxcUR4eUZLenZaanJDODlFT2F1bk9rNGxyemtjddIBqgFBVV95cUxQOEkyVFAxd2oycDhpYVM1ZDdUYmVSaTVWMTFIQ3RZb0NZWXBmTWtFRWg2cmJrX01ISVVZSjloX3lvV2g0a3pXZTFQTDU3Z0wyTmNEOFJNd3ZiSWMtNTE1anJlMXU0SHJ1blctOFkyaFVvYVJ6UVJhQldxZG1ESzZFWllEYmFLbkRYbHg3UE9rWmdvcGY1c0s4ZHdlRERIdHUweldFM0NFd0VMZw?oc=5\" target=\"_blank\">Trump vows to hit Iran hard as he meets with Netanyahu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMjBFSGpuMjV3TGl0TUtZdlRCWERoc29wQU03XzJYbC1LWktVZks2ZGdpMGpUM1JFbmJLa05yQXU5QTE3WU80b1dTU18wUWdldFE4dGRTSlItYWlnNVB0TGpEa2ZGTWVCVGlJbWI4ZjVLVU5hVUtrX09OOEpacFczU1kzaDUwMThxcUR4eUZLenZaanJDODlFT2F1bk9rNGxyemtjddIBqgFBVV95cUxQOEkyVFAxd2oycDhpYVM1ZDdUYmVSaTVWMTFIQ3RZb0NZWXBmTWtFRWg2cmJrX01ISVVZSjloX3lvV2g0a3pXZTFQTDU3Z0wyTmNEOFJNd3ZiSWMtNTE1anJlMXU0SHJ1blctOFkyaFVvYVJ6UVJhQldxZG1ESzZFWllEYmFLbkRYbHg3UE9rWmdvcGY1c0s4ZHdlRERIdHUweldFM0NFd0VMZw?oc=5",
-      "publishedAt": "Wed, 29 Jul 2026 14:32:54 GMT",
-      "titleZh": "Trump vows to hit Iran hard as he meets with Netanyahu - Al Jazeera",
-      "summaryZh": "Trump vows to hit Iran hard as he meets with Netanyahu&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "bbc-news-0-https://news.google.com/",
+      "id": "bbc-news-1-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -56,20 +134,7 @@
       "summaryZh": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq&nbsp;&nbsp;BBC"
     },
     {
-      "id": "aljazeera-news-0-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "Iran war live: Trump vows strikes after Iran attacks US forces in Jordan - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTjRULWE0Y1djcEVXdDU2MmYzd2lPUVVhdGJCRU91aGc5QzFzdXZGZ0hLU1ljWXZqQmdoWDdJMWRYeW9LOG5NRERCQTBpT1dFNkxybmM5ZmlZelNBMzF1OW9mdmlET3p3MHFpYnlOMXRBSXItTDk2bWJRd1hmS3h0MHFVZWpCeGFPY2N4MDh2V0ZuenpTd0VRV3BzM3M2MmE3b19mdkZPckNOYlBITXNMQjdCV1JKX0FH0gG-AUFVX3lxTFBESHMxM0xtczZIM3RBNGNWUWpjanhzQjlNb1ljN0Y2ZXZQOG9zN1ViRk8yTGh2UHFlMTluaUJPRHJnbUNINi16WVNlRW1sVXhaVExJRUt6Ql9ONXU3SWluSUMzVW1EWjQ1aWVMU3pDQlR0Q0NwVEhOcVlWbkFTdEJpd09wMzBDVHVqRE5iV2JEUFVXSnd2WjRQVnVUa2NTX2N0VGpPQUxtTDRtb1AxTWR6MGNtRXlKRDBFeWpWS3c?oc=5\" target=\"_blank\">Iran war live: Trump vows strikes after Iran attacks US forces in Jordan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTjRULWE0Y1djcEVXdDU2MmYzd2lPUVVhdGJCRU91aGc5QzFzdXZGZ0hLU1ljWXZqQmdoWDdJMWRYeW9LOG5NRERCQTBpT1dFNkxybmM5ZmlZelNBMzF1OW9mdmlET3p3MHFpYnlOMXRBSXItTDk2bWJRd1hmS3h0MHFVZWpCeGFPY2N4MDh2V0ZuenpTd0VRV3BzM3M2MmE3b19mdkZPckNOYlBITXNMQjdCV1JKX0FH0gG-AUFVX3lxTFBESHMxM0xtczZIM3RBNGNWUWpjanhzQjlNb1ljN0Y2ZXZQOG9zN1ViRk8yTGh2UHFlMTluaUJPRHJnbUNINi16WVNlRW1sVXhaVExJRUt6Ql9ONXU3SWluSUMzVW1EWjQ1aWVMU3pDQlR0Q0NwVEhOcVlWbkFTdEJpd09wMzBDVHVqRE5iV2JEUFVXSnd2WjRQVnVUa2NTX2N0VGpPQUxtTDRtb1AxTWR6MGNtRXlKRDBFeWpWS3c?oc=5",
-      "publishedAt": "Wed, 29 Jul 2026 13:40:17 GMT",
-      "titleZh": "Iran war live: Trump vows strikes after Iran attacks US forces in Jordan - Al Jazeera",
-      "summaryZh": "Iran war live: Trump vows strikes after Iran attacks US forces in Jordan&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "bbc-news-1-https://news.google.com/",
+      "id": "bbc-news-2-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -82,7 +147,7 @@
       "summaryZh": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on&nbsp;&nbsp;BBC"
     },
     {
-      "id": "aljazeera-news-4-https://news.google.com/",
+      "id": "aljazeera-news-5-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -93,19 +158,6 @@
       "publishedAt": "Wed, 29 Jul 2026 08:36:02 GMT",
       "titleZh": "Iran and Oman swap proposals to manage Strait of Hormuz: What we know - Al Jazeera",
       "summaryZh": "Iran and Oman swap proposals to manage Strait of Hormuz: What we know&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "reuters-news-1-https://news.google.com/",
-      "sourceId": "reuters",
-      "source": "Reuters",
-      "sourceSite": "reuters.com",
-      "type": "news",
-      "title": "US, Saudi hit Iran's allies in Iraq; Trump vows to punish Iran for firing at troops - Reuters",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNcFJoOXIwZmxCNHBjd05nc3dlYjNXXzd1NzdyQldTOVQ4S3NjZnNDRWdqdG1WUFRUS2tRSkJJTEhQYjJWa1FraklySUtoamVybzBfbUR4aUItanFrRG1hMDZJTzlSQ3lrS25SLUo4QzR0RVQxdmFSVUFaUFpHYWV0cmdnVURNVHJ1QzBzM0pIRTMwUmVFZmxwVVpyTklTallXU2ZLOGl3TDJ1U3VnRzd3bmZnQjVfcUw2a1pWSGdFOTNlUXFa?oc=5\" target=\"_blank\">US, Saudi hit Iran's allies in Iraq; Trump vows to punish Iran for firing at troops</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcFJoOXIwZmxCNHBjd05nc3dlYjNXXzd1NzdyQldTOVQ4S3NjZnNDRWdqdG1WUFRUS2tRSkJJTEhQYjJWa1FraklySUtoamVybzBfbUR4aUItanFrRG1hMDZJTzlSQ3lrS25SLUo4QzR0RVQxdmFSVUFaUFpHYWV0cmdnVURNVHJ1QzBzM0pIRTMwUmVFZmxwVVpyTklTallXU2ZLOGl3TDJ1U3VnRzd3bmZnQjVfcUw2a1pWSGdFOTNlUXFa?oc=5",
-      "publishedAt": "Wed, 29 Jul 2026 03:29:00 GMT",
-      "titleZh": "US, Saudi hit Iran's allies in Iraq; Trump vows to punish Iran for firing at troops - Reuters",
-      "summaryZh": "US, Saudi hit Iran's allies in Iraq; Trump vows to punish Iran for firing at troops&nbsp;&nbsp;Reuters"
     },
     {
       "id": "reuters-news-0-https://news.google.com/",
@@ -121,7 +173,7 @@
       "summaryZh": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "reuters-news-2-https://news.google.com/",
+      "id": "reuters-news-1-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -134,7 +186,7 @@
       "summaryZh": "US military says US, Saudi forces struck sites of Iran-backed groups in Iraq&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "aljazeera-news-1-https://news.google.com/",
+      "id": "aljazeera-news-6-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -147,33 +199,7 @@
       "summaryZh": "Iran war updates: Tehran vows Hormuz control amid Trump-Netanyahu talks&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-9-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPSmtqZndTSm9NbndUSjFPMU5fOFJ0MlAwaEVnaFhBeUJVQS1ORHlHN01fZ2d1d2E5V0gzeVE5bm9vZXExV3ZNejhOWFN3dHU4QzRKa3dZM2JRU0R3eXRwYlc2M1lId245eG9DNGVvS1dWN3RVVVZxZzhOQzhWZUtmT3VHV0Jna1lMcHQ5eGJ4OG1IaV9tNEN2d2VKMTQ0NUxiYVpNaE1YXzV6MEZZbmfSAbMBQVVfeXFMTXdUNGFVUlpKSC1uR1JobmRHaTlXSEpzZXlGZ0NtbWJXQUM5TmNLdFpVUEtWMTMzVUw0LVNvdy1hMnZzaE9FaU1JUjBjSVFnMEFtNlBCU1E1NUh0cDlGdkRySGhNZ0JrMEViYmhjQl9zZFVqdlF6dENOX0Z4d1N5cTdKcDBnTzZqNkEwamR4MUdHZTZNQ0cxSmhCM1ZaOHBaZ0htSExEM1NZQkd3TG1QVm9CUkU?oc=5\" target=\"_blank\">Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSmtqZndTSm9NbndUSjFPMU5fOFJ0MlAwaEVnaFhBeUJVQS1ORHlHN01fZ2d1d2E5V0gzeVE5bm9vZXExV3ZNejhOWFN3dHU4QzRKa3dZM2JRU0R3eXRwYlc2M1lId245eG9DNGVvS1dWN3RVVVZxZzhOQzhWZUtmT3VHV0Jna1lMcHQ5eGJ4OG1IaV9tNEN2d2VKMTQ0NUxiYVpNaE1YXzV6MEZZbmfSAbMBQVVfeXFMTXdUNGFVUlpKSC1uR1JobmRHaTlXSEpzZXlGZ0NtbWJXQUM5TmNLdFpVUEtWMTMzVUw0LVNvdy1hMnZzaE9FaU1JUjBjSVFnMEFtNlBCU1E1NUh0cDlGdkRySGhNZ0JrMEViYmhjQl9zZFVqdlF6dENOX0Z4d1N5cTdKcDBnTzZqNkEwamR4MUdHZTZNQ0cxSmhCM1ZaOHBaZ0htSExEM1NZQkd3TG1QVm9CUkU?oc=5",
-      "publishedAt": "Tue, 28 Jul 2026 20:42:02 GMT",
-      "titleZh": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack - Al Jazeera",
-      "summaryZh": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "aljazeera-news-8-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "Lindsey Graham ‘almost cried’ tears of joy over war on Iran, footage shows - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQdzlYblZmc3VEYTdUN29pNkhDYUs1T2pqc2FIVE5Xb3gwNnlOS2dpWVUwNXpnNGxXck1NNk9BcFFaSzEycVNsa1V4OXVDeFo2dDNpbG5yandJMW1VRHpBRjZfOEQyWHpYVzZhTjEtdEswWEo1SG9YcjRfQUg2N2psUGZhbUUtUEhFMzFQOWhSVW9xdUhXaHdDd0FoNVVaQkJLWUlobmk4aTFDWXRWZ0gzTGxn0gG3AUFVX3lxTE1iZlEzcE4tRHBXcDR6TWp4SUVnek9yYmZFQ1J2Q1hzQWFuWC1zMkQ2aG5BTDdiUkVUbXduMFBZMW5GbHlzWnk3aDcxdnVsanBJU2RiUWlSSlZNRE5JcXJ2ZGtUWEZZRW1EaXJpZjI2Nm42cTRZLTduVGZxMDB1RmYtWTliVklXQ3pUbFVJaG9KckFwQVdpX050clhBSnNuM1duRkNWdHhCU3FiNUZETkVKbml4bmpoOA?oc=5\" target=\"_blank\">Lindsey Graham ‘almost cried’ tears of joy over war on Iran, footage shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdzlYblZmc3VEYTdUN29pNkhDYUs1T2pqc2FIVE5Xb3gwNnlOS2dpWVUwNXpnNGxXck1NNk9BcFFaSzEycVNsa1V4OXVDeFo2dDNpbG5yandJMW1VRHpBRjZfOEQyWHpYVzZhTjEtdEswWEo1SG9YcjRfQUg2N2psUGZhbUUtUEhFMzFQOWhSVW9xdUhXaHdDd0FoNVVaQkJLWUlobmk4aTFDWXRWZ0gzTGxn0gG3AUFVX3lxTE1iZlEzcE4tRHBXcDR6TWp4SUVnek9yYmZFQ1J2Q1hzQWFuWC1zMkQ2aG5BTDdiUkVUbXduMFBZMW5GbHlzWnk3aDcxdnVsanBJU2RiUWlSSlZNRE5JcXJ2ZGtUWEZZRW1EaXJpZjI2Nm42cTRZLTduVGZxMDB1RmYtWTliVklXQ3pUbFVJaG9KckFwQVdpX050clhBSnNuM1duRkNWdHhCU3FiNUZETkVKbml4bmpoOA?oc=5",
-      "publishedAt": "Tue, 28 Jul 2026 18:05:02 GMT",
-      "titleZh": "Lindsey Graham ‘almost cried’ tears of joy over war on Iran, footage shows - Al Jazeera",
-      "summaryZh": "Lindsey Graham ‘almost cried’ tears of joy over war on Iran, footage shows&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "aljazeera-news-5-https://news.google.com/",
+      "id": "aljazeera-news-7-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -186,33 +212,20 @@
       "summaryZh": "How has Iran’s economy survived despite US war pressure&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-7-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "Iran war updates: Trump says US in talks with Iran, hopes for ‘good things’ - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNdENxTVZ4dF90R0xReVUzUlh1dG1JeEd5ZGdPRFRlTlltYjZWcWhQcWlmcDhGMzhrTlgxVThFSk1xR3BMOU1lU1AwSGJZV1Q4eXNRcWhWQVNzelEtSTVTRlhZWXYyOEFrU25NdFdpN2duQmh6YUcwWklXTllJZnduMzllUndPMjdpcWM5cG15NjdqZ1ZlZTB3a3NxZjJIeGJMMGR0UjhaWHRzeUsyTVRDUnJfQVc3UFdYWWl2S9IBwgFBVV95cUxPY0NMOHJKUmVxVG9IU3ZhNjZFd0FLZTBYNWFjdmQxYUFYS3phTE9rRjExVm9ibHY3TTNxZEZMUnc0UnZQeFktbl9YZWlhNjh0SDhISV9OX3JEaW85QVM4blZwYkZuaUNTX0xUVW5MdE5xcEVPYjkyTWJoMkhiNlc2Q3VKUFdDZkpmbVZSRmRoSkNlWU5aN0FVa1JBUnQ5dENFYmJaOERPdUpUQkZWYTl5N1BaWjc5SWtNSFR0NkNNXzR0dw?oc=5\" target=\"_blank\">Iran war updates: Trump says US in talks with Iran, hopes for ‘good things’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdENxTVZ4dF90R0xReVUzUlh1dG1JeEd5ZGdPRFRlTlltYjZWcWhQcWlmcDhGMzhrTlgxVThFSk1xR3BMOU1lU1AwSGJZV1Q4eXNRcWhWQVNzelEtSTVTRlhZWXYyOEFrU25NdFdpN2duQmh6YUcwWklXTllJZnduMzllUndPMjdpcWM5cG15NjdqZ1ZlZTB3a3NxZjJIeGJMMGR0UjhaWHRzeUsyTVRDUnJfQVc3UFdYWWl2S9IBwgFBVV95cUxPY0NMOHJKUmVxVG9IU3ZhNjZFd0FLZTBYNWFjdmQxYUFYS3phTE9rRjExVm9ibHY3TTNxZEZMUnc0UnZQeFktbl9YZWlhNjh0SDhISV9OX3JEaW85QVM4blZwYkZuaUNTX0xUVW5MdE5xcEVPYjkyTWJoMkhiNlc2Q3VKUFdDZkpmbVZSRmRoSkNlWU5aN0FVa1JBUnQ5dENFYmJaOERPdUpUQkZWYTl5N1BaWjc5SWtNSFR0NkNNXzR0dw?oc=5",
-      "publishedAt": "Tue, 28 Jul 2026 00:00:22 GMT",
-      "titleZh": "Iran war updates: Trump says US in talks with Iran, hopes for ‘good things’ - Al Jazeera",
-      "summaryZh": "Iran war updates: Trump says US in talks with Iran, hopes for ‘good things’&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "bbc-news-4-https://news.google.com/",
+      "id": "bbc-news-6-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
       "type": "news",
-      "title": "伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限 - bbc.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mQ3BJTE9ES1ZqQ1dXQ1cyN0hpMTVqeWt2UmJZRHF4VEZOXzVWM3hLdGRkNlhxTkRvaTNjd1dBZUd1VHBMRExfR0ltQWlTU0tpNjFZMDZjUkd4TnliUE9WdEVNSmlXUdIBa0FVX3lxTE5LWDVfd0hjUUVYVkpxcHhBRkpsX05DYVRNbmk1N3FJV05lY1hoZ1o5aDFNaDExV1FHaDQ0VHlsZm5kUVQzc3Z3cTB5WGg2T0Q4MDZUd01NT0lENFlCcEpmQlFka1UyRGREWDVB?oc=5\" target=\"_blank\">伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bbc.com</font>",
+      "title": "伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限 - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mQ3BJTE9ES1ZqQ1dXQ1cyN0hpMTVqeWt2UmJZRHF4VEZOXzVWM3hLdGRkNlhxTkRvaTNjd1dBZUd1VHBMRExfR0ltQWlTU0tpNjFZMDZjUkd4TnliUE9WdEVNSmlXUdIBa0FVX3lxTE5LWDVfd0hjUUVYVkpxcHhBRkpsX05DYVRNbmk1N3FJV05lY1hoZ1o5aDFNaDExV1FHaDQ0VHlsZm5kUVQzc3Z3cTB5WGg2T0Q4MDZUd01NT0lENFlCcEpmQlFka1UyRGREWDVB?oc=5\" target=\"_blank\">伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mQ3BJTE9ES1ZqQ1dXQ1cyN0hpMTVqeWt2UmJZRHF4VEZOXzVWM3hLdGRkNlhxTkRvaTNjd1dBZUd1VHBMRExfR0ltQWlTU0tpNjFZMDZjUkd4TnliUE9WdEVNSmlXUdIBa0FVX3lxTE5LWDVfd0hjUUVYVkpxcHhBRkpsX05DYVRNbmk1N3FJV05lY1hoZ1o5aDFNaDExV1FHaDQ0VHlsZm5kUVQzc3Z3cTB5WGg2T0Q4MDZUd01NT0lENFlCcEpmQlFka1UyRGREWDVB?oc=5",
       "publishedAt": "Tue, 16 Jun 2026 07:00:00 GMT",
-      "titleZh": "伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限 - bbc.com",
-      "summaryZh": "伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限&nbsp;&nbsp;bbc.com"
+      "titleZh": "伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限 - BBC",
+      "summaryZh": "伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-2-https://news.google.com/",
+      "id": "bbc-news-3-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -225,20 +238,20 @@
       "summaryZh": "Bowen: 'Middle East is in turmoil' as Iran and Israel attack each other&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-5-https://news.google.com/",
+      "id": "bbc-news-7-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
       "type": "news",
-      "title": "伊朗战争：特朗普需要结束这场战争，但伊朗不会退让——分析 - bbc.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGdllEbGpScUxQeEthUWtUY1c3MWZrcGIwV3lTYjZ6blFPV1R3OGhtUWwzZmlsS1Y3ejhwVDdTdlJCelNXNElyNm9QV1NVQjMzeHIyWkc3SkVfTUVFS3AwMjNQU0JCQdIBa0FVX3lxTFBjSUkxNzJIWF96dElpM2pZdHR6X3FkU3l6d3BFMWdkRGxOSy1qYUZuWV9NT0F5X2hjQ2QzdEowaXQ1SUcwNjYyRGRWeENtUm9mVERkZ0p2MlNqWmI2UXNrVXgtZmM1UC00V1dF?oc=5\" target=\"_blank\">伊朗战争：特朗普需要结束这场战争，但伊朗不会退让——分析</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bbc.com</font>",
+      "title": "伊朗战争：特朗普需要结束这场战争，但伊朗不会退让——分析 - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGdllEbGpScUxQeEthUWtUY1c3MWZrcGIwV3lTYjZ6blFPV1R3OGhtUWwzZmlsS1Y3ejhwVDdTdlJCelNXNElyNm9QV1NVQjMzeHIyWkc3SkVfTUVFS3AwMjNQU0JCQdIBa0FVX3lxTFBjSUkxNzJIWF96dElpM2pZdHR6X3FkU3l6d3BFMWdkRGxOSy1qYUZuWV9NT0F5X2hjQ2QzdEowaXQ1SUcwNjYyRGRWeENtUm9mVERkZ0p2MlNqWmI2UXNrVXgtZmM1UC00V1dF?oc=5\" target=\"_blank\">伊朗战争：特朗普需要结束这场战争，但伊朗不会退让——分析</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGdllEbGpScUxQeEthUWtUY1c3MWZrcGIwV3lTYjZ6blFPV1R3OGhtUWwzZmlsS1Y3ejhwVDdTdlJCelNXNElyNm9QV1NVQjMzeHIyWkc3SkVfTUVFS3AwMjNQU0JCQdIBa0FVX3lxTFBjSUkxNzJIWF96dElpM2pZdHR6X3FkU3l6d3BFMWdkRGxOSy1qYUZuWV9NT0F5X2hjQ2QzdEowaXQ1SUcwNjYyRGRWeENtUm9mVERkZ0p2MlNqWmI2UXNrVXgtZmM1UC00V1dF?oc=5",
       "publishedAt": "Tue, 02 Jun 2026 07:00:00 GMT",
-      "titleZh": "伊朗战争：特朗普需要结束这场战争，但伊朗不会退让——分析 - bbc.com",
-      "summaryZh": "伊朗战争：特朗普需要结束这场战争，但伊朗不会退让——分析&nbsp;&nbsp;bbc.com"
+      "titleZh": "伊朗战争：特朗普需要结束这场战争，但伊朗不会退让——分析 - BBC",
+      "summaryZh": "伊朗战争：特朗普需要结束这场战争，但伊朗不会退让——分析&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-3-https://news.google.com/",
+      "id": "bbc-news-4-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -257,19 +270,6 @@
       "source": "Reuters",
       "items": [
         {
-          "id": "reuters-news-1-https://news.google.com/",
-          "sourceId": "reuters",
-          "source": "Reuters",
-          "sourceSite": "reuters.com",
-          "type": "news",
-          "title": "US, Saudi hit Iran's allies in Iraq; Trump vows to punish Iran for firing at troops - Reuters",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNcFJoOXIwZmxCNHBjd05nc3dlYjNXXzd1NzdyQldTOVQ4S3NjZnNDRWdqdG1WUFRUS2tRSkJJTEhQYjJWa1FraklySUtoamVybzBfbUR4aUItanFrRG1hMDZJTzlSQ3lrS25SLUo4QzR0RVQxdmFSVUFaUFpHYWV0cmdnVURNVHJ1QzBzM0pIRTMwUmVFZmxwVVpyTklTallXU2ZLOGl3TDJ1U3VnRzd3bmZnQjVfcUw2a1pWSGdFOTNlUXFa?oc=5\" target=\"_blank\">US, Saudi hit Iran's allies in Iraq; Trump vows to punish Iran for firing at troops</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcFJoOXIwZmxCNHBjd05nc3dlYjNXXzd1NzdyQldTOVQ4S3NjZnNDRWdqdG1WUFRUS2tRSkJJTEhQYjJWa1FraklySUtoamVybzBfbUR4aUItanFrRG1hMDZJTzlSQ3lrS25SLUo4QzR0RVQxdmFSVUFaUFpHYWV0cmdnVURNVHJ1QzBzM0pIRTMwUmVFZmxwVVpyTklTallXU2ZLOGl3TDJ1U3VnRzd3bmZnQjVfcUw2a1pWSGdFOTNlUXFa?oc=5",
-          "publishedAt": "Wed, 29 Jul 2026 03:29:00 GMT",
-          "titleZh": "US, Saudi hit Iran's allies in Iraq; Trump vows to punish Iran for firing at troops - Reuters",
-          "summaryZh": "US, Saudi hit Iran's allies in Iraq; Trump vows to punish Iran for firing at troops&nbsp;&nbsp;Reuters"
-        },
-        {
           "id": "reuters-news-0-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
@@ -283,7 +283,7 @@
           "summaryZh": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say&nbsp;&nbsp;Reuters"
         },
         {
-          "id": "reuters-news-2-https://news.google.com/",
+          "id": "reuters-news-1-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -302,7 +302,33 @@
       "source": "BBC",
       "items": [
         {
+          "id": "bbc-news-5-https://news.google.com/",
+          "sourceId": "bbc",
+          "source": "BBC",
+          "sourceSite": "bbc.com",
+          "type": "news",
+          "title": "欧洲股市下跌 爱马仕业绩黯淡叠加伊朗局势引发担忧 - 新浪财经",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxQeWg0VEFrazdUSlVtZ2FGOW5Kb3MweFZpUzk4czlGUC1IUVE4RmU0cVB4SnQyNGozRjNIV0Zoc3NkVW9pS01oNVpIY0VUZ0lYQ0tweGd1MVE3cUJYRnlqeGdIQmV1WTBOTlhxVGlwbGJsd3BLQkluRmVGcjVBV1JoTVktY09UN3RJeXJyTkVNdzJ5UnJQNGRzUy1EOWVRTWF0Vld3cmMtLU1kb19ZV0w1VW1JQmZjTnN1TnIyUlI3WUpOTDhZYjUzek12MVRFWGstRHVVYUVyRVFLVk9iSjBaT3NhbE9fZGhITE1uN2JEdzNmeGlpN2U3dTZ6aUd1S0QxNTUyT2JMRVJfYnBuNXU3UkRjWTBBcXkwNjJXWjdZSDE2cEk?oc=5\" target=\"_blank\">欧洲股市下跌 爱马仕业绩黯淡叠加伊朗局势引发担忧</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQeWg0VEFrazdUSlVtZ2FGOW5Kb3MweFZpUzk4czlGUC1IUVE4RmU0cVB4SnQyNGozRjNIV0Zoc3NkVW9pS01oNVpIY0VUZ0lYQ0tweGd1MVE3cUJYRnlqeGdIQmV1WTBOTlhxVGlwbGJsd3BLQkluRmVGcjVBV1JoTVktY09UN3RJeXJyTkVNdzJ5UnJQNGRzUy1EOWVRTWF0Vld3cmMtLU1kb19ZV0w1VW1JQmZjTnN1TnIyUlI3WUpOTDhZYjUzek12MVRFWGstRHVVYUVyRVFLVk9iSjBaT3NhbE9fZGhITE1uN2JEdzNmeGlpN2U3dTZ6aUd1S0QxNTUyT2JMRVJfYnBuNXU3UkRjWTBBcXkwNjJXWjdZSDE2cEk?oc=5",
+          "publishedAt": "Wed, 29 Jul 2026 19:03:00 GMT",
+          "titleZh": "欧洲股市下跌 爱马仕业绩黯淡叠加伊朗局势引发担忧 - 新浪财经",
+          "summaryZh": "欧洲股市下跌 爱马仕业绩黯淡叠加伊朗局势引发担忧&nbsp;&nbsp;新浪财经"
+        },
+        {
           "id": "bbc-news-0-https://news.google.com/",
+          "sourceId": "bbc",
+          "source": "BBC",
+          "sourceSite": "bbc.com",
+          "type": "news",
+          "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war - BBC",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4QnM4bnVUQUNKa2J3QnhtT0lDeVZFUFRibWNxZTZfYktmNy1ZSzZZZEJPWnRTbUxfV2g1Z1BNSmdfU20xM1pKUzZpaXR0Q2dQUnhxbk5qcV95QQ?oc=5\" target=\"_blank\">Saudi Arabia's dilemma as it tries to stay out of US-Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4QnM4bnVUQUNKa2J3QnhtT0lDeVZFUFRibWNxZTZfYktmNy1ZSzZZZEJPWnRTbUxfV2g1Z1BNSmdfU20xM1pKUzZpaXR0Q2dQUnhxbk5qcV95QQ?oc=5",
+          "publishedAt": "Wed, 29 Jul 2026 18:41:31 GMT",
+          "titleZh": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war - BBC",
+          "summaryZh": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war&nbsp;&nbsp;BBC"
+        },
+        {
+          "id": "bbc-news-1-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -315,7 +341,7 @@
           "summaryZh": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq&nbsp;&nbsp;BBC"
         },
         {
-          "id": "bbc-news-1-https://news.google.com/",
+          "id": "bbc-news-2-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -328,20 +354,20 @@
           "summaryZh": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on&nbsp;&nbsp;BBC"
         },
         {
-          "id": "bbc-news-4-https://news.google.com/",
+          "id": "bbc-news-6-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
           "type": "news",
-          "title": "伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限 - bbc.com",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mQ3BJTE9ES1ZqQ1dXQ1cyN0hpMTVqeWt2UmJZRHF4VEZOXzVWM3hLdGRkNlhxTkRvaTNjd1dBZUd1VHBMRExfR0ltQWlTU0tpNjFZMDZjUkd4TnliUE9WdEVNSmlXUdIBa0FVX3lxTE5LWDVfd0hjUUVYVkpxcHhBRkpsX05DYVRNbmk1N3FJV05lY1hoZ1o5aDFNaDExV1FHaDQ0VHlsZm5kUVQzc3Z3cTB5WGg2T0Q4MDZUd01NT0lENFlCcEpmQlFka1UyRGREWDVB?oc=5\" target=\"_blank\">伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bbc.com</font>",
+          "title": "伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限 - BBC",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mQ3BJTE9ES1ZqQ1dXQ1cyN0hpMTVqeWt2UmJZRHF4VEZOXzVWM3hLdGRkNlhxTkRvaTNjd1dBZUd1VHBMRExfR0ltQWlTU0tpNjFZMDZjUkd4TnliUE9WdEVNSmlXUdIBa0FVX3lxTE5LWDVfd0hjUUVYVkpxcHhBRkpsX05DYVRNbmk1N3FJV05lY1hoZ1o5aDFNaDExV1FHaDQ0VHlsZm5kUVQzc3Z3cTB5WGg2T0Q4MDZUd01NT0lENFlCcEpmQlFka1UyRGREWDVB?oc=5\" target=\"_blank\">伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mQ3BJTE9ES1ZqQ1dXQ1cyN0hpMTVqeWt2UmJZRHF4VEZOXzVWM3hLdGRkNlhxTkRvaTNjd1dBZUd1VHBMRExfR0ltQWlTU0tpNjFZMDZjUkd4TnliUE9WdEVNSmlXUdIBa0FVX3lxTE5LWDVfd0hjUUVYVkpxcHhBRkpsX05DYVRNbmk1N3FJV05lY1hoZ1o5aDFNaDExV1FHaDQ0VHlsZm5kUVQzc3Z3cTB5WGg2T0Q4MDZUd01NT0lENFlCcEpmQlFka1UyRGREWDVB?oc=5",
           "publishedAt": "Tue, 16 Jun 2026 07:00:00 GMT",
-          "titleZh": "伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限 - bbc.com",
-          "summaryZh": "伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限&nbsp;&nbsp;bbc.com"
+          "titleZh": "伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限 - BBC",
+          "summaryZh": "伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限&nbsp;&nbsp;BBC"
         },
         {
-          "id": "bbc-news-2-https://news.google.com/",
+          "id": "bbc-news-3-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -352,32 +378,6 @@
           "publishedAt": "Mon, 08 Jun 2026 07:00:00 GMT",
           "titleZh": "Bowen: 'Middle East is in turmoil' as Iran and Israel attack each other - BBC",
           "summaryZh": "Bowen: 'Middle East is in turmoil' as Iran and Israel attack each other&nbsp;&nbsp;BBC"
-        },
-        {
-          "id": "bbc-news-5-https://news.google.com/",
-          "sourceId": "bbc",
-          "source": "BBC",
-          "sourceSite": "bbc.com",
-          "type": "news",
-          "title": "伊朗战争：特朗普需要结束这场战争，但伊朗不会退让——分析 - bbc.com",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGdllEbGpScUxQeEthUWtUY1c3MWZrcGIwV3lTYjZ6blFPV1R3OGhtUWwzZmlsS1Y3ejhwVDdTdlJCelNXNElyNm9QV1NVQjMzeHIyWkc3SkVfTUVFS3AwMjNQU0JCQdIBa0FVX3lxTFBjSUkxNzJIWF96dElpM2pZdHR6X3FkU3l6d3BFMWdkRGxOSy1qYUZuWV9NT0F5X2hjQ2QzdEowaXQ1SUcwNjYyRGRWeENtUm9mVERkZ0p2MlNqWmI2UXNrVXgtZmM1UC00V1dF?oc=5\" target=\"_blank\">伊朗战争：特朗普需要结束这场战争，但伊朗不会退让——分析</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bbc.com</font>",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGdllEbGpScUxQeEthUWtUY1c3MWZrcGIwV3lTYjZ6blFPV1R3OGhtUWwzZmlsS1Y3ejhwVDdTdlJCelNXNElyNm9QV1NVQjMzeHIyWkc3SkVfTUVFS3AwMjNQU0JCQdIBa0FVX3lxTFBjSUkxNzJIWF96dElpM2pZdHR6X3FkU3l6d3BFMWdkRGxOSy1qYUZuWV9NT0F5X2hjQ2QzdEowaXQ1SUcwNjYyRGRWeENtUm9mVERkZ0p2MlNqWmI2UXNrVXgtZmM1UC00V1dF?oc=5",
-          "publishedAt": "Tue, 02 Jun 2026 07:00:00 GMT",
-          "titleZh": "伊朗战争：特朗普需要结束这场战争，但伊朗不会退让——分析 - bbc.com",
-          "summaryZh": "伊朗战争：特朗普需要结束这场战争，但伊朗不会退让——分析&nbsp;&nbsp;bbc.com"
-        },
-        {
-          "id": "bbc-news-3-https://news.google.com/",
-          "sourceId": "bbc",
-          "source": "BBC",
-          "sourceSite": "bbc.com",
-          "type": "news",
-          "title": "Why did US and Israel attack Iran and how long could the war last? - BBC",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MG5wdTJrMFlNLWRENFBMZEFMcW0yN0E5dE1lajB6eGRWU1JNN2Y0cXhkbGlGdEpTcG1naHdqN00yLThGV3Qzd2RmYWhBa0tfS1I5ejRobjVGZw?oc=5\" target=\"_blank\">Why did US and Israel attack Iran and how long could the war last?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MG5wdTJrMFlNLWRENFBMZEFMcW0yN0E5dE1lajB6eGRWU1JNN2Y0cXhkbGlGdEpTcG1naHdqN00yLThGV3Qzd2RmYWhBa0tfS1I5ejRobjVGZw?oc=5",
-          "publishedAt": "Thu, 23 Apr 2026 07:00:00 GMT",
-          "titleZh": "Why did US and Israel attack Iran and how long could the war last? - BBC",
-          "summaryZh": "Why did US and Israel attack Iran and how long could the war last?&nbsp;&nbsp;BBC"
         }
       ]
     },
@@ -385,6 +385,71 @@
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "items": [
+        {
+          "id": "aljazeera-news-1-https://news.google.com/",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "sourceSite": "aljazeera.com",
+          "type": "news",
+          "title": "Iran pushes back against US as regional attacks heat up - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPVUF2bnZ4SlNDMXk1UXBmZElvSlRsZ3BYcjc5ZG1FbE0yZS01eEZLcmFibGpGbTBLWWhuZllhaThfbGh0YXZKQzF0WUl2akdDaUVXNmU1QnpfVVBmNG1JVl9UTndVLWp0ZUxTOGVCZlg3VjZEU2JrNnJFdkdmcEMxX0xmUEtoLVN0MGpqUjBuX193cnJycVFhb0lNay3SAaIBQVVfeXFMTjhhRVlqVDl6UjAteENodEU4cjdPQkxFenZycWRyaWVxTmI0ZEhfUm1ycHhfYXBDTkxObnNpcGcyVEE5VWZxYzhBdTdLNDdzUkV4WjlON3B1SlhxX0U3SlpqMU5PQzhWMEVKdFpsbTR3T1V3Um5wZkZmUFNnY2FiRkdIbGhtcEgzU3hNTFhUTkYyeHVVcmlVd2FxVEprTExqSnBR?oc=5\" target=\"_blank\">Iran pushes back against US as regional attacks heat up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVUF2bnZ4SlNDMXk1UXBmZElvSlRsZ3BYcjc5ZG1FbE0yZS01eEZLcmFibGpGbTBLWWhuZllhaThfbGh0YXZKQzF0WUl2akdDaUVXNmU1QnpfVVBmNG1JVl9UTndVLWp0ZUxTOGVCZlg3VjZEU2JrNnJFdkdmcEMxX0xmUEtoLVN0MGpqUjBuX193cnJycVFhb0lNay3SAaIBQVVfeXFMTjhhRVlqVDl6UjAteENodEU4cjdPQkxFenZycWRyaWVxTmI0ZEhfUm1ycHhfYXBDTkxObnNpcGcyVEE5VWZxYzhBdTdLNDdzUkV4WjlON3B1SlhxX0U3SlpqMU5PQzhWMEVKdFpsbTR3T1V3Um5wZkZmUFNnY2FiRkdIbGhtcEgzU3hNTFhUTkYyeHVVcmlVd2FxVEprTExqSnBR?oc=5",
+          "publishedAt": "Wed, 29 Jul 2026 17:48:31 GMT",
+          "titleZh": "Iran pushes back against US as regional attacks heat up - Al Jazeera",
+          "summaryZh": "Iran pushes back against US as regional attacks heat up&nbsp;&nbsp;Al Jazeera"
+        },
+        {
+          "id": "aljazeera-news-4-https://news.google.com/",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "sourceSite": "aljazeera.com",
+          "type": "news",
+          "title": "Iran attacks US forces in Jordan as Trump meets Netanyahu - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPMjBFSGpuMjV3TGl0TUtZdlRCWERoc29wQU03XzJYbC1LWktVZks2ZGdpMGpUM1JFbmJLa05yQXU5QTE3WU80b1dTU18wUWdldFE4dGRTSlItYWlnNVB0TGpEa2ZGTWVCVGlJbWI4ZjVLVU5hVUtrX09OOEpacFczU1kzaDUwMThxcUR4eUZLenZaanJDODlFT2F1bk9rNGxyemtjddIBqgFBVV95cUxQOEkyVFAxd2oycDhpYVM1ZDdUYmVSaTVWMTFIQ3RZb0NZWXBmTWtFRWg2cmJrX01ISVVZSjloX3lvV2g0a3pXZTFQTDU3Z0wyTmNEOFJNd3ZiSWMtNTE1anJlMXU0SHJ1blctOFkyaFVvYVJ6UVJhQldxZG1ESzZFWllEYmFLbkRYbHg3UE9rWmdvcGY1c0s4ZHdlRERIdHUweldFM0NFd0VMZw?oc=5\" target=\"_blank\">Iran attacks US forces in Jordan as Trump meets Netanyahu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMjBFSGpuMjV3TGl0TUtZdlRCWERoc29wQU03XzJYbC1LWktVZks2ZGdpMGpUM1JFbmJLa05yQXU5QTE3WU80b1dTU18wUWdldFE4dGRTSlItYWlnNVB0TGpEa2ZGTWVCVGlJbWI4ZjVLVU5hVUtrX09OOEpacFczU1kzaDUwMThxcUR4eUZLenZaanJDODlFT2F1bk9rNGxyemtjddIBqgFBVV95cUxQOEkyVFAxd2oycDhpYVM1ZDdUYmVSaTVWMTFIQ3RZb0NZWXBmTWtFRWg2cmJrX01ISVVZSjloX3lvV2g0a3pXZTFQTDU3Z0wyTmNEOFJNd3ZiSWMtNTE1anJlMXU0SHJ1blctOFkyaFVvYVJ6UVJhQldxZG1ESzZFWllEYmFLbkRYbHg3UE9rWmdvcGY1c0s4ZHdlRERIdHUweldFM0NFd0VMZw?oc=5",
+          "publishedAt": "Wed, 29 Jul 2026 17:46:31 GMT",
+          "titleZh": "Iran attacks US forces in Jordan as Trump meets Netanyahu - Al Jazeera",
+          "summaryZh": "Iran attacks US forces in Jordan as Trump meets Netanyahu&nbsp;&nbsp;Al Jazeera"
+        },
+        {
+          "id": "aljazeera-news-0-https://news.google.com/",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "sourceSite": "aljazeera.com",
+          "type": "news",
+          "title": "Iran war live: Pezeshkian urges Iranians to ‘stand firm’ against ‘the enemy - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTjRULWE0Y1djcEVXdDU2MmYzd2lPUVVhdGJCRU91aGc5QzFzdXZGZ0hLU1ljWXZqQmdoWDdJMWRYeW9LOG5NRERCQTBpT1dFNkxybmM5ZmlZelNBMzF1OW9mdmlET3p3MHFpYnlOMXRBSXItTDk2bWJRd1hmS3h0MHFVZWpCeGFPY2N4MDh2V0ZuenpTd0VRV3BzM3M2MmE3b19mdkZPckNOYlBITXNMQjdCV1JKX0FH0gG-AUFVX3lxTFBESHMxM0xtczZIM3RBNGNWUWpjanhzQjlNb1ljN0Y2ZXZQOG9zN1ViRk8yTGh2UHFlMTluaUJPRHJnbUNINi16WVNlRW1sVXhaVExJRUt6Ql9ONXU3SWluSUMzVW1EWjQ1aWVMU3pDQlR0Q0NwVEhOcVlWbkFTdEJpd09wMzBDVHVqRE5iV2JEUFVXSnd2WjRQVnVUa2NTX2N0VGpPQUxtTDRtb1AxTWR6MGNtRXlKRDBFeWpWS3c?oc=5\" target=\"_blank\">Iran war live: Pezeshkian urges Iranians to ‘stand firm’ against ‘the enemy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTjRULWE0Y1djcEVXdDU2MmYzd2lPUVVhdGJCRU91aGc5QzFzdXZGZ0hLU1ljWXZqQmdoWDdJMWRYeW9LOG5NRERCQTBpT1dFNkxybmM5ZmlZelNBMzF1OW9mdmlET3p3MHFpYnlOMXRBSXItTDk2bWJRd1hmS3h0MHFVZWpCeGFPY2N4MDh2V0ZuenpTd0VRV3BzM3M2MmE3b19mdkZPckNOYlBITXNMQjdCV1JKX0FH0gG-AUFVX3lxTFBESHMxM0xtczZIM3RBNGNWUWpjanhzQjlNb1ljN0Y2ZXZQOG9zN1ViRk8yTGh2UHFlMTluaUJPRHJnbUNINi16WVNlRW1sVXhaVExJRUt6Ql9ONXU3SWluSUMzVW1EWjQ1aWVMU3pDQlR0Q0NwVEhOcVlWbkFTdEJpd09wMzBDVHVqRE5iV2JEUFVXSnd2WjRQVnVUa2NTX2N0VGpPQUxtTDRtb1AxTWR6MGNtRXlKRDBFeWpWS3c?oc=5",
+          "publishedAt": "Wed, 29 Jul 2026 17:31:21 GMT",
+          "titleZh": "Iran war live: Pezeshkian urges Iranians to ‘stand firm’ against ‘the enemy - Al Jazeera",
+          "summaryZh": "Iran war live: Pezeshkian urges Iranians to ‘stand firm’ against ‘the enemy&nbsp;&nbsp;Al Jazeera"
+        },
+        {
+          "id": "aljazeera-news-9-https://news.google.com/",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "sourceSite": "aljazeera.com",
+          "type": "news",
+          "title": "Fuel prices soar on back of Iran war, leaving Yemeni labourers with no work - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBzQ2o4eS1sQ212V2hqNEh6VXl0R25xSlUza2lIa0RiR3pCbVBvVnpXYXhLR2lIUEp0T3lwZ19wUnZFZ2hOV2xTdkxPUXhwYi1WMnB0RkE1WEZYWlVMejRkcnJLTmdySk9xRTVEbmNWamQwYXY1MDQyVNIBfkFVX3lxTE1aamlPTHBIM05FMDRuUzI5QjlPOFZzR3VTTjZ4N2I1R3Z5bDdDTWozaWUwVkJhcTNKazNkZlRFelJYR183a0FtSmd6eXEwOWtmLTVkdVBmRHNVUHBhejdWbEh2LXF1dUlnS2xSR0s2RW0yNklBRGlEUkhBb2xQUQ?oc=5\" target=\"_blank\">Fuel prices soar on back of Iran war, leaving Yemeni labourers with no work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzQ2o4eS1sQ212V2hqNEh6VXl0R25xSlUza2lIa0RiR3pCbVBvVnpXYXhLR2lIUEp0T3lwZ19wUnZFZ2hOV2xTdkxPUXhwYi1WMnB0RkE1WEZYWlVMejRkcnJLTmdySk9xRTVEbmNWamQwYXY1MDQyVNIBfkFVX3lxTE1aamlPTHBIM05FMDRuUzI5QjlPOFZzR3VTTjZ4N2I1R3Z5bDdDTWozaWUwVkJhcTNKazNkZlRFelJYR183a0FtSmd6eXEwOWtmLTVkdVBmRHNVUHBhejdWbEh2LXF1dUlnS2xSR0s2RW0yNklBRGlEUkhBb2xQUQ?oc=5",
+          "publishedAt": "Wed, 29 Jul 2026 17:26:15 GMT",
+          "titleZh": "Fuel prices soar on back of Iran war, leaving Yemeni labourers with no work - Al Jazeera",
+          "summaryZh": "Fuel prices soar on back of Iran war, leaving Yemeni labourers with no work&nbsp;&nbsp;Al Jazeera"
+        },
+        {
+          "id": "aljazeera-news-2-https://news.google.com/",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "sourceSite": "aljazeera.com",
+          "type": "news",
+          "title": "Trump says US to deliver ‘beating’ to Iran after bases again targeted - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPSnlRMWFnaUtJM2VGRW9YeVVua0xwY1RTR2FrcnFvN2p4LVZZWDNLS0JzbFRqQUhSc19aQ29KSFJ1TmhEUzE3SGwzMVRCcmFITFFUa3BNNFNSX2tNVk9uWVdWSDBxNGpUS2F5LVhrZGEyVzJueG9IMmFnV09WbDFTdUZVQXA3VnhsQ1J4aERqcG4xY0dQVGhZLVJwNzJuT1FvaGY1OEh1Yzk3M3Nz0gGyAUFVX3lxTE9RWG1yaUV5V1BySHl1ay1mcmQ5Qm5EWkxicHREVFc2N1A4QVB3ZU9uaEpBYWpXZk1iLW1hVjdTVE5JVF9KZThrczNTQjRENlFJY200NXdiLXc5UWlVTXZZTHFvRGlyOHVwM1A2YzZ2YnVaSHhKMmprQ0tjUWVFTTlCbXhiR0dKemhhdHlDTTdNcWJ6dENRNVJwLTVMdk55UzZ4V3RISjNORi1zX05CZnNmMFE?oc=5\" target=\"_blank\">Trump says US to deliver ‘beating’ to Iran after bases again targeted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSnlRMWFnaUtJM2VGRW9YeVVua0xwY1RTR2FrcnFvN2p4LVZZWDNLS0JzbFRqQUhSc19aQ29KSFJ1TmhEUzE3SGwzMVRCcmFITFFUa3BNNFNSX2tNVk9uWVdWSDBxNGpUS2F5LVhrZGEyVzJueG9IMmFnV09WbDFTdUZVQXA3VnhsQ1J4aERqcG4xY0dQVGhZLVJwNzJuT1FvaGY1OEh1Yzk3M3Nz0gGyAUFVX3lxTE9RWG1yaUV5V1BySHl1ay1mcmQ5Qm5EWkxicHREVFc2N1A4QVB3ZU9uaEpBYWpXZk1iLW1hVjdTVE5JVF9KZThrczNTQjRENlFJY200NXdiLXc5UWlVTXZZTHFvRGlyOHVwM1A2YzZ2YnVaSHhKMmprQ0tjUWVFTTlCbXhiR0dKemhhdHlDTTdNcWJ6dENRNVJwLTVMdk55UzZ4V3RISjNORi1zX05CZnNmMFE?oc=5",
+          "publishedAt": "Wed, 29 Jul 2026 15:56:41 GMT",
+          "titleZh": "Trump says US to deliver ‘beating’ to Iran after bases again targeted - Al Jazeera",
+          "summaryZh": "Trump says US to deliver ‘beating’ to Iran after bases again targeted&nbsp;&nbsp;Al Jazeera"
+        },
         {
           "id": "aljazeera-news-3-https://news.google.com/",
           "sourceId": "aljazeera",
@@ -394,74 +459,9 @@
           "title": "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading? - Al Jazeera",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSVV1b2V2VWVhQk1UYWVreXhnOWJnQ2cyTGc3dUtwRWlJZ3cwQVdlVTRnMmhOV0gyTFJRcHdzUWJkMkQ3TW5uTHJhRzZPaERfMDZ5Z2c3SnY4TndEMFg1LVR0QkdpbnVLUWI4ZGxaOUFxOEpSSWxkbllYOHBUYlY1YlhRcW05TE91d1ZKQmhGalZ5MUp6Ry0xX3F6RXU3dzE2TkdhV2dUNVnSAa4BQVVfeXFMT2RzYlVEN3prcnBYaHQ3cFBrSTZlZGdmdnZGSFdCcmhvWXBvQ1FYVGE3dVRTM2h4RHFvQUlFeEEwWnR1S1gzYk1xWW1QMXlWM1c0dFRlT280RDNydFVoQTJZdmRsMFQzeGJmdnVJTmxlSUlCNWt0anVMbFpPT2lOOTlXOFZVZGM3N25ndUZLUVZjZ3o2V1pPbE1WQ1M4eWlLTkluM1ZqMldVSFVETTlB?oc=5\" target=\"_blank\">Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSVV1b2V2VWVhQk1UYWVreXhnOWJnQ2cyTGc3dUtwRWlJZ3cwQVdlVTRnMmhOV0gyTFJRcHdzUWJkMkQ3TW5uTHJhRzZPaERfMDZ5Z2c3SnY4TndEMFg1LVR0QkdpbnVLUWI4ZGxaOUFxOEpSSWxkbllYOHBUYlY1YlhRcW05TE91d1ZKQmhGalZ5MUp6Ry0xX3F6RXU3dzE2TkdhV2dUNVnSAa4BQVVfeXFMT2RzYlVEN3prcnBYaHQ3cFBrSTZlZGdmdnZGSFdCcmhvWXBvQ1FYVGE3dVRTM2h4RHFvQUlFeEEwWnR1S1gzYk1xWW1QMXlWM1c0dFRlT280RDNydFVoQTJZdmRsMFQzeGJmdnVJTmxlSUlCNWt0anVMbFpPT2lOOTlXOFZVZGM3N25ndUZLUVZjZ3o2V1pPbE1WQ1M4eWlLTkluM1ZqMldVSFVETTlB?oc=5",
-          "publishedAt": "Wed, 29 Jul 2026 14:48:45 GMT",
+          "publishedAt": "Wed, 29 Jul 2026 14:52:58 GMT",
           "titleZh": "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading? - Al Jazeera",
           "summaryZh": "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?&nbsp;&nbsp;Al Jazeera"
-        },
-        {
-          "id": "aljazeera-news-2-https://news.google.com/",
-          "sourceId": "aljazeera",
-          "source": "Al Jazeera",
-          "sourceSite": "aljazeera.com",
-          "type": "news",
-          "title": "US and Israeli leaders expected ‘swift outcome’ in Iran - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPRm9MWDdfcHhqU2hXdV9waHpvRHpaOEFXTmY0QjFOODFnMVBjalRHdUg3VVZNZ0NnenBoVUw4SzE3ekZzaUw2M1llQ1dpbGlIWXREVl90cHY3ZTlOS215WktoVXBxemZfZmZNbmppYllsQnMyNm9BOWV2QVpLX1dSWkU2NUEtd3dWRjlHS2VqTkVsX0JYQWJzTHVzekRHMjM5V3BmS0JHTdIBrAFBVV95cUxPMzFGY3RGRnNLaUZXWVRvZUtBVWtRMWx5aXV5U2IwTVdLQk1aUW5CTTZmWlRoZHhacE05cjU0SnhGbWpYYlVSNXlPZkE3WjZ1Q3I4Q29OZzZ5SDNuMERjWWlVd29zWnJKX0lvZkw1cGQ3SlgxV3NxXzhGYlNlNmlFRFlEVFBmRm5NRHZVdGctV2tnNGdIM2s5VzZZRk42MEY5R282R2thTHpIbXAy?oc=5\" target=\"_blank\">US and Israeli leaders expected ‘swift outcome’ in Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRm9MWDdfcHhqU2hXdV9waHpvRHpaOEFXTmY0QjFOODFnMVBjalRHdUg3VVZNZ0NnenBoVUw4SzE3ekZzaUw2M1llQ1dpbGlIWXREVl90cHY3ZTlOS215WktoVXBxemZfZmZNbmppYllsQnMyNm9BOWV2QVpLX1dSWkU2NUEtd3dWRjlHS2VqTkVsX0JYQWJzTHVzekRHMjM5V3BmS0JHTdIBrAFBVV95cUxPMzFGY3RGRnNLaUZXWVRvZUtBVWtRMWx5aXV5U2IwTVdLQk1aUW5CTTZmWlRoZHhacE05cjU0SnhGbWpYYlVSNXlPZkE3WjZ1Q3I4Q29OZzZ5SDNuMERjWWlVd29zWnJKX0lvZkw1cGQ3SlgxV3NxXzhGYlNlNmlFRFlEVFBmRm5NRHZVdGctV2tnNGdIM2s5VzZZRk42MEY5R282R2thTHpIbXAy?oc=5",
-          "publishedAt": "Wed, 29 Jul 2026 14:41:49 GMT",
-          "titleZh": "US and Israeli leaders expected ‘swift outcome’ in Iran - Al Jazeera",
-          "summaryZh": "US and Israeli leaders expected ‘swift outcome’ in Iran&nbsp;&nbsp;Al Jazeera"
-        },
-        {
-          "id": "aljazeera-news-6-https://news.google.com/",
-          "sourceId": "aljazeera",
-          "source": "Al Jazeera",
-          "sourceSite": "aljazeera.com",
-          "type": "news",
-          "title": "Trump vows to hit Iran hard as he meets with Netanyahu - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPMjBFSGpuMjV3TGl0TUtZdlRCWERoc29wQU03XzJYbC1LWktVZks2ZGdpMGpUM1JFbmJLa05yQXU5QTE3WU80b1dTU18wUWdldFE4dGRTSlItYWlnNVB0TGpEa2ZGTWVCVGlJbWI4ZjVLVU5hVUtrX09OOEpacFczU1kzaDUwMThxcUR4eUZLenZaanJDODlFT2F1bk9rNGxyemtjddIBqgFBVV95cUxQOEkyVFAxd2oycDhpYVM1ZDdUYmVSaTVWMTFIQ3RZb0NZWXBmTWtFRWg2cmJrX01ISVVZSjloX3lvV2g0a3pXZTFQTDU3Z0wyTmNEOFJNd3ZiSWMtNTE1anJlMXU0SHJ1blctOFkyaFVvYVJ6UVJhQldxZG1ESzZFWllEYmFLbkRYbHg3UE9rWmdvcGY1c0s4ZHdlRERIdHUweldFM0NFd0VMZw?oc=5\" target=\"_blank\">Trump vows to hit Iran hard as he meets with Netanyahu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMjBFSGpuMjV3TGl0TUtZdlRCWERoc29wQU03XzJYbC1LWktVZks2ZGdpMGpUM1JFbmJLa05yQXU5QTE3WU80b1dTU18wUWdldFE4dGRTSlItYWlnNVB0TGpEa2ZGTWVCVGlJbWI4ZjVLVU5hVUtrX09OOEpacFczU1kzaDUwMThxcUR4eUZLenZaanJDODlFT2F1bk9rNGxyemtjddIBqgFBVV95cUxQOEkyVFAxd2oycDhpYVM1ZDdUYmVSaTVWMTFIQ3RZb0NZWXBmTWtFRWg2cmJrX01ISVVZSjloX3lvV2g0a3pXZTFQTDU3Z0wyTmNEOFJNd3ZiSWMtNTE1anJlMXU0SHJ1blctOFkyaFVvYVJ6UVJhQldxZG1ESzZFWllEYmFLbkRYbHg3UE9rWmdvcGY1c0s4ZHdlRERIdHUweldFM0NFd0VMZw?oc=5",
-          "publishedAt": "Wed, 29 Jul 2026 14:32:54 GMT",
-          "titleZh": "Trump vows to hit Iran hard as he meets with Netanyahu - Al Jazeera",
-          "summaryZh": "Trump vows to hit Iran hard as he meets with Netanyahu&nbsp;&nbsp;Al Jazeera"
-        },
-        {
-          "id": "aljazeera-news-0-https://news.google.com/",
-          "sourceId": "aljazeera",
-          "source": "Al Jazeera",
-          "sourceSite": "aljazeera.com",
-          "type": "news",
-          "title": "Iran war live: Trump vows strikes after Iran attacks US forces in Jordan - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTjRULWE0Y1djcEVXdDU2MmYzd2lPUVVhdGJCRU91aGc5QzFzdXZGZ0hLU1ljWXZqQmdoWDdJMWRYeW9LOG5NRERCQTBpT1dFNkxybmM5ZmlZelNBMzF1OW9mdmlET3p3MHFpYnlOMXRBSXItTDk2bWJRd1hmS3h0MHFVZWpCeGFPY2N4MDh2V0ZuenpTd0VRV3BzM3M2MmE3b19mdkZPckNOYlBITXNMQjdCV1JKX0FH0gG-AUFVX3lxTFBESHMxM0xtczZIM3RBNGNWUWpjanhzQjlNb1ljN0Y2ZXZQOG9zN1ViRk8yTGh2UHFlMTluaUJPRHJnbUNINi16WVNlRW1sVXhaVExJRUt6Ql9ONXU3SWluSUMzVW1EWjQ1aWVMU3pDQlR0Q0NwVEhOcVlWbkFTdEJpd09wMzBDVHVqRE5iV2JEUFVXSnd2WjRQVnVUa2NTX2N0VGpPQUxtTDRtb1AxTWR6MGNtRXlKRDBFeWpWS3c?oc=5\" target=\"_blank\">Iran war live: Trump vows strikes after Iran attacks US forces in Jordan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTjRULWE0Y1djcEVXdDU2MmYzd2lPUVVhdGJCRU91aGc5QzFzdXZGZ0hLU1ljWXZqQmdoWDdJMWRYeW9LOG5NRERCQTBpT1dFNkxybmM5ZmlZelNBMzF1OW9mdmlET3p3MHFpYnlOMXRBSXItTDk2bWJRd1hmS3h0MHFVZWpCeGFPY2N4MDh2V0ZuenpTd0VRV3BzM3M2MmE3b19mdkZPckNOYlBITXNMQjdCV1JKX0FH0gG-AUFVX3lxTFBESHMxM0xtczZIM3RBNGNWUWpjanhzQjlNb1ljN0Y2ZXZQOG9zN1ViRk8yTGh2UHFlMTluaUJPRHJnbUNINi16WVNlRW1sVXhaVExJRUt6Ql9ONXU3SWluSUMzVW1EWjQ1aWVMU3pDQlR0Q0NwVEhOcVlWbkFTdEJpd09wMzBDVHVqRE5iV2JEUFVXSnd2WjRQVnVUa2NTX2N0VGpPQUxtTDRtb1AxTWR6MGNtRXlKRDBFeWpWS3c?oc=5",
-          "publishedAt": "Wed, 29 Jul 2026 13:40:17 GMT",
-          "titleZh": "Iran war live: Trump vows strikes after Iran attacks US forces in Jordan - Al Jazeera",
-          "summaryZh": "Iran war live: Trump vows strikes after Iran attacks US forces in Jordan&nbsp;&nbsp;Al Jazeera"
-        },
-        {
-          "id": "aljazeera-news-4-https://news.google.com/",
-          "sourceId": "aljazeera",
-          "source": "Al Jazeera",
-          "sourceSite": "aljazeera.com",
-          "type": "news",
-          "title": "Iran and Oman swap proposals to manage Strait of Hormuz: What we know - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOMVNnd2xCYUs4LUZPakJqdzdadXFYcXcxbGVIeENwM0plWGZZNVpKRlpERWowNk5DU0lKbjhfVnktWG9FWVZrdEZrUk1Mc05kUVlnTWpnLVA5dE91Q2diMGJycXBvajIzNUJuWG5sbW8tUXE4dzJGeVc2ajVzd3pxdEFqeC1yTWN5U1RmM2pFaGFWb0w1MU9lcmR3X3JRd1BvaGVIc1hkeDZiNjU5eUHSAbMBQVVfeXFMUE1mSGk4ZU5LNEFDR1VPc05PUnZRa0pmdGZQY3c1WDhzbG51alA0RGFtRmc2VllYRWQ5OW8ybGUtX1dtQjBWek5PT2RhM3ZHR2lnUmlrQTE3WldjcThRYy1IdVJYclpoRF91Yk5zNVMwRnZzM3FFUXhXeTZWc1JQSFJQbEtpZ042dmFheFFIcDZxdU1Ocnp0am5LM2tzdHItLTdISFBqMDkzWXkzQ3RHdEpQRzQ?oc=5\" target=\"_blank\">Iran and Oman swap proposals to manage Strait of Hormuz: What we know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMVNnd2xCYUs4LUZPakJqdzdadXFYcXcxbGVIeENwM0plWGZZNVpKRlpERWowNk5DU0lKbjhfVnktWG9FWVZrdEZrUk1Mc05kUVlnTWpnLVA5dE91Q2diMGJycXBvajIzNUJuWG5sbW8tUXE4dzJGeVc2ajVzd3pxdEFqeC1yTWN5U1RmM2pFaGFWb0w1MU9lcmR3X3JRd1BvaGVIc1hkeDZiNjU5eUHSAbMBQVVfeXFMUE1mSGk4ZU5LNEFDR1VPc05PUnZRa0pmdGZQY3c1WDhzbG51alA0RGFtRmc2VllYRWQ5OW8ybGUtX1dtQjBWek5PT2RhM3ZHR2lnUmlrQTE3WldjcThRYy1IdVJYclpoRF91Yk5zNVMwRnZzM3FFUXhXeTZWc1JQSFJQbEtpZ042dmFheFFIcDZxdU1Ocnp0am5LM2tzdHItLTdISFBqMDkzWXkzQ3RHdEpQRzQ?oc=5",
-          "publishedAt": "Wed, 29 Jul 2026 08:36:02 GMT",
-          "titleZh": "Iran and Oman swap proposals to manage Strait of Hormuz: What we know - Al Jazeera",
-          "summaryZh": "Iran and Oman swap proposals to manage Strait of Hormuz: What we know&nbsp;&nbsp;Al Jazeera"
-        },
-        {
-          "id": "aljazeera-news-1-https://news.google.com/",
-          "sourceId": "aljazeera",
-          "source": "Al Jazeera",
-          "sourceSite": "aljazeera.com",
-          "type": "news",
-          "title": "Iran war updates: Tehran vows Hormuz control amid Trump-Netanyahu talks - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNeDIyc1dzckZFZ0RzcVF1N0NaUHVDNzBLR3d0VUEwTjhIRHYxQktIZ2hobHlHQkh3cHdkZmJrbDh4Q21NSGcxRUVRM29rQlFkZ3ZfSG9MRWJNbzBJRzJQVXA5Mmp6cXBUZkVEa3BKMmt0WDJ2eEtGOUtSeWxOc2dfdWNMX056M29Zc05JQ1MxV2VrSjJCZFpPVkNaZ3lrTFFSNnlLOE5CZkpTd0M0elNuQmJFUi3SAboBQVVfeXFMTjgxWU81QTR1XzRFbzZ0RHJEenVKUjlwZWNRSnhpRjBXX1JxX1FCMUdldzBUVjc4RUItdnAtTWtLOVBIV1NMLU9fOUVlUXRVSnlLdW9rUmw5ajBZX1BwcnlidmIzNUVsZmVBYVFobG1iRy1yb2tRQmNIMlVqNTQ1dm40UkFSalF4U1JER3E5RGpBR0x2Ukt1cW9NaUFMTEtYdXBVYWVIT3VBRFk1MWc1ajYyenpvWDE0UFJ3?oc=5\" target=\"_blank\">Iran war updates: Tehran vows Hormuz control amid Trump-Netanyahu talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeDIyc1dzckZFZ0RzcVF1N0NaUHVDNzBLR3d0VUEwTjhIRHYxQktIZ2hobHlHQkh3cHdkZmJrbDh4Q21NSGcxRUVRM29rQlFkZ3ZfSG9MRWJNbzBJRzJQVXA5Mmp6cXBUZkVEa3BKMmt0WDJ2eEtGOUtSeWxOc2dfdWNMX056M29Zc05JQ1MxV2VrSjJCZFpPVkNaZ3lrTFFSNnlLOE5CZkpTd0M0elNuQmJFUi3SAboBQVVfeXFMTjgxWU81QTR1XzRFbzZ0RHJEenVKUjlwZWNRSnhpRjBXX1JxX1FCMUdldzBUVjc4RUItdnAtTWtLOVBIV1NMLU9fOUVlUXRVSnlLdW9rUmw5ajBZX1BwcnlidmIzNUVsZmVBYVFobG1iRy1yb2tRQmNIMlVqNTQ1dm40UkFSalF4U1JER3E5RGpBR0x2Ukt1cW9NaUFMTEtYdXBVYWVIT3VBRFk1MWc1ajYyenpvWDE0UFJ3?oc=5",
-          "publishedAt": "Wed, 29 Jul 2026 00:02:03 GMT",
-          "titleZh": "Iran war updates: Tehran vows Hormuz control amid Trump-Netanyahu talks - Al Jazeera",
-          "summaryZh": "Iran war updates: Tehran vows Hormuz control amid Trump-Netanyahu talks&nbsp;&nbsp;Al Jazeera"
         }
       ]
     },
@@ -481,22 +481,9 @@
       "title": "Iran Considered Retaliatory Strike on Ukrainian Seaport - The New York Times",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9WUmprNEdueEx0N0VuTUh1dUFIUFpRYnMzbk1EUnNtSTg4c2tkWHlBT0tnLUFOODhsdmRraGhVTTJKcDVSLWNYdW96YWx6U2VVYVpXWmEycUNWUmxycG5mRG5lVWg4bFRKTldrZlh2MmpOS0lZZlNiUF9lOHpkUQ?oc=5\" target=\"_blank\">Iran Considered Retaliatory Strike on Ukrainian Seaport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WUmprNEdueEx0N0VuTUh1dUFIUFpRYnMzbk1EUnNtSTg4c2tkWHlBT0tnLUFOODhsdmRraGhVTTJKcDVSLWNYdW96YWx6U2VVYVpXWmEycUNWUmxycG5mRG5lVWg4bFRKTldrZlh2MmpOS0lZZlNiUF9lOHpkUQ?oc=5",
-      "publishedAt": "Tue, 28 Jul 2026 21:39:52 GMT",
+      "publishedAt": "Wed, 29 Jul 2026 02:05:12 GMT",
       "titleZh": "Iran Considered Retaliatory Strike on Ukrainian Seaport - The New York Times",
       "summaryZh": "Iran Considered Retaliatory Strike on Ukrainian Seaport&nbsp;&nbsp;The New York Times"
-    },
-    {
-      "id": "nytimes-commentary-6-https://news.google.com/",
-      "sourceId": "nytimes",
-      "source": "The New York Times",
-      "sourceSite": "nytimes.com",
-      "type": "commentary",
-      "title": "Iran Hangs Protesters as Executions Surge, Rights Groups Say - The New York Times",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOMnFPdGZsa19vMWtDcGNWWkJ1enVsc3VJLXVVS21vdnVIYW5SWjhNYTU1S1VFN0FseUgycVlCRjFHX1pnaDRjcVE0NGlaQ190OXpydVdlSlRjSWlOelFMTFNpSlRLWVc2azJ4WFozYlR1a19JTGI4amNNN21YaUZkQkxmejI3bUk?oc=5\" target=\"_blank\">Iran Hangs Protesters as Executions Surge, Rights Groups Say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMnFPdGZsa19vMWtDcGNWWkJ1enVsc3VJLXVVS21vdnVIYW5SWjhNYTU1S1VFN0FseUgycVlCRjFHX1pnaDRjcVE0NGlaQ190OXpydVdlSlRjSWlOelFMTFNpSlRLWVc2azJ4WFozYlR1a19JTGI4amNNN21YaUZkQkxmejI3bUk?oc=5",
-      "publishedAt": "Tue, 28 Jul 2026 19:59:06 GMT",
-      "titleZh": "Iran Hangs Protesters as Executions Surge, Rights Groups Say - The New York Times",
-      "summaryZh": "Iran Hangs Protesters as Executions Surge, Rights Groups Say&nbsp;&nbsp;The New York Times"
     },
     {
       "id": "economist-commentary-0-https://news.google.com/",
@@ -510,6 +497,19 @@
       "publishedAt": "Tue, 28 Jul 2026 19:36:43 GMT",
       "titleZh": "Donald Trump is stalling for time in the war with Iran - The Economist",
       "summaryZh": "Donald Trump is stalling for time in the war with Iran&nbsp;&nbsp;The Economist"
+    },
+    {
+      "id": "nytimes-commentary-7-https://news.google.com/",
+      "sourceId": "nytimes",
+      "source": "The New York Times",
+      "sourceSite": "nytimes.com",
+      "type": "commentary",
+      "title": "Iran Hangs Protesters as Executions Surge, Rights Groups Say - The New York Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOMnFPdGZsa19vMWtDcGNWWkJ1enVsc3VJLXVVS21vdnVIYW5SWjhNYTU1S1VFN0FseUgycVlCRjFHX1pnaDRjcVE0NGlaQ190OXpydVdlSlRjSWlOelFMTFNpSlRLWVc2azJ4WFozYlR1a19JTGI4amNNN21YaUZkQkxmejI3bUk?oc=5\" target=\"_blank\">Iran Hangs Protesters as Executions Surge, Rights Groups Say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMnFPdGZsa19vMWtDcGNWWkJ1enVsc3VJLXVVS21vdnVIYW5SWjhNYTU1S1VFN0FseUgycVlCRjFHX1pnaDRjcVE0NGlaQ190OXpydVdlSlRjSWlOelFMTFNpSlRLWVc2azJ4WFozYlR1a19JTGI4amNNN21YaUZkQkxmejI3bUk?oc=5",
+      "publishedAt": "Tue, 28 Jul 2026 19:23:45 GMT",
+      "titleZh": "Iran Hangs Protesters as Executions Surge, Rights Groups Say - The New York Times",
+      "summaryZh": "Iran Hangs Protesters as Executions Surge, Rights Groups Say&nbsp;&nbsp;The New York Times"
     },
     {
       "id": "nytimes-commentary-3-https://news.google.com/",
@@ -629,7 +629,7 @@
       "summaryZh": "America has few good options for a “massive attack” on Iran&nbsp;&nbsp;The Economist"
     },
     {
-      "id": "nytimes-commentary-7-https://news.google.com/",
+      "id": "nytimes-commentary-6-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -694,7 +694,7 @@
       "summaryZh": "Trump’s Destruction of Iranian Life Is Strengthening the Regime&nbsp;&nbsp;Foreign Policy"
     },
     {
-      "id": "economist-commentary-4-https://news.google.com/",
+      "id": "economist-commentary-6-https://news.google.com/",
       "sourceId": "economist",
       "source": "The Economist",
       "sourceSite": "economist.com",
@@ -733,7 +733,7 @@
       "summaryZh": "How Iran Gained the Upper Hand Over the U.S. and Israel&nbsp;&nbsp;Foreign Policy"
     },
     {
-      "id": "economist-commentary-5-https://news.google.com/",
+      "id": "economist-commentary-4-https://news.google.com/",
       "sourceId": "economist",
       "source": "The Economist",
       "sourceSite": "economist.com",
@@ -785,7 +785,7 @@
       "summaryZh": "Nate Swanson FP Live: The Iran Expert Trump Fired&nbsp;&nbsp;Foreign Policy"
     },
     {
-      "id": "economist-commentary-6-https://news.google.com/",
+      "id": "economist-commentary-5-https://news.google.com/",
       "sourceId": "economist",
       "source": "The Economist",
       "sourceSite": "economist.com",
