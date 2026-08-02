@@ -1,8 +1,21 @@
 {
-  "generatedAt": "2026-08-02T08:15:32.968Z",
-  "totalNews": 18,
-  "totalCommentary": 32,
+  "generatedAt": "2026-08-02T10:37:14.107Z",
+  "totalNews": 19,
+  "totalCommentary": 24,
   "timeline": [
+    {
+      "id": "bbc-news-0-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly' - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9na2VtOEVjWF9TREttVVRmd2Ftc2VtUmV1dXF1QzM0TURGdDk3VUlQZzJIeDhXS1NrazVBQXFNZFNQcVpTUVdUSmFaYXRNeHFmZEtCUXVScmJMUQ?oc=5\" target=\"_blank\">Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9na2VtOEVjWF9TREttVVRmd2Ftc2VtUmV1dXF1QzM0TURGdDk3VUlQZzJIeDhXS1NrazVBQXFNZFNQcVpTUVdUSmFaYXRNeHFmZEtCUXVScmJMUQ?oc=5",
+      "publishedAt": "Sun, 02 Aug 2026 06:24:01 GMT",
+      "titleZh": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly' - BBC",
+      "summaryZh": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'&nbsp;&nbsp;BBC"
+    },
     {
       "id": "bbc-news-1-https://news.google.com/",
       "sourceId": "bbc",
@@ -17,7 +30,7 @@
       "summaryZh": "Trump cancels Iran strike, says ‘deal perimeters’ reached&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-1-https://news.google.com/",
+      "id": "aljazeera-news-0-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -30,33 +43,20 @@
       "summaryZh": "Trump cancels Iran strike, says ‘deal perimeters’ reached&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "bbc-news-0-https://news.google.com/",
-      "sourceId": "bbc",
-      "source": "BBC",
-      "sourceSite": "bbc.com",
-      "type": "news",
-      "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal - BBC",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9na2VtOEVjWF9TREttVVRmd2Ftc2VtUmV1dXF1QzM0TURGdDk3VUlQZzJIeDhXS1NrazVBQXFNZFNQcVpTUVdUSmFaYXRNeHFmZEtCUXVScmJMUQ?oc=5\" target=\"_blank\">Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9na2VtOEVjWF9TREttVVRmd2Ftc2VtUmV1dXF1QzM0TURGdDk3VUlQZzJIeDhXS1NrazVBQXFNZFNQcVpTUVdUSmFaYXRNeHFmZEtCUXVScmJMUQ?oc=5",
-      "publishedAt": "Sun, 02 Aug 2026 03:05:16 GMT",
-      "titleZh": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal - BBC",
-      "summaryZh": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal&nbsp;&nbsp;BBC"
-    },
-    {
       "id": "reuters-news-0-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
       "type": "news",
-      "title": "Trump says he will hold off on fresh Iran attack in hope of quick deal - reuters.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnFCZlNtaWNsWjNfQzZYSUltNnlianRRMlRsUmVqWFNEWlEwWERhVmp5dVdSazcwNmo4bTNzQjNwcW1rS1pYSFRzUXZvUkF5dEFRYzY4T3Q4UUF0ZVBFLXlxVzA5YnRXZTliVWN0M2ZlcV9WVEw4ZjZqblVxOFJ6N2JmX1FMSk5HUXdLWWpOM2l1SWI3b0E2NHB5UU5rLUFRbjRXUEZ6ajZ1VUt1N0JIdURWT1VNbkVHX2UxUVU1b1lFTzY4aFNaOEJ5TTJJdw?oc=5\" target=\"_blank\">Trump says he will hold off on fresh Iran attack in hope of quick deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+      "title": "Trump says he will hold off on fresh Iran attack in hope of quick deal - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnFCZlNtaWNsWjNfQzZYSUltNnlianRRMlRsUmVqWFNEWlEwWERhVmp5dVdSazcwNmo4bTNzQjNwcW1rS1pYSFRzUXZvUkF5dEFRYzY4T3Q4UUF0ZVBFLXlxVzA5YnRXZTliVWN0M2ZlcV9WVEw4ZjZqblVxOFJ6N2JmX1FMSk5HUXdLWWpOM2l1SWI3b0E2NHB5UU5rLUFRbjRXUEZ6ajZ1VUt1N0JIdURWT1VNbkVHX2UxUVU1b1lFTzY4aFNaOEJ5TTJJdw?oc=5\" target=\"_blank\">Trump says he will hold off on fresh Iran attack in hope of quick deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnFCZlNtaWNsWjNfQzZYSUltNnlianRRMlRsUmVqWFNEWlEwWERhVmp5dVdSazcwNmo4bTNzQjNwcW1rS1pYSFRzUXZvUkF5dEFRYzY4T3Q4UUF0ZVBFLXlxVzA5YnRXZTliVWN0M2ZlcV9WVEw4ZjZqblVxOFJ6N2JmX1FMSk5HUXdLWWpOM2l1SWI3b0E2NHB5UU5rLUFRbjRXUEZ6ajZ1VUt1N0JIdURWT1VNbkVHX2UxUVU1b1lFTzY4aFNaOEJ5TTJJdw?oc=5",
       "publishedAt": "Sat, 01 Aug 2026 22:33:00 GMT",
-      "titleZh": "Trump says he will hold off on fresh Iran attack in hope of quick deal - reuters.com",
-      "summaryZh": "Trump says he will hold off on fresh Iran attack in hope of quick deal&nbsp;&nbsp;reuters.com"
+      "titleZh": "Trump says he will hold off on fresh Iran attack in hope of quick deal - Reuters",
+      "summaryZh": "Trump says he will hold off on fresh Iran attack in hope of quick deal&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "aljazeera-news-0-https://news.google.com/",
+      "id": "aljazeera-news-1-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -74,6 +74,19 @@
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
       "type": "news",
+      "title": "Iran: The Making of a War - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNOXlhQ0RCNDduQmNJaTYwanl4aTduRllvamRuQmpZQVg1M0t3T1h0YW1BYnVycWlYdUUzY3VuYURZaFBzUFpNT3c3NExCX2xHb2s5XzFVdHM4VThKd2o0bFk1Z3dJbU9vOW9IdEtQWGpWektfdE9vaXQ1RlJTN1NHdjIzSUdGUkJCbEpKWXhDVnNmd9IBlwFBVV95cUxPWVJ6NG51V2tHeXdPTEs3SjdPbWZKRm9UdEJaTGc2M2o0Nk16VUpJQy1iRTROVGpmeVdYY3FlSllxa3U3Mmk1bVJGRFdGLXVfSXRiQlBTNzFHOVVmQ0lNMnd6Q0FGSFd5VjF5ZnA3YW9XX0FUdUxaN1pZaWdET1B0S3JwSTZnYy14QWZXRjBqY2V4aE5sRl9R?oc=5\" target=\"_blank\">Iran: The Making of a War</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOXlhQ0RCNDduQmNJaTYwanl4aTduRllvamRuQmpZQVg1M0t3T1h0YW1BYnVycWlYdUUzY3VuYURZaFBzUFpNT3c3NExCX2xHb2s5XzFVdHM4VThKd2o0bFk1Z3dJbU9vOW9IdEtQWGpWektfdE9vaXQ1RlJTN1NHdjIzSUdGUkJCbEpKWXhDVnNmd9IBlwFBVV95cUxPWVJ6NG51V2tHeXdPTEs3SjdPbWZKRm9UdEJaTGc2M2o0Nk16VUpJQy1iRTROVGpmeVdYY3FlSllxa3U3Mmk1bVJGRFdGLXVfSXRiQlBTNzFHOVVmQ0lNMnd6Q0FGSFd5VjF5ZnA3YW9XX0FUdUxaN1pZaWdET1B0S3JwSTZnYy14QWZXRjBqY2V4aE5sRl9R?oc=5",
+      "publishedAt": "Sat, 01 Aug 2026 10:37:36 GMT",
+      "titleZh": "Iran: The Making of a War - Al Jazeera",
+      "summaryZh": "Iran: The Making of a War&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "aljazeera-news-3-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
       "title": "Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks - Al Jazeera",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxORkhuN01DMFB3SjRqZ2VCMTgxNDkwdVhIRnBEb3FRQ0FjVDR1R3dqRzFGUkdvNFJqWEstSV9zM0ZRSUtqWFQ3WUtHbkx2LTlnZWctMTJxRzdvZW9WeHZsRWVrcElxOUhZVHN5azdXUHZtMXM4bU1LcGMydVNac0wzZFd0Z1JhMVY3NWJjZDliT3dJcU8zRGpNd1JoQlh4X1dBaWpqWmZJbkx5RV9odm9hbEdod9IBuAFBVV95cUxOUlN3ejg1X3MydEhCNTJqMlJfTi1keE8yaVplcjFZbHBHZF9EVFpDemVPNGhIaEwzV0QtWWVlcU4yS3ZwSUtYeGo0XzdOSkxmUU9GcEI5Y2RuNzg1WFdnTGRyNG50Mnp0aW5IMDBlc0x4b29DYVhWbHJIT2RSbDRRRjNhNEpzb2dueVNIZm1FbDZ0SHE2MjVDWHZpNFp0eEg4OTJpUW9zUWh1WDlIQlNRMEtsNThJMmNh?oc=5\" target=\"_blank\">Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORkhuN01DMFB3SjRqZ2VCMTgxNDkwdVhIRnBEb3FRQ0FjVDR1R3dqRzFGUkdvNFJqWEstSV9zM0ZRSUtqWFQ3WUtHbkx2LTlnZWctMTJxRzdvZW9WeHZsRWVrcElxOUhZVHN5azdXUHZtMXM4bU1LcGMydVNac0wzZFd0Z1JhMVY3NWJjZDliT3dJcU8zRGpNd1JoQlh4X1dBaWpqWmZJbkx5RV9odm9hbEdod9IBuAFBVV95cUxOUlN3ejg1X3MydEhCNTJqMlJfTi1keE8yaVplcjFZbHBHZF9EVFpDemVPNGhIaEwzV0QtWWVlcU4yS3ZwSUtYeGo0XzdOSkxmUU9GcEI5Y2RuNzg1WFdnTGRyNG50Mnp0aW5IMDBlc0x4b29DYVhWbHJIT2RSbDRRRjNhNEpzb2dueVNIZm1FbDZ0SHE2MjVDWHZpNFp0eEg4OTJpUW9zUWh1WDlIQlNRMEtsNThJMmNh?oc=5",
@@ -87,12 +100,12 @@
       "source": "Reuters",
       "sourceSite": "reuters.com",
       "type": "news",
-      "title": "Exxon, Chevron warn of continued high fuel prices from Iran war - reuters.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMjdEbTVuZzlMdmNabW90dk04NEdXMUdBUFNzR2FpcDJYZE9RWnlQdXFNV1NtZkVWZ2J1M0dzTXhwVGJFYlNsUkp2d211bFB4eXRQQXk3RWJ5c1hBZ1BUYnF3VXNiSzFweUpEaktkOUsyLVBISHlZY2dneU5RTnkyeXNTejVUZlpJa3hURjFsMGZkSVUxVUw4QUg0N3pqZjg0UlZVdTNGSG9kZw?oc=5\" target=\"_blank\">Exxon, Chevron warn of continued high fuel prices from Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+      "title": "Exxon, Chevron warn of continued high fuel prices from Iran war - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMjdEbTVuZzlMdmNabW90dk04NEdXMUdBUFNzR2FpcDJYZE9RWnlQdXFNV1NtZkVWZ2J1M0dzTXhwVGJFYlNsUkp2d211bFB4eXRQQXk3RWJ5c1hBZ1BUYnF3VXNiSzFweUpEaktkOUsyLVBISHlZY2dneU5RTnkyeXNTejVUZlpJa3hURjFsMGZkSVUxVUw4QUg0N3pqZjg0UlZVdTNGSG9kZw?oc=5\" target=\"_blank\">Exxon, Chevron warn of continued high fuel prices from Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMjdEbTVuZzlMdmNabW90dk04NEdXMUdBUFNzR2FpcDJYZE9RWnlQdXFNV1NtZkVWZ2J1M0dzTXhwVGJFYlNsUkp2d211bFB4eXRQQXk3RWJ5c1hBZ1BUYnF3VXNiSzFweUpEaktkOUsyLVBISHlZY2dneU5RTnkyeXNTejVUZlpJa3hURjFsMGZkSVUxVUw4QUg0N3pqZjg0UlZVdTNGSG9kZw?oc=5",
       "publishedAt": "Fri, 31 Jul 2026 21:31:46 GMT",
-      "titleZh": "Exxon, Chevron warn of continued high fuel prices from Iran war - reuters.com",
-      "summaryZh": "Exxon, Chevron warn of continued high fuel prices from Iran war&nbsp;&nbsp;reuters.com"
+      "titleZh": "Exxon, Chevron warn of continued high fuel prices from Iran war - Reuters",
+      "summaryZh": "Exxon, Chevron warn of continued high fuel prices from Iran war&nbsp;&nbsp;Reuters"
     },
     {
       "id": "reuters-news-4-https://news.google.com/",
@@ -100,12 +113,12 @@
       "source": "Reuters",
       "sourceSite": "reuters.com",
       "type": "news",
-      "title": "US, Israel planning to bombard energy-related targets in Iran, CBS reports - reuters.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNXpvc21vbVJNVjc3NWg0ZnppblFCM3dmQXFVVTNhc1A1YkhoSTA4Q0tFZ0hQbFN0WUdtRlBza0J1dzBFenk3NW85U0ZWLXA0N1llLVFCNUdmRy1JU2NzOTE2bTFTdmlYUXdZNUphTE1uSE84ZXA0WjBYNkUtX2NBbWpUS08taFBRc0xNdGtoV0F6SHpfdU15dFB1WllYNnVwQkxFWThYelpLZnQyRml2Q0MwLVZ2blFDWl9raA?oc=5\" target=\"_blank\">US, Israel planning to bombard energy-related targets in Iran, CBS reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+      "title": "US, Israel planning to bombard energy-related targets in Iran, CBS reports - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNXpvc21vbVJNVjc3NWg0ZnppblFCM3dmQXFVVTNhc1A1YkhoSTA4Q0tFZ0hQbFN0WUdtRlBza0J1dzBFenk3NW85U0ZWLXA0N1llLVFCNUdmRy1JU2NzOTE2bTFTdmlYUXdZNUphTE1uSE84ZXA0WjBYNkUtX2NBbWpUS08taFBRc0xNdGtoV0F6SHpfdU15dFB1WllYNnVwQkxFWThYelpLZnQyRml2Q0MwLVZ2blFDWl9raA?oc=5\" target=\"_blank\">US, Israel planning to bombard energy-related targets in Iran, CBS reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNXpvc21vbVJNVjc3NWg0ZnppblFCM3dmQXFVVTNhc1A1YkhoSTA4Q0tFZ0hQbFN0WUdtRlBza0J1dzBFenk3NW85U0ZWLXA0N1llLVFCNUdmRy1JU2NzOTE2bTFTdmlYUXdZNUphTE1uSE84ZXA0WjBYNkUtX2NBbWpUS08taFBRc0xNdGtoV0F6SHpfdU15dFB1WllYNnVwQkxFWThYelpLZnQyRml2Q0MwLVZ2blFDWl9raA?oc=5",
       "publishedAt": "Fri, 31 Jul 2026 21:23:27 GMT",
-      "titleZh": "US, Israel planning to bombard energy-related targets in Iran, CBS reports - reuters.com",
-      "summaryZh": "US, Israel planning to bombard energy-related targets in Iran, CBS reports&nbsp;&nbsp;reuters.com"
+      "titleZh": "US, Israel planning to bombard energy-related targets in Iran, CBS reports - Reuters",
+      "summaryZh": "US, Israel planning to bombard energy-related targets in Iran, CBS reports&nbsp;&nbsp;Reuters"
     },
     {
       "id": "bbc-news-2-https://news.google.com/",
@@ -139,12 +152,12 @@
       "source": "Reuters",
       "sourceSite": "reuters.com",
       "type": "news",
-      "title": "US strikes Iran as widening war engulfs more countries - reuters.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNcFJoOXIwZmxCNHBjd05nc3dlYjNXXzd1NzdyQldTOVQ4S3NjZnNDRWdqdG1WUFRUS2tRSkJJTEhQYjJWa1FraklySUtoamVybzBfbUR4aUItanFrRG1hMDZJTzlSQ3lrS25SLUo4QzR0RVQxdmFSVUFaUFpHYWV0cmdnVURNVHJ1QzBzM0pIRTMwUmVFZmxwVVpyTklTallXU2ZLOGl3TDJ1U3VnRzd3bmZnQjVfcUw2a1pWSGdFOTNlUXFa?oc=5\" target=\"_blank\">US strikes Iran as widening war engulfs more countries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+      "title": "US strikes Iran as widening war engulfs more countries - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNcFJoOXIwZmxCNHBjd05nc3dlYjNXXzd1NzdyQldTOVQ4S3NjZnNDRWdqdG1WUFRUS2tRSkJJTEhQYjJWa1FraklySUtoamVybzBfbUR4aUItanFrRG1hMDZJTzlSQ3lrS25SLUo4QzR0RVQxdmFSVUFaUFpHYWV0cmdnVURNVHJ1QzBzM0pIRTMwUmVFZmxwVVpyTklTallXU2ZLOGl3TDJ1U3VnRzd3bmZnQjVfcUw2a1pWSGdFOTNlUXFa?oc=5\" target=\"_blank\">US strikes Iran as widening war engulfs more countries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcFJoOXIwZmxCNHBjd05nc3dlYjNXXzd1NzdyQldTOVQ4S3NjZnNDRWdqdG1WUFRUS2tRSkJJTEhQYjJWa1FraklySUtoamVybzBfbUR4aUItanFrRG1hMDZJTzlSQ3lrS25SLUo4QzR0RVQxdmFSVUFaUFpHYWV0cmdnVURNVHJ1QzBzM0pIRTMwUmVFZmxwVVpyTklTallXU2ZLOGl3TDJ1U3VnRzd3bmZnQjVfcUw2a1pWSGdFOTNlUXFa?oc=5",
       "publishedAt": "Wed, 29 Jul 2026 23:34:01 GMT",
-      "titleZh": "US strikes Iran as widening war engulfs more countries - reuters.com",
-      "summaryZh": "US strikes Iran as widening war engulfs more countries&nbsp;&nbsp;reuters.com"
+      "titleZh": "US strikes Iran as widening war engulfs more countries - Reuters",
+      "summaryZh": "US strikes Iran as widening war engulfs more countries&nbsp;&nbsp;Reuters"
     },
     {
       "id": "reuters-news-3-https://news.google.com/",
@@ -152,12 +165,12 @@
       "source": "Reuters",
       "sourceSite": "reuters.com",
       "type": "news",
-      "title": "Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds - reuters.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPcmJEaUc4b0UwWHY1NzlsOHBDa2Zfb1dpai1kUnc5Z1k3cTgxVUlTUVVUY20tNnZzMGR2MWtwWU9RbEloZWZEWXctMFdOMWt2S0ZVbHFKUlBWRXIxby1pcEFtNjRBM0VVUDRZNVJ2ZE1uVHdhampTelpoX3Brd0M0X0xiQjltcTF2MHNtcTNWLU5talJGOTNZbGhQbUtwRnZiZDctMVFiMS02am5VVXFvNHJtNDFEQTBURzVCM01R?oc=5\" target=\"_blank\">Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+      "title": "Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPcmJEaUc4b0UwWHY1NzlsOHBDa2Zfb1dpai1kUnc5Z1k3cTgxVUlTUVVUY20tNnZzMGR2MWtwWU9RbEloZWZEWXctMFdOMWt2S0ZVbHFKUlBWRXIxby1pcEFtNjRBM0VVUDRZNVJ2ZE1uVHdhampTelpoX3Brd0M0X0xiQjltcTF2MHNtcTNWLU5talJGOTNZbGhQbUtwRnZiZDctMVFiMS02am5VVXFvNHJtNDFEQTBURzVCM01R?oc=5\" target=\"_blank\">Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcmJEaUc4b0UwWHY1NzlsOHBDa2Zfb1dpai1kUnc5Z1k3cTgxVUlTUVVUY20tNnZzMGR2MWtwWU9RbEloZWZEWXctMFdOMWt2S0ZVbHFKUlBWRXIxby1pcEFtNjRBM0VVUDRZNVJ2ZE1uVHdhampTelpoX3Brd0M0X0xiQjltcTF2MHNtcTNWLU5talJGOTNZbGhQbUtwRnZiZDctMVFiMS02am5VVXFvNHJtNDFEQTBURzVCM01R?oc=5",
       "publishedAt": "Mon, 27 Jul 2026 20:55:03 GMT",
-      "titleZh": "Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds - reuters.com",
-      "summaryZh": "Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds&nbsp;&nbsp;reuters.com"
+      "titleZh": "Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds - Reuters",
+      "summaryZh": "Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds&nbsp;&nbsp;Reuters"
     },
     {
       "id": "zaobao-news-0-https://news.google.com/",
@@ -165,12 +178,12 @@
       "source": "联合早报",
       "sourceSite": "zaobao.com.sg",
       "type": "news",
-      "title": "美对伊朗发动第六晚空袭 局势凸显美国掌控海峡局限 - zaobao.com.sg",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBTSGZncXVvX05BNFMtSlZwdkoyWjQyNV9ac1h6bTdoYVNBZDYwYy1EMGY1a0ZDMnlNeGd4Q2Fmd0hHSEFQbm9LRFN6eDdFU21taTM4UWdTSjlyQ0NTQ3ZYeHB4cWh1dVg5dkE?oc=5\" target=\"_blank\">美对伊朗发动第六晚空袭 局势凸显美国掌控海峡局限</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">zaobao.com.sg</font>",
+      "title": "美对伊朗发动第六晚空袭 局势凸显美国掌控海峡局限 - 联合早报",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBTSGZncXVvX05BNFMtSlZwdkoyWjQyNV9ac1h6bTdoYVNBZDYwYy1EMGY1a0ZDMnlNeGd4Q2Fmd0hHSEFQbm9LRFN6eDdFU21taTM4UWdTSjlyQ0NTQ3ZYeHB4cWh1dVg5dkE?oc=5\" target=\"_blank\">美对伊朗发动第六晚空袭 局势凸显美国掌控海峡局限</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTSGZncXVvX05BNFMtSlZwdkoyWjQyNV9ac1h6bTdoYVNBZDYwYy1EMGY1a0ZDMnlNeGd4Q2Fmd0hHSEFQbm9LRFN6eDdFU21taTM4UWdTSjlyQ0NTQ3ZYeHB4cWh1dVg5dkE?oc=5",
       "publishedAt": "Fri, 17 Jul 2026 07:00:00 GMT",
-      "titleZh": "美对伊朗发动第六晚空袭 局势凸显美国掌控海峡局限 - zaobao.com.sg",
-      "summaryZh": "美对伊朗发动第六晚空袭 局势凸显美国掌控海峡局限&nbsp;&nbsp;zaobao.com.sg"
+      "titleZh": "美对伊朗发动第六晚空袭 局势凸显美国掌控海峡局限 - 联合早报",
+      "summaryZh": "美对伊朗发动第六晚空袭 局势凸显美国掌控海峡局限&nbsp;&nbsp;联合早报"
     },
     {
       "id": "bbc-news-6-https://news.google.com/",
@@ -199,7 +212,7 @@
       "summaryZh": "Bowen: 'Middle East is in turmoil' as Iran and Israel attack each other&nbsp;&nbsp;BBC"
     },
     {
-      "id": "aljazeera-news-3-https://news.google.com/",
+      "id": "aljazeera-news-4-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -249,12 +262,12 @@
           "source": "Reuters",
           "sourceSite": "reuters.com",
           "type": "news",
-          "title": "Trump says he will hold off on fresh Iran attack in hope of quick deal - reuters.com",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnFCZlNtaWNsWjNfQzZYSUltNnlianRRMlRsUmVqWFNEWlEwWERhVmp5dVdSazcwNmo4bTNzQjNwcW1rS1pYSFRzUXZvUkF5dEFRYzY4T3Q4UUF0ZVBFLXlxVzA5YnRXZTliVWN0M2ZlcV9WVEw4ZjZqblVxOFJ6N2JmX1FMSk5HUXdLWWpOM2l1SWI3b0E2NHB5UU5rLUFRbjRXUEZ6ajZ1VUt1N0JIdURWT1VNbkVHX2UxUVU1b1lFTzY4aFNaOEJ5TTJJdw?oc=5\" target=\"_blank\">Trump says he will hold off on fresh Iran attack in hope of quick deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+          "title": "Trump says he will hold off on fresh Iran attack in hope of quick deal - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnFCZlNtaWNsWjNfQzZYSUltNnlianRRMlRsUmVqWFNEWlEwWERhVmp5dVdSazcwNmo4bTNzQjNwcW1rS1pYSFRzUXZvUkF5dEFRYzY4T3Q4UUF0ZVBFLXlxVzA5YnRXZTliVWN0M2ZlcV9WVEw4ZjZqblVxOFJ6N2JmX1FMSk5HUXdLWWpOM2l1SWI3b0E2NHB5UU5rLUFRbjRXUEZ6ajZ1VUt1N0JIdURWT1VNbkVHX2UxUVU1b1lFTzY4aFNaOEJ5TTJJdw?oc=5\" target=\"_blank\">Trump says he will hold off on fresh Iran attack in hope of quick deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnFCZlNtaWNsWjNfQzZYSUltNnlianRRMlRsUmVqWFNEWlEwWERhVmp5dVdSazcwNmo4bTNzQjNwcW1rS1pYSFRzUXZvUkF5dEFRYzY4T3Q4UUF0ZVBFLXlxVzA5YnRXZTliVWN0M2ZlcV9WVEw4ZjZqblVxOFJ6N2JmX1FMSk5HUXdLWWpOM2l1SWI3b0E2NHB5UU5rLUFRbjRXUEZ6ajZ1VUt1N0JIdURWT1VNbkVHX2UxUVU1b1lFTzY4aFNaOEJ5TTJJdw?oc=5",
           "publishedAt": "Sat, 01 Aug 2026 22:33:00 GMT",
-          "titleZh": "Trump says he will hold off on fresh Iran attack in hope of quick deal - reuters.com",
-          "summaryZh": "Trump says he will hold off on fresh Iran attack in hope of quick deal&nbsp;&nbsp;reuters.com"
+          "titleZh": "Trump says he will hold off on fresh Iran attack in hope of quick deal - Reuters",
+          "summaryZh": "Trump says he will hold off on fresh Iran attack in hope of quick deal&nbsp;&nbsp;Reuters"
         },
         {
           "id": "reuters-news-2-https://news.google.com/",
@@ -262,12 +275,12 @@
           "source": "Reuters",
           "sourceSite": "reuters.com",
           "type": "news",
-          "title": "Exxon, Chevron warn of continued high fuel prices from Iran war - reuters.com",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMjdEbTVuZzlMdmNabW90dk04NEdXMUdBUFNzR2FpcDJYZE9RWnlQdXFNV1NtZkVWZ2J1M0dzTXhwVGJFYlNsUkp2d211bFB4eXRQQXk3RWJ5c1hBZ1BUYnF3VXNiSzFweUpEaktkOUsyLVBISHlZY2dneU5RTnkyeXNTejVUZlpJa3hURjFsMGZkSVUxVUw4QUg0N3pqZjg0UlZVdTNGSG9kZw?oc=5\" target=\"_blank\">Exxon, Chevron warn of continued high fuel prices from Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+          "title": "Exxon, Chevron warn of continued high fuel prices from Iran war - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMjdEbTVuZzlMdmNabW90dk04NEdXMUdBUFNzR2FpcDJYZE9RWnlQdXFNV1NtZkVWZ2J1M0dzTXhwVGJFYlNsUkp2d211bFB4eXRQQXk3RWJ5c1hBZ1BUYnF3VXNiSzFweUpEaktkOUsyLVBISHlZY2dneU5RTnkyeXNTejVUZlpJa3hURjFsMGZkSVUxVUw4QUg0N3pqZjg0UlZVdTNGSG9kZw?oc=5\" target=\"_blank\">Exxon, Chevron warn of continued high fuel prices from Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMjdEbTVuZzlMdmNabW90dk04NEdXMUdBUFNzR2FpcDJYZE9RWnlQdXFNV1NtZkVWZ2J1M0dzTXhwVGJFYlNsUkp2d211bFB4eXRQQXk3RWJ5c1hBZ1BUYnF3VXNiSzFweUpEaktkOUsyLVBISHlZY2dneU5RTnkyeXNTejVUZlpJa3hURjFsMGZkSVUxVUw4QUg0N3pqZjg0UlZVdTNGSG9kZw?oc=5",
           "publishedAt": "Fri, 31 Jul 2026 21:31:46 GMT",
-          "titleZh": "Exxon, Chevron warn of continued high fuel prices from Iran war - reuters.com",
-          "summaryZh": "Exxon, Chevron warn of continued high fuel prices from Iran war&nbsp;&nbsp;reuters.com"
+          "titleZh": "Exxon, Chevron warn of continued high fuel prices from Iran war - Reuters",
+          "summaryZh": "Exxon, Chevron warn of continued high fuel prices from Iran war&nbsp;&nbsp;Reuters"
         },
         {
           "id": "reuters-news-4-https://news.google.com/",
@@ -275,12 +288,12 @@
           "source": "Reuters",
           "sourceSite": "reuters.com",
           "type": "news",
-          "title": "US, Israel planning to bombard energy-related targets in Iran, CBS reports - reuters.com",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNXpvc21vbVJNVjc3NWg0ZnppblFCM3dmQXFVVTNhc1A1YkhoSTA4Q0tFZ0hQbFN0WUdtRlBza0J1dzBFenk3NW85U0ZWLXA0N1llLVFCNUdmRy1JU2NzOTE2bTFTdmlYUXdZNUphTE1uSE84ZXA0WjBYNkUtX2NBbWpUS08taFBRc0xNdGtoV0F6SHpfdU15dFB1WllYNnVwQkxFWThYelpLZnQyRml2Q0MwLVZ2blFDWl9raA?oc=5\" target=\"_blank\">US, Israel planning to bombard energy-related targets in Iran, CBS reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+          "title": "US, Israel planning to bombard energy-related targets in Iran, CBS reports - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNXpvc21vbVJNVjc3NWg0ZnppblFCM3dmQXFVVTNhc1A1YkhoSTA4Q0tFZ0hQbFN0WUdtRlBza0J1dzBFenk3NW85U0ZWLXA0N1llLVFCNUdmRy1JU2NzOTE2bTFTdmlYUXdZNUphTE1uSE84ZXA0WjBYNkUtX2NBbWpUS08taFBRc0xNdGtoV0F6SHpfdU15dFB1WllYNnVwQkxFWThYelpLZnQyRml2Q0MwLVZ2blFDWl9raA?oc=5\" target=\"_blank\">US, Israel planning to bombard energy-related targets in Iran, CBS reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNXpvc21vbVJNVjc3NWg0ZnppblFCM3dmQXFVVTNhc1A1YkhoSTA4Q0tFZ0hQbFN0WUdtRlBza0J1dzBFenk3NW85U0ZWLXA0N1llLVFCNUdmRy1JU2NzOTE2bTFTdmlYUXdZNUphTE1uSE84ZXA0WjBYNkUtX2NBbWpUS08taFBRc0xNdGtoV0F6SHpfdU15dFB1WllYNnVwQkxFWThYelpLZnQyRml2Q0MwLVZ2blFDWl9raA?oc=5",
           "publishedAt": "Fri, 31 Jul 2026 21:23:27 GMT",
-          "titleZh": "US, Israel planning to bombard energy-related targets in Iran, CBS reports - reuters.com",
-          "summaryZh": "US, Israel planning to bombard energy-related targets in Iran, CBS reports&nbsp;&nbsp;reuters.com"
+          "titleZh": "US, Israel planning to bombard energy-related targets in Iran, CBS reports - Reuters",
+          "summaryZh": "US, Israel planning to bombard energy-related targets in Iran, CBS reports&nbsp;&nbsp;Reuters"
         },
         {
           "id": "reuters-news-1-https://news.google.com/",
@@ -288,12 +301,12 @@
           "source": "Reuters",
           "sourceSite": "reuters.com",
           "type": "news",
-          "title": "US strikes Iran as widening war engulfs more countries - reuters.com",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNcFJoOXIwZmxCNHBjd05nc3dlYjNXXzd1NzdyQldTOVQ4S3NjZnNDRWdqdG1WUFRUS2tRSkJJTEhQYjJWa1FraklySUtoamVybzBfbUR4aUItanFrRG1hMDZJTzlSQ3lrS25SLUo4QzR0RVQxdmFSVUFaUFpHYWV0cmdnVURNVHJ1QzBzM0pIRTMwUmVFZmxwVVpyTklTallXU2ZLOGl3TDJ1U3VnRzd3bmZnQjVfcUw2a1pWSGdFOTNlUXFa?oc=5\" target=\"_blank\">US strikes Iran as widening war engulfs more countries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+          "title": "US strikes Iran as widening war engulfs more countries - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNcFJoOXIwZmxCNHBjd05nc3dlYjNXXzd1NzdyQldTOVQ4S3NjZnNDRWdqdG1WUFRUS2tRSkJJTEhQYjJWa1FraklySUtoamVybzBfbUR4aUItanFrRG1hMDZJTzlSQ3lrS25SLUo4QzR0RVQxdmFSVUFaUFpHYWV0cmdnVURNVHJ1QzBzM0pIRTMwUmVFZmxwVVpyTklTallXU2ZLOGl3TDJ1U3VnRzd3bmZnQjVfcUw2a1pWSGdFOTNlUXFa?oc=5\" target=\"_blank\">US strikes Iran as widening war engulfs more countries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcFJoOXIwZmxCNHBjd05nc3dlYjNXXzd1NzdyQldTOVQ4S3NjZnNDRWdqdG1WUFRUS2tRSkJJTEhQYjJWa1FraklySUtoamVybzBfbUR4aUItanFrRG1hMDZJTzlSQ3lrS25SLUo4QzR0RVQxdmFSVUFaUFpHYWV0cmdnVURNVHJ1QzBzM0pIRTMwUmVFZmxwVVpyTklTallXU2ZLOGl3TDJ1U3VnRzd3bmZnQjVfcUw2a1pWSGdFOTNlUXFa?oc=5",
           "publishedAt": "Wed, 29 Jul 2026 23:34:01 GMT",
-          "titleZh": "US strikes Iran as widening war engulfs more countries - reuters.com",
-          "summaryZh": "US strikes Iran as widening war engulfs more countries&nbsp;&nbsp;reuters.com"
+          "titleZh": "US strikes Iran as widening war engulfs more countries - Reuters",
+          "summaryZh": "US strikes Iran as widening war engulfs more countries&nbsp;&nbsp;Reuters"
         },
         {
           "id": "reuters-news-3-https://news.google.com/",
@@ -301,12 +314,12 @@
           "source": "Reuters",
           "sourceSite": "reuters.com",
           "type": "news",
-          "title": "Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds - reuters.com",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPcmJEaUc4b0UwWHY1NzlsOHBDa2Zfb1dpai1kUnc5Z1k3cTgxVUlTUVVUY20tNnZzMGR2MWtwWU9RbEloZWZEWXctMFdOMWt2S0ZVbHFKUlBWRXIxby1pcEFtNjRBM0VVUDRZNVJ2ZE1uVHdhampTelpoX3Brd0M0X0xiQjltcTF2MHNtcTNWLU5talJGOTNZbGhQbUtwRnZiZDctMVFiMS02am5VVXFvNHJtNDFEQTBURzVCM01R?oc=5\" target=\"_blank\">Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+          "title": "Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPcmJEaUc4b0UwWHY1NzlsOHBDa2Zfb1dpai1kUnc5Z1k3cTgxVUlTUVVUY20tNnZzMGR2MWtwWU9RbEloZWZEWXctMFdOMWt2S0ZVbHFKUlBWRXIxby1pcEFtNjRBM0VVUDRZNVJ2ZE1uVHdhampTelpoX3Brd0M0X0xiQjltcTF2MHNtcTNWLU5talJGOTNZbGhQbUtwRnZiZDctMVFiMS02am5VVXFvNHJtNDFEQTBURzVCM01R?oc=5\" target=\"_blank\">Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcmJEaUc4b0UwWHY1NzlsOHBDa2Zfb1dpai1kUnc5Z1k3cTgxVUlTUVVUY20tNnZzMGR2MWtwWU9RbEloZWZEWXctMFdOMWt2S0ZVbHFKUlBWRXIxby1pcEFtNjRBM0VVUDRZNVJ2ZE1uVHdhampTelpoX3Brd0M0X0xiQjltcTF2MHNtcTNWLU5talJGOTNZbGhQbUtwRnZiZDctMVFiMS02am5VVXFvNHJtNDFEQTBURzVCM01R?oc=5",
           "publishedAt": "Mon, 27 Jul 2026 20:55:03 GMT",
-          "titleZh": "Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds - reuters.com",
-          "summaryZh": "Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds&nbsp;&nbsp;reuters.com"
+          "titleZh": "Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds - Reuters",
+          "summaryZh": "Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds&nbsp;&nbsp;Reuters"
         }
       ]
     },
@@ -314,6 +327,19 @@
       "sourceId": "bbc",
       "source": "BBC",
       "items": [
+        {
+          "id": "bbc-news-0-https://news.google.com/",
+          "sourceId": "bbc",
+          "source": "BBC",
+          "sourceSite": "bbc.com",
+          "type": "news",
+          "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly' - BBC",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9na2VtOEVjWF9TREttVVRmd2Ftc2VtUmV1dXF1QzM0TURGdDk3VUlQZzJIeDhXS1NrazVBQXFNZFNQcVpTUVdUSmFaYXRNeHFmZEtCUXVScmJMUQ?oc=5\" target=\"_blank\">Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9na2VtOEVjWF9TREttVVRmd2Ftc2VtUmV1dXF1QzM0TURGdDk3VUlQZzJIeDhXS1NrazVBQXFNZFNQcVpTUVdUSmFaYXRNeHFmZEtCUXVScmJMUQ?oc=5",
+          "publishedAt": "Sun, 02 Aug 2026 06:24:01 GMT",
+          "titleZh": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly' - BBC",
+          "summaryZh": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'&nbsp;&nbsp;BBC"
+        },
         {
           "id": "bbc-news-1-https://news.google.com/",
           "sourceId": "bbc",
@@ -326,19 +352,6 @@
           "publishedAt": "Sun, 02 Aug 2026 03:47:43 GMT",
           "titleZh": "Trump cancels Iran strike, says ‘deal perimeters’ reached - Al Jazeera",
           "summaryZh": "Trump cancels Iran strike, says ‘deal perimeters’ reached&nbsp;&nbsp;Al Jazeera"
-        },
-        {
-          "id": "bbc-news-0-https://news.google.com/",
-          "sourceId": "bbc",
-          "source": "BBC",
-          "sourceSite": "bbc.com",
-          "type": "news",
-          "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal - BBC",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9na2VtOEVjWF9TREttVVRmd2Ftc2VtUmV1dXF1QzM0TURGdDk3VUlQZzJIeDhXS1NrazVBQXFNZFNQcVpTUVdUSmFaYXRNeHFmZEtCUXVScmJMUQ?oc=5\" target=\"_blank\">Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9na2VtOEVjWF9TREttVVRmd2Ftc2VtUmV1dXF1QzM0TURGdDk3VUlQZzJIeDhXS1NrazVBQXFNZFNQcVpTUVdUSmFaYXRNeHFmZEtCUXVScmJMUQ?oc=5",
-          "publishedAt": "Sun, 02 Aug 2026 03:05:16 GMT",
-          "titleZh": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal - BBC",
-          "summaryZh": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal&nbsp;&nbsp;BBC"
         },
         {
           "id": "bbc-news-2-https://news.google.com/",
@@ -399,7 +412,7 @@
       "source": "Al Jazeera",
       "items": [
         {
-          "id": "aljazeera-news-1-https://news.google.com/",
+          "id": "aljazeera-news-0-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -412,7 +425,7 @@
           "summaryZh": "Trump cancels Iran strike, says ‘deal perimeters’ reached&nbsp;&nbsp;Al Jazeera"
         },
         {
-          "id": "aljazeera-news-0-https://news.google.com/",
+          "id": "aljazeera-news-1-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -430,6 +443,19 @@
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
           "type": "news",
+          "title": "Iran: The Making of a War - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNOXlhQ0RCNDduQmNJaTYwanl4aTduRllvamRuQmpZQVg1M0t3T1h0YW1BYnVycWlYdUUzY3VuYURZaFBzUFpNT3c3NExCX2xHb2s5XzFVdHM4VThKd2o0bFk1Z3dJbU9vOW9IdEtQWGpWektfdE9vaXQ1RlJTN1NHdjIzSUdGUkJCbEpKWXhDVnNmd9IBlwFBVV95cUxPWVJ6NG51V2tHeXdPTEs3SjdPbWZKRm9UdEJaTGc2M2o0Nk16VUpJQy1iRTROVGpmeVdYY3FlSllxa3U3Mmk1bVJGRFdGLXVfSXRiQlBTNzFHOVVmQ0lNMnd6Q0FGSFd5VjF5ZnA3YW9XX0FUdUxaN1pZaWdET1B0S3JwSTZnYy14QWZXRjBqY2V4aE5sRl9R?oc=5\" target=\"_blank\">Iran: The Making of a War</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOXlhQ0RCNDduQmNJaTYwanl4aTduRllvamRuQmpZQVg1M0t3T1h0YW1BYnVycWlYdUUzY3VuYURZaFBzUFpNT3c3NExCX2xHb2s5XzFVdHM4VThKd2o0bFk1Z3dJbU9vOW9IdEtQWGpWektfdE9vaXQ1RlJTN1NHdjIzSUdGUkJCbEpKWXhDVnNmd9IBlwFBVV95cUxPWVJ6NG51V2tHeXdPTEs3SjdPbWZKRm9UdEJaTGc2M2o0Nk16VUpJQy1iRTROVGpmeVdYY3FlSllxa3U3Mmk1bVJGRFdGLXVfSXRiQlBTNzFHOVVmQ0lNMnd6Q0FGSFd5VjF5ZnA3YW9XX0FUdUxaN1pZaWdET1B0S3JwSTZnYy14QWZXRjBqY2V4aE5sRl9R?oc=5",
+          "publishedAt": "Sat, 01 Aug 2026 10:37:36 GMT",
+          "titleZh": "Iran: The Making of a War - Al Jazeera",
+          "summaryZh": "Iran: The Making of a War&nbsp;&nbsp;Al Jazeera"
+        },
+        {
+          "id": "aljazeera-news-3-https://news.google.com/",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "sourceSite": "aljazeera.com",
+          "type": "news",
           "title": "Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks - Al Jazeera",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxORkhuN01DMFB3SjRqZ2VCMTgxNDkwdVhIRnBEb3FRQ0FjVDR1R3dqRzFGUkdvNFJqWEstSV9zM0ZRSUtqWFQ3WUtHbkx2LTlnZWctMTJxRzdvZW9WeHZsRWVrcElxOUhZVHN5azdXUHZtMXM4bU1LcGMydVNac0wzZFd0Z1JhMVY3NWJjZDliT3dJcU8zRGpNd1JoQlh4X1dBaWpqWmZJbkx5RV9odm9hbEdod9IBuAFBVV95cUxOUlN3ejg1X3MydEhCNTJqMlJfTi1keE8yaVplcjFZbHBHZF9EVFpDemVPNGhIaEwzV0QtWWVlcU4yS3ZwSUtYeGo0XzdOSkxmUU9GcEI5Y2RuNzg1WFdnTGRyNG50Mnp0aW5IMDBlc0x4b29DYVhWbHJIT2RSbDRRRjNhNEpzb2dueVNIZm1FbDZ0SHE2MjVDWHZpNFp0eEg4OTJpUW9zUWh1WDlIQlNRMEtsNThJMmNh?oc=5\" target=\"_blank\">Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORkhuN01DMFB3SjRqZ2VCMTgxNDkwdVhIRnBEb3FRQ0FjVDR1R3dqRzFGUkdvNFJqWEstSV9zM0ZRSUtqWFQ3WUtHbkx2LTlnZWctMTJxRzdvZW9WeHZsRWVrcElxOUhZVHN5azdXUHZtMXM4bU1LcGMydVNac0wzZFd0Z1JhMVY3NWJjZDliT3dJcU8zRGpNd1JoQlh4X1dBaWpqWmZJbkx5RV9odm9hbEdod9IBuAFBVV95cUxOUlN3ejg1X3MydEhCNTJqMlJfTi1keE8yaVplcjFZbHBHZF9EVFpDemVPNGhIaEwzV0QtWWVlcU4yS3ZwSUtYeGo0XzdOSkxmUU9GcEI5Y2RuNzg1WFdnTGRyNG50Mnp0aW5IMDBlc0x4b29DYVhWbHJIT2RSbDRRRjNhNEpzb2dueVNIZm1FbDZ0SHE2MjVDWHZpNFp0eEg4OTJpUW9zUWh1WDlIQlNRMEtsNThJMmNh?oc=5",
@@ -438,7 +464,7 @@
           "summaryZh": "Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks&nbsp;&nbsp;Al Jazeera"
         },
         {
-          "id": "aljazeera-news-3-https://news.google.com/",
+          "id": "aljazeera-news-4-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -462,12 +488,12 @@
           "source": "联合早报",
           "sourceSite": "zaobao.com.sg",
           "type": "news",
-          "title": "美对伊朗发动第六晚空袭 局势凸显美国掌控海峡局限 - zaobao.com.sg",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBTSGZncXVvX05BNFMtSlZwdkoyWjQyNV9ac1h6bTdoYVNBZDYwYy1EMGY1a0ZDMnlNeGd4Q2Fmd0hHSEFQbm9LRFN6eDdFU21taTM4UWdTSjlyQ0NTQ3ZYeHB4cWh1dVg5dkE?oc=5\" target=\"_blank\">美对伊朗发动第六晚空袭 局势凸显美国掌控海峡局限</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">zaobao.com.sg</font>",
+          "title": "美对伊朗发动第六晚空袭 局势凸显美国掌控海峡局限 - 联合早报",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBTSGZncXVvX05BNFMtSlZwdkoyWjQyNV9ac1h6bTdoYVNBZDYwYy1EMGY1a0ZDMnlNeGd4Q2Fmd0hHSEFQbm9LRFN6eDdFU21taTM4UWdTSjlyQ0NTQ3ZYeHB4cWh1dVg5dkE?oc=5\" target=\"_blank\">美对伊朗发动第六晚空袭 局势凸显美国掌控海峡局限</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTSGZncXVvX05BNFMtSlZwdkoyWjQyNV9ac1h6bTdoYVNBZDYwYy1EMGY1a0ZDMnlNeGd4Q2Fmd0hHSEFQbm9LRFN6eDdFU21taTM4UWdTSjlyQ0NTQ3ZYeHB4cWh1dVg5dkE?oc=5",
           "publishedAt": "Fri, 17 Jul 2026 07:00:00 GMT",
-          "titleZh": "美对伊朗发动第六晚空袭 局势凸显美国掌控海峡局限 - zaobao.com.sg",
-          "summaryZh": "美对伊朗发动第六晚空袭 局势凸显美国掌控海峡局限&nbsp;&nbsp;zaobao.com.sg"
+          "titleZh": "美对伊朗发动第六晚空袭 局势凸显美国掌控海峡局限 - 联合早报",
+          "summaryZh": "美对伊朗发动第六晚空袭 局势凸显美国掌控海峡局限&nbsp;&nbsp;联合早报"
         }
       ]
     }
@@ -487,7 +513,7 @@
       "summaryZh": "Opinion | This Is What My Father’s Assassination Taught Me About the War in Iran&nbsp;&nbsp;The New York Times"
     },
     {
-      "id": "nytimes-commentary-5-https://news.google.com/",
+      "id": "nytimes-commentary-7-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -500,7 +526,7 @@
       "summaryZh": "Trump Says He Is Canceling Strikes on Iran, Pending a Rapid Deal&nbsp;&nbsp;The New York Times"
     },
     {
-      "id": "nytimes-commentary-7-https://news.google.com/",
+      "id": "nytimes-commentary-5-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -537,19 +563,6 @@
       "publishedAt": "Fri, 31 Jul 2026 11:01:39 GMT",
       "titleZh": "Omission accomplished: why the Iran-war cycle spins on - The Economist",
       "summaryZh": "Omission accomplished: why the Iran-war cycle spins on&nbsp;&nbsp;The Economist"
-    },
-    {
-      "id": "foreignaffairs-commentary-2-https://news.google.com/",
-      "sourceId": "foreignaffairs",
-      "source": "Foreign Affairs",
-      "sourceSite": "foreignaffairs.com",
-      "type": "commentary",
-      "title": "The Ambiguity Spiral in Iran - Foreign Affairs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE05NW5PQjNKc3lyQXpPRFZSNWN2SFV5dHdFeUFjWHFxUG5MSEVPWVQ0QU40N05pdm1BVmNNOWFfeU9abF9MaTEwTDVGM3E2dDNscXdmNmZvdkJDeXNNWkFnakdxME5CNDJ1RzhmclhKYjdSejY0?oc=5\" target=\"_blank\">The Ambiguity Spiral in Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05NW5PQjNKc3lyQXpPRFZSNWN2SFV5dHdFeUFjWHFxUG5MSEVPWVQ0QU40N05pdm1BVmNNOWFfeU9abF9MaTEwTDVGM3E2dDNscXdmNmZvdkJDeXNNWkFnakdxME5CNDJ1RzhmclhKYjdSejY0?oc=5",
-      "publishedAt": "Fri, 31 Jul 2026 04:00:00 GMT",
-      "titleZh": "The Ambiguity Spiral in Iran - Foreign Affairs",
-      "summaryZh": "The Ambiguity Spiral in Iran&nbsp;&nbsp;Foreign Affairs"
     },
     {
       "id": "nytimes-commentary-6-https://news.google.com/",
@@ -656,19 +669,6 @@
       "summaryZh": "World in Brief: Trump says America and Iran are talking; wildfires in France and Spain&nbsp;&nbsp;The Economist"
     },
     {
-      "id": "foreignaffairs-commentary-0-https://news.google.com/",
-      "sourceId": "foreignaffairs",
-      "source": "Foreign Affairs",
-      "sourceSite": "foreignaffairs.com",
-      "type": "commentary",
-      "title": "The Hidden Path to Regime Change in Iran - Foreign Affairs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFA1Y1BhSmpXb0RIM1BQUnpTd2M5c01uRkFMTW80cnczTjJUOUc0WDFJWGZROVZfdnJlNkdqa0h1UU9obDhfQ1MyUUpfWm9QVER3RmkyR3M2UXY5bXh6WDhaMFljeUliV1F5YXJTQlkzNjZfX3F2?oc=5\" target=\"_blank\">The Hidden Path to Regime Change in Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1Y1BhSmpXb0RIM1BQUnpTd2M5c01uRkFMTW80cnczTjJUOUc0WDFJWGZROVZfdnJlNkdqa0h1UU9obDhfQ1MyUUpfWm9QVER3RmkyR3M2UXY5bXh6WDhaMFljeUliV1F5YXJTQlkzNjZfX3F2?oc=5",
-      "publishedAt": "Tue, 28 Jul 2026 04:00:00 GMT",
-      "titleZh": "The Hidden Path to Regime Change in Iran - Foreign Affairs",
-      "summaryZh": "The Hidden Path to Regime Change in Iran&nbsp;&nbsp;Foreign Affairs"
-    },
-    {
       "id": "foreignpolicy-commentary-1-https://news.google.com/",
       "sourceId": "foreignpolicy",
       "source": "Foreign Policy",
@@ -747,19 +747,6 @@
       "summaryZh": "Trump’s Destruction of Iranian Life Is Strengthening the Regime&nbsp;&nbsp;Foreign Policy"
     },
     {
-      "id": "foreignaffairs-commentary-1-https://news.google.com/",
-      "sourceId": "foreignaffairs",
-      "source": "Foreign Affairs",
-      "sourceSite": "foreignaffairs.com",
-      "type": "commentary",
-      "title": "Robert A. Pape: Iran and the New Rules of Global Power - Foreign Affairs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxON01BWU8zRVNXVWNkd18zSWtPcjg1UlA0eTVGbnpRQjhEdGlvaFlMdzdfd3Jva3kteUo0ejJjSDB2VVRPaVA5dF9ha3FMZGRueWxpZkVDbW1wNkExcV8ycE9lX3dnYTlVTlNGSDVqT2pSV3dhcU9DWF9iR25YeWwzUEdsWWxjbTJP?oc=5\" target=\"_blank\">Robert A. Pape: Iran and the New Rules of Global Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON01BWU8zRVNXVWNkd18zSWtPcjg1UlA0eTVGbnpRQjhEdGlvaFlMdzdfd3Jva3kteUo0ejJjSDB2VVRPaVA5dF9ha3FMZGRueWxpZkVDbW1wNkExcV8ycE9lX3dnYTlVTlNGSDVqT2pSV3dhcU9DWF9iR25YeWwzUEdsWWxjbTJP?oc=5",
-      "publishedAt": "Fri, 24 Jul 2026 07:00:00 GMT",
-      "titleZh": "Robert A. Pape: Iran and the New Rules of Global Power - Foreign Affairs",
-      "summaryZh": "Robert A. Pape: Iran and the New Rules of Global Power&nbsp;&nbsp;Foreign Affairs"
-    },
-    {
       "id": "foreignpolicy-commentary-6-https://news.google.com/",
       "sourceId": "foreignpolicy",
       "source": "Foreign Policy",
@@ -773,19 +760,6 @@
       "summaryZh": "How a U.S. Ground Operation in Iran Could Unfold&nbsp;&nbsp;Foreign Policy"
     },
     {
-      "id": "foreignaffairs-commentary-6-https://news.google.com/",
-      "sourceId": "foreignaffairs",
-      "source": "Foreign Affairs",
-      "sourceSite": "foreignaffairs.com",
-      "type": "commentary",
-      "title": "The Iran Cease-Fire Was Doomed to Fail - Foreign Affairs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1NSFc2WnhxRS1UZmJ0TGYxVFJVNGFhN2U4TnpCV19hQk40UFJxV3lfQ0FvZ2JwMFUtRWVaSUQtVTdDVHltbFlURWtiRDlpZFpYeFNSQi1pWUlkSGxNT0NneXVyMkM0eGVUOHEyS1pDcGdJZnZxM1E?oc=5\" target=\"_blank\">The Iran Cease-Fire Was Doomed to Fail</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NSFc2WnhxRS1UZmJ0TGYxVFJVNGFhN2U4TnpCV19hQk40UFJxV3lfQ0FvZ2JwMFUtRWVaSUQtVTdDVHltbFlURWtiRDlpZFpYeFNSQi1pWUlkSGxNT0NneXVyMkM0eGVUOHEyS1pDcGdJZnZxM1E?oc=5",
-      "publishedAt": "Wed, 22 Jul 2026 07:00:00 GMT",
-      "titleZh": "The Iran Cease-Fire Was Doomed to Fail - Foreign Affairs",
-      "summaryZh": "The Iran Cease-Fire Was Doomed to Fail&nbsp;&nbsp;Foreign Affairs"
-    },
-    {
       "id": "foreignpolicy-commentary-2-https://news.google.com/",
       "sourceId": "foreignpolicy",
       "source": "Foreign Policy",
@@ -797,32 +771,6 @@
       "publishedAt": "Wed, 22 Jul 2026 07:00:00 GMT",
       "titleZh": "Trump’s Epic Fury Can’t Resolve His Iran Quagmire - Foreign Policy",
       "summaryZh": "Trump’s Epic Fury Can’t Resolve His Iran Quagmire&nbsp;&nbsp;Foreign Policy"
-    },
-    {
-      "id": "foreignaffairs-commentary-3-https://news.google.com/",
-      "sourceId": "foreignaffairs",
-      "source": "Foreign Affairs",
-      "sourceSite": "foreignaffairs.com",
-      "type": "commentary",
-      "title": "Pakistan Won the War in Iran - Foreign Affairs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE13WmxtVnNjeDU1b2JGRlE2cEpEU196X0pURC02MlBLd21PanpGQU1vY0xCWkswVVJFZlNmdmJuLWNFWHFJNEpVYWRkYWlaRTJobG1WckNCbVFYQlpjYWJJLTlxXzA5N21jb0JkeGtB?oc=5\" target=\"_blank\">Pakistan Won the War in Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13WmxtVnNjeDU1b2JGRlE2cEpEU196X0pURC02MlBLd21PanpGQU1vY0xCWkswVVJFZlNmdmJuLWNFWHFJNEpVYWRkYWlaRTJobG1WckNCbVFYQlpjYWJJLTlxXzA5N21jb0JkeGtB?oc=5",
-      "publishedAt": "Mon, 20 Jul 2026 07:00:00 GMT",
-      "titleZh": "Pakistan Won the War in Iran - Foreign Affairs",
-      "summaryZh": "Pakistan Won the War in Iran&nbsp;&nbsp;Foreign Affairs"
-    },
-    {
-      "id": "foreignaffairs-commentary-4-https://news.google.com/",
-      "sourceId": "foreignaffairs",
-      "source": "Foreign Affairs",
-      "sourceSite": "foreignaffairs.com",
-      "type": "commentary",
-      "title": "Mohammad Javad Zarif: An Iranian Vision of the New Middle East - Foreign Affairs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE16aEdMMjdJNTVCQ0Fwek1jMTF0N2hGWXZMNm9veEVyVno3Y21vNkRpajVBWW03QUlLTS1LY3JJZTQ0RDFvck43MXJ3a0F1TGEyUFdzdHR1SnVZeHVlejItM0RHM2VxTWFnMDJ0TFczdjJXQkZUbHJfWXo4OHg?oc=5\" target=\"_blank\">Mohammad Javad Zarif: An Iranian Vision of the New Middle East</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16aEdMMjdJNTVCQ0Fwek1jMTF0N2hGWXZMNm9veEVyVno3Y21vNkRpajVBWW03QUlLTS1LY3JJZTQ0RDFvck43MXJ3a0F1TGEyUFdzdHR1SnVZeHVlejItM0RHM2VxTWFnMDJ0TFczdjJXQkZUbHJfWXo4OHg?oc=5",
-      "publishedAt": "Mon, 20 Jul 2026 07:00:00 GMT",
-      "titleZh": "Mohammad Javad Zarif: An Iranian Vision of the New Middle East - Foreign Affairs",
-      "summaryZh": "Mohammad Javad Zarif: An Iranian Vision of the New Middle East&nbsp;&nbsp;Foreign Affairs"
     },
     {
       "id": "economist-commentary-4-https://news.google.com/",
@@ -849,32 +797,6 @@
       "publishedAt": "Thu, 16 Jul 2026 07:00:00 GMT",
       "titleZh": "America’s other battle with Iran - The Economist",
       "summaryZh": "America’s other battle with Iran&nbsp;&nbsp;The Economist"
-    },
-    {
-      "id": "foreignaffairs-commentary-5-https://news.google.com/",
-      "sourceId": "foreignaffairs",
-      "source": "Foreign Affairs",
-      "sourceSite": "foreignaffairs.com",
-      "type": "commentary",
-      "title": "America and Iran’s Strange Moment of Opportunity - Foreign Affairs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQTjZsV2NvQkhuQ2s2eVM0NUgxcVNjcHJBYkhYU1dWTWJoU2o0bUt4bXc3M2NCYXloRDZudWlBY0JJMEJvVUlTVlBxR3ZkSXlLam1xZ1NNQllQV2tnaHVQQzB4Y1Q1MzJaT3d4TUlNSG12UElXVnBwQ0V4SlRmcmtGaUxNTF9MSHJDMWZfM182OVVNMEE?oc=5\" target=\"_blank\">America and Iran’s Strange Moment of Opportunity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTjZsV2NvQkhuQ2s2eVM0NUgxcVNjcHJBYkhYU1dWTWJoU2o0bUt4bXc3M2NCYXloRDZudWlBY0JJMEJvVUlTVlBxR3ZkSXlLam1xZ1NNQllQV2tnaHVQQzB4Y1Q1MzJaT3d4TUlNSG12UElXVnBwQ0V4SlRmcmtGaUxNTF9MSHJDMWZfM182OVVNMEE?oc=5",
-      "publishedAt": "Mon, 13 Jul 2026 07:00:00 GMT",
-      "titleZh": "America and Iran’s Strange Moment of Opportunity - Foreign Affairs",
-      "summaryZh": "America and Iran’s Strange Moment of Opportunity&nbsp;&nbsp;Foreign Affairs"
-    },
-    {
-      "id": "foreignaffairs-commentary-7-https://news.google.com/",
-      "sourceId": "foreignaffairs",
-      "source": "Foreign Affairs",
-      "sourceSite": "foreignaffairs.com",
-      "type": "commentary",
-      "title": "Iran Is Losing Iraq - Foreign Affairs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZM1lacVcwYzFiLURaQXNxbkt3dHl2eGZyOEJmNzVsRnJZV1Q4Q2pMeGJJR0c1R1F3OHNNQ3BlRnBTN3RMeUpOYmI5a0NwbV95NENDSERRSExuLXdySHgtZUJn?oc=5\" target=\"_blank\">Iran Is Losing Iraq</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZM1lacVcwYzFiLURaQXNxbkt3dHl2eGZyOEJmNzVsRnJZV1Q4Q2pMeGJJR0c1R1F3OHNNQ3BlRnBTN3RMeUpOYmI5a0NwbV95NENDSERRSExuLXdySHgtZUJn?oc=5",
-      "publishedAt": "Fri, 10 Jul 2026 07:00:00 GMT",
-      "titleZh": "Iran Is Losing Iraq - Foreign Affairs",
-      "summaryZh": "Iran Is Losing Iraq&nbsp;&nbsp;Foreign Affairs"
     },
     {
       "id": "foreignpolicy-commentary-4-https://news.google.com/",
