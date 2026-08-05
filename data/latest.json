@@ -1,36 +1,10 @@
 {
-  "generatedAt": "2026-08-05T13:58:46.761Z",
-  "totalNews": 27,
+  "generatedAt": "2026-08-05T16:28:39.534Z",
+  "totalNews": 29,
   "totalCommentary": 32,
   "timeline": [
     {
-      "id": "bbc-news-0-https://news.google.com/",
-      "sourceId": "bbc",
-      "source": "BBC",
-      "sourceSite": "bbc.com",
-      "type": "news",
-      "title": "Oil giants make record profits as Iran war pushes up prices - BBC",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE85Vl9ONlk4aUZ3NUZ2UHY5N21hcFItQjB2VjJxcFdaTWppR3VBWjI5MlVpbHpITHlKTUhNTFZrNE1sZG1CdllMT2lndjNITV9OTDc2djMtZw?oc=5\" target=\"_blank\">Oil giants make record profits as Iran war pushes up prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85Vl9ONlk4aUZ3NUZ2UHY5N21hcFItQjB2VjJxcFdaTWppR3VBWjI5MlVpbHpITHlKTUhNTFZrNE1sZG1CdllMT2lndjNITV9OTDc2djMtZw?oc=5",
-      "publishedAt": "Wed, 05 Aug 2026 11:03:03 GMT",
-      "titleZh": "Oil giants make record profits as Iran war pushes up prices - BBC",
-      "summaryZh": "Oil giants make record profits as Iran war pushes up prices&nbsp;&nbsp;BBC"
-    },
-    {
-      "id": "aljazeera-news-0-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "Iran war live: Tehran says US not part of talks with Oman to reopen Hormuz - Al Jazeera",
-      "description": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUUhGV2daUXJBYzlucTFkdTlPbHdZMmtEdVJhWXVGX05FeHNMX0FTRElnLU0zaFlYYTN4OVF0U2NhME1kbmZPVl94X3hWb21aSmNPdzdCbk5JZ1RFd1V3eExMYTROX3pHZmJGeGppV1RuMjBVeWtNaGw3OURzdjZoOWtfdngyNFVvRGVpbjd2VU9oNTluMFhvb29NMnplb3ZvT0F5ZTIzNklxWnRoaF9OMVNPaEV4QzZUMUVJ0gHAAUFVX3lxTFA1Vm9kZWlZa0NDT0VBRWJBY0pFNDkxb3FhVkNVdkVmdDdCLVNWMmN6RGVELU1xSkRaOWhYWVVMNkZ3SEpabTFQWjVYdG1sMFRhWVFuUHRxMGdSUVNCbnRIcVlDTk1YMDllTHE2RHFmRlpUQ1h3cEFvOVYwMVJxQWczeEl4TU5nRVF1Xzl1NEtERHJRakJlalhVUnJkcEc5SUpCLURpd3JtQm41eHgxZWxUanhsTHBuTlFDRVNfSHpMMw?oc=5\" target=\"_blank\">Iran war live: Tehran says US not part of talks with Oman to reopen Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE94SHVIanVPU2MyaEFIMXRFY3c3ZHJqeEtWcTY3LVdHN3BtRHF3TWRvRmY3LTlfOUk5X1k0UkR5eFBJcW5sd0hHYmE4bWJxdEhEaTdzbjRWR0lZMUtUZF84aHV2RHMzMjZRYzQxU3dWQzdaZnFoNG04?oc=5\" target=\"_blank\">Trump says Tehran has 'last chance' for deal as negations resume</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE50WEp0b3FlMGIzYTNuYTI2d3Z2NFpKMnpFYmh5QUhVbmQ0RUJuNVlwcFRtU2Vza3Z4SG5aNWtDWi1lQWdscjNsdzFaanFyTXd5QlZQblhEcEJRd0t2SVgxWWNnZHRCNlo0MUF5T2NB?oc=5\" target=\"_blank\">Live updates: Gulf official says only 50-50 chance Hormuz deal reached by Friday despite Trump optimism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li></ol>",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUUhGV2daUXJBYzlucTFkdTlPbHdZMmtEdVJhWXVGX05FeHNMX0FTRElnLU0zaFlYYTN4OVF0U2NhME1kbmZPVl94X3hWb21aSmNPdzdCbk5JZ1RFd1V3eExMYTROX3pHZmJGeGppV1RuMjBVeWtNaGw3OURzdjZoOWtfdngyNFVvRGVpbjd2VU9oNTluMFhvb29NMnplb3ZvT0F5ZTIzNklxWnRoaF9OMVNPaEV4QzZUMUVJ0gHAAUFVX3lxTFA1Vm9kZWlZa0NDT0VBRWJBY0pFNDkxb3FhVkNVdkVmdDdCLVNWMmN6RGVELU1xSkRaOWhYWVVMNkZ3SEpabTFQWjVYdG1sMFRhWVFuUHRxMGdSUVNCbnRIcVlDTk1YMDllTHE2RHFmRlpUQ1h3cEFvOVYwMVJxQWczeEl4TU5nRVF1Xzl1NEtERHJRakJlalhVUnJkcEc5SUpCLURpd3JtQm41eHgxZWxUanhsTHBuTlFDRVNfSHpMMw?oc=5",
-      "publishedAt": "Wed, 05 Aug 2026 11:02:55 GMT",
-      "titleZh": "Iran war live: Tehran says US not part of talks with Oman to reopen Hormuz - Al Jazeera",
-      "summaryZh": "Iran war live: Tehran says US not part of talks with Oman to reopen Hormuz&nbsp;&nbsp;Al JazeeraTrump says Tehran has 'last chance' for deal as negations resume&nbsp;&nbsp;Fox NewsLive updates: Gulf official says only 50"
-    },
-    {
-      "id": "reuters-news-0-https://news.google.com/",
+      "id": "reuters-news-2-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -38,12 +12,64 @@
       "title": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say - Reuters",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQUFpfZEh3NVhNLURNVl9ETWp2ak5nZEx4d0JYQ19WZ3Z6bTl3V2wyUzVLQmFnTkJrZTZtVXd1cnp2dkdXUmh0d1FXUmhfbGQ1a3dKY1ZzQ0pXQTdUcS02X1llNkdFbzFLN0k2YXk2X2JEUTVCV1RBeGdUaFA2VGFzSW9LYlRDQm5senFDSzFVRkxHaXdSazRBWUlTT1pjY00yU1Qw?oc=5\" target=\"_blank\">Proposed Hormuz deal would give Iran control of inbound traffic, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUFpfZEh3NVhNLURNVl9ETWp2ak5nZEx4d0JYQ19WZ3Z6bTl3V2wyUzVLQmFnTkJrZTZtVXd1cnp2dkdXUmh0d1FXUmhfbGQ1a3dKY1ZzQ0pXQTdUcS02X1llNkdFbzFLN0k2YXk2X2JEUTVCV1RBeGdUaFA2VGFzSW9LYlRDQm5senFDSzFVRkxHaXdSazRBWUlTT1pjY00yU1Qw?oc=5",
-      "publishedAt": "Wed, 05 Aug 2026 05:11:00 GMT",
+      "publishedAt": "Wed, 05 Aug 2026 13:08:07 GMT",
       "titleZh": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say - Reuters",
       "summaryZh": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "reuters-news-3-https://news.google.com/",
+      "id": "reuters-news-6-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
+      "type": "news",
+      "title": "Phillips 66 beats quarterly estimates as Iran war boosts US refining margins - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPdFdjb1Q5RzUtcnRaUmV5U2FuN0dBcUZwT3RMa2pqVVVocG8zZmRPV2E1NjhlRTR6TXBsN1NHQ21EUTJvQ0JvV2NtbXhWbHVjMUN3NHFvTzlVR0IxUmxHaTFUbEpNX0xJSFFncjE4UllwaTJ2bm9UVTdHd00xOVBuTmZJVXRCekZPclluTDhFQUF2S3MwcG5rR3VrOE5TdFBHd3piYTRjTW9yVldvZGFVV3lfa1pLNlIzTXloYQ?oc=5\" target=\"_blank\">Phillips 66 beats quarterly estimates as Iran war boosts US refining margins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdFdjb1Q5RzUtcnRaUmV5U2FuN0dBcUZwT3RMa2pqVVVocG8zZmRPV2E1NjhlRTR6TXBsN1NHQ21EUTJvQ0JvV2NtbXhWbHVjMUN3NHFvTzlVR0IxUmxHaTFUbEpNX0xJSFFncjE4UllwaTJ2bm9UVTdHd00xOVBuTmZJVXRCekZPclluTDhFQUF2S3MwcG5rR3VrOE5TdFBHd3piYTRjTW9yVldvZGFVV3lfa1pLNlIzTXloYQ?oc=5",
+      "publishedAt": "Wed, 05 Aug 2026 12:35:44 GMT",
+      "titleZh": "Phillips 66 beats quarterly estimates as Iran war boosts US refining margins - Reuters",
+      "summaryZh": "Phillips 66 beats quarterly estimates as Iran war boosts US refining margins&nbsp;&nbsp;Reuters"
+    },
+    {
+      "id": "bbc-news-1-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "War tactics between Ukraine, Russia, Iran advancing - 13newsnow.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOTRMTEtHYWFEREU3QVQ4LUtfSHBBcklUeFgydHBMTF93cVJaeGwwd0ZMY1NKdnBqZGNOdWRGWFViWFZ5aEZhMlZwc3dpNGlaQmFHdklLVmNCME5jQTBpV1NQWGs0b241RGlKYWxTeDZaeE9EV3g2WE9lZlp1S0E1Ul9xT3d4aVRMZ2Z2ako3OFRXMFVHNEMybEtzb1FHSEZoTU93Vy1NV255T2wyTTJBM1RMckxPM1U0bzEzVEYyZlpBWE9PV1F1azVzR3FYMGZYdUhxcHVVd1V6VEd1UTJ1dlZsek02dU1sLU44?oc=5\" target=\"_blank\">War tactics between Ukraine, Russia, Iran advancing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">13newsnow.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOTRMTEtHYWFEREU3QVQ4LUtfSHBBcklUeFgydHBMTF93cVJaeGwwd0ZMY1NKdnBqZGNOdWRGWFViWFZ5aEZhMlZwc3dpNGlaQmFHdklLVmNCME5jQTBpV1NQWGs0b241RGlKYWxTeDZaeE9EV3g2WE9lZlp1S0E1Ul9xT3d4aVRMZ2Z2ako3OFRXMFVHNEMybEtzb1FHSEZoTU93Vy1NV255T2wyTTJBM1RMckxPM1U0bzEzVEYyZlpBWE9PV1F1azVzR3FYMGZYdUhxcHVVd1V6VEd1UTJ1dlZsek02dU1sLU44?oc=5",
+      "publishedAt": "Wed, 05 Aug 2026 12:17:00 GMT",
+      "titleZh": "War tactics between Ukraine, Russia, Iran advancing - 13newsnow.com",
+      "summaryZh": "War tactics between Ukraine, Russia, Iran advancing&nbsp;&nbsp;13newsnow.com"
+    },
+    {
+      "id": "aljazeera-news-1-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "Iran, Oman, US ‘close’ to Hormuz deal: What do they all want? - aljazeera.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQMFk4RFZhTktDekxOd19jdDhMcW9nRzl4Q05xajU3eGJIZHhnd0RQSzRqMEhQdEgzdzZ4MXpFN2hnVmdxRG5aZjloNHVQZDVwNG4wTDM4d0V4OEhnUmJjYVhsSkphT05zTDRKc0h4QTgyb3VKbjZyZzl4OTB1VzlSdWxJVTBoMGtTWW9MOXRZdU14RXpHQjE4MzhtVdIBoAFBVV95cUxPMk5LUXVYb21QRF9EYV9jUzlEYWZONHhBTHZMcll5RFFzdE11akVabFBKVVR4enRCTzdZTHpmQ21BS0poQnY3cnJZOHlCSUl6T01nUGdLVW5vUnZxYWZpUmlZSW8tWVByQW9Cc2tpSVFRdUN3djdWZzZEak1Hb3dwdktqUlFCX2ZlV19ESkkzTlVPR0tSbnBBUnhGdDFWZDJX?oc=5\" target=\"_blank\">Iran, Oman, US ‘close’ to Hormuz deal: What do they all want?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aljazeera.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMFk4RFZhTktDekxOd19jdDhMcW9nRzl4Q05xajU3eGJIZHhnd0RQSzRqMEhQdEgzdzZ4MXpFN2hnVmdxRG5aZjloNHVQZDVwNG4wTDM4d0V4OEhnUmJjYVhsSkphT05zTDRKc0h4QTgyb3VKbjZyZzl4OTB1VzlSdWxJVTBoMGtTWW9MOXRZdU14RXpHQjE4MzhtVdIBoAFBVV95cUxPMk5LUXVYb21QRF9EYV9jUzlEYWZONHhBTHZMcll5RFFzdE11akVabFBKVVR4enRCTzdZTHpmQ21BS0poQnY3cnJZOHlCSUl6T01nUGdLVW5vUnZxYWZpUmlZSW8tWVByQW9Cc2tpSVFRdUN3djdWZzZEak1Hb3dwdktqUlFCX2ZlV19ESkkzTlVPR0tSbnBBUnhGdDFWZDJX?oc=5",
+      "publishedAt": "Wed, 05 Aug 2026 12:16:49 GMT",
+      "titleZh": "Iran, Oman, US ‘close’ to Hormuz deal: What do they all want? - aljazeera.com",
+      "summaryZh": "Iran, Oman, US ‘close’ to Hormuz deal: What do they all want?&nbsp;&nbsp;aljazeera.com"
+    },
+    {
+      "id": "reuters-news-8-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
+      "type": "news",
+      "title": "Euro zone services revival drives activity in July but outlook clouded by Iran war - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUpBLVkzZ1FST0VMdzh1MmRUdFBYRXFpbmw0Y2swOUU2OGVBWnNYZzBZbGhIV19iYWp2ODVfQm1FTXBqaFRXU1MtRWI0R2VwVzZnNW1iV0hmbk8taEVaT3JNdU10ZmVTbGYzLXB2YW5QYUN2SEFWanNhZXN6YTViN0k1blh0SG9EeTdpaTZYNXlkSVZ3ZExTR2NyMnlfNnJheGFJZVRYOV9VdzRuYW1LbWZOdGhpdnBtYkIyellKTFlCQWpjc0JF?oc=5\" target=\"_blank\">Euro zone services revival drives activity in July but outlook clouded by Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUpBLVkzZ1FST0VMdzh1MmRUdFBYRXFpbmw0Y2swOUU2OGVBWnNYZzBZbGhIV19iYWp2ODVfQm1FTXBqaFRXU1MtRWI0R2VwVzZnNW1iV0hmbk8taEVaT3JNdU10ZmVTbGYzLXB2YW5QYUN2SEFWanNhZXN6YTViN0k1blh0SG9EeTdpaTZYNXlkSVZ3ZExTR2NyMnlfNnJheGFJZVRYOV9VdzRuYW1LbWZOdGhpdnBtYkIyellKTFlCQWpjc0JF?oc=5",
+      "publishedAt": "Wed, 05 Aug 2026 09:02:18 GMT",
+      "titleZh": "Euro zone services revival drives activity in July but outlook clouded by Iran war - Reuters",
+      "summaryZh": "Euro zone services revival drives activity in July but outlook clouded by Iran war&nbsp;&nbsp;Reuters"
+    },
+    {
+      "id": "reuters-news-4-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -56,30 +82,43 @@
       "summaryZh": "Trump says US held 'all-day negotiation' with Iran on Tuesday&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "bbc-news-1-https://news.google.com/",
-      "sourceId": "bbc",
-      "source": "BBC",
-      "sourceSite": "bbc.com",
-      "type": "news",
-      "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall - BBC",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aeEhmWUNMV25kc1lEaUQ5clRfRkY5QzJXcDNVVmV0ZG14NHJUV1BWanpQekNWX3VETUlKWHJySnVMTGNIMnZOYzRNVDhMR2RlTzNJSnVCbzdxUQ?oc=5\" target=\"_blank\">Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aeEhmWUNMV25kc1lEaUQ5clRfRkY5QzJXcDNVVmV0ZG14NHJUV1BWanpQekNWX3VETUlKWHJySnVMTGNIMnZOYzRNVDhMR2RlTzNJSnVCbzdxUQ?oc=5",
-      "publishedAt": "Wed, 05 Aug 2026 03:44:30 GMT",
-      "titleZh": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall - BBC",
-      "summaryZh": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall&nbsp;&nbsp;BBC"
-    },
-    {
       "id": "aljazeera-news-2-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
       "type": "news",
-      "title": "Iran war updates: Tehran says Oman talks on Hormuz advancing ‘positively’ - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNVTd3c0hZM1BYS2M5NXNHcERxemtBcEFPZjBrdWVERGVEUkNLTnhtSTgtX3VDbVdZd3ZzSFNiLVlQMTdMemlqVDdYUHdwaGxrMDRtUEVmeHFrb0Z2MjZYVDVfMktsc0dlczVmQThGZmdITUhVR2xXX1JHaklKV1dHbjBrTWFzNWl4WkxVcG8wSnNnWlNGOUNKZWk4VWdMV1ZpSi04Wl9HSm1ibDlNenRIMmVPcnlKQdIBuwFBVV95cUxPMVRmd25CaE9fcWpyT08zMUw3MFdhSnlrcjNkdE5LRE9yOUFjSWI4cE0yLUY0UFFJQjFNZ1VCcTRHX3pqNlMtY2FBd0dzMUJjdERDdGY1N1N4QkZMTnk2THE1SC1FWFFCb1AydVM1eERmdnNlMUptRFBFQURfOEZfUWFiUElxeEJNbVJXYkRvUjlvamdyVXVxb1VSZlo0Sl93WDZpZklib1JreTY2cm41djdRUWs0bXBpcEFR?oc=5\" target=\"_blank\">Iran war updates: Tehran says Oman talks on Hormuz advancing ‘positively’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "title": "Iran war updates: Tehran says Oman talks on Hormuz advancing ‘positively’ - aljazeera.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNVTd3c0hZM1BYS2M5NXNHcERxemtBcEFPZjBrdWVERGVEUkNLTnhtSTgtX3VDbVdZd3ZzSFNiLVlQMTdMemlqVDdYUHdwaGxrMDRtUEVmeHFrb0Z2MjZYVDVfMktsc0dlczVmQThGZmdITUhVR2xXX1JHaklKV1dHbjBrTWFzNWl4WkxVcG8wSnNnWlNGOUNKZWk4VWdMV1ZpSi04Wl9HSm1ibDlNenRIMmVPcnlKQdIBuwFBVV95cUxPMVRmd25CaE9fcWpyT08zMUw3MFdhSnlrcjNkdE5LRE9yOUFjSWI4cE0yLUY0UFFJQjFNZ1VCcTRHX3pqNlMtY2FBd0dzMUJjdERDdGY1N1N4QkZMTnk2THE1SC1FWFFCb1AydVM1eERmdnNlMUptRFBFQURfOEZfUWFiUElxeEJNbVJXYkRvUjlvamdyVXVxb1VSZlo0Sl93WDZpZklib1JreTY2cm41djdRUWs0bXBpcEFR?oc=5\" target=\"_blank\">Iran war updates: Tehran says Oman talks on Hormuz advancing ‘positively’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aljazeera.com</font>",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVTd3c0hZM1BYS2M5NXNHcERxemtBcEFPZjBrdWVERGVEUkNLTnhtSTgtX3VDbVdZd3ZzSFNiLVlQMTdMemlqVDdYUHdwaGxrMDRtUEVmeHFrb0Z2MjZYVDVfMktsc0dlczVmQThGZmdITUhVR2xXX1JHaklKV1dHbjBrTWFzNWl4WkxVcG8wSnNnWlNGOUNKZWk4VWdMV1ZpSi04Wl9HSm1ibDlNenRIMmVPcnlKQdIBuwFBVV95cUxPMVRmd25CaE9fcWpyT08zMUw3MFdhSnlrcjNkdE5LRE9yOUFjSWI4cE0yLUY0UFFJQjFNZ1VCcTRHX3pqNlMtY2FBd0dzMUJjdERDdGY1N1N4QkZMTnk2THE1SC1FWFFCb1AydVM1eERmdnNlMUptRFBFQURfOEZfUWFiUElxeEJNbVJXYkRvUjlvamdyVXVxb1VSZlo0Sl93WDZpZklib1JreTY2cm41djdRUWs0bXBpcEFR?oc=5",
       "publishedAt": "Tue, 04 Aug 2026 22:22:25 GMT",
-      "titleZh": "Iran war updates: Tehran says Oman talks on Hormuz advancing ‘positively’ - Al Jazeera",
-      "summaryZh": "Iran war updates: Tehran says Oman talks on Hormuz advancing ‘positively’&nbsp;&nbsp;Al Jazeera"
+      "titleZh": "Iran war updates: Tehran says Oman talks on Hormuz advancing ‘positively’ - aljazeera.com",
+      "summaryZh": "Iran war updates: Tehran says Oman talks on Hormuz advancing ‘positively’&nbsp;&nbsp;aljazeera.com"
+    },
+    {
+      "id": "reuters-news-5-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
+      "type": "news",
+      "title": "Qatar says mediators make progress in efforts to end US-Iran war - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY3M2pidURfcVlodzZaVEctbGNSYS1rNlJrR21pQm8yVm50U05QSmRlWURQWWh5UklWZUVMVmlRdzhmbVJrN05IdVNXVW83T3l1TUo0ZjJTMzNURzlOdmNMM2YxY2JwVHQtby1aTFVfZmFnSjRFT0hSaHlzeW50XzNPcUZROG13MUxxNVMwdGd3UkR2cTgyeURHNERQWlUxeFJYR1ln?oc=5\" target=\"_blank\">Qatar says mediators make progress in efforts to end US-Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY3M2pidURfcVlodzZaVEctbGNSYS1rNlJrR21pQm8yVm50U05QSmRlWURQWWh5UklWZUVMVmlRdzhmbVJrN05IdVNXVW83T3l1TUo0ZjJTMzNURzlOdmNMM2YxY2JwVHQtby1aTFVfZmFnSjRFT0hSaHlzeW50XzNPcUZROG13MUxxNVMwdGd3UkR2cTgyeURHNERQWlUxeFJYR1ln?oc=5",
+      "publishedAt": "Tue, 04 Aug 2026 19:35:33 GMT",
+      "titleZh": "Qatar says mediators make progress in efforts to end US-Iran war - Reuters",
+      "summaryZh": "Qatar says mediators make progress in efforts to end US-Iran war&nbsp;&nbsp;Reuters"
+    },
+    {
+      "id": "reuters-news-1-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
+      "type": "news",
+      "title": "Oil prices settle 5% lower after claims of progress in US-Iran talks - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU0VaWUlWWUxJMXVaM1NiVS0yeWUtYWhpTlo4MTh0ZzZkZms3aFVLNVRfR1JISmxrY2d2VmM1UWFKTVFtSlEzYmt0N3ZuRUFLWXd5bzh5QkVXOVRxUVh3VHRnOWkzanJWb2tqUU13cURMRFR3TFphYkFzRVRsbnY5aEpDdTJLLVNLOXpwYzRNckVGQW9TcThhNHdKVlVTZ2Q4SkRraWR5TjlvbmN4VE1rLWViVFNTRUZU?oc=5\" target=\"_blank\">Oil prices settle 5% lower after claims of progress in US-Iran talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU0VaWUlWWUxJMXVaM1NiVS0yeWUtYWhpTlo4MTh0ZzZkZms3aFVLNVRfR1JISmxrY2d2VmM1UWFKTVFtSlEzYmt0N3ZuRUFLWXd5bzh5QkVXOVRxUVh3VHRnOWkzanJWb2tqUU13cURMRFR3TFphYkFzRVRsbnY5aEpDdTJLLVNLOXpwYzRNckVGQW9TcThhNHdKVlVTZ2Q4SkRraWR5TjlvbmN4VE1rLWViVFNTRUZU?oc=5",
+      "publishedAt": "Tue, 04 Aug 2026 19:27:15 GMT",
+      "titleZh": "Oil prices settle 5% lower after claims of progress in US-Iran talks - Reuters",
+      "summaryZh": "Oil prices settle 5% lower after claims of progress in US-Iran talks&nbsp;&nbsp;Reuters"
     },
     {
       "id": "aljazeera-news-3-https://news.google.com/",
@@ -87,28 +126,28 @@
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
       "type": "news",
-      "title": "‘Maximum use’: Iran boosts military strength during ceasefire with US - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ1ZWdFpFZTkyZ1RndkhjTXZhQVlYRmpGX0tNaDJMNFozOU85aUVOZHQ4TUUwMHdSTFd5anZHOVRYeWtEY1lZeWE2YjRyYmpWUWRFNlhOd25uUldsZHpsNU1ZQjd4OE1HZllSWkU5eVR2bENTWFRNQ1pfdXFkTVliajgtWlByWUR6VHMzaGR6bjBBT0NGN2JQMEo2NTE5MVctdnh1aEFEZUVRQdIBrwFBVV95cUxPcVFDVXpySzJYdWpJdzgxeDVIcmJsWm5qaGtTRU91UV9HWXA0blVIOGxFQkhnSXEwazVPRW1GcnpyM242RWVGQml4Tlk3dWhJN2VSOFB0bGJTVEtGTGllSERKeVRadmtob3JTV1dCanl3bHhyRzhObjFoMVVuNWZXRm5VSnBCMEFjT0QxWHl6Q1Y4Nk9RZW9vOEZBYVZMTGtTeXNpT0J0YWhaTmdvQkdZ?oc=5\" target=\"_blank\">‘Maximum use’: Iran boosts military strength during ceasefire with US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "title": "‘Maximum use’: Iran boosts military strength during ceasefire with US - aljazeera.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ1ZWdFpFZTkyZ1RndkhjTXZhQVlYRmpGX0tNaDJMNFozOU85aUVOZHQ4TUUwMHdSTFd5anZHOVRYeWtEY1lZeWE2YjRyYmpWUWRFNlhOd25uUldsZHpsNU1ZQjd4OE1HZllSWkU5eVR2bENTWFRNQ1pfdXFkTVliajgtWlByWUR6VHMzaGR6bjBBT0NGN2JQMEo2NTE5MVctdnh1aEFEZUVRQdIBrwFBVV95cUxPcVFDVXpySzJYdWpJdzgxeDVIcmJsWm5qaGtTRU91UV9HWXA0blVIOGxFQkhnSXEwazVPRW1GcnpyM242RWVGQml4Tlk3dWhJN2VSOFB0bGJTVEtGTGllSERKeVRadmtob3JTV1dCanl3bHhyRzhObjFoMVVuNWZXRm5VSnBCMEFjT0QxWHl6Q1Y4Nk9RZW9vOEZBYVZMTGtTeXNpT0J0YWhaTmdvQkdZ?oc=5\" target=\"_blank\">‘Maximum use’: Iran boosts military strength during ceasefire with US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aljazeera.com</font>",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ1ZWdFpFZTkyZ1RndkhjTXZhQVlYRmpGX0tNaDJMNFozOU85aUVOZHQ4TUUwMHdSTFd5anZHOVRYeWtEY1lZeWE2YjRyYmpWUWRFNlhOd25uUldsZHpsNU1ZQjd4OE1HZllSWkU5eVR2bENTWFRNQ1pfdXFkTVliajgtWlByWUR6VHMzaGR6bjBBT0NGN2JQMEo2NTE5MVctdnh1aEFEZUVRQdIBrwFBVV95cUxPcVFDVXpySzJYdWpJdzgxeDVIcmJsWm5qaGtTRU91UV9HWXA0blVIOGxFQkhnSXEwazVPRW1GcnpyM242RWVGQml4Tlk3dWhJN2VSOFB0bGJTVEtGTGllSERKeVRadmtob3JTV1dCanl3bHhyRzhObjFoMVVuNWZXRm5VSnBCMEFjT0QxWHl6Q1Y4Nk9RZW9vOEZBYVZMTGtTeXNpT0J0YWhaTmdvQkdZ?oc=5",
       "publishedAt": "Tue, 04 Aug 2026 18:37:48 GMT",
-      "titleZh": "‘Maximum use’: Iran boosts military strength during ceasefire with US - Al Jazeera",
-      "summaryZh": "‘Maximum use’: Iran boosts military strength during ceasefire with US&nbsp;&nbsp;Al Jazeera"
+      "titleZh": "‘Maximum use’: Iran boosts military strength during ceasefire with US - aljazeera.com",
+      "summaryZh": "‘Maximum use’: Iran boosts military strength during ceasefire with US&nbsp;&nbsp;aljazeera.com"
     },
     {
-      "id": "aljazeera-news-1-https://news.google.com/",
+      "id": "aljazeera-news-0-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
       "type": "news",
-      "title": "Why are oil companies posting record profits amid Iran war disruption? - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPT1JuMkFnZG9sOWxZLVIwSjhiaHBqUEhETzRrN2JtUEI2TC1jeHlXb2pVSElSeUlRWEFpNWVBRVY5N1JzYWl6c2F5RTdURDRIM3d3UTlJRWVpcDFfSUdsVmFXTkRtNG1ZMWZhZ0hYYVkwRkpBelZrRVphSWhkaF9JYzJPUmw0b1QxbFZFVzI5X0RZc3oxRHZVWDFuZ01mekM1QXhIRDJlcWNNVm5NbHV4VF93SdIBuAFBVV95cUxNUGNjWkxiV09lbUtOV1hlbEU2dEdXTUhtLW5VODAyRmhXUXN4dWczMHdrU3BrdDI3UllXVFNPUjI0MXFfSHBZMHZfWXEzWGJhd3hWUE5neDNyVzN0cHlqUGJEMjdSS21mMmNTbGNEMWk0alB2eFpmVzRCamVJbXFSRnBvUUdsNF9sN3lzVEhfSWJLdFNzclpDUmdlVUVycjdGaTB0cW5YaFlRRXdsYl9SVGdib0R0TjZf?oc=5\" target=\"_blank\">Why are oil companies posting record profits amid Iran war disruption?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "title": "Why are oil companies posting record profits amid Iran war disruption? - aljazeera.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPT1JuMkFnZG9sOWxZLVIwSjhiaHBqUEhETzRrN2JtUEI2TC1jeHlXb2pVSElSeUlRWEFpNWVBRVY5N1JzYWl6c2F5RTdURDRIM3d3UTlJRWVpcDFfSUdsVmFXTkRtNG1ZMWZhZ0hYYVkwRkpBelZrRVphSWhkaF9JYzJPUmw0b1QxbFZFVzI5X0RZc3oxRHZVWDFuZ01mekM1QXhIRDJlcWNNVm5NbHV4VF93SdIBuAFBVV95cUxNUGNjWkxiV09lbUtOV1hlbEU2dEdXTUhtLW5VODAyRmhXUXN4dWczMHdrU3BrdDI3UllXVFNPUjI0MXFfSHBZMHZfWXEzWGJhd3hWUE5neDNyVzN0cHlqUGJEMjdSS21mMmNTbGNEMWk0alB2eFpmVzRCamVJbXFSRnBvUUdsNF9sN3lzVEhfSWJLdFNzclpDUmdlVUVycjdGaTB0cW5YaFlRRXdsYl9SVGdib0R0TjZf?oc=5\" target=\"_blank\">Why are oil companies posting record profits amid Iran war disruption?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aljazeera.com</font>",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT1JuMkFnZG9sOWxZLVIwSjhiaHBqUEhETzRrN2JtUEI2TC1jeHlXb2pVSElSeUlRWEFpNWVBRVY5N1JzYWl6c2F5RTdURDRIM3d3UTlJRWVpcDFfSUdsVmFXTkRtNG1ZMWZhZ0hYYVkwRkpBelZrRVphSWhkaF9JYzJPUmw0b1QxbFZFVzI5X0RZc3oxRHZVWDFuZ01mekM1QXhIRDJlcWNNVm5NbHV4VF93SdIBuAFBVV95cUxNUGNjWkxiV09lbUtOV1hlbEU2dEdXTUhtLW5VODAyRmhXUXN4dWczMHdrU3BrdDI3UllXVFNPUjI0MXFfSHBZMHZfWXEzWGJhd3hWUE5neDNyVzN0cHlqUGJEMjdSS21mMmNTbGNEMWk0alB2eFpmVzRCamVJbXFSRnBvUUdsNF9sN3lzVEhfSWJLdFNzclpDUmdlVUVycjdGaTB0cW5YaFlRRXdsYl9SVGdib0R0TjZf?oc=5",
       "publishedAt": "Tue, 04 Aug 2026 14:06:33 GMT",
-      "titleZh": "Why are oil companies posting record profits amid Iran war disruption? - Al Jazeera",
-      "summaryZh": "Why are oil companies posting record profits amid Iran war disruption?&nbsp;&nbsp;Al Jazeera"
+      "titleZh": "Why are oil companies posting record profits amid Iran war disruption? - aljazeera.com",
+      "summaryZh": "Why are oil companies posting record profits amid Iran war disruption?&nbsp;&nbsp;aljazeera.com"
     },
     {
-      "id": "reuters-news-1-https://news.google.com/",
+      "id": "reuters-news-3-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -121,33 +160,46 @@
       "summaryZh": "Iran demands inbound control of Hormuz and outbound oversight, source says&nbsp;&nbsp;Reuters"
     },
     {
+      "id": "reuters-news-7-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
+      "type": "news",
+      "title": "Aramco says US-Iran war has cost the global market 2.6 billion barrels of oil - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXFsci0ySk53THJaUktvbFlJd0ZjTzhFNmJSU0gtY1B5RElscWFhWHJLWTcxdlJ1SDhhV1dJcmQteVdaT0NLekZaMU05V2tockhvaGFtYlgzbk5OdWpDVEM4TmFoX2FpZFMyQWdxTzJ2SkdzYVExYVdRWHBKVlNPcTBzX1hub05WWk45TE1HVDM?oc=5\" target=\"_blank\">Aramco says US-Iran war has cost the global market 2.6 billion barrels of oil</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXFsci0ySk53THJaUktvbFlJd0ZjTzhFNmJSU0gtY1B5RElscWFhWHJLWTcxdlJ1SDhhV1dJcmQteVdaT0NLekZaMU05V2tockhvaGFtYlgzbk5OdWpDVEM4TmFoX2FpZFMyQWdxTzJ2SkdzYVExYVdRWHBKVlNPcTBzX1hub05WWk45TE1HVDM?oc=5",
+      "publishedAt": "Tue, 04 Aug 2026 13:32:48 GMT",
+      "titleZh": "Aramco says US-Iran war has cost the global market 2.6 billion barrels of oil - Reuters",
+      "summaryZh": "Aramco says US-Iran war has cost the global market 2.6 billion barrels of oil&nbsp;&nbsp;Reuters"
+    },
+    {
       "id": "aljazeera-news-6-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
       "type": "news",
-      "title": "Can Pakistan keep US-Iran diplomacy alive as mistrust deepens? - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNbXdBVDNVNkdBRl9xTlA0NEtKVFd5OXVBamR2OWhTQTFVZHlqY1BOMG9fSHhxSmwxS1R0LWVBT2s1X3lHR1RNdE4zWUFtOUo2Q2lIRUttbUltRWx6OVhuTTVoVUJqU2lRaldaOHMxVjdDQ0RJbnlBZy1laXhmajBLUjFOdnZrRUFyMFNHdnZyUnVRSXdXaVRPWXRPOGl5cDh4U21n0gGoAUFVX3lxTE5TYmg3ZkhmaUE5MXNrVDFiRDVmaW9iZUc3enRQQnp5MWJrNnFHSE5wdEJleFNMTU1KdzlBeGxWV1I3amhhb1pUQmw3cTVxdDIzZ1lDb0lJZXpMQ1R2NXVRVEgyZWpqcHRMcTk0aTZmYTN2Z2l3cTl3REM4QjJLd2t0am9reU42X2ZWZHVKWDZtek1yUkk5OWxubGdsY19veDdCM2JiZUpBNQ?oc=5\" target=\"_blank\">Can Pakistan keep US-Iran diplomacy alive as mistrust deepens?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "title": "Can Pakistan keep US-Iran diplomacy alive as mistrust deepens? - aljazeera.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNbXdBVDNVNkdBRl9xTlA0NEtKVFd5OXVBamR2OWhTQTFVZHlqY1BOMG9fSHhxSmwxS1R0LWVBT2s1X3lHR1RNdE4zWUFtOUo2Q2lIRUttbUltRWx6OVhuTTVoVUJqU2lRaldaOHMxVjdDQ0RJbnlBZy1laXhmajBLUjFOdnZrRUFyMFNHdnZyUnVRSXdXaVRPWXRPOGl5cDh4U21n0gGoAUFVX3lxTE5TYmg3ZkhmaUE5MXNrVDFiRDVmaW9iZUc3enRQQnp5MWJrNnFHSE5wdEJleFNMTU1KdzlBeGxWV1I3amhhb1pUQmw3cTVxdDIzZ1lDb0lJZXpMQ1R2NXVRVEgyZWpqcHRMcTk0aTZmYTN2Z2l3cTl3REM4QjJLd2t0am9reU42X2ZWZHVKWDZtek1yUkk5OWxubGdsY19veDdCM2JiZUpBNQ?oc=5\" target=\"_blank\">Can Pakistan keep US-Iran diplomacy alive as mistrust deepens?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aljazeera.com</font>",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbXdBVDNVNkdBRl9xTlA0NEtKVFd5OXVBamR2OWhTQTFVZHlqY1BOMG9fSHhxSmwxS1R0LWVBT2s1X3lHR1RNdE4zWUFtOUo2Q2lIRUttbUltRWx6OVhuTTVoVUJqU2lRaldaOHMxVjdDQ0RJbnlBZy1laXhmajBLUjFOdnZrRUFyMFNHdnZyUnVRSXdXaVRPWXRPOGl5cDh4U21n0gGoAUFVX3lxTE5TYmg3ZkhmaUE5MXNrVDFiRDVmaW9iZUc3enRQQnp5MWJrNnFHSE5wdEJleFNMTU1KdzlBeGxWV1I3amhhb1pUQmw3cTVxdDIzZ1lDb0lJZXpMQ1R2NXVRVEgyZWpqcHRMcTk0aTZmYTN2Z2l3cTl3REM4QjJLd2t0am9reU42X2ZWZHVKWDZtek1yUkk5OWxubGdsY19veDdCM2JiZUpBNQ?oc=5",
       "publishedAt": "Tue, 04 Aug 2026 12:26:16 GMT",
-      "titleZh": "Can Pakistan keep US-Iran diplomacy alive as mistrust deepens? - Al Jazeera",
-      "summaryZh": "Can Pakistan keep US-Iran diplomacy alive as mistrust deepens?&nbsp;&nbsp;Al Jazeera"
+      "titleZh": "Can Pakistan keep US-Iran diplomacy alive as mistrust deepens? - aljazeera.com",
+      "summaryZh": "Can Pakistan keep US-Iran diplomacy alive as mistrust deepens?&nbsp;&nbsp;aljazeera.com"
     },
     {
-      "id": "aljazeera-news-4-https://news.google.com/",
+      "id": "aljazeera-news-5-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
       "type": "news",
-      "title": "‘One last chance’: The times Trump threatened Iran, said deal imminent - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQWkJYNC1GZEx5WVo5aE9nZklKQ29nYWFpY3J0YnlGOUtlQUNkQThkY0pSd3NwQ2Q4dUVBMk4tdVJBX1FtNFVCU0ZWaDBISXVyNVluUjNxNjJyZXFlclE5NnpTRmxrTlVFbVVVOW8zbWcydG5nT3BRWDVXV29TRmlRSFhOUkZpcXE2VDJ6ZllWeGxvZDhwR2hBekluajl3aFFKdjZRN2Y0bmltc3lBUFlB0gG0AUFVX3lxTE0zdF9BdHg2cXBiX1ZobHhoMURUTnlvbkRZUFNYeHRMLXlIQlRYRnYxemFDUWdfRVlSMGlXaURnRnlKUFZsbEotOTBEYUIxOFpyRWxqMUhRY2pEelJjZ3h0UlV2WDdLZ0pTS3BjekZSU0QxZHJHazR0cG52MkZCaHBOMVZaNV9kUUx0c0VrTUdHQTdJRTVxbGU4VkhodzNXd1QxUXJFQjRWcU9FQ2poZTNZUWtqWQ?oc=5\" target=\"_blank\">‘One last chance’: The times Trump threatened Iran, said deal imminent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "title": "‘One last chance’: The times Trump threatened Iran, said deal imminent - aljazeera.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQWkJYNC1GZEx5WVo5aE9nZklKQ29nYWFpY3J0YnlGOUtlQUNkQThkY0pSd3NwQ2Q4dUVBMk4tdVJBX1FtNFVCU0ZWaDBISXVyNVluUjNxNjJyZXFlclE5NnpTRmxrTlVFbVVVOW8zbWcydG5nT3BRWDVXV29TRmlRSFhOUkZpcXE2VDJ6ZllWeGxvZDhwR2hBekluajl3aFFKdjZRN2Y0bmltc3lBUFlB0gG0AUFVX3lxTE0zdF9BdHg2cXBiX1ZobHhoMURUTnlvbkRZUFNYeHRMLXlIQlRYRnYxemFDUWdfRVlSMGlXaURnRnlKUFZsbEotOTBEYUIxOFpyRWxqMUhRY2pEelJjZ3h0UlV2WDdLZ0pTS3BjekZSU0QxZHJHazR0cG52MkZCaHBOMVZaNV9kUUx0c0VrTUdHQTdJRTVxbGU4VkhodzNXd1QxUXJFQjRWcU9FQ2poZTNZUWtqWQ?oc=5\" target=\"_blank\">‘One last chance’: The times Trump threatened Iran, said deal imminent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aljazeera.com</font>",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWkJYNC1GZEx5WVo5aE9nZklKQ29nYWFpY3J0YnlGOUtlQUNkQThkY0pSd3NwQ2Q4dUVBMk4tdVJBX1FtNFVCU0ZWaDBISXVyNVluUjNxNjJyZXFlclE5NnpTRmxrTlVFbVVVOW8zbWcydG5nT3BRWDVXV29TRmlRSFhOUkZpcXE2VDJ6ZllWeGxvZDhwR2hBekluajl3aFFKdjZRN2Y0bmltc3lBUFlB0gG0AUFVX3lxTE0zdF9BdHg2cXBiX1ZobHhoMURUTnlvbkRZUFNYeHRMLXlIQlRYRnYxemFDUWdfRVlSMGlXaURnRnlKUFZsbEotOTBEYUIxOFpyRWxqMUhRY2pEelJjZ3h0UlV2WDdLZ0pTS3BjekZSU0QxZHJHazR0cG52MkZCaHBOMVZaNV9kUUx0c0VrTUdHQTdJRTVxbGU4VkhodzNXd1QxUXJFQjRWcU9FQ2poZTNZUWtqWQ?oc=5",
       "publishedAt": "Tue, 04 Aug 2026 10:56:21 GMT",
-      "titleZh": "‘One last chance’: The times Trump threatened Iran, said deal imminent - Al Jazeera",
-      "summaryZh": "‘One last chance’: The times Trump threatened Iran, said deal imminent&nbsp;&nbsp;Al Jazeera"
+      "titleZh": "‘One last chance’: The times Trump threatened Iran, said deal imminent - aljazeera.com",
+      "summaryZh": "‘One last chance’: The times Trump threatened Iran, said deal imminent&nbsp;&nbsp;aljazeera.com"
     },
     {
-      "id": "reuters-news-5-https://news.google.com/",
+      "id": "reuters-news-0-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -160,56 +212,17 @@
       "summaryZh": "EXCLUSIVE: US has used 'virtually all' of its long-range precision missiles during Iran war, sources say&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "reuters-news-4-https://news.google.com/",
-      "sourceId": "reuters",
-      "source": "Reuters",
-      "sourceSite": "reuters.com",
-      "type": "news",
-      "title": "Aramco says US-Iran war has cost the global market 2.6 billion barrels of oil - Reuters",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXFsci0ySk53THJaUktvbFlJd0ZjTzhFNmJSU0gtY1B5RElscWFhWHJLWTcxdlJ1SDhhV1dJcmQteVdaT0NLekZaMU05V2tockhvaGFtYlgzbk5OdWpDVEM4TmFoX2FpZFMyQWdxTzJ2SkdzYVExYVdRWHBKVlNPcTBzX1hub05WWk45TE1HVDM?oc=5\" target=\"_blank\">Aramco says US-Iran war has cost the global market 2.6 billion barrels of oil</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXFsci0ySk53THJaUktvbFlJd0ZjTzhFNmJSU0gtY1B5RElscWFhWHJLWTcxdlJ1SDhhV1dJcmQteVdaT0NLekZaMU05V2tockhvaGFtYlgzbk5OdWpDVEM4TmFoX2FpZFMyQWdxTzJ2SkdzYVExYVdRWHBKVlNPcTBzX1hub05WWk45TE1HVDM?oc=5",
-      "publishedAt": "Tue, 04 Aug 2026 05:32:00 GMT",
-      "titleZh": "Aramco says US-Iran war has cost the global market 2.6 billion barrels of oil - Reuters",
-      "summaryZh": "Aramco says US-Iran war has cost the global market 2.6 billion barrels of oil&nbsp;&nbsp;Reuters"
-    },
-    {
-      "id": "reuters-news-6-https://news.google.com/",
-      "sourceId": "reuters",
-      "source": "Reuters",
-      "sourceSite": "reuters.com",
-      "type": "news",
-      "title": "Qatar says mediators make progress in efforts to end US-Iran war - Reuters",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY3M2pidURfcVlodzZaVEctbGNSYS1rNlJrR21pQm8yVm50U05QSmRlWURQWWh5UklWZUVMVmlRdzhmbVJrN05IdVNXVW83T3l1TUo0ZjJTMzNURzlOdmNMM2YxY2JwVHQtby1aTFVfZmFnSjRFT0hSaHlzeW50XzNPcUZROG13MUxxNVMwdGd3UkR2cTgyeURHNERQWlUxeFJYR1ln?oc=5\" target=\"_blank\">Qatar says mediators make progress in efforts to end US-Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY3M2pidURfcVlodzZaVEctbGNSYS1rNlJrR21pQm8yVm50U05QSmRlWURQWWh5UklWZUVMVmlRdzhmbVJrN05IdVNXVW83T3l1TUo0ZjJTMzNURzlOdmNMM2YxY2JwVHQtby1aTFVfZmFnSjRFT0hSaHlzeW50XzNPcUZROG13MUxxNVMwdGd3UkR2cTgyeURHNERQWlUxeFJYR1ln?oc=5",
-      "publishedAt": "Tue, 04 Aug 2026 03:41:00 GMT",
-      "titleZh": "Qatar says mediators make progress in efforts to end US-Iran war - Reuters",
-      "summaryZh": "Qatar says mediators make progress in efforts to end US-Iran war&nbsp;&nbsp;Reuters"
-    },
-    {
-      "id": "reuters-news-2-https://news.google.com/",
-      "sourceId": "reuters",
-      "source": "Reuters",
-      "sourceSite": "reuters.com",
-      "type": "news",
-      "title": "Oil prices settle 5% lower after claims of progress in US-Iran talks - Reuters",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU0VaWUlWWUxJMXVaM1NiVS0yeWUtYWhpTlo4MTh0ZzZkZms3aFVLNVRfR1JISmxrY2d2VmM1UWFKTVFtSlEzYmt0N3ZuRUFLWXd5bzh5QkVXOVRxUVh3VHRnOWkzanJWb2tqUU13cURMRFR3TFphYkFzRVRsbnY5aEpDdTJLLVNLOXpwYzRNckVGQW9TcThhNHdKVlVTZ2Q4SkRraWR5TjlvbmN4VE1rLWViVFNTRUZU?oc=5\" target=\"_blank\">Oil prices settle 5% lower after claims of progress in US-Iran talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU0VaWUlWWUxJMXVaM1NiVS0yeWUtYWhpTlo4MTh0ZzZkZms3aFVLNVRfR1JISmxrY2d2VmM1UWFKTVFtSlEzYmt0N3ZuRUFLWXd5bzh5QkVXOVRxUVh3VHRnOWkzanJWb2tqUU13cURMRFR3TFphYkFzRVRsbnY5aEpDdTJLLVNLOXpwYzRNckVGQW9TcThhNHdKVlVTZ2Q4SkRraWR5TjlvbmN4VE1rLWViVFNTRUZU?oc=5",
-      "publishedAt": "Tue, 04 Aug 2026 01:02:00 GMT",
-      "titleZh": "Oil prices settle 5% lower after claims of progress in US-Iran talks - Reuters",
-      "summaryZh": "Oil prices settle 5% lower after claims of progress in US-Iran talks&nbsp;&nbsp;Reuters"
-    },
-    {
-      "id": "aljazeera-news-5-https://news.google.com/",
+      "id": "aljazeera-news-4-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
       "type": "news",
-      "title": "Iran war updates: Trump says talks ongoing, says ‘last chance’ for a deal - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPUmVFUVgwZ2Izb1FIaVF0Z3U3Sjhtc3NFM0JUWkhNcHpOUXRCZEY4SkhkcDZyNWNXOEJYRDJ5SnBGLXVwak5zSWtnNGZCM29wcF9TWk1Mcm5CRWJJY1diVzlicHNvV3h0NjBETzJWTFlfM2xmUUFLdGZHcERjdElXNWhoSXBjM0lKRkEyR29KemhDbzlKWVlJR0ZRYXRad2FXTHdYSlZCV3E1Y05JVm8tbk1PTXVVMnItQzVpRHoxQdIBxAFBVV95cUxPSEdtMjB6bUhkd0JYOUFYOXlGYlJuSWt5Z1l3VVk5aWU3bWd0bjJNUENNQm9iYXdnYzBTTzhpUkliTGhtT3N6NTJfQUtmLTlPYmU4TkN2c1k3OFo3ZzdvczQ1QmRpM01XaTZWbnA4bzBpMXRaTkVEUHU3N2w0RldGTHZNek5ZaW5ka3BoOHB6M3p1TDlGR3UxWFdZTGpTZEZINHF6MXZpQlk4bGROSkJoRUlxTUxjdFVEMDhYbVI2eGJqNF9Y?oc=5\" target=\"_blank\">Iran war updates: Trump says talks ongoing, says ‘last chance’ for a deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "title": "Iran war updates: Trump says talks ongoing, says ‘last chance’ for a deal - aljazeera.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPUmVFUVgwZ2Izb1FIaVF0Z3U3Sjhtc3NFM0JUWkhNcHpOUXRCZEY4SkhkcDZyNWNXOEJYRDJ5SnBGLXVwak5zSWtnNGZCM29wcF9TWk1Mcm5CRWJJY1diVzlicHNvV3h0NjBETzJWTFlfM2xmUUFLdGZHcERjdElXNWhoSXBjM0lKRkEyR29KemhDbzlKWVlJR0ZRYXRad2FXTHdYSlZCV3E1Y05JVm8tbk1PTXVVMnItQzVpRHoxQdIBxAFBVV95cUxPSEdtMjB6bUhkd0JYOUFYOXlGYlJuSWt5Z1l3VVk5aWU3bWd0bjJNUENNQm9iYXdnYzBTTzhpUkliTGhtT3N6NTJfQUtmLTlPYmU4TkN2c1k3OFo3ZzdvczQ1QmRpM01XaTZWbnA4bzBpMXRaTkVEUHU3N2w0RldGTHZNek5ZaW5ka3BoOHB6M3p1TDlGR3UxWFdZTGpTZEZINHF6MXZpQlk4bGROSkJoRUlxTUxjdFVEMDhYbVI2eGJqNF9Y?oc=5\" target=\"_blank\">Iran war updates: Trump says talks ongoing, says ‘last chance’ for a deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aljazeera.com</font>",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUmVFUVgwZ2Izb1FIaVF0Z3U3Sjhtc3NFM0JUWkhNcHpOUXRCZEY4SkhkcDZyNWNXOEJYRDJ5SnBGLXVwak5zSWtnNGZCM29wcF9TWk1Mcm5CRWJJY1diVzlicHNvV3h0NjBETzJWTFlfM2xmUUFLdGZHcERjdElXNWhoSXBjM0lKRkEyR29KemhDbzlKWVlJR0ZRYXRad2FXTHdYSlZCV3E1Y05JVm8tbk1PTXVVMnItQzVpRHoxQdIBxAFBVV95cUxPSEdtMjB6bUhkd0JYOUFYOXlGYlJuSWt5Z1l3VVk5aWU3bWd0bjJNUENNQm9iYXdnYzBTTzhpUkliTGhtT3N6NTJfQUtmLTlPYmU4TkN2c1k3OFo3ZzdvczQ1QmRpM01XaTZWbnA4bzBpMXRaTkVEUHU3N2w0RldGTHZNek5ZaW5ka3BoOHB6M3p1TDlGR3UxWFdZTGpTZEZINHF6MXZpQlk4bGROSkJoRUlxTUxjdFVEMDhYbVI2eGJqNF9Y?oc=5",
       "publishedAt": "Tue, 04 Aug 2026 00:17:39 GMT",
-      "titleZh": "Iran war updates: Trump says talks ongoing, says ‘last chance’ for a deal - Al Jazeera",
-      "summaryZh": "Iran war updates: Trump says talks ongoing, says ‘last chance’ for a deal&nbsp;&nbsp;Al Jazeera"
+      "titleZh": "Iran war updates: Trump says talks ongoing, says ‘last chance’ for a deal - aljazeera.com",
+      "summaryZh": "Iran war updates: Trump says talks ongoing, says ‘last chance’ for a deal&nbsp;&nbsp;aljazeera.com"
     },
     {
       "id": "bbc-news-2-https://news.google.com/",
@@ -230,25 +243,12 @@
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
       "type": "news",
-      "title": "Iran war updates: Trump says negotiations with Tehran to begin Monday - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQckRfaGFCa29xN2dPU2hUOUJVcjBTWFQyRW9UeGlfd2JzaVpVLUV0XzdSQmFwOFRBTlN2dF9wXzVzN1duRVVWa29jMWYxUmV0Z1poMlU1MlZ6TjZzbS12Ym03M0NRWm1CNG9HdHB4RVlMM3dORW5CYUtDSDBhRnBmQkc2a2FDS2U2VGlCYWVUR0ZHY3g1S0JjTHlOX1JZWEZSZEs1N01JZmQxV1hvVzd3QkJyWWVZSTJF0gG-AUFVX3lxTE9TRlJmVm5vQy1UaVNfMzMtamJHS25fNXNnZUlDaUhlRWV0cGhtR0cycXVLcjFXZlZFcWdWaWpOZHRfaUlEYzhQa2t3a0Y0QXN2U2NvazRfc19ZcWJUZFVTblVQUllqc1p3aUdUeUxWMEVNTXNDeWxabDhVMXRBRUdaY3hYLTk3Vy0wVVRTVi1wUkdrV1dqRUY1aWc3VGc0VkpPamRUcXdIY1FxXzJQd1ZJUHBYYlNEUTlOS1BJVXc?oc=5\" target=\"_blank\">Iran war updates: Trump says negotiations with Tehran to begin Monday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "title": "Iran war updates: Trump says negotiations with Tehran to begin Monday - aljazeera.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQckRfaGFCa29xN2dPU2hUOUJVcjBTWFQyRW9UeGlfd2JzaVpVLUV0XzdSQmFwOFRBTlN2dF9wXzVzN1duRVVWa29jMWYxUmV0Z1poMlU1MlZ6TjZzbS12Ym03M0NRWm1CNG9HdHB4RVlMM3dORW5CYUtDSDBhRnBmQkc2a2FDS2U2VGlCYWVUR0ZHY3g1S0JjTHlOX1JZWEZSZEs1N01JZmQxV1hvVzd3QkJyWWVZSTJF0gG-AUFVX3lxTE9TRlJmVm5vQy1UaVNfMzMtamJHS25fNXNnZUlDaUhlRWV0cGhtR0cycXVLcjFXZlZFcWdWaWpOZHRfaUlEYzhQa2t3a0Y0QXN2U2NvazRfc19ZcWJUZFVTblVQUllqc1p3aUdUeUxWMEVNTXNDeWxabDhVMXRBRUdaY3hYLTk3Vy0wVVRTVi1wUkdrV1dqRUY1aWc3VGc0VkpPamRUcXdIY1FxXzJQd1ZJUHBYYlNEUTlOS1BJVXc?oc=5\" target=\"_blank\">Iran war updates: Trump says negotiations with Tehran to begin Monday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aljazeera.com</font>",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQckRfaGFCa29xN2dPU2hUOUJVcjBTWFQyRW9UeGlfd2JzaVpVLUV0XzdSQmFwOFRBTlN2dF9wXzVzN1duRVVWa29jMWYxUmV0Z1poMlU1MlZ6TjZzbS12Ym03M0NRWm1CNG9HdHB4RVlMM3dORW5CYUtDSDBhRnBmQkc2a2FDS2U2VGlCYWVUR0ZHY3g1S0JjTHlOX1JZWEZSZEs1N01JZmQxV1hvVzd3QkJyWWVZSTJF0gG-AUFVX3lxTE9TRlJmVm5vQy1UaVNfMzMtamJHS25fNXNnZUlDaUhlRWV0cGhtR0cycXVLcjFXZlZFcWdWaWpOZHRfaUlEYzhQa2t3a0Y0QXN2U2NvazRfc19ZcWJUZFVTblVQUllqc1p3aUdUeUxWMEVNTXNDeWxabDhVMXRBRUdaY3hYLTk3Vy0wVVRTVi1wUkdrV1dqRUY1aWc3VGc0VkpPamRUcXdIY1FxXzJQd1ZJUHBYYlNEUTlOS1BJVXc?oc=5",
       "publishedAt": "Sun, 02 Aug 2026 22:12:09 GMT",
-      "titleZh": "Iran war updates: Trump says negotiations with Tehran to begin Monday - Al Jazeera",
-      "summaryZh": "Iran war updates: Trump says negotiations with Tehran to begin Monday&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "bbc-news-4-https://news.google.com/",
-      "sourceId": "bbc",
-      "source": "BBC",
-      "sourceSite": "bbc.com",
-      "type": "news",
-      "title": "特朗普表示同意取消对伊朗的打击，前提是能“迅速”达成协议 - BBC",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BdjlWMlp1b1Uxa0pvUFpYd2NsTjlEV3d6OTh1QkNlY0tTSWM4X0g1MkZYV3hjcjZucUYtVm9zZHhYN21qc0JvX0t3cXBIYk1wTVNxbk9mMmY1WWlfYWl4ajhBQzZ4QdIBa0FVX3lxTE5hVXU2SW1QMzNRZTJQbG1IbW9MQVRZZmxWWW5aSFg4RzkzaUJ2Q2hUWGVHcnhLSl85SC05d3lZQklIRkthNWd2bFhFYUtNWDFQR010aGJHOHg4T0o3RjNJdkNlQk1PbkZFMGln?oc=5\" target=\"_blank\">特朗普表示同意取消对伊朗的打击，前提是能“迅速”达成协议</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BdjlWMlp1b1Uxa0pvUFpYd2NsTjlEV3d6OTh1QkNlY0tTSWM4X0g1MkZYV3hjcjZucUYtVm9zZHhYN21qc0JvX0t3cXBIYk1wTVNxbk9mMmY1WWlfYWl4ajhBQzZ4QdIBa0FVX3lxTE5hVXU2SW1QMzNRZTJQbG1IbW9MQVRZZmxWWW5aSFg4RzkzaUJ2Q2hUWGVHcnhLSl85SC05d3lZQklIRkthNWd2bFhFYUtNWDFQR010aGJHOHg4T0o3RjNJdkNlQk1PbkZFMGln?oc=5",
-      "publishedAt": "Sun, 02 Aug 2026 06:22:10 GMT",
-      "titleZh": "特朗普表示同意取消对伊朗的打击，前提是能“迅速”达成协议 - BBC",
-      "summaryZh": "特朗普表示同意取消对伊朗的打击，前提是能“迅速”达成协议&nbsp;&nbsp;BBC"
+      "titleZh": "Iran war updates: Trump says negotiations with Tehran to begin Monday - aljazeera.com",
+      "summaryZh": "Iran war updates: Trump says negotiations with Tehran to begin Monday&nbsp;&nbsp;aljazeera.com"
     },
     {
       "id": "aljazeera-news-8-https://news.google.com/",
@@ -256,12 +256,12 @@
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
       "type": "news",
-      "title": "Iran war updates: Trump says US in talks with Iran, hopes for ‘good things’ - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNdENxTVZ4dF90R0xReVUzUlh1dG1JeEd5ZGdPRFRlTlltYjZWcWhQcWlmcDhGMzhrTlgxVThFSk1xR3BMOU1lU1AwSGJZV1Q4eXNRcWhWQVNzelEtSTVTRlhZWXYyOEFrU25NdFdpN2duQmh6YUcwWklXTllJZnduMzllUndPMjdpcWM5cG15NjdqZ1ZlZTB3a3NxZjJIeGJMMGR0UjhaWHRzeUsyTVRDUnJfQVc3UFdYWWl2S9IBwgFBVV95cUxPY0NMOHJKUmVxVG9IU3ZhNjZFd0FLZTBYNWFjdmQxYUFYS3phTE9rRjExVm9ibHY3TTNxZEZMUnc0UnZQeFktbl9YZWlhNjh0SDhISV9OX3JEaW85QVM4blZwYkZuaUNTX0xUVW5MdE5xcEVPYjkyTWJoMkhiNlc2Q3VKUFdDZkpmbVZSRmRoSkNlWU5aN0FVa1JBUnQ5dENFYmJaOERPdUpUQkZWYTl5N1BaWjc5SWtNSFR0NkNNXzR0dw?oc=5\" target=\"_blank\">Iran war updates: Trump says US in talks with Iran, hopes for ‘good things’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "title": "Iran war updates: Trump says US in talks with Iran, hopes for ‘good things’ - aljazeera.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNdENxTVZ4dF90R0xReVUzUlh1dG1JeEd5ZGdPRFRlTlltYjZWcWhQcWlmcDhGMzhrTlgxVThFSk1xR3BMOU1lU1AwSGJZV1Q4eXNRcWhWQVNzelEtSTVTRlhZWXYyOEFrU25NdFdpN2duQmh6YUcwWklXTllJZnduMzllUndPMjdpcWM5cG15NjdqZ1ZlZTB3a3NxZjJIeGJMMGR0UjhaWHRzeUsyTVRDUnJfQVc3UFdYWWl2S9IBwgFBVV95cUxPY0NMOHJKUmVxVG9IU3ZhNjZFd0FLZTBYNWFjdmQxYUFYS3phTE9rRjExVm9ibHY3TTNxZEZMUnc0UnZQeFktbl9YZWlhNjh0SDhISV9OX3JEaW85QVM4blZwYkZuaUNTX0xUVW5MdE5xcEVPYjkyTWJoMkhiNlc2Q3VKUFdDZkpmbVZSRmRoSkNlWU5aN0FVa1JBUnQ5dENFYmJaOERPdUpUQkZWYTl5N1BaWjc5SWtNSFR0NkNNXzR0dw?oc=5\" target=\"_blank\">Iran war updates: Trump says US in talks with Iran, hopes for ‘good things’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aljazeera.com</font>",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdENxTVZ4dF90R0xReVUzUlh1dG1JeEd5ZGdPRFRlTlltYjZWcWhQcWlmcDhGMzhrTlgxVThFSk1xR3BMOU1lU1AwSGJZV1Q4eXNRcWhWQVNzelEtSTVTRlhZWXYyOEFrU25NdFdpN2duQmh6YUcwWklXTllJZnduMzllUndPMjdpcWM5cG15NjdqZ1ZlZTB3a3NxZjJIeGJMMGR0UjhaWHRzeUsyTVRDUnJfQVc3UFdYWWl2S9IBwgFBVV95cUxPY0NMOHJKUmVxVG9IU3ZhNjZFd0FLZTBYNWFjdmQxYUFYS3phTE9rRjExVm9ibHY3TTNxZEZMUnc0UnZQeFktbl9YZWlhNjh0SDhISV9OX3JEaW85QVM4blZwYkZuaUNTX0xUVW5MdE5xcEVPYjkyTWJoMkhiNlc2Q3VKUFdDZkpmbVZSRmRoSkNlWU5aN0FVa1JBUnQ5dENFYmJaOERPdUpUQkZWYTl5N1BaWjc5SWtNSFR0NkNNXzR0dw?oc=5",
       "publishedAt": "Mon, 27 Jul 2026 07:00:00 GMT",
-      "titleZh": "Iran war updates: Trump says US in talks with Iran, hopes for ‘good things’ - Al Jazeera",
-      "summaryZh": "Iran war updates: Trump says US in talks with Iran, hopes for ‘good things’&nbsp;&nbsp;Al Jazeera"
+      "titleZh": "Iran war updates: Trump says US in talks with Iran, hopes for ‘good things’ - aljazeera.com",
+      "summaryZh": "Iran war updates: Trump says US in talks with Iran, hopes for ‘good things’&nbsp;&nbsp;aljazeera.com"
     },
     {
       "id": "aljazeera-news-9-https://news.google.com/",
@@ -269,12 +269,12 @@
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
       "type": "news",
-      "title": "Iran war updates: US says new strikes under way; Trump threatens bridges - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOd2d4ajBjWjdUZEplZjlpNS1mWkRLZ2hqU0VUNUx4TXFsVEhVd25ZWWxENGNsWUNidVNiVThJQWhyRHpHYjhZRXFhQ2tQbGxwSFRiZHJ4YmFLZFFaNWVlQ1piRVYwYUtXcGZGaTBZaEp1a2J3X2VseGpRUmUwZEU3Mm1oVzN2TnZwU05pLVFBOExkUVI4YlBJLWhIbEp0ME43VXlHeGhKNEJUVy03WEZROUtJeXJqVmUzaDBCONIBwgFBVV95cUxNZnlKX1pwZUQxSFo1NnE3ZF85MmRwWE84UmhaaEdvQmtXYmtxTEI4dVRFU19XSGZtU1VTdkQtajN1Q3pkNEN5akcwalBUTlNYUTJYbVZOZkQtX21ET3c3U19ZaUwwTHY3M2o4b1NsYUpEcnhtTEpaOWZLVlhNcUF3X0RMNzNRdzFxbzFoQ2FoNkluS1ZHVllwb3o0d092UWY2dVB3UEQwOHNZMEVwR3pvdWJaeWJSTkNQbnpyLWhSTzB4QQ?oc=5\" target=\"_blank\">Iran war updates: US says new strikes under way; Trump threatens bridges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "title": "Iran war updates: US says new strikes under way; Trump threatens bridges - aljazeera.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOd2d4ajBjWjdUZEplZjlpNS1mWkRLZ2hqU0VUNUx4TXFsVEhVd25ZWWxENGNsWUNidVNiVThJQWhyRHpHYjhZRXFhQ2tQbGxwSFRiZHJ4YmFLZFFaNWVlQ1piRVYwYUtXcGZGaTBZaEp1a2J3X2VseGpRUmUwZEU3Mm1oVzN2TnZwU05pLVFBOExkUVI4YlBJLWhIbEp0ME43VXlHeGhKNEJUVy03WEZROUtJeXJqVmUzaDBCONIBwgFBVV95cUxNZnlKX1pwZUQxSFo1NnE3ZF85MmRwWE84UmhaaEdvQmtXYmtxTEI4dVRFU19XSGZtU1VTdkQtajN1Q3pkNEN5akcwalBUTlNYUTJYbVZOZkQtX21ET3c3U19ZaUwwTHY3M2o4b1NsYUpEcnhtTEpaOWZLVlhNcUF3X0RMNzNRdzFxbzFoQ2FoNkluS1ZHVllwb3o0d092UWY2dVB3UEQwOHNZMEVwR3pvdWJaeWJSTkNQbnpyLWhSTzB4QQ?oc=5\" target=\"_blank\">Iran war updates: US says new strikes under way; Trump threatens bridges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aljazeera.com</font>",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd2d4ajBjWjdUZEplZjlpNS1mWkRLZ2hqU0VUNUx4TXFsVEhVd25ZWWxENGNsWUNidVNiVThJQWhyRHpHYjhZRXFhQ2tQbGxwSFRiZHJ4YmFLZFFaNWVlQ1piRVYwYUtXcGZGaTBZaEp1a2J3X2VseGpRUmUwZEU3Mm1oVzN2TnZwU05pLVFBOExkUVI4YlBJLWhIbEp0ME43VXlHeGhKNEJUVy03WEZROUtJeXJqVmUzaDBCONIBwgFBVV95cUxNZnlKX1pwZUQxSFo1NnE3ZF85MmRwWE84UmhaaEdvQmtXYmtxTEI4dVRFU19XSGZtU1VTdkQtajN1Q3pkNEN5akcwalBUTlNYUTJYbVZOZkQtX21ET3c3U19ZaUwwTHY3M2o4b1NsYUpEcnhtTEpaOWZLVlhNcUF3X0RMNzNRdzFxbzFoQ2FoNkluS1ZHVllwb3o0d092UWY2dVB3UEQwOHNZMEVwR3pvdWJaeWJSTkNQbnpyLWhSTzB4QQ?oc=5",
       "publishedAt": "Wed, 22 Jul 2026 07:00:00 GMT",
-      "titleZh": "Iran war updates: US says new strikes under way; Trump threatens bridges - Al Jazeera",
-      "summaryZh": "Iran war updates: US says new strikes under way; Trump threatens bridges&nbsp;&nbsp;Al Jazeera"
+      "titleZh": "Iran war updates: US says new strikes under way; Trump threatens bridges - aljazeera.com",
+      "summaryZh": "Iran war updates: US says new strikes under way; Trump threatens bridges&nbsp;&nbsp;aljazeera.com"
     },
     {
       "id": "zaobao-news-0-https://news.google.com/",
@@ -303,6 +303,19 @@
       "summaryZh": "伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限&nbsp;&nbsp;BBC"
     },
     {
+      "id": "bbc-news-0-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "Trump claims deal to end Iran war near as Tehran says 'nothing' finalised - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CZ3VSOW56bGZiUEhTVENaV2ttSVBVMjN3Wmd1bHJwNUU3NWdPVnN5S0VabDdKVUs3aE9MU2p6bXQ4TGtqNHZ6ai1STVFiWkdwdlNFbWxia0ZDUQ?oc=5\" target=\"_blank\">Trump claims deal to end Iran war near as Tehran says 'nothing' finalised</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CZ3VSOW56bGZiUEhTVENaV2ttSVBVMjN3Wmd1bHJwNUU3NWdPVnN5S0VabDdKVUs3aE9MU2p6bXQ4TGtqNHZ6ai1STVFiWkdwdlNFbWxia0ZDUQ?oc=5",
+      "publishedAt": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "titleZh": "Trump claims deal to end Iran war near as Tehran says 'nothing' finalised - BBC",
+      "summaryZh": "Trump claims deal to end Iran war near as Tehran says 'nothing' finalised&nbsp;&nbsp;BBC"
+    },
+    {
       "id": "bbc-news-8-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
@@ -314,6 +327,19 @@
       "publishedAt": "Fri, 12 Jun 2026 07:00:00 GMT",
       "titleZh": "特朗普称伊朗停战协议接近完成，德黑兰称未有定案 - BBC",
       "summaryZh": "特朗普称伊朗停战协议接近完成，德黑兰称未有定案&nbsp;&nbsp;BBC"
+    },
+    {
+      "id": "bbc-news-4-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "US and Iran exchange strikes across Middle East for second day in a row - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE55WWJEczNyUXZjeUZ5WkhHSl9Nd20tSGl1MzZrTmpZNFVDQlZkeFAxbEwyUk9LTmstMTFZaXBoNDdzZUZJR0M4cXBqelVHTWY1NlpOMXFiUWMtZw?oc=5\" target=\"_blank\">US and Iran exchange strikes across Middle East for second day in a row</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55WWJEczNyUXZjeUZ5WkhHSl9Nd20tSGl1MzZrTmpZNFVDQlZkeFAxbEwyUk9LTmstMTFZaXBoNDdzZUZJR0M4cXBqelVHTWY1NlpOMXFiUWMtZw?oc=5",
+      "publishedAt": "Thu, 11 Jun 2026 07:00:00 GMT",
+      "titleZh": "US and Iran exchange strikes across Middle East for second day in a row - BBC",
+      "summaryZh": "US and Iran exchange strikes across Middle East for second day in a row&nbsp;&nbsp;BBC"
     },
     {
       "id": "bbc-news-6-https://news.google.com/",
@@ -361,7 +387,7 @@
       "source": "Reuters",
       "items": [
         {
-          "id": "reuters-news-0-https://news.google.com/",
+          "id": "reuters-news-2-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -369,12 +395,38 @@
           "title": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say - Reuters",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQUFpfZEh3NVhNLURNVl9ETWp2ak5nZEx4d0JYQ19WZ3Z6bTl3V2wyUzVLQmFnTkJrZTZtVXd1cnp2dkdXUmh0d1FXUmhfbGQ1a3dKY1ZzQ0pXQTdUcS02X1llNkdFbzFLN0k2YXk2X2JEUTVCV1RBeGdUaFA2VGFzSW9LYlRDQm5senFDSzFVRkxHaXdSazRBWUlTT1pjY00yU1Qw?oc=5\" target=\"_blank\">Proposed Hormuz deal would give Iran control of inbound traffic, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUFpfZEh3NVhNLURNVl9ETWp2ak5nZEx4d0JYQ19WZ3Z6bTl3V2wyUzVLQmFnTkJrZTZtVXd1cnp2dkdXUmh0d1FXUmhfbGQ1a3dKY1ZzQ0pXQTdUcS02X1llNkdFbzFLN0k2YXk2X2JEUTVCV1RBeGdUaFA2VGFzSW9LYlRDQm5senFDSzFVRkxHaXdSazRBWUlTT1pjY00yU1Qw?oc=5",
-          "publishedAt": "Wed, 05 Aug 2026 05:11:00 GMT",
+          "publishedAt": "Wed, 05 Aug 2026 13:08:07 GMT",
           "titleZh": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say - Reuters",
           "summaryZh": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say&nbsp;&nbsp;Reuters"
         },
         {
-          "id": "reuters-news-3-https://news.google.com/",
+          "id": "reuters-news-6-https://news.google.com/",
+          "sourceId": "reuters",
+          "source": "Reuters",
+          "sourceSite": "reuters.com",
+          "type": "news",
+          "title": "Phillips 66 beats quarterly estimates as Iran war boosts US refining margins - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPdFdjb1Q5RzUtcnRaUmV5U2FuN0dBcUZwT3RMa2pqVVVocG8zZmRPV2E1NjhlRTR6TXBsN1NHQ21EUTJvQ0JvV2NtbXhWbHVjMUN3NHFvTzlVR0IxUmxHaTFUbEpNX0xJSFFncjE4UllwaTJ2bm9UVTdHd00xOVBuTmZJVXRCekZPclluTDhFQUF2S3MwcG5rR3VrOE5TdFBHd3piYTRjTW9yVldvZGFVV3lfa1pLNlIzTXloYQ?oc=5\" target=\"_blank\">Phillips 66 beats quarterly estimates as Iran war boosts US refining margins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdFdjb1Q5RzUtcnRaUmV5U2FuN0dBcUZwT3RMa2pqVVVocG8zZmRPV2E1NjhlRTR6TXBsN1NHQ21EUTJvQ0JvV2NtbXhWbHVjMUN3NHFvTzlVR0IxUmxHaTFUbEpNX0xJSFFncjE4UllwaTJ2bm9UVTdHd00xOVBuTmZJVXRCekZPclluTDhFQUF2S3MwcG5rR3VrOE5TdFBHd3piYTRjTW9yVldvZGFVV3lfa1pLNlIzTXloYQ?oc=5",
+          "publishedAt": "Wed, 05 Aug 2026 12:35:44 GMT",
+          "titleZh": "Phillips 66 beats quarterly estimates as Iran war boosts US refining margins - Reuters",
+          "summaryZh": "Phillips 66 beats quarterly estimates as Iran war boosts US refining margins&nbsp;&nbsp;Reuters"
+        },
+        {
+          "id": "reuters-news-8-https://news.google.com/",
+          "sourceId": "reuters",
+          "source": "Reuters",
+          "sourceSite": "reuters.com",
+          "type": "news",
+          "title": "Euro zone services revival drives activity in July but outlook clouded by Iran war - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUpBLVkzZ1FST0VMdzh1MmRUdFBYRXFpbmw0Y2swOUU2OGVBWnNYZzBZbGhIV19iYWp2ODVfQm1FTXBqaFRXU1MtRWI0R2VwVzZnNW1iV0hmbk8taEVaT3JNdU10ZmVTbGYzLXB2YW5QYUN2SEFWanNhZXN6YTViN0k1blh0SG9EeTdpaTZYNXlkSVZ3ZExTR2NyMnlfNnJheGFJZVRYOV9VdzRuYW1LbWZOdGhpdnBtYkIyellKTFlCQWpjc0JF?oc=5\" target=\"_blank\">Euro zone services revival drives activity in July but outlook clouded by Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUpBLVkzZ1FST0VMdzh1MmRUdFBYRXFpbmw0Y2swOUU2OGVBWnNYZzBZbGhIV19iYWp2ODVfQm1FTXBqaFRXU1MtRWI0R2VwVzZnNW1iV0hmbk8taEVaT3JNdU10ZmVTbGYzLXB2YW5QYUN2SEFWanNhZXN6YTViN0k1blh0SG9EeTdpaTZYNXlkSVZ3ZExTR2NyMnlfNnJheGFJZVRYOV9VdzRuYW1LbWZOdGhpdnBtYkIyellKTFlCQWpjc0JF?oc=5",
+          "publishedAt": "Wed, 05 Aug 2026 09:02:18 GMT",
+          "titleZh": "Euro zone services revival drives activity in July but outlook clouded by Iran war - Reuters",
+          "summaryZh": "Euro zone services revival drives activity in July but outlook clouded by Iran war&nbsp;&nbsp;Reuters"
+        },
+        {
+          "id": "reuters-news-4-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -387,46 +439,7 @@
           "summaryZh": "Trump says US held 'all-day negotiation' with Iran on Tuesday&nbsp;&nbsp;Reuters"
         },
         {
-          "id": "reuters-news-1-https://news.google.com/",
-          "sourceId": "reuters",
-          "source": "Reuters",
-          "sourceSite": "reuters.com",
-          "type": "news",
-          "title": "Iran demands inbound control of Hormuz and outbound oversight, source says - Reuters",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOSjFmUC1OVjJCS05weXNFTmhaZkRab0dwSVV1LXJ5dEp2ZVNxX0l6QVdLQTN3SUdtSS1pOVF4OEYxRzZHbUJNeXk5ZmJnUG5FVVFScEJnOEUyM3FLWWhzQk8yME1VcW42X3dPOURqRi03QlN6RnZLMGFfWW5LWUVmUDctVDR0YXRhWTAwbTJRaUdKYTNJb2NuS2hrNjRpOVdlZjBPRTVzNXhUbjRpdmRFSGdkVHlGUnpJYjRGTQ?oc=5\" target=\"_blank\">Iran demands inbound control of Hormuz and outbound oversight, source says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSjFmUC1OVjJCS05weXNFTmhaZkRab0dwSVV1LXJ5dEp2ZVNxX0l6QVdLQTN3SUdtSS1pOVF4OEYxRzZHbUJNeXk5ZmJnUG5FVVFScEJnOEUyM3FLWWhzQk8yME1VcW42X3dPOURqRi03QlN6RnZLMGFfWW5LWUVmUDctVDR0YXRhWTAwbTJRaUdKYTNJb2NuS2hrNjRpOVdlZjBPRTVzNXhUbjRpdmRFSGdkVHlGUnpJYjRGTQ?oc=5",
-          "publishedAt": "Tue, 04 Aug 2026 13:46:35 GMT",
-          "titleZh": "Iran demands inbound control of Hormuz and outbound oversight, source says - Reuters",
-          "summaryZh": "Iran demands inbound control of Hormuz and outbound oversight, source says&nbsp;&nbsp;Reuters"
-        },
-        {
           "id": "reuters-news-5-https://news.google.com/",
-          "sourceId": "reuters",
-          "source": "Reuters",
-          "sourceSite": "reuters.com",
-          "type": "news",
-          "title": "EXCLUSIVE: US has used 'virtually all' of its long-range precision missiles during Iran war, sources say - Reuters",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjVoa01lTFhQYVMtVjRxRWZKSng1YzFUTTNJOVI1T1pWZVNKc1czOWhJWHB3VDFFWnVrY3lLT1FnSVBfU1M1RFdrU2FsYVlKZXdhVm9VbF9PaEFNeGVMR0ZtNmlEeGhkWG1iang1U0kzb3hmWENGSnNXODRzdnZYaE1LYkY4Vm1hbzJEcEl1ZzZIRVBQLS1nYUYyTWdDdjZjXzN0NmtuZm5IV2FEdlBQby1UUnBqc0FF?oc=5\" target=\"_blank\">EXCLUSIVE: US has used 'virtually all' of its long-range precision missiles during Iran war, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjVoa01lTFhQYVMtVjRxRWZKSng1YzFUTTNJOVI1T1pWZVNKc1czOWhJWHB3VDFFWnVrY3lLT1FnSVBfU1M1RFdrU2FsYVlKZXdhVm9VbF9PaEFNeGVMR0ZtNmlEeGhkWG1iang1U0kzb3hmWENGSnNXODRzdnZYaE1LYkY4Vm1hbzJEcEl1ZzZIRVBQLS1nYUYyTWdDdjZjXzN0NmtuZm5IV2FEdlBQby1UUnBqc0FF?oc=5",
-          "publishedAt": "Tue, 04 Aug 2026 10:08:00 GMT",
-          "titleZh": "EXCLUSIVE: US has used 'virtually all' of its long-range precision missiles during Iran war, sources say - Reuters",
-          "summaryZh": "EXCLUSIVE: US has used 'virtually all' of its long-range precision missiles during Iran war, sources say&nbsp;&nbsp;Reuters"
-        },
-        {
-          "id": "reuters-news-4-https://news.google.com/",
-          "sourceId": "reuters",
-          "source": "Reuters",
-          "sourceSite": "reuters.com",
-          "type": "news",
-          "title": "Aramco says US-Iran war has cost the global market 2.6 billion barrels of oil - Reuters",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXFsci0ySk53THJaUktvbFlJd0ZjTzhFNmJSU0gtY1B5RElscWFhWHJLWTcxdlJ1SDhhV1dJcmQteVdaT0NLekZaMU05V2tockhvaGFtYlgzbk5OdWpDVEM4TmFoX2FpZFMyQWdxTzJ2SkdzYVExYVdRWHBKVlNPcTBzX1hub05WWk45TE1HVDM?oc=5\" target=\"_blank\">Aramco says US-Iran war has cost the global market 2.6 billion barrels of oil</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXFsci0ySk53THJaUktvbFlJd0ZjTzhFNmJSU0gtY1B5RElscWFhWHJLWTcxdlJ1SDhhV1dJcmQteVdaT0NLekZaMU05V2tockhvaGFtYlgzbk5OdWpDVEM4TmFoX2FpZFMyQWdxTzJ2SkdzYVExYVdRWHBKVlNPcTBzX1hub05WWk45TE1HVDM?oc=5",
-          "publishedAt": "Tue, 04 Aug 2026 05:32:00 GMT",
-          "titleZh": "Aramco says US-Iran war has cost the global market 2.6 billion barrels of oil - Reuters",
-          "summaryZh": "Aramco says US-Iran war has cost the global market 2.6 billion barrels of oil&nbsp;&nbsp;Reuters"
-        },
-        {
-          "id": "reuters-news-6-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -434,9 +447,22 @@
           "title": "Qatar says mediators make progress in efforts to end US-Iran war - Reuters",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY3M2pidURfcVlodzZaVEctbGNSYS1rNlJrR21pQm8yVm50U05QSmRlWURQWWh5UklWZUVMVmlRdzhmbVJrN05IdVNXVW83T3l1TUo0ZjJTMzNURzlOdmNMM2YxY2JwVHQtby1aTFVfZmFnSjRFT0hSaHlzeW50XzNPcUZROG13MUxxNVMwdGd3UkR2cTgyeURHNERQWlUxeFJYR1ln?oc=5\" target=\"_blank\">Qatar says mediators make progress in efforts to end US-Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY3M2pidURfcVlodzZaVEctbGNSYS1rNlJrR21pQm8yVm50U05QSmRlWURQWWh5UklWZUVMVmlRdzhmbVJrN05IdVNXVW83T3l1TUo0ZjJTMzNURzlOdmNMM2YxY2JwVHQtby1aTFVfZmFnSjRFT0hSaHlzeW50XzNPcUZROG13MUxxNVMwdGd3UkR2cTgyeURHNERQWlUxeFJYR1ln?oc=5",
-          "publishedAt": "Tue, 04 Aug 2026 03:41:00 GMT",
+          "publishedAt": "Tue, 04 Aug 2026 19:35:33 GMT",
           "titleZh": "Qatar says mediators make progress in efforts to end US-Iran war - Reuters",
           "summaryZh": "Qatar says mediators make progress in efforts to end US-Iran war&nbsp;&nbsp;Reuters"
+        },
+        {
+          "id": "reuters-news-1-https://news.google.com/",
+          "sourceId": "reuters",
+          "source": "Reuters",
+          "sourceSite": "reuters.com",
+          "type": "news",
+          "title": "Oil prices settle 5% lower after claims of progress in US-Iran talks - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU0VaWUlWWUxJMXVaM1NiVS0yeWUtYWhpTlo4MTh0ZzZkZms3aFVLNVRfR1JISmxrY2d2VmM1UWFKTVFtSlEzYmt0N3ZuRUFLWXd5bzh5QkVXOVRxUVh3VHRnOWkzanJWb2tqUU13cURMRFR3TFphYkFzRVRsbnY5aEpDdTJLLVNLOXpwYzRNckVGQW9TcThhNHdKVlVTZ2Q4SkRraWR5TjlvbmN4VE1rLWViVFNTRUZU?oc=5\" target=\"_blank\">Oil prices settle 5% lower after claims of progress in US-Iran talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU0VaWUlWWUxJMXVaM1NiVS0yeWUtYWhpTlo4MTh0ZzZkZms3aFVLNVRfR1JISmxrY2d2VmM1UWFKTVFtSlEzYmt0N3ZuRUFLWXd5bzh5QkVXOVRxUVh3VHRnOWkzanJWb2tqUU13cURMRFR3TFphYkFzRVRsbnY5aEpDdTJLLVNLOXpwYzRNckVGQW9TcThhNHdKVlVTZ2Q4SkRraWR5TjlvbmN4VE1rLWViVFNTRUZU?oc=5",
+          "publishedAt": "Tue, 04 Aug 2026 19:27:15 GMT",
+          "titleZh": "Oil prices settle 5% lower after claims of progress in US-Iran talks - Reuters",
+          "summaryZh": "Oil prices settle 5% lower after claims of progress in US-Iran talks&nbsp;&nbsp;Reuters"
         }
       ]
     },
@@ -445,30 +471,17 @@
       "source": "BBC",
       "items": [
         {
-          "id": "bbc-news-0-https://news.google.com/",
-          "sourceId": "bbc",
-          "source": "BBC",
-          "sourceSite": "bbc.com",
-          "type": "news",
-          "title": "Oil giants make record profits as Iran war pushes up prices - BBC",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE85Vl9ONlk4aUZ3NUZ2UHY5N21hcFItQjB2VjJxcFdaTWppR3VBWjI5MlVpbHpITHlKTUhNTFZrNE1sZG1CdllMT2lndjNITV9OTDc2djMtZw?oc=5\" target=\"_blank\">Oil giants make record profits as Iran war pushes up prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85Vl9ONlk4aUZ3NUZ2UHY5N21hcFItQjB2VjJxcFdaTWppR3VBWjI5MlVpbHpITHlKTUhNTFZrNE1sZG1CdllMT2lndjNITV9OTDc2djMtZw?oc=5",
-          "publishedAt": "Wed, 05 Aug 2026 11:03:03 GMT",
-          "titleZh": "Oil giants make record profits as Iran war pushes up prices - BBC",
-          "summaryZh": "Oil giants make record profits as Iran war pushes up prices&nbsp;&nbsp;BBC"
-        },
-        {
           "id": "bbc-news-1-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
           "type": "news",
-          "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall - BBC",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aeEhmWUNMV25kc1lEaUQ5clRfRkY5QzJXcDNVVmV0ZG14NHJUV1BWanpQekNWX3VETUlKWHJySnVMTGNIMnZOYzRNVDhMR2RlTzNJSnVCbzdxUQ?oc=5\" target=\"_blank\">Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aeEhmWUNMV25kc1lEaUQ5clRfRkY5QzJXcDNVVmV0ZG14NHJUV1BWanpQekNWX3VETUlKWHJySnVMTGNIMnZOYzRNVDhMR2RlTzNJSnVCbzdxUQ?oc=5",
-          "publishedAt": "Wed, 05 Aug 2026 03:44:30 GMT",
-          "titleZh": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall - BBC",
-          "summaryZh": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall&nbsp;&nbsp;BBC"
+          "title": "War tactics between Ukraine, Russia, Iran advancing - 13newsnow.com",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOTRMTEtHYWFEREU3QVQ4LUtfSHBBcklUeFgydHBMTF93cVJaeGwwd0ZMY1NKdnBqZGNOdWRGWFViWFZ5aEZhMlZwc3dpNGlaQmFHdklLVmNCME5jQTBpV1NQWGs0b241RGlKYWxTeDZaeE9EV3g2WE9lZlp1S0E1Ul9xT3d4aVRMZ2Z2ako3OFRXMFVHNEMybEtzb1FHSEZoTU93Vy1NV255T2wyTTJBM1RMckxPM1U0bzEzVEYyZlpBWE9PV1F1azVzR3FYMGZYdUhxcHVVd1V6VEd1UTJ1dlZsek02dU1sLU44?oc=5\" target=\"_blank\">War tactics between Ukraine, Russia, Iran advancing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">13newsnow.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOTRMTEtHYWFEREU3QVQ4LUtfSHBBcklUeFgydHBMTF93cVJaeGwwd0ZMY1NKdnBqZGNOdWRGWFViWFZ5aEZhMlZwc3dpNGlaQmFHdklLVmNCME5jQTBpV1NQWGs0b241RGlKYWxTeDZaeE9EV3g2WE9lZlp1S0E1Ul9xT3d4aVRMZ2Z2ako3OFRXMFVHNEMybEtzb1FHSEZoTU93Vy1NV255T2wyTTJBM1RMckxPM1U0bzEzVEYyZlpBWE9PV1F1azVzR3FYMGZYdUhxcHVVd1V6VEd1UTJ1dlZsek02dU1sLU44?oc=5",
+          "publishedAt": "Wed, 05 Aug 2026 12:17:00 GMT",
+          "titleZh": "War tactics between Ukraine, Russia, Iran advancing - 13newsnow.com",
+          "summaryZh": "War tactics between Ukraine, Russia, Iran advancing&nbsp;&nbsp;13newsnow.com"
         },
         {
           "id": "bbc-news-2-https://news.google.com/",
@@ -484,19 +497,6 @@
           "summaryZh": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume&nbsp;&nbsp;BBC"
         },
         {
-          "id": "bbc-news-4-https://news.google.com/",
-          "sourceId": "bbc",
-          "source": "BBC",
-          "sourceSite": "bbc.com",
-          "type": "news",
-          "title": "特朗普表示同意取消对伊朗的打击，前提是能“迅速”达成协议 - BBC",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BdjlWMlp1b1Uxa0pvUFpYd2NsTjlEV3d6OTh1QkNlY0tTSWM4X0g1MkZYV3hjcjZucUYtVm9zZHhYN21qc0JvX0t3cXBIYk1wTVNxbk9mMmY1WWlfYWl4ajhBQzZ4QdIBa0FVX3lxTE5hVXU2SW1QMzNRZTJQbG1IbW9MQVRZZmxWWW5aSFg4RzkzaUJ2Q2hUWGVHcnhLSl85SC05d3lZQklIRkthNWd2bFhFYUtNWDFQR010aGJHOHg4T0o3RjNJdkNlQk1PbkZFMGln?oc=5\" target=\"_blank\">特朗普表示同意取消对伊朗的打击，前提是能“迅速”达成协议</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BdjlWMlp1b1Uxa0pvUFpYd2NsTjlEV3d6OTh1QkNlY0tTSWM4X0g1MkZYV3hjcjZucUYtVm9zZHhYN21qc0JvX0t3cXBIYk1wTVNxbk9mMmY1WWlfYWl4ajhBQzZ4QdIBa0FVX3lxTE5hVXU2SW1QMzNRZTJQbG1IbW9MQVRZZmxWWW5aSFg4RzkzaUJ2Q2hUWGVHcnhLSl85SC05d3lZQklIRkthNWd2bFhFYUtNWDFQR010aGJHOHg4T0o3RjNJdkNlQk1PbkZFMGln?oc=5",
-          "publishedAt": "Sun, 02 Aug 2026 06:22:10 GMT",
-          "titleZh": "特朗普表示同意取消对伊朗的打击，前提是能“迅速”达成协议 - BBC",
-          "summaryZh": "特朗普表示同意取消对伊朗的打击，前提是能“迅速”达成协议&nbsp;&nbsp;BBC"
-        },
-        {
           "id": "bbc-news-5-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
@@ -510,6 +510,19 @@
           "summaryZh": "伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限&nbsp;&nbsp;BBC"
         },
         {
+          "id": "bbc-news-0-https://news.google.com/",
+          "sourceId": "bbc",
+          "source": "BBC",
+          "sourceSite": "bbc.com",
+          "type": "news",
+          "title": "Trump claims deal to end Iran war near as Tehran says 'nothing' finalised - BBC",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CZ3VSOW56bGZiUEhTVENaV2ttSVBVMjN3Wmd1bHJwNUU3NWdPVnN5S0VabDdKVUs3aE9MU2p6bXQ4TGtqNHZ6ai1STVFiWkdwdlNFbWxia0ZDUQ?oc=5\" target=\"_blank\">Trump claims deal to end Iran war near as Tehran says 'nothing' finalised</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CZ3VSOW56bGZiUEhTVENaV2ttSVBVMjN3Wmd1bHJwNUU3NWdPVnN5S0VabDdKVUs3aE9MU2p6bXQ4TGtqNHZ6ai1STVFiWkdwdlNFbWxia0ZDUQ?oc=5",
+          "publishedAt": "Fri, 12 Jun 2026 07:00:00 GMT",
+          "titleZh": "Trump claims deal to end Iran war near as Tehran says 'nothing' finalised - BBC",
+          "summaryZh": "Trump claims deal to end Iran war near as Tehran says 'nothing' finalised&nbsp;&nbsp;BBC"
+        },
+        {
           "id": "bbc-news-8-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
@@ -521,6 +534,19 @@
           "publishedAt": "Fri, 12 Jun 2026 07:00:00 GMT",
           "titleZh": "特朗普称伊朗停战协议接近完成，德黑兰称未有定案 - BBC",
           "summaryZh": "特朗普称伊朗停战协议接近完成，德黑兰称未有定案&nbsp;&nbsp;BBC"
+        },
+        {
+          "id": "bbc-news-4-https://news.google.com/",
+          "sourceId": "bbc",
+          "source": "BBC",
+          "sourceSite": "bbc.com",
+          "type": "news",
+          "title": "US and Iran exchange strikes across Middle East for second day in a row - BBC",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE55WWJEczNyUXZjeUZ5WkhHSl9Nd20tSGl1MzZrTmpZNFVDQlZkeFAxbEwyUk9LTmstMTFZaXBoNDdzZUZJR0M4cXBqelVHTWY1NlpOMXFiUWMtZw?oc=5\" target=\"_blank\">US and Iran exchange strikes across Middle East for second day in a row</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55WWJEczNyUXZjeUZ5WkhHSl9Nd20tSGl1MzZrTmpZNFVDQlZkeFAxbEwyUk9LTmstMTFZaXBoNDdzZUZJR0M4cXBqelVHTWY1NlpOMXFiUWMtZw?oc=5",
+          "publishedAt": "Thu, 11 Jun 2026 07:00:00 GMT",
+          "titleZh": "US and Iran exchange strikes across Middle East for second day in a row - BBC",
+          "summaryZh": "US and Iran exchange strikes across Middle East for second day in a row&nbsp;&nbsp;BBC"
         }
       ]
     },
@@ -529,17 +555,17 @@
       "source": "Al Jazeera",
       "items": [
         {
-          "id": "aljazeera-news-0-https://news.google.com/",
+          "id": "aljazeera-news-1-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
           "type": "news",
-          "title": "Iran war live: Tehran says US not part of talks with Oman to reopen Hormuz - Al Jazeera",
-          "description": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUUhGV2daUXJBYzlucTFkdTlPbHdZMmtEdVJhWXVGX05FeHNMX0FTRElnLU0zaFlYYTN4OVF0U2NhME1kbmZPVl94X3hWb21aSmNPdzdCbk5JZ1RFd1V3eExMYTROX3pHZmJGeGppV1RuMjBVeWtNaGw3OURzdjZoOWtfdngyNFVvRGVpbjd2VU9oNTluMFhvb29NMnplb3ZvT0F5ZTIzNklxWnRoaF9OMVNPaEV4QzZUMUVJ0gHAAUFVX3lxTFA1Vm9kZWlZa0NDT0VBRWJBY0pFNDkxb3FhVkNVdkVmdDdCLVNWMmN6RGVELU1xSkRaOWhYWVVMNkZ3SEpabTFQWjVYdG1sMFRhWVFuUHRxMGdSUVNCbnRIcVlDTk1YMDllTHE2RHFmRlpUQ1h3cEFvOVYwMVJxQWczeEl4TU5nRVF1Xzl1NEtERHJRakJlalhVUnJkcEc5SUpCLURpd3JtQm41eHgxZWxUanhsTHBuTlFDRVNfSHpMMw?oc=5\" target=\"_blank\">Iran war live: Tehran says US not part of talks with Oman to reopen Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE94SHVIanVPU2MyaEFIMXRFY3c3ZHJqeEtWcTY3LVdHN3BtRHF3TWRvRmY3LTlfOUk5X1k0UkR5eFBJcW5sd0hHYmE4bWJxdEhEaTdzbjRWR0lZMUtUZF84aHV2RHMzMjZRYzQxU3dWQzdaZnFoNG04?oc=5\" target=\"_blank\">Trump says Tehran has 'last chance' for deal as negations resume</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE50WEp0b3FlMGIzYTNuYTI2d3Z2NFpKMnpFYmh5QUhVbmQ0RUJuNVlwcFRtU2Vza3Z4SG5aNWtDWi1lQWdscjNsdzFaanFyTXd5QlZQblhEcEJRd0t2SVgxWWNnZHRCNlo0MUF5T2NB?oc=5\" target=\"_blank\">Live updates: Gulf official says only 50-50 chance Hormuz deal reached by Friday despite Trump optimism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li></ol>",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUUhGV2daUXJBYzlucTFkdTlPbHdZMmtEdVJhWXVGX05FeHNMX0FTRElnLU0zaFlYYTN4OVF0U2NhME1kbmZPVl94X3hWb21aSmNPdzdCbk5JZ1RFd1V3eExMYTROX3pHZmJGeGppV1RuMjBVeWtNaGw3OURzdjZoOWtfdngyNFVvRGVpbjd2VU9oNTluMFhvb29NMnplb3ZvT0F5ZTIzNklxWnRoaF9OMVNPaEV4QzZUMUVJ0gHAAUFVX3lxTFA1Vm9kZWlZa0NDT0VBRWJBY0pFNDkxb3FhVkNVdkVmdDdCLVNWMmN6RGVELU1xSkRaOWhYWVVMNkZ3SEpabTFQWjVYdG1sMFRhWVFuUHRxMGdSUVNCbnRIcVlDTk1YMDllTHE2RHFmRlpUQ1h3cEFvOVYwMVJxQWczeEl4TU5nRVF1Xzl1NEtERHJRakJlalhVUnJkcEc5SUpCLURpd3JtQm41eHgxZWxUanhsTHBuTlFDRVNfSHpMMw?oc=5",
-          "publishedAt": "Wed, 05 Aug 2026 11:02:55 GMT",
-          "titleZh": "Iran war live: Tehran says US not part of talks with Oman to reopen Hormuz - Al Jazeera",
-          "summaryZh": "Iran war live: Tehran says US not part of talks with Oman to reopen Hormuz&nbsp;&nbsp;Al JazeeraTrump says Tehran has 'last chance' for deal as negations resume&nbsp;&nbsp;Fox NewsLive updates: Gulf official says only 50"
+          "title": "Iran, Oman, US ‘close’ to Hormuz deal: What do they all want? - aljazeera.com",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQMFk4RFZhTktDekxOd19jdDhMcW9nRzl4Q05xajU3eGJIZHhnd0RQSzRqMEhQdEgzdzZ4MXpFN2hnVmdxRG5aZjloNHVQZDVwNG4wTDM4d0V4OEhnUmJjYVhsSkphT05zTDRKc0h4QTgyb3VKbjZyZzl4OTB1VzlSdWxJVTBoMGtTWW9MOXRZdU14RXpHQjE4MzhtVdIBoAFBVV95cUxPMk5LUXVYb21QRF9EYV9jUzlEYWZONHhBTHZMcll5RFFzdE11akVabFBKVVR4enRCTzdZTHpmQ21BS0poQnY3cnJZOHlCSUl6T01nUGdLVW5vUnZxYWZpUmlZSW8tWVByQW9Cc2tpSVFRdUN3djdWZzZEak1Hb3dwdktqUlFCX2ZlV19ESkkzTlVPR0tSbnBBUnhGdDFWZDJX?oc=5\" target=\"_blank\">Iran, Oman, US ‘close’ to Hormuz deal: What do they all want?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aljazeera.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMFk4RFZhTktDekxOd19jdDhMcW9nRzl4Q05xajU3eGJIZHhnd0RQSzRqMEhQdEgzdzZ4MXpFN2hnVmdxRG5aZjloNHVQZDVwNG4wTDM4d0V4OEhnUmJjYVhsSkphT05zTDRKc0h4QTgyb3VKbjZyZzl4OTB1VzlSdWxJVTBoMGtTWW9MOXRZdU14RXpHQjE4MzhtVdIBoAFBVV95cUxPMk5LUXVYb21QRF9EYV9jUzlEYWZONHhBTHZMcll5RFFzdE11akVabFBKVVR4enRCTzdZTHpmQ21BS0poQnY3cnJZOHlCSUl6T01nUGdLVW5vUnZxYWZpUmlZSW8tWVByQW9Cc2tpSVFRdUN3djdWZzZEak1Hb3dwdktqUlFCX2ZlV19ESkkzTlVPR0tSbnBBUnhGdDFWZDJX?oc=5",
+          "publishedAt": "Wed, 05 Aug 2026 12:16:49 GMT",
+          "titleZh": "Iran, Oman, US ‘close’ to Hormuz deal: What do they all want? - aljazeera.com",
+          "summaryZh": "Iran, Oman, US ‘close’ to Hormuz deal: What do they all want?&nbsp;&nbsp;aljazeera.com"
         },
         {
           "id": "aljazeera-news-2-https://news.google.com/",
@@ -547,12 +573,12 @@
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
           "type": "news",
-          "title": "Iran war updates: Tehran says Oman talks on Hormuz advancing ‘positively’ - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNVTd3c0hZM1BYS2M5NXNHcERxemtBcEFPZjBrdWVERGVEUkNLTnhtSTgtX3VDbVdZd3ZzSFNiLVlQMTdMemlqVDdYUHdwaGxrMDRtUEVmeHFrb0Z2MjZYVDVfMktsc0dlczVmQThGZmdITUhVR2xXX1JHaklKV1dHbjBrTWFzNWl4WkxVcG8wSnNnWlNGOUNKZWk4VWdMV1ZpSi04Wl9HSm1ibDlNenRIMmVPcnlKQdIBuwFBVV95cUxPMVRmd25CaE9fcWpyT08zMUw3MFdhSnlrcjNkdE5LRE9yOUFjSWI4cE0yLUY0UFFJQjFNZ1VCcTRHX3pqNlMtY2FBd0dzMUJjdERDdGY1N1N4QkZMTnk2THE1SC1FWFFCb1AydVM1eERmdnNlMUptRFBFQURfOEZfUWFiUElxeEJNbVJXYkRvUjlvamdyVXVxb1VSZlo0Sl93WDZpZklib1JreTY2cm41djdRUWs0bXBpcEFR?oc=5\" target=\"_blank\">Iran war updates: Tehran says Oman talks on Hormuz advancing ‘positively’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "title": "Iran war updates: Tehran says Oman talks on Hormuz advancing ‘positively’ - aljazeera.com",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNVTd3c0hZM1BYS2M5NXNHcERxemtBcEFPZjBrdWVERGVEUkNLTnhtSTgtX3VDbVdZd3ZzSFNiLVlQMTdMemlqVDdYUHdwaGxrMDRtUEVmeHFrb0Z2MjZYVDVfMktsc0dlczVmQThGZmdITUhVR2xXX1JHaklKV1dHbjBrTWFzNWl4WkxVcG8wSnNnWlNGOUNKZWk4VWdMV1ZpSi04Wl9HSm1ibDlNenRIMmVPcnlKQdIBuwFBVV95cUxPMVRmd25CaE9fcWpyT08zMUw3MFdhSnlrcjNkdE5LRE9yOUFjSWI4cE0yLUY0UFFJQjFNZ1VCcTRHX3pqNlMtY2FBd0dzMUJjdERDdGY1N1N4QkZMTnk2THE1SC1FWFFCb1AydVM1eERmdnNlMUptRFBFQURfOEZfUWFiUElxeEJNbVJXYkRvUjlvamdyVXVxb1VSZlo0Sl93WDZpZklib1JreTY2cm41djdRUWs0bXBpcEFR?oc=5\" target=\"_blank\">Iran war updates: Tehran says Oman talks on Hormuz advancing ‘positively’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aljazeera.com</font>",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVTd3c0hZM1BYS2M5NXNHcERxemtBcEFPZjBrdWVERGVEUkNLTnhtSTgtX3VDbVdZd3ZzSFNiLVlQMTdMemlqVDdYUHdwaGxrMDRtUEVmeHFrb0Z2MjZYVDVfMktsc0dlczVmQThGZmdITUhVR2xXX1JHaklKV1dHbjBrTWFzNWl4WkxVcG8wSnNnWlNGOUNKZWk4VWdMV1ZpSi04Wl9HSm1ibDlNenRIMmVPcnlKQdIBuwFBVV95cUxPMVRmd25CaE9fcWpyT08zMUw3MFdhSnlrcjNkdE5LRE9yOUFjSWI4cE0yLUY0UFFJQjFNZ1VCcTRHX3pqNlMtY2FBd0dzMUJjdERDdGY1N1N4QkZMTnk2THE1SC1FWFFCb1AydVM1eERmdnNlMUptRFBFQURfOEZfUWFiUElxeEJNbVJXYkRvUjlvamdyVXVxb1VSZlo0Sl93WDZpZklib1JreTY2cm41djdRUWs0bXBpcEFR?oc=5",
           "publishedAt": "Tue, 04 Aug 2026 22:22:25 GMT",
-          "titleZh": "Iran war updates: Tehran says Oman talks on Hormuz advancing ‘positively’ - Al Jazeera",
-          "summaryZh": "Iran war updates: Tehran says Oman talks on Hormuz advancing ‘positively’&nbsp;&nbsp;Al Jazeera"
+          "titleZh": "Iran war updates: Tehran says Oman talks on Hormuz advancing ‘positively’ - aljazeera.com",
+          "summaryZh": "Iran war updates: Tehran says Oman talks on Hormuz advancing ‘positively’&nbsp;&nbsp;aljazeera.com"
         },
         {
           "id": "aljazeera-news-3-https://news.google.com/",
@@ -560,25 +586,25 @@
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
           "type": "news",
-          "title": "‘Maximum use’: Iran boosts military strength during ceasefire with US - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ1ZWdFpFZTkyZ1RndkhjTXZhQVlYRmpGX0tNaDJMNFozOU85aUVOZHQ4TUUwMHdSTFd5anZHOVRYeWtEY1lZeWE2YjRyYmpWUWRFNlhOd25uUldsZHpsNU1ZQjd4OE1HZllSWkU5eVR2bENTWFRNQ1pfdXFkTVliajgtWlByWUR6VHMzaGR6bjBBT0NGN2JQMEo2NTE5MVctdnh1aEFEZUVRQdIBrwFBVV95cUxPcVFDVXpySzJYdWpJdzgxeDVIcmJsWm5qaGtTRU91UV9HWXA0blVIOGxFQkhnSXEwazVPRW1GcnpyM242RWVGQml4Tlk3dWhJN2VSOFB0bGJTVEtGTGllSERKeVRadmtob3JTV1dCanl3bHhyRzhObjFoMVVuNWZXRm5VSnBCMEFjT0QxWHl6Q1Y4Nk9RZW9vOEZBYVZMTGtTeXNpT0J0YWhaTmdvQkdZ?oc=5\" target=\"_blank\">‘Maximum use’: Iran boosts military strength during ceasefire with US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "title": "‘Maximum use’: Iran boosts military strength during ceasefire with US - aljazeera.com",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ1ZWdFpFZTkyZ1RndkhjTXZhQVlYRmpGX0tNaDJMNFozOU85aUVOZHQ4TUUwMHdSTFd5anZHOVRYeWtEY1lZeWE2YjRyYmpWUWRFNlhOd25uUldsZHpsNU1ZQjd4OE1HZllSWkU5eVR2bENTWFRNQ1pfdXFkTVliajgtWlByWUR6VHMzaGR6bjBBT0NGN2JQMEo2NTE5MVctdnh1aEFEZUVRQdIBrwFBVV95cUxPcVFDVXpySzJYdWpJdzgxeDVIcmJsWm5qaGtTRU91UV9HWXA0blVIOGxFQkhnSXEwazVPRW1GcnpyM242RWVGQml4Tlk3dWhJN2VSOFB0bGJTVEtGTGllSERKeVRadmtob3JTV1dCanl3bHhyRzhObjFoMVVuNWZXRm5VSnBCMEFjT0QxWHl6Q1Y4Nk9RZW9vOEZBYVZMTGtTeXNpT0J0YWhaTmdvQkdZ?oc=5\" target=\"_blank\">‘Maximum use’: Iran boosts military strength during ceasefire with US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aljazeera.com</font>",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ1ZWdFpFZTkyZ1RndkhjTXZhQVlYRmpGX0tNaDJMNFozOU85aUVOZHQ4TUUwMHdSTFd5anZHOVRYeWtEY1lZeWE2YjRyYmpWUWRFNlhOd25uUldsZHpsNU1ZQjd4OE1HZllSWkU5eVR2bENTWFRNQ1pfdXFkTVliajgtWlByWUR6VHMzaGR6bjBBT0NGN2JQMEo2NTE5MVctdnh1aEFEZUVRQdIBrwFBVV95cUxPcVFDVXpySzJYdWpJdzgxeDVIcmJsWm5qaGtTRU91UV9HWXA0blVIOGxFQkhnSXEwazVPRW1GcnpyM242RWVGQml4Tlk3dWhJN2VSOFB0bGJTVEtGTGllSERKeVRadmtob3JTV1dCanl3bHhyRzhObjFoMVVuNWZXRm5VSnBCMEFjT0QxWHl6Q1Y4Nk9RZW9vOEZBYVZMTGtTeXNpT0J0YWhaTmdvQkdZ?oc=5",
           "publishedAt": "Tue, 04 Aug 2026 18:37:48 GMT",
-          "titleZh": "‘Maximum use’: Iran boosts military strength during ceasefire with US - Al Jazeera",
-          "summaryZh": "‘Maximum use’: Iran boosts military strength during ceasefire with US&nbsp;&nbsp;Al Jazeera"
+          "titleZh": "‘Maximum use’: Iran boosts military strength during ceasefire with US - aljazeera.com",
+          "summaryZh": "‘Maximum use’: Iran boosts military strength during ceasefire with US&nbsp;&nbsp;aljazeera.com"
         },
         {
-          "id": "aljazeera-news-1-https://news.google.com/",
+          "id": "aljazeera-news-0-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
           "type": "news",
-          "title": "Why are oil companies posting record profits amid Iran war disruption? - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPT1JuMkFnZG9sOWxZLVIwSjhiaHBqUEhETzRrN2JtUEI2TC1jeHlXb2pVSElSeUlRWEFpNWVBRVY5N1JzYWl6c2F5RTdURDRIM3d3UTlJRWVpcDFfSUdsVmFXTkRtNG1ZMWZhZ0hYYVkwRkpBelZrRVphSWhkaF9JYzJPUmw0b1QxbFZFVzI5X0RZc3oxRHZVWDFuZ01mekM1QXhIRDJlcWNNVm5NbHV4VF93SdIBuAFBVV95cUxNUGNjWkxiV09lbUtOV1hlbEU2dEdXTUhtLW5VODAyRmhXUXN4dWczMHdrU3BrdDI3UllXVFNPUjI0MXFfSHBZMHZfWXEzWGJhd3hWUE5neDNyVzN0cHlqUGJEMjdSS21mMmNTbGNEMWk0alB2eFpmVzRCamVJbXFSRnBvUUdsNF9sN3lzVEhfSWJLdFNzclpDUmdlVUVycjdGaTB0cW5YaFlRRXdsYl9SVGdib0R0TjZf?oc=5\" target=\"_blank\">Why are oil companies posting record profits amid Iran war disruption?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "title": "Why are oil companies posting record profits amid Iran war disruption? - aljazeera.com",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPT1JuMkFnZG9sOWxZLVIwSjhiaHBqUEhETzRrN2JtUEI2TC1jeHlXb2pVSElSeUlRWEFpNWVBRVY5N1JzYWl6c2F5RTdURDRIM3d3UTlJRWVpcDFfSUdsVmFXTkRtNG1ZMWZhZ0hYYVkwRkpBelZrRVphSWhkaF9JYzJPUmw0b1QxbFZFVzI5X0RZc3oxRHZVWDFuZ01mekM1QXhIRDJlcWNNVm5NbHV4VF93SdIBuAFBVV95cUxNUGNjWkxiV09lbUtOV1hlbEU2dEdXTUhtLW5VODAyRmhXUXN4dWczMHdrU3BrdDI3UllXVFNPUjI0MXFfSHBZMHZfWXEzWGJhd3hWUE5neDNyVzN0cHlqUGJEMjdSS21mMmNTbGNEMWk0alB2eFpmVzRCamVJbXFSRnBvUUdsNF9sN3lzVEhfSWJLdFNzclpDUmdlVUVycjdGaTB0cW5YaFlRRXdsYl9SVGdib0R0TjZf?oc=5\" target=\"_blank\">Why are oil companies posting record profits amid Iran war disruption?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aljazeera.com</font>",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT1JuMkFnZG9sOWxZLVIwSjhiaHBqUEhETzRrN2JtUEI2TC1jeHlXb2pVSElSeUlRWEFpNWVBRVY5N1JzYWl6c2F5RTdURDRIM3d3UTlJRWVpcDFfSUdsVmFXTkRtNG1ZMWZhZ0hYYVkwRkpBelZrRVphSWhkaF9JYzJPUmw0b1QxbFZFVzI5X0RZc3oxRHZVWDFuZ01mekM1QXhIRDJlcWNNVm5NbHV4VF93SdIBuAFBVV95cUxNUGNjWkxiV09lbUtOV1hlbEU2dEdXTUhtLW5VODAyRmhXUXN4dWczMHdrU3BrdDI3UllXVFNPUjI0MXFfSHBZMHZfWXEzWGJhd3hWUE5neDNyVzN0cHlqUGJEMjdSS21mMmNTbGNEMWk0alB2eFpmVzRCamVJbXFSRnBvUUdsNF9sN3lzVEhfSWJLdFNzclpDUmdlVUVycjdGaTB0cW5YaFlRRXdsYl9SVGdib0R0TjZf?oc=5",
           "publishedAt": "Tue, 04 Aug 2026 14:06:33 GMT",
-          "titleZh": "Why are oil companies posting record profits amid Iran war disruption? - Al Jazeera",
-          "summaryZh": "Why are oil companies posting record profits amid Iran war disruption?&nbsp;&nbsp;Al Jazeera"
+          "titleZh": "Why are oil companies posting record profits amid Iran war disruption? - aljazeera.com",
+          "summaryZh": "Why are oil companies posting record profits amid Iran war disruption?&nbsp;&nbsp;aljazeera.com"
         },
         {
           "id": "aljazeera-news-6-https://news.google.com/",
@@ -586,25 +612,25 @@
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
           "type": "news",
-          "title": "Can Pakistan keep US-Iran diplomacy alive as mistrust deepens? - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNbXdBVDNVNkdBRl9xTlA0NEtKVFd5OXVBamR2OWhTQTFVZHlqY1BOMG9fSHhxSmwxS1R0LWVBT2s1X3lHR1RNdE4zWUFtOUo2Q2lIRUttbUltRWx6OVhuTTVoVUJqU2lRaldaOHMxVjdDQ0RJbnlBZy1laXhmajBLUjFOdnZrRUFyMFNHdnZyUnVRSXdXaVRPWXRPOGl5cDh4U21n0gGoAUFVX3lxTE5TYmg3ZkhmaUE5MXNrVDFiRDVmaW9iZUc3enRQQnp5MWJrNnFHSE5wdEJleFNMTU1KdzlBeGxWV1I3amhhb1pUQmw3cTVxdDIzZ1lDb0lJZXpMQ1R2NXVRVEgyZWpqcHRMcTk0aTZmYTN2Z2l3cTl3REM4QjJLd2t0am9reU42X2ZWZHVKWDZtek1yUkk5OWxubGdsY19veDdCM2JiZUpBNQ?oc=5\" target=\"_blank\">Can Pakistan keep US-Iran diplomacy alive as mistrust deepens?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "title": "Can Pakistan keep US-Iran diplomacy alive as mistrust deepens? - aljazeera.com",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNbXdBVDNVNkdBRl9xTlA0NEtKVFd5OXVBamR2OWhTQTFVZHlqY1BOMG9fSHhxSmwxS1R0LWVBT2s1X3lHR1RNdE4zWUFtOUo2Q2lIRUttbUltRWx6OVhuTTVoVUJqU2lRaldaOHMxVjdDQ0RJbnlBZy1laXhmajBLUjFOdnZrRUFyMFNHdnZyUnVRSXdXaVRPWXRPOGl5cDh4U21n0gGoAUFVX3lxTE5TYmg3ZkhmaUE5MXNrVDFiRDVmaW9iZUc3enRQQnp5MWJrNnFHSE5wdEJleFNMTU1KdzlBeGxWV1I3amhhb1pUQmw3cTVxdDIzZ1lDb0lJZXpMQ1R2NXVRVEgyZWpqcHRMcTk0aTZmYTN2Z2l3cTl3REM4QjJLd2t0am9reU42X2ZWZHVKWDZtek1yUkk5OWxubGdsY19veDdCM2JiZUpBNQ?oc=5\" target=\"_blank\">Can Pakistan keep US-Iran diplomacy alive as mistrust deepens?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aljazeera.com</font>",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbXdBVDNVNkdBRl9xTlA0NEtKVFd5OXVBamR2OWhTQTFVZHlqY1BOMG9fSHhxSmwxS1R0LWVBT2s1X3lHR1RNdE4zWUFtOUo2Q2lIRUttbUltRWx6OVhuTTVoVUJqU2lRaldaOHMxVjdDQ0RJbnlBZy1laXhmajBLUjFOdnZrRUFyMFNHdnZyUnVRSXdXaVRPWXRPOGl5cDh4U21n0gGoAUFVX3lxTE5TYmg3ZkhmaUE5MXNrVDFiRDVmaW9iZUc3enRQQnp5MWJrNnFHSE5wdEJleFNMTU1KdzlBeGxWV1I3amhhb1pUQmw3cTVxdDIzZ1lDb0lJZXpMQ1R2NXVRVEgyZWpqcHRMcTk0aTZmYTN2Z2l3cTl3REM4QjJLd2t0am9reU42X2ZWZHVKWDZtek1yUkk5OWxubGdsY19veDdCM2JiZUpBNQ?oc=5",
           "publishedAt": "Tue, 04 Aug 2026 12:26:16 GMT",
-          "titleZh": "Can Pakistan keep US-Iran diplomacy alive as mistrust deepens? - Al Jazeera",
-          "summaryZh": "Can Pakistan keep US-Iran diplomacy alive as mistrust deepens?&nbsp;&nbsp;Al Jazeera"
+          "titleZh": "Can Pakistan keep US-Iran diplomacy alive as mistrust deepens? - aljazeera.com",
+          "summaryZh": "Can Pakistan keep US-Iran diplomacy alive as mistrust deepens?&nbsp;&nbsp;aljazeera.com"
         },
         {
-          "id": "aljazeera-news-4-https://news.google.com/",
+          "id": "aljazeera-news-5-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
           "type": "news",
-          "title": "‘One last chance’: The times Trump threatened Iran, said deal imminent - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQWkJYNC1GZEx5WVo5aE9nZklKQ29nYWFpY3J0YnlGOUtlQUNkQThkY0pSd3NwQ2Q4dUVBMk4tdVJBX1FtNFVCU0ZWaDBISXVyNVluUjNxNjJyZXFlclE5NnpTRmxrTlVFbVVVOW8zbWcydG5nT3BRWDVXV29TRmlRSFhOUkZpcXE2VDJ6ZllWeGxvZDhwR2hBekluajl3aFFKdjZRN2Y0bmltc3lBUFlB0gG0AUFVX3lxTE0zdF9BdHg2cXBiX1ZobHhoMURUTnlvbkRZUFNYeHRMLXlIQlRYRnYxemFDUWdfRVlSMGlXaURnRnlKUFZsbEotOTBEYUIxOFpyRWxqMUhRY2pEelJjZ3h0UlV2WDdLZ0pTS3BjekZSU0QxZHJHazR0cG52MkZCaHBOMVZaNV9kUUx0c0VrTUdHQTdJRTVxbGU4VkhodzNXd1QxUXJFQjRWcU9FQ2poZTNZUWtqWQ?oc=5\" target=\"_blank\">‘One last chance’: The times Trump threatened Iran, said deal imminent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "title": "‘One last chance’: The times Trump threatened Iran, said deal imminent - aljazeera.com",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQWkJYNC1GZEx5WVo5aE9nZklKQ29nYWFpY3J0YnlGOUtlQUNkQThkY0pSd3NwQ2Q4dUVBMk4tdVJBX1FtNFVCU0ZWaDBISXVyNVluUjNxNjJyZXFlclE5NnpTRmxrTlVFbVVVOW8zbWcydG5nT3BRWDVXV29TRmlRSFhOUkZpcXE2VDJ6ZllWeGxvZDhwR2hBekluajl3aFFKdjZRN2Y0bmltc3lBUFlB0gG0AUFVX3lxTE0zdF9BdHg2cXBiX1ZobHhoMURUTnlvbkRZUFNYeHRMLXlIQlRYRnYxemFDUWdfRVlSMGlXaURnRnlKUFZsbEotOTBEYUIxOFpyRWxqMUhRY2pEelJjZ3h0UlV2WDdLZ0pTS3BjekZSU0QxZHJHazR0cG52MkZCaHBOMVZaNV9kUUx0c0VrTUdHQTdJRTVxbGU4VkhodzNXd1QxUXJFQjRWcU9FQ2poZTNZUWtqWQ?oc=5\" target=\"_blank\">‘One last chance’: The times Trump threatened Iran, said deal imminent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aljazeera.com</font>",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWkJYNC1GZEx5WVo5aE9nZklKQ29nYWFpY3J0YnlGOUtlQUNkQThkY0pSd3NwQ2Q4dUVBMk4tdVJBX1FtNFVCU0ZWaDBISXVyNVluUjNxNjJyZXFlclE5NnpTRmxrTlVFbVVVOW8zbWcydG5nT3BRWDVXV29TRmlRSFhOUkZpcXE2VDJ6ZllWeGxvZDhwR2hBekluajl3aFFKdjZRN2Y0bmltc3lBUFlB0gG0AUFVX3lxTE0zdF9BdHg2cXBiX1ZobHhoMURUTnlvbkRZUFNYeHRMLXlIQlRYRnYxemFDUWdfRVlSMGlXaURnRnlKUFZsbEotOTBEYUIxOFpyRWxqMUhRY2pEelJjZ3h0UlV2WDdLZ0pTS3BjekZSU0QxZHJHazR0cG52MkZCaHBOMVZaNV9kUUx0c0VrTUdHQTdJRTVxbGU4VkhodzNXd1QxUXJFQjRWcU9FQ2poZTNZUWtqWQ?oc=5",
           "publishedAt": "Tue, 04 Aug 2026 10:56:21 GMT",
-          "titleZh": "‘One last chance’: The times Trump threatened Iran, said deal imminent - Al Jazeera",
-          "summaryZh": "‘One last chance’: The times Trump threatened Iran, said deal imminent&nbsp;&nbsp;Al Jazeera"
+          "titleZh": "‘One last chance’: The times Trump threatened Iran, said deal imminent - aljazeera.com",
+          "summaryZh": "‘One last chance’: The times Trump threatened Iran, said deal imminent&nbsp;&nbsp;aljazeera.com"
         }
       ]
     },
@@ -630,7 +656,7 @@
   ],
   "commentary": [
     {
-      "id": "nytimes-commentary-7-https://news.google.com/",
+      "id": "nytimes-commentary-6-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -638,25 +664,12 @@
       "title": "An Angry Trump Struggles to Understand Iran’s Defiant Leaders - The New York Times",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE8tN0dSaEpJTnRnb1lJNDBHQmdKZ1NDVE1lSExNd0lVQm1tTTczUThqMnBZVGs0MW5janFnU3IxR3dXUHpYRVdUOXpNS3VMQ2dkMDlvdTBSV1VDNW1mVG9Dbk1wamU4SExFNG1YR2FGaw?oc=5\" target=\"_blank\">An Angry Trump Struggles to Understand Iran’s Defiant Leaders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tN0dSaEpJTnRnb1lJNDBHQmdKZ1NDVE1lSExNd0lVQm1tTTczUThqMnBZVGs0MW5janFnU3IxR3dXUHpYRVdUOXpNS3VMQ2dkMDlvdTBSV1VDNW1mVG9Dbk1wamU4SExFNG1YR2FGaw?oc=5",
-      "publishedAt": "Tue, 04 Aug 2026 19:20:37 GMT",
+      "publishedAt": "Tue, 04 Aug 2026 18:28:24 GMT",
       "titleZh": "An Angry Trump Struggles to Understand Iran’s Defiant Leaders - The New York Times",
       "summaryZh": "An Angry Trump Struggles to Understand Iran’s Defiant Leaders&nbsp;&nbsp;The New York Times"
     },
     {
-      "id": "nytimes-commentary-6-https://news.google.com/",
-      "sourceId": "nytimes",
-      "source": "The New York Times",
-      "sourceSite": "nytimes.com",
-      "type": "commentary",
-      "title": "Strait of Hormuz Deal With Iran Possible Soon, Bessent Says - The New York Times",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOcm5LellxTktIUkpBRFFHNFRtMW1VV0F0U2laaFZaMEJSTDNrTHdGQ3lyNTJzeVdrdnY1WDFBVEtHUkMwR1g5Ml9MdU96bDd1ZDlqU0s1ZUNseGxhc1FOdk9xZzF4N3BORU4tR1pybThEQjlNcHB2WnhEZ1V4UGd5amlSVHprMGpCNVBNdEdLZ1A?oc=5\" target=\"_blank\">Strait of Hormuz Deal With Iran Possible Soon, Bessent Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcm5LellxTktIUkpBRFFHNFRtMW1VV0F0U2laaFZaMEJSTDNrTHdGQ3lyNTJzeVdrdnY1WDFBVEtHUkMwR1g5Ml9MdU96bDd1ZDlqU0s1ZUNseGxhc1FOdk9xZzF4N3BORU4tR1pybThEQjlNcHB2WnhEZ1V4UGd5amlSVHprMGpCNVBNdEdLZ1A?oc=5",
-      "publishedAt": "Tue, 04 Aug 2026 17:57:27 GMT",
-      "titleZh": "Strait of Hormuz Deal With Iran Possible Soon, Bessent Says - The New York Times",
-      "summaryZh": "Strait of Hormuz Deal With Iran Possible Soon, Bessent Says&nbsp;&nbsp;The New York Times"
-    },
-    {
-      "id": "nytimes-commentary-5-https://news.google.com/",
+      "id": "nytimes-commentary-7-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -721,6 +734,19 @@
       "summaryZh": "A Saudi-Emirati Thaw Can Help Contain Iran&nbsp;&nbsp;Foreign Policy"
     },
     {
+      "id": "nytimes-commentary-5-https://news.google.com/",
+      "sourceId": "nytimes",
+      "source": "The New York Times",
+      "sourceSite": "nytimes.com",
+      "type": "commentary",
+      "title": "Iran and Oman Hold Talks on Reopening the Strait of Hormuz - The New York Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPcmtpMFZCdHdaTnJDVDBwbWhTQlZ6NGo2c09uYUl0TjYxRkZlaTR5RjlYSWZob0U5blUzWTJhNk43ZTl5SHhRYWJ4eVlGSnc3dVNuMzJpQTdQenNkYUNkNHJ3bkFXZmNCQ1J5T3V2dUFsMmZFdHlaN0NKUzJKTmxKTThVTDI5U05kbjl2bTgxMDVGaFRiU3hqRklkdw?oc=5\" target=\"_blank\">Iran and Oman Hold Talks on Reopening the Strait of Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcmtpMFZCdHdaTnJDVDBwbWhTQlZ6NGo2c09uYUl0TjYxRkZlaTR5RjlYSWZob0U5blUzWTJhNk43ZTl5SHhRYWJ4eVlGSnc3dVNuMzJpQTdQenNkYUNkNHJ3bkFXZmNCQ1J5T3V2dUFsMmZFdHlaN0NKUzJKTmxKTThVTDI5U05kbjl2bTgxMDVGaFRiU3hqRklkdw?oc=5",
+      "publishedAt": "Mon, 03 Aug 2026 10:41:47 GMT",
+      "titleZh": "Iran and Oman Hold Talks on Reopening the Strait of Hormuz - The New York Times",
+      "summaryZh": "Iran and Oman Hold Talks on Reopening the Strait of Hormuz&nbsp;&nbsp;The New York Times"
+    },
+    {
       "id": "nytimes-commentary-1-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
@@ -760,7 +786,7 @@
       "summaryZh": "The World in Brief: Trump calls off strikes on Iran; heat wreaks havoc in Europe&nbsp;&nbsp;The Economist"
     },
     {
-      "id": "nytimes-commentary-2-https://news.google.com/",
+      "id": "nytimes-commentary-3-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -799,7 +825,7 @@
       "summaryZh": "Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran&nbsp;&nbsp;The New York Times"
     },
     {
-      "id": "nytimes-commentary-3-https://news.google.com/",
+      "id": "nytimes-commentary-2-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -890,7 +916,7 @@
       "summaryZh": "The Economic War on Iran Is—and Isn’t—Working&nbsp;&nbsp;Foreign Policy"
     },
     {
-      "id": "foreignaffairs-commentary-2-https://news.google.com/",
+      "id": "foreignaffairs-commentary-1-https://news.google.com/",
       "sourceId": "foreignaffairs",
       "source": "Foreign Affairs",
       "sourceSite": "foreignaffairs.com",
@@ -898,7 +924,7 @@
       "title": "The Hidden Path to Regime Change in Iran - Foreign Affairs",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFA1Y1BhSmpXb0RIM1BQUnpTd2M5c01uRkFMTW80cnczTjJUOUc0WDFJWGZROVZfdnJlNkdqa0h1UU9obDhfQ1MyUUpfWm9QVER3RmkyR3M2UXY5bXh6WDhaMFljeUliV1F5YXJTQlkzNjZfX3F2?oc=5\" target=\"_blank\">The Hidden Path to Regime Change in Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1Y1BhSmpXb0RIM1BQUnpTd2M5c01uRkFMTW80cnczTjJUOUc0WDFJWGZROVZfdnJlNkdqa0h1UU9obDhfQ1MyUUpfWm9QVER3RmkyR3M2UXY5bXh6WDhaMFljeUliV1F5YXJTQlkzNjZfX3F2?oc=5",
-      "publishedAt": "Tue, 28 Jul 2026 04:00:00 GMT",
+      "publishedAt": "Tue, 28 Jul 2026 07:00:00 GMT",
       "titleZh": "The Hidden Path to Regime Change in Iran - Foreign Affairs",
       "summaryZh": "The Hidden Path to Regime Change in Iran&nbsp;&nbsp;Foreign Affairs"
     },
@@ -916,7 +942,7 @@
       "summaryZh": "Iran’s Arsenal Starts With Its Islands&nbsp;&nbsp;Foreign Policy"
     },
     {
-      "id": "foreignaffairs-commentary-1-https://news.google.com/",
+      "id": "foreignaffairs-commentary-2-https://news.google.com/",
       "sourceId": "foreignaffairs",
       "source": "Foreign Affairs",
       "sourceSite": "foreignaffairs.com",
