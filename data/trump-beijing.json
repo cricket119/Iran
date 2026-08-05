@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T02:46:44.359Z",
+  "generatedAt": "2026-08-05T06:31:49.887Z",
   "topic": "特朗普北京会谈",
   "totalNews": 53,
   "totalCommentary": 12,
@@ -8,11 +8,11 @@
   "minPublishedAt": "2026-05-13T16:00:00.000Z",
   "translation": {
     "news": "fallback",
-    "newsReason": "OpenAI API failed: 429 {\n  \"error\": {\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\",\n    \"type\": \"insufficient_quota\",\n    \"param\": null,\n    \"code\": \"insufficient_quota\"\n  }\n}",
+    "newsReason": "OpenAI API failed: 429 {\n  \"error\": {\n    \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n    \"type\": \"insufficient_quota\",\n    \"param\": null,\n    \"code\": \"credit_balance_exhausted\"\n  }\n}",
     "commentary": "fallback",
-    "commentaryReason": "OpenAI API failed: 429 {\n  \"error\": {\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\",\n    \"type\": \"insufficient_quota\",\n    \"param\": null,\n    \"code\": \"insufficient_quota\"\n  }\n}",
+    "commentaryReason": "OpenAI API failed: 429 {\n  \"error\": {\n    \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n    \"type\": \"insufficient_quota\",\n    \"param\": null,\n    \"code\": \"credit_balance_exhausted\"\n  }\n}",
     "social": "fallback",
-    "socialReason": "OpenAI API failed: 429 {\n  \"error\": {\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.\",\n    \"type\": \"insufficient_quota\",\n    \"param\": null,\n    \"code\": \"insufficient_quota\"\n  }\n}"
+    "socialReason": "OpenAI API failed: 429 {\n  \"error\": {\n    \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n    \"type\": \"insufficient_quota\",\n    \"param\": null,\n    \"code\": \"credit_balance_exhausted\"\n  }\n}"
   },
   "timeline": [
     {
@@ -42,7 +42,7 @@
       "summaryZh": "China's Xi to visit U.S. in September for talks, Trump says CBC"
     },
     {
-      "id": "general-news-9-https://news.google.com/",
+      "id": "general-news-8-https://news.google.com/",
       "sourceId": "general",
       "source": "South China Morning Post",
       "sourceSite": "",
@@ -159,7 +159,7 @@
       "summaryZh": "Trump says Xi agrees Iran must open strait, but no sign China will weigh in Reuters"
     },
     {
-      "id": "reuters-news-10-https://news.google.com/",
+      "id": "reuters-news-11-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -222,19 +222,6 @@
       "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
       "titleZh": "Trump says he is losing patience with Iran after talks with China's Xi - Reuters",
       "summaryZh": "Trump says he is losing patience with Iran after talks with China's Xi Reuters"
-    },
-    {
-      "id": "reuters-news-11-https://news.google.com/",
-      "sourceId": "reuters",
-      "source": "Reuters",
-      "sourceSite": "reuters.com",
-      "type": "news",
-      "title": "Trump leaves Beijing with few wins but warm words for Xi - Reuters",
-      "description": "Trump leaves Beijing with few wins but warm words for Xi Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRU9TTUprdzlUN0ZBWGo1LUVNZWlYNzFvaXpPX21KTk1aQ0tfYXp5alZGai1Ub09XX2tma2JqME9MM0lKcEJVWDZneklPQWhkTlc5c1U4Z0NpUElNUUg1Tjc2UkpHQ3pTcWJLSWxhR2NYaFVVYnhOalZPUjhMaDhpVWJEQ24xY3NjTlpYaV9QTlJzZjhOZjdaNTN3bXY1WFk?oc=5",
-      "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
-      "titleZh": "Trump leaves Beijing with few wins but warm words for Xi - Reuters",
-      "summaryZh": "Trump leaves Beijing with few wins but warm words for Xi Reuters"
     },
     {
       "id": "bbc-news-0-https://news.google.com/",
@@ -393,7 +380,7 @@
       "summaryZh": "What did Trump and Xi accomplish? Atlantic Council"
     },
     {
-      "id": "general-news-8-https://news.google.com/",
+      "id": "general-news-7-https://news.google.com/",
       "sourceId": "general",
       "source": "AP News",
       "sourceSite": "",
@@ -406,20 +393,7 @@
       "summaryZh": "Trump weighs Taiwan arms package after summit aimed at steadying US-China ties AP News"
     },
     {
-      "id": "general-news-10-https://news.google.com/",
-      "sourceId": "general",
-      "source": "CNBC",
-      "sourceSite": "",
-      "type": "news",
-      "title": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
-      "description": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVGtCaV9hM2dFZXpwajNOVjd3Ujg5TWlRODEzQjdvb1d3NjdERy1iWkJTZWlYRnh3ZFhFNG9pNVF5WFFiSkszSklvLW5pNWZYQjdRTTBicG1vRGVPbnltR2dvbC05djVYbzF6X2xhdVBPckhmTkE1S2plVlBIMllhZ29vQ2RSNXZHTXcycmdyTzTSAZYBQVVfeXFMUHFPcFMydTFFS21aSDJqMjQ5ZVZ3TDQtSEEyYWd3Z1pOYTd0QzB1eGFCY0gxV0tFdTYyYUV2Z3RCeUYtLXVZbE10SlF5TFpIc0hzRzdVcjdadkR3MkFBemdPZnl3cjJ6MU5hcnk5ckFkLW4wNXR2WEhDNnR2aGpDellnRGtTLWptbjlTMnRNWFM4UHJqZnB3?oc=5",
-      "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
-      "titleZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
-      "summaryZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC"
-    },
-    {
-      "id": "general-news-11-https://news.google.com/",
+      "id": "general-news-9-https://news.google.com/",
       "sourceId": "general",
       "source": "AP News",
       "sourceSite": "",
@@ -430,6 +404,19 @@
       "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
       "titleZh": "Takeaways from Trump's trip to China: Taiwan, a new framework for relationship and flattery for Xi - AP News",
       "summaryZh": "Takeaways from Trump's trip to China: Taiwan, a new framework for relationship and flattery for Xi AP News"
+    },
+    {
+      "id": "general-news-11-https://news.google.com/",
+      "sourceId": "general",
+      "source": "CNBC",
+      "sourceSite": "",
+      "type": "news",
+      "title": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
+      "description": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVGtCaV9hM2dFZXpwajNOVjd3Ujg5TWlRODEzQjdvb1d3NjdERy1iWkJTZWlYRnh3ZFhFNG9pNVF5WFFiSkszSklvLW5pNWZYQjdRTTBicG1vRGVPbnltR2dvbC05djVYbzF6X2xhdVBPckhmTkE1S2plVlBIMllhZ29vQ2RSNXZHTXcycmdyTzTSAZYBQVVfeXFMUHFPcFMydTFFS21aSDJqMjQ5ZVZ3TDQtSEEyYWd3Z1pOYTd0QzB1eGFCY0gxV0tFdTYyYUV2Z3RCeUYtLXVZbE10SlF5TFpIc0hzRzdVcjdadkR3MkFBemdPZnl3cjJ6MU5hcnk5ckFkLW4wNXR2WEhDNnR2aGpDellnRGtTLWptbjlTMnRNWFM4UHJqZnB3?oc=5",
+      "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
+      "titleZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
+      "summaryZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC"
     },
     {
       "id": "general-news-14-https://news.google.com/",
@@ -460,15 +447,15 @@
     {
       "id": "general-news-17-https://news.google.com/",
       "sourceId": "general",
-      "source": "Forbes",
+      "source": "forbes.com",
       "sourceSite": "",
       "type": "news",
-      "title": "Trump Leaves China After Two Days Of Talks With Xi (Live) - Forbes",
-      "description": "Trump Leaves China After Two Days Of Talks With Xi (Live) Forbes",
+      "title": "Trump Leaves China After Two Days Of Talks With Xi (Live) - forbes.com",
+      "description": "Trump Leaves China After Two Days Of Talks With Xi (Live) forbes.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd1pUUnNiR3hvV1g1VFRRamdERXBwQ3hKY196UTM1clg5b1Ixbm8teEdVQTBxU19mU2h5aHdGQnA5dTVlNzJOeHNjM0pSUFY1X1V4S2plLXZYWm5Ga3RVblF1Vm1lLXlxQmlSYWNDUmVWbFFsVnRyN2JiekVaTnE4SVEzQVRzQjVqRzZJb1JZbTNZTGJqZE83Si1iT2pndEduUE9xaTlFUnI?oc=5",
       "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
-      "titleZh": "Trump Leaves China After Two Days Of Talks With Xi (Live) - Forbes",
-      "summaryZh": "Trump Leaves China After Two Days Of Talks With Xi (Live) Forbes"
+      "titleZh": "Trump Leaves China After Two Days Of Talks With Xi (Live) - forbes.com",
+      "summaryZh": "Trump Leaves China After Two Days Of Talks With Xi (Live) forbes.com"
     },
     {
       "id": "reuters-news-6-https://news.google.com/",
@@ -497,6 +484,19 @@
       "summaryZh": "Xi tells Trump that mishandling of Taiwan could lead to 'dangerous' place Reuters"
     },
     {
+      "id": "reuters-news-10-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
+      "type": "news",
+      "title": "Nvidia CEO hopes Trump and Xi will improve two-way ties, CCTV says - Reuters",
+      "description": "Nvidia CEO hopes Trump and Xi will improve two-way ties, CCTV says Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaWEwR2ZxTWxVSzRxVHpzSmh5QU9JTVA0TllpbVdvUnF1UVg2T3ZNR19tWkZya3J1YVNxSVZYTldxQ09CYUQxTW1PYWhaWVEyMnVIMzNwRHpfZ2tYVGhNOExDMUk0eEZHNnRBakRobWtNV3pEVHZKVy1EU3E3SUJOcGNtVXpBZzlvSmlYMDRoUnB5VVRvVXJqdUstUV9UR3J2b1ZwYW1RcEs3VTNLbXNaTGpZN3Z4STA?oc=5",
+      "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
+      "titleZh": "Nvidia CEO hopes Trump and Xi will improve two-way ties, CCTV says - Reuters",
+      "summaryZh": "Nvidia CEO hopes Trump and Xi will improve two-way ties, CCTV says Reuters"
+    },
+    {
       "id": "bbc-news-1-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
@@ -515,12 +515,12 @@
       "source": "BBC",
       "sourceSite": "bbc.com",
       "type": "news",
-      "title": "Trump China trip: What to know as president meets Xi Jinping - BBC",
-      "description": "Trump China trip: What to know as president meets Xi Jinping BBC",
+      "title": "What to know as Trump visits Xi in China - BBC",
+      "description": "What to know as Trump visits Xi in China BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QaHRNRUxrRDNicFNFNzM1TW1OcHdJREpBVURLVkpsZVBwdmVKLWVTOGxsSk1QNGVkTk9kMTBOaXBwRlRQWmtPQUt5WEFrR3c5ZmFhcDhtdXpDZw?oc=5",
       "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
-      "titleZh": "Trump China trip: What to know as president meets Xi Jinping - BBC",
-      "summaryZh": "Trump China trip: What to know as president meets Xi Jinping BBC"
+      "titleZh": "What to know as Trump visits Xi in China - BBC",
+      "summaryZh": "What to know as Trump visits Xi in China BBC"
     },
     {
       "id": "bbc-news-6-https://news.google.com/",
@@ -541,12 +541,12 @@
       "source": "BBC",
       "sourceSite": "bbc.com",
       "type": "news",
-      "title": "Trump-Xi summit: US and China conclude 'very successful' talks but few deals confirmed - BBC",
-      "description": "Trump-Xi summit: US and China conclude 'very successful' talks but few deals confirmed BBC",
+      "title": "Trump-Xi summit: US and China conclude 'very successful' talks but few deals confirmed - bbc.co.uk",
+      "description": "Trump-Xi summit: US and China conclude 'very successful' talks but few deals confirmed bbc.co.uk",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJWjluOFNVYXB5aS1QbTgwQ3dweUw0N1FEX09qVWtZVVFsWktXWmpyenl6aFMzUUVFMTE1azFwVWFhbzJIVVlsS0J1aktrU0wxOVM2Wkhoa1pnTXNu?oc=5",
       "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
-      "titleZh": "Trump-Xi summit: US and China conclude 'very successful' talks but few deals confirmed - BBC",
-      "summaryZh": "Trump-Xi summit: US and China conclude 'very successful' talks but few deals confirmed BBC"
+      "titleZh": "Trump-Xi summit: US and China conclude 'very successful' talks but few deals confirmed - bbc.co.uk",
+      "summaryZh": "Trump-Xi summit: US and China conclude 'very successful' talks but few deals confirmed bbc.co.uk"
     },
     {
       "id": "bbc-news-9-https://news.google.com/",
@@ -640,7 +640,7 @@
       "summaryZh": "In Beijing, Trump easily holds the winning hand The Hill"
     },
     {
-      "id": "general-news-7-https://news.google.com/",
+      "id": "general-news-10-https://news.google.com/",
       "sourceId": "general",
       "source": "The New York Times",
       "sourceSite": "",
@@ -776,7 +776,7 @@
           "summaryZh": "Trump says Xi agrees Iran must open strait, but no sign China will weigh in Reuters"
         },
         {
-          "id": "reuters-news-10-https://news.google.com/",
+          "id": "reuters-news-11-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -828,19 +828,6 @@
           "summaryZh": "Trump says he is losing patience with Iran after talks with China's Xi Reuters"
         },
         {
-          "id": "reuters-news-11-https://news.google.com/",
-          "sourceId": "reuters",
-          "source": "Reuters",
-          "sourceSite": "reuters.com",
-          "type": "news",
-          "title": "Trump leaves Beijing with few wins but warm words for Xi - Reuters",
-          "description": "Trump leaves Beijing with few wins but warm words for Xi Reuters",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRU9TTUprdzlUN0ZBWGo1LUVNZWlYNzFvaXpPX21KTk1aQ0tfYXp5alZGai1Ub09XX2tma2JqME9MM0lKcEJVWDZneklPQWhkTlc5c1U4Z0NpUElNUUg1Tjc2UkpHQ3pTcWJLSWxhR2NYaFVVYnhOalZPUjhMaDhpVWJEQ24xY3NjTlpYaV9QTlJzZjhOZjdaNTN3bXY1WFk?oc=5",
-          "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
-          "titleZh": "Trump leaves Beijing with few wins but warm words for Xi - Reuters",
-          "summaryZh": "Trump leaves Beijing with few wins but warm words for Xi Reuters"
-        },
-        {
           "id": "reuters-news-6-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
@@ -865,6 +852,19 @@
           "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
           "titleZh": "Xi tells Trump that mishandling of Taiwan could lead to 'dangerous' place - Reuters",
           "summaryZh": "Xi tells Trump that mishandling of Taiwan could lead to 'dangerous' place Reuters"
+        },
+        {
+          "id": "reuters-news-10-https://news.google.com/",
+          "sourceId": "reuters",
+          "source": "Reuters",
+          "sourceSite": "reuters.com",
+          "type": "news",
+          "title": "Nvidia CEO hopes Trump and Xi will improve two-way ties, CCTV says - Reuters",
+          "description": "Nvidia CEO hopes Trump and Xi will improve two-way ties, CCTV says Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaWEwR2ZxTWxVSzRxVHpzSmh5QU9JTVA0TllpbVdvUnF1UVg2T3ZNR19tWkZya3J1YVNxSVZYTldxQ09CYUQxTW1PYWhaWVEyMnVIMzNwRHpfZ2tYVGhNOExDMUk0eEZHNnRBakRobWtNV3pEVHZKVy1EU3E3SUJOcGNtVXpBZzlvSmlYMDRoUnB5VVRvVXJqdUstUV9UR3J2b1ZwYW1RcEs3VTNLbXNaTGpZN3Z4STA?oc=5",
+          "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
+          "titleZh": "Nvidia CEO hopes Trump and Xi will improve two-way ties, CCTV says - Reuters",
+          "summaryZh": "Nvidia CEO hopes Trump and Xi will improve two-way ties, CCTV says Reuters"
         }
       ]
     },
@@ -969,12 +969,12 @@
           "source": "BBC",
           "sourceSite": "bbc.com",
           "type": "news",
-          "title": "Trump China trip: What to know as president meets Xi Jinping - BBC",
-          "description": "Trump China trip: What to know as president meets Xi Jinping BBC",
+          "title": "What to know as Trump visits Xi in China - BBC",
+          "description": "What to know as Trump visits Xi in China BBC",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QaHRNRUxrRDNicFNFNzM1TW1OcHdJREpBVURLVkpsZVBwdmVKLWVTOGxsSk1QNGVkTk9kMTBOaXBwRlRQWmtPQUt5WEFrR3c5ZmFhcDhtdXpDZw?oc=5",
           "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
-          "titleZh": "Trump China trip: What to know as president meets Xi Jinping - BBC",
-          "summaryZh": "Trump China trip: What to know as president meets Xi Jinping BBC"
+          "titleZh": "What to know as Trump visits Xi in China - BBC",
+          "summaryZh": "What to know as Trump visits Xi in China BBC"
         },
         {
           "id": "bbc-news-6-https://news.google.com/",
@@ -995,12 +995,12 @@
           "source": "BBC",
           "sourceSite": "bbc.com",
           "type": "news",
-          "title": "Trump-Xi summit: US and China conclude 'very successful' talks but few deals confirmed - BBC",
-          "description": "Trump-Xi summit: US and China conclude 'very successful' talks but few deals confirmed BBC",
+          "title": "Trump-Xi summit: US and China conclude 'very successful' talks but few deals confirmed - bbc.co.uk",
+          "description": "Trump-Xi summit: US and China conclude 'very successful' talks but few deals confirmed bbc.co.uk",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJWjluOFNVYXB5aS1QbTgwQ3dweUw0N1FEX09qVWtZVVFsWktXWmpyenl6aFMzUUVFMTE1azFwVWFhbzJIVVlsS0J1aktrU0wxOVM2Wkhoa1pnTXNu?oc=5",
           "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
-          "titleZh": "Trump-Xi summit: US and China conclude 'very successful' talks but few deals confirmed - BBC",
-          "summaryZh": "Trump-Xi summit: US and China conclude 'very successful' talks but few deals confirmed BBC"
+          "titleZh": "Trump-Xi summit: US and China conclude 'very successful' talks but few deals confirmed - bbc.co.uk",
+          "summaryZh": "Trump-Xi summit: US and China conclude 'very successful' talks but few deals confirmed bbc.co.uk"
         },
         {
           "id": "bbc-news-9-https://news.google.com/",
@@ -1177,7 +1177,7 @@
           "summaryZh": "China's Xi to visit U.S. in September for talks, Trump says CBC"
         },
         {
-          "id": "general-news-9-https://news.google.com/",
+          "id": "general-news-8-https://news.google.com/",
           "sourceId": "general",
           "source": "South China Morning Post",
           "sourceSite": "",
@@ -1255,7 +1255,7 @@
           "summaryZh": "What did Trump and Xi accomplish? Atlantic Council"
         },
         {
-          "id": "general-news-8-https://news.google.com/",
+          "id": "general-news-7-https://news.google.com/",
           "sourceId": "general",
           "source": "AP News",
           "sourceSite": "",
@@ -1268,20 +1268,7 @@
           "summaryZh": "Trump weighs Taiwan arms package after summit aimed at steadying US-China ties AP News"
         },
         {
-          "id": "general-news-10-https://news.google.com/",
-          "sourceId": "general",
-          "source": "CNBC",
-          "sourceSite": "",
-          "type": "news",
-          "title": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
-          "description": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVGtCaV9hM2dFZXpwajNOVjd3Ujg5TWlRODEzQjdvb1d3NjdERy1iWkJTZWlYRnh3ZFhFNG9pNVF5WFFiSkszSklvLW5pNWZYQjdRTTBicG1vRGVPbnltR2dvbC05djVYbzF6X2xhdVBPckhmTkE1S2plVlBIMllhZ29vQ2RSNXZHTXcycmdyTzTSAZYBQVVfeXFMUHFPcFMydTFFS21aSDJqMjQ5ZVZ3TDQtSEEyYWd3Z1pOYTd0QzB1eGFCY0gxV0tFdTYyYUV2Z3RCeUYtLXVZbE10SlF5TFpIc0hzRzdVcjdadkR3MkFBemdPZnl3cjJ6MU5hcnk5ckFkLW4wNXR2WEhDNnR2aGpDellnRGtTLWptbjlTMnRNWFM4UHJqZnB3?oc=5",
-          "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
-          "titleZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
-          "summaryZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC"
-        },
-        {
-          "id": "general-news-11-https://news.google.com/",
+          "id": "general-news-9-https://news.google.com/",
           "sourceId": "general",
           "source": "AP News",
           "sourceSite": "",
@@ -1292,6 +1279,19 @@
           "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
           "titleZh": "Takeaways from Trump's trip to China: Taiwan, a new framework for relationship and flattery for Xi - AP News",
           "summaryZh": "Takeaways from Trump's trip to China: Taiwan, a new framework for relationship and flattery for Xi AP News"
+        },
+        {
+          "id": "general-news-11-https://news.google.com/",
+          "sourceId": "general",
+          "source": "CNBC",
+          "sourceSite": "",
+          "type": "news",
+          "title": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
+          "description": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVGtCaV9hM2dFZXpwajNOVjd3Ujg5TWlRODEzQjdvb1d3NjdERy1iWkJTZWlYRnh3ZFhFNG9pNVF5WFFiSkszSklvLW5pNWZYQjdRTTBicG1vRGVPbnltR2dvbC05djVYbzF6X2xhdVBPckhmTkE1S2plVlBIMllhZ29vQ2RSNXZHTXcycmdyTzTSAZYBQVVfeXFMUHFPcFMydTFFS21aSDJqMjQ5ZVZ3TDQtSEEyYWd3Z1pOYTd0QzB1eGFCY0gxV0tFdTYyYUV2Z3RCeUYtLXVZbE10SlF5TFpIc0hzRzdVcjdadkR3MkFBemdPZnl3cjJ6MU5hcnk5ckFkLW4wNXR2WEhDNnR2aGpDellnRGtTLWptbjlTMnRNWFM4UHJqZnB3?oc=5",
+          "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
+          "titleZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
+          "summaryZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC"
         },
         {
           "id": "general-news-14-https://news.google.com/",
@@ -1322,15 +1322,15 @@
         {
           "id": "general-news-17-https://news.google.com/",
           "sourceId": "general",
-          "source": "Forbes",
+          "source": "forbes.com",
           "sourceSite": "",
           "type": "news",
-          "title": "Trump Leaves China After Two Days Of Talks With Xi (Live) - Forbes",
-          "description": "Trump Leaves China After Two Days Of Talks With Xi (Live) Forbes",
+          "title": "Trump Leaves China After Two Days Of Talks With Xi (Live) - forbes.com",
+          "description": "Trump Leaves China After Two Days Of Talks With Xi (Live) forbes.com",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd1pUUnNiR3hvV1g1VFRRamdERXBwQ3hKY196UTM1clg5b1Ixbm8teEdVQTBxU19mU2h5aHdGQnA5dTVlNzJOeHNjM0pSUFY1X1V4S2plLXZYWm5Ga3RVblF1Vm1lLXlxQmlSYWNDUmVWbFFsVnRyN2JiekVaTnE4SVEzQVRzQjVqRzZJb1JZbTNZTGJqZE83Si1iT2pndEduUE9xaTlFUnI?oc=5",
           "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
-          "titleZh": "Trump Leaves China After Two Days Of Talks With Xi (Live) - Forbes",
-          "summaryZh": "Trump Leaves China After Two Days Of Talks With Xi (Live) Forbes"
+          "titleZh": "Trump Leaves China After Two Days Of Talks With Xi (Live) - forbes.com",
+          "summaryZh": "Trump Leaves China After Two Days Of Talks With Xi (Live) forbes.com"
         },
         {
           "id": "general-news-1-https://news.google.com/",
@@ -1359,7 +1359,7 @@
           "summaryZh": "In Beijing, Trump easily holds the winning hand The Hill"
         },
         {
-          "id": "general-news-7-https://news.google.com/",
+          "id": "general-news-10-https://news.google.com/",
           "sourceId": "general",
           "source": "The New York Times",
           "sourceSite": "",
@@ -1586,7 +1586,33 @@
   ],
   "social": [
     {
-      "id": "social-social-12-https://news.google.com/",
+      "id": "social-social-4-https://news.google.com/",
+      "sourceId": "social",
+      "source": "The New York Times",
+      "sourceSite": "",
+      "type": "social",
+      "title": "Trump Says He and Xi Talked Extensively About Taiwan - The New York Times",
+      "description": "Trump Says He and Xi Talked Extensively About Taiwan The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DYm12dEV0Z0RpS2hYRlQta0FmX0FPQVZmdUk3b2UxWG5MSXVVa0pNVFZ6eWQxWDZXWXY1NHd2TDliQjlCTk1ubjAwc3dLQTFXQzA2R2xzbmJxc05ZejNFV19ISlRuTkZqTjZmcHBxYV9XUkdyZm04eg?oc=5",
+      "publishedAt": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "titleZh": "Trump Says He and Xi Talked Extensively About Taiwan - The New York Times",
+      "summaryZh": "Trump Says He and Xi Talked Extensively About Taiwan The New York Times"
+    },
+    {
+      "id": "social-social-7-https://news.google.com/",
+      "sourceId": "social",
+      "source": "The New York Times",
+      "sourceSite": "",
+      "type": "social",
+      "title": "After Xi’s Warning on Taiwan, He and Trump Strike Positive Tone - The New York Times",
+      "description": "After Xi’s Warning on Taiwan, He and Trump Strike Positive Tone The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nX2VLUlNQakF2M0VrMkNEM0VmMzZsV1haX3ZwT2c5YWJmcUJ3OHJzTU9aNEdzZXVMTzNWc2FsVEZndi12RUxsSktmUlVub1pKR2dJQ1hfM2V5WE94M1VSR1lQaDg0VWhmbnlGUDlWallPRllORmc?oc=5",
+      "publishedAt": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "titleZh": "After Xi’s Warning on Taiwan, He and Trump Strike Positive Tone - The New York Times",
+      "summaryZh": "After Xi’s Warning on Taiwan, He and Trump Strike Positive Tone The New York Times"
+    },
+    {
+      "id": "social-social-13-https://news.google.com/",
       "sourceId": "social",
       "source": "Anadolu Ajansı",
       "sourceSite": "",
@@ -1599,7 +1625,7 @@
       "summaryZh": "Xi, Putin to hold talks in Beijing days after Trump visit amid Iran war Anadolu Ajansı"
     },
     {
-      "id": "social-social-18-https://news.google.com/",
+      "id": "social-social-19-https://news.google.com/",
       "sourceId": "social",
       "source": "The Japan Times",
       "sourceSite": "",
@@ -1612,33 +1638,20 @@
       "summaryZh": "Trump briefs South Korea’s Lee after summit in Beijing The Japan Times"
     },
     {
-      "id": "social-social-19-https://news.google.com/",
+      "id": "social-social-11-https://news.google.com/",
       "sourceId": "social",
-      "source": "news.com.au",
+      "source": "Nikkei Asia",
       "sourceSite": "",
       "type": "social",
-      "title": "‘Fire’: Xi’s stark warning to Trump - news.com.au",
-      "description": "‘Fire’: Xi’s stark warning to Trump news.com.au",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY0trekhlTk85VWVMeW9SaUF3VnR6YndISUhKaW9xYzJHaWlJQTBHdHM1Rlo3eHRWcFNLc0d1U2NBUklSUnQ2YUxlWmxNYm9fSk5ZN19Cc25EWTFZZXRjVEFrYU5BWFZfOEthajJlMGY2SW5RM3hqWWtGQXIxVnJyUlpfeW1MSklyUDkza2lyOWM2eFdKWm4yaUZ3bTUyWFYzOFIwUmFrSl9IYmU2N1VvWE9pT3RQR2ZyZC1nclJhSk90dzFETkdWZzZIN2ZlMlVVMnpMRk5uQ3J1Z1ZOQlhjRTVMN0dPTWRIY0Vnb2dXN21Pank0?oc=5",
-      "publishedAt": "Sun, 17 May 2026 07:00:00 GMT",
-      "titleZh": "‘Fire’: Xi’s stark warning to Trump - news.com.au",
-      "summaryZh": "‘Fire’: Xi’s stark warning to Trump news.com.au"
-    },
-    {
-      "id": "social-social-10-https://news.google.com/",
-      "sourceId": "social",
-      "source": "asia.nikkei.com",
-      "sourceSite": "",
-      "type": "social",
-      "title": "Trump-Xi summit: How the US president's China visit unfolded - asia.nikkei.com",
-      "description": "Trump-Xi summit: How the US president's China visit unfolded asia.nikkei.com",
+      "title": "Trump-Xi summit: How the US president's China visit unfolded - Nikkei Asia",
+      "description": "Trump-Xi summit: How the US president's China visit unfolded Nikkei Asia",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3FaYXRzdFNnRFNHcDExSUZIX2tQNnlXUE1EV0x0VXlFWm9lNmRUU3Zhb3VYT3pCZmRQd3N1OE5EWndYWDl1aFZqNHpxR2xFaUR6eGFMeXpQR1J0SUxTa28wTk9rYjVkZFZCSmZmSE1jRG5McVZkQ0ZDMHM0TVB6SE1mcC1TdkpOWjNfNFlFdDBGT1pPc2wyZUpVUVB0czhmNjBLWVFYMktsVWRJSlE?oc=5",
       "publishedAt": "Sat, 16 May 2026 07:00:00 GMT",
-      "titleZh": "Trump-Xi summit: How the US president's China visit unfolded - asia.nikkei.com",
-      "summaryZh": "Trump-Xi summit: How the US president's China visit unfolded asia.nikkei.com"
+      "titleZh": "Trump-Xi summit: How the US president's China visit unfolded - Nikkei Asia",
+      "summaryZh": "Trump-Xi summit: How the US president's China visit unfolded Nikkei Asia"
     },
     {
-      "id": "social-social-4-https://news.google.com/",
+      "id": "social-social-5-https://news.google.com/",
       "sourceId": "social",
       "source": "Al Jazeera",
       "sourceSite": "",
@@ -1651,7 +1664,7 @@
       "summaryZh": "How Xi-Trump summit failed to yield Iran war breakthrough Al Jazeera"
     },
     {
-      "id": "social-social-7-https://news.google.com/",
+      "id": "social-social-8-https://news.google.com/",
       "sourceId": "social",
       "source": "Time Magazine",
       "sourceSite": "",
@@ -1664,7 +1677,7 @@
       "summaryZh": "How A.I. Was the Elephant in the Room at the Trump-Xi Summit Time Magazine"
     },
     {
-      "id": "social-social-8-https://news.google.com/",
+      "id": "social-social-9-https://news.google.com/",
       "sourceId": "social",
       "source": "CBS News",
       "sourceSite": "",
@@ -1677,7 +1690,7 @@
       "summaryZh": "Seized ship taken toward Iran as Trump and China's Xi agree Strait of Hormuz \"must remain open\" CBS News"
     },
     {
-      "id": "social-social-14-https://news.google.com/",
+      "id": "social-social-15-https://news.google.com/",
       "sourceId": "social",
       "source": "Eurasia Review",
       "sourceSite": "",
@@ -1768,7 +1781,7 @@
       "summaryZh": "China's Xi warns Trump about \"conflicts\" if Taiwan isn't \"handled properly\" CBS News"
     },
     {
-      "id": "social-social-5-https://news.google.com/",
+      "id": "social-social-6-https://news.google.com/",
       "sourceId": "social",
       "source": "BBC",
       "sourceSite": "",
@@ -1781,20 +1794,7 @@
       "summaryZh": "In pictures: Trump hosted by Xi Jinping in high-stakes China summit BBC"
     },
     {
-      "id": "social-social-6-https://news.google.com/",
-      "sourceId": "social",
-      "source": "The New York Times",
-      "sourceSite": "",
-      "type": "social",
-      "title": "Trump Says He and Xi Talked Extensively About Taiwan - The New York Times",
-      "description": "Trump Says He and Xi Talked Extensively About Taiwan The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DYm12dEV0Z0RpS2hYRlQta0FmX0FPQVZmdUk3b2UxWG5MSXVVa0pNVFZ6eWQxWDZXWXY1NHd2TDliQjlCTk1ubjAwc3dLQTFXQzA2R2xzbmJxc05ZejNFV19ISlRuTkZqTjZmcHBxYV9XUkdyZm04eg?oc=5",
-      "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
-      "titleZh": "Trump Says He and Xi Talked Extensively About Taiwan - The New York Times",
-      "summaryZh": "Trump Says He and Xi Talked Extensively About Taiwan The New York Times"
-    },
-    {
-      "id": "social-social-9-https://news.google.com/",
+      "id": "social-social-10-https://news.google.com/",
       "sourceId": "social",
       "source": "The Washington Post",
       "sourceSite": "",
@@ -1807,7 +1807,7 @@
       "summaryZh": "The Latest: Xi and Trump summit focuses on business links as Chinese leader issues Taiwan warning The Washington Post"
     },
     {
-      "id": "social-social-11-https://news.google.com/",
+      "id": "social-social-12-https://news.google.com/",
       "sourceId": "social",
       "source": "New York Post",
       "sourceSite": "",
@@ -1820,7 +1820,7 @@
       "summaryZh": "Taiwan becomes flashpoint of Trump-Xi summit as Rubio warns Beijing of 'repercussions' for invasion New York Post"
     },
     {
-      "id": "social-social-13-https://news.google.com/",
+      "id": "social-social-14-https://news.google.com/",
       "sourceId": "social",
       "source": "Yahoo",
       "sourceSite": "",
@@ -1833,7 +1833,7 @@
       "summaryZh": "Dejected Trump Reacts to China Meeting With 9-Word Response Yahoo"
     },
     {
-      "id": "social-social-15-https://news.google.com/",
+      "id": "social-social-16-https://news.google.com/",
       "sourceId": "social",
       "source": "New York Magazine",
       "sourceSite": "",
@@ -1846,7 +1846,7 @@
       "summaryZh": "14 Things That Definitely Happened on Day One of Trump’s China Trip New York Magazine"
     },
     {
-      "id": "social-social-16-https://news.google.com/",
+      "id": "social-social-17-https://news.google.com/",
       "sourceId": "social",
       "source": "USA Today",
       "sourceSite": "",
@@ -1859,7 +1859,7 @@
       "summaryZh": "What's the point of Trump, Xi talks in China? Your questions answered USA Today"
     },
     {
-      "id": "social-social-17-https://news.google.com/",
+      "id": "social-social-18-https://news.google.com/",
       "sourceId": "social",
       "source": "朝日新聞",
       "sourceSite": "",
@@ -1887,15 +1887,15 @@
     {
       "id": "social-social-23-https://news.google.com/",
       "sourceId": "social",
-      "source": "The Statesman",
+      "source": "thestatesman.com",
       "sourceSite": "",
       "type": "social",
-      "title": "Thucydides trap, Taiwan flashpoint, tariff shadow – Xi’s hard message wrapped in warm words for Trump in Beijing - The Statesman",
-      "description": "Thucydides trap, Taiwan flashpoint, tariff shadow – Xi’s hard message wrapped in warm words for Trump in Beijing The Statesman",
+      "title": "Thucydides trap, Taiwan flashpoint, tariff shadow – Xi’s hard message wrapped in warm words for Trump in Beijing - thestatesman.com",
+      "description": "Thucydides trap, Taiwan flashpoint, tariff shadow – Xi’s hard message wrapped in warm words for Trump in Beijing thestatesman.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb0N4UUZwVTc3TGVFQkVSNGF1TXd4VGtzcjZwanBfdy1ybXRpYUg3OGs0X2ZTNWJybklUa1l1YXdOVXJtdnRZQ2VWZ0hkU1lfcXU3LV8yRFBUR2pSZ2tOM0IyeWZhRU5ERXh6bFhQbHRUTXVKR3hPVkE1OGFGdkdWcWEzN1V4SHRQb0lGTEVMTjVGaGtDRXRXeWNsZm8yNndXUzFMc0VvYmdWRDE2em5oNHd6Y085T0o1TEJ0b2hmYU44bmVQNC1hY0JCT1lNX0p2WmFSOXlINnR6Z9IB3wFBVV95cUxPaUFHUnpwR056cUpIRDNoQTBFODZMM2UyQnFGZ0ljeHRjUWVsU1BWeFlGNHlvX1hNUzQtbThkYUFnQW16R0Ywa1FEcmdvYmRScEM2R0hxN0I3MlJvTnVrcEhGd2JtYzVURW9BUGFlUjRoNkFlV3BnMUJ1cTU1SEx1UHVQTXFGX29TWW9mS1hPWWVIQlpFbGFkMzJ5dnZfTkF5bUx0LVpCOWRmVTMtVmF2dzZCZEppTDc1WHBYM2FoWG1TbWtjZHo5ZWhjalVSR1NhYm16THJrdTNVTlJaaUo4?oc=5",
       "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
-      "titleZh": "Thucydides trap, Taiwan flashpoint, tariff shadow – Xi’s hard message wrapped in warm words for Trump in Beijing - The Statesman",
-      "summaryZh": "Thucydides trap, Taiwan flashpoint, tariff shadow – Xi’s hard message wrapped in warm words for Trump in Beijing The Statesman"
+      "titleZh": "Thucydides trap, Taiwan flashpoint, tariff shadow – Xi’s hard message wrapped in warm words for Trump in Beijing - thestatesman.com",
+      "summaryZh": "Thucydides trap, Taiwan flashpoint, tariff shadow – Xi’s hard message wrapped in warm words for Trump in Beijing thestatesman.com"
     }
   ],
   "markets": [
@@ -2107,19 +2107,19 @@
         "feed": "gdelt:特朗普 北京 会谈",
         "count": 0,
         "status": "failed",
-        "error": "Unexpected token 'Y', \"Your searc\"... is not valid JSON"
+        "error": "fetch failed"
       },
       {
         "feed": "gdelt:特朗普 访华 美国企业家",
         "count": 0,
         "status": "failed",
-        "error": "GDELT fetch failed: 429"
+        "error": "fetch failed"
       }
     ],
     "commentary": [
       {
         "feed": "https://news.google.com/rss/search?q=Trump+Beijing+China+talks+analysis&hl=en-US&gl=US&ceid=US:en",
-        "count": 70,
+        "count": 69,
         "status": "ok"
       },
       {
@@ -2156,7 +2156,7 @@
       },
       {
         "feed": "https://news.google.com/rss/search?q=特朗普+访华+企业家+微博&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "count": 71,
+        "count": 72,
         "status": "ok"
       }
     ]
