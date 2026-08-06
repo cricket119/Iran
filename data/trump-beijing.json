@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-05T21:14:39.323Z",
+  "generatedAt": "2026-08-06T02:49:33.455Z",
   "topic": "特朗普北京会谈",
-  "totalNews": 53,
-  "totalCommentary": 11,
+  "totalNews": 54,
+  "totalCommentary": 12,
   "totalSocial": 24,
   "totalMarkets": 11,
   "minPublishedAt": "2026-05-13T16:00:00.000Z",
@@ -15,6 +15,19 @@
     "socialReason": "OpenAI API failed: 429 {\n  \"error\": {\n    \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n    \"type\": \"insufficient_quota\",\n    \"param\": null,\n    \"code\": \"credit_balance_exhausted\"\n  }\n}"
   },
   "timeline": [
+    {
+      "id": "zaobao-news-0-https://news.google.com/",
+      "sourceId": "zaobao",
+      "source": "联合早报",
+      "sourceSite": "zaobao.com.sg",
+      "type": "news",
+      "title": "特朗普称习近平9月24日访美 AI料成关键议题 - 联合早报",
+      "description": "特朗普称习近平9月24日访美 AI料成关键议题 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GQTFfaXVBdl8xYkdoX1VWTjNKd0hzb0ZGLXpHeFpDMHpYUlVuaXRxd3NDaUR5QjI5SEVJQ01UcmpjTzBsWndIeXh0ck52c0Z3U1Q3dEdUNHNzdEtDYm5Fc3Z3dm9nOVJJX2c?oc=5",
+      "publishedAt": "Fri, 24 Jul 2026 07:00:00 GMT",
+      "titleZh": "特朗普称习近平9月24日访美 AI料成关键议题 - 联合早报",
+      "summaryZh": "特朗普称习近平9月24日访美 AI料成关键议题 联合早报"
+    },
     {
       "id": "reuters-news-5-https://news.google.com/",
       "sourceId": "reuters",
@@ -44,28 +57,28 @@
     {
       "id": "general-news-8-https://news.google.com/",
       "sourceId": "general",
-      "source": "South China Morning Post",
+      "source": "scmp.com",
       "sourceSite": "",
       "type": "news",
-      "title": "As Rubio-Wang talks near, Trump dials down China election meddling rhetoric - South China Morning Post",
-      "description": "As Rubio-Wang talks near, Trump dials down China election meddling rhetoric South China Morning Post",
+      "title": "As Rubio-Wang talks near, Trump dials down China election meddling rhetoric - scmp.com",
+      "description": "As Rubio-Wang talks near, Trump dials down China election meddling rhetoric scmp.com",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLTNSX3dKbFdJTWZvdTRfZTFVRHR5S1BHYlRQRENQLVJCVWc4bWNJeDJzNkJWSlRBcFVybTdwa1RfMGtaLUR1Rk15SlQwcjBXVmlha2J6Qno5MmxGaEJhdERlSm1rQlA5WmZJczFZdUl1aE1ZRmpaV1RLY1d4X0xRazJDcWx4YU5PbDJYazRuOXJ4bzFtbzc4dUM0ODRxWWZucjRMZDZKTTZTOFdTMVZKazJoY0dhVjNHRFMyMFFCONIBvwFBVV95cUxNQUc1RU1FOE55c1NSTlRpbmE2cFR4cTBOVklFZ2dSYkgwSGhYcGUzdEZmUVd2Mmx0bEI1YzhzY3c5d3BKYnVzQTkxcTJoUUswVEVDN3F3eGFrWDhLY0NRRXFleTZNZEN5ZDdtSW4zVDlFdTktSkt2WGhZSWxiU2NuLThnUXNNMDF3c2NUejhOcGpMNDREaVVHLUZYXzdfcnJiUDNQMUV1VGtVMGJQWkJUNHliNGx5WFB5N3FrWWx0WQ?oc=5",
       "publishedAt": "Wed, 22 Jul 2026 07:00:00 GMT",
-      "titleZh": "As Rubio-Wang talks near, Trump dials down China election meddling rhetoric - South China Morning Post",
-      "summaryZh": "As Rubio-Wang talks near, Trump dials down China election meddling rhetoric South China Morning Post"
+      "titleZh": "As Rubio-Wang talks near, Trump dials down China election meddling rhetoric - scmp.com",
+      "summaryZh": "As Rubio-Wang talks near, Trump dials down China election meddling rhetoric scmp.com"
     },
     {
       "id": "general-news-6-https://news.google.com/",
       "sourceId": "general",
-      "source": "South China Morning Post",
+      "source": "scmp.com",
       "sourceSite": "",
       "type": "news",
-      "title": "China and US still in contact on Xi summit trip despite Trump’s election claims - South China Morning Post",
-      "description": "China and US still in contact on Xi summit trip despite Trump’s election claims South China Morning Post",
+      "title": "China and US still in contact on Xi summit trip despite Trump’s election claims - scmp.com",
+      "description": "China and US still in contact on Xi summit trip despite Trump’s election claims scmp.com",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMDJtNi1ZRl9zVk9WRmREeF83Zy1tcWNTS3ZRaVplT0ZaSUpWRHZiTHhpcUpHQnVHMTIwZEdMdmx3TFhlRThnNWhPdzF0bVlRX1RDZmxmbGVkZUpYVk5DYlBUc1lEakFPckFTMmRSRDR3cmg2OXI3Sk5SN3hNYVVhTkxQOG0tRERnYVV2SlZydUNqSGgzejM3UEhReEdPdkg2aDc1b3FPMWtHSlhQX1A4a0ZWRUJobzI0aHBEWVBmUWUxYWlmUnowRXVyVmVxQdIBzgFBVV95cUxPY3NrUUNIR043LS1vb2d4V2JDZTVWQmZoN0g4NWVSOUY1eUprdFBtLXlqMDlkU194RUlCVGFlaU1SWFRmRmRNQmZqT3N4SFpTcDdNUlVhS29JQWpMSFFfYzhMbVpKWERQLXpTRzNsR1NSUm1kTlJvdDdoZlBaWFAwaUpMaWNoY3lRWWJ6bTR4amRwU0cybTVnVWNscHZnSVVBTjd1UlZJQXJjTzZkTXNwVHFWcGRRWmhodTlVanpoaU94aXFycGt4ckM4SHhJdw?oc=5",
       "publishedAt": "Mon, 20 Jul 2026 07:00:00 GMT",
-      "titleZh": "China and US still in contact on Xi summit trip despite Trump’s election claims - South China Morning Post",
-      "summaryZh": "China and US still in contact on Xi summit trip despite Trump’s election claims South China Morning Post"
+      "titleZh": "China and US still in contact on Xi summit trip despite Trump’s election claims - scmp.com",
+      "summaryZh": "China and US still in contact on Xi summit trip despite Trump’s election claims scmp.com"
     },
     {
       "id": "general-news-0-https://news.google.com/",
@@ -146,6 +159,19 @@
       "summaryZh": "China says Trump visit deals are 'preliminary' Reuters"
     },
     {
+      "id": "reuters-news-3-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
+      "type": "news",
+      "title": "Pageantry over policy: Takeaways from Trump's China trip - Reuters",
+      "description": "Pageantry over policy: Takeaways from Trump's China trip Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVjNqTDM4dlNDRXVMTmZCM09FSno0cERTbHFZT3pfLWRnTHlNMWx4YXJ1d3V0WUNuYVJGWVVYR29xdm1lSVQwNzc1bnlidjVybHFEQUdWcjlGVGdCa3ZDQjlyRmt1Wlo5cWUyTmlnLTdxOFktZ0hWVUVpQmoxdEVSczdodUlZWmU0MlpsMFRKWHhPbEZ0ODVqM1JGRGtBQQ?oc=5",
+      "publishedAt": "Sat, 16 May 2026 07:00:00 GMT",
+      "titleZh": "Pageantry over policy: Takeaways from Trump's China trip - Reuters",
+      "summaryZh": "Pageantry over policy: Takeaways from Trump's China trip Reuters"
+    },
+    {
       "id": "reuters-news-8-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
@@ -190,19 +216,6 @@
       "source": "Reuters",
       "sourceSite": "reuters.com",
       "type": "news",
-      "title": "Pageantry over policy: Takeaways from Trump's China trip - Reuters",
-      "description": "Pageantry over policy: Takeaways from Trump's China trip Reuters",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVjNqTDM4dlNDRXVMTmZCM09FSno0cERTbHFZT3pfLWRnTHlNMWx4YXJ1d3V0WUNuYVJGWVVYR29xdm1lSVQwNzc1bnlidjVybHFEQUdWcjlGVGdCa3ZDQjlyRmt1Wlo5cWUyTmlnLTdxOFktZ0hWVUVpQmoxdEVSczdodUlZWmU0MlpsMFRKWHhPbEZ0ODVqM1JGRGtBQQ?oc=5",
-      "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
-      "titleZh": "Pageantry over policy: Takeaways from Trump's China trip - Reuters",
-      "summaryZh": "Pageantry over policy: Takeaways from Trump's China trip Reuters"
-    },
-    {
-      "id": "reuters-news-3-https://news.google.com/",
-      "sourceId": "reuters",
-      "source": "Reuters",
-      "sourceSite": "reuters.com",
-      "type": "news",
       "title": "Trump says he is losing patience with Iran, did not ask China for favors - Reuters",
       "description": "Trump says he is losing patience with Iran, did not ask China for favors Reuters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeFFlcklCYWQwZUZGc2xjSF9QWjJvMU1PWFVtakpUVDljdTFCMzJqN2lULXMycUVxS2V2Q0I4X3h3ZndCczNqZ2JKTEFwdW1tTlBMMGlJRWRiT05jT3otM1BtT3F6YmxNQ1hEM1hjVnZPTEdXX1JlWk9lWWJLd3BvQlozTDFDQnQtbFU5ZUZzakE4Q0RPTHA5QWVmbXluVkFSRVQtZjlmdkRNUHVhR29v?oc=5",
@@ -237,7 +250,7 @@
       "summaryZh": "Trump-Xi summit: US and China conclude 'very successful' talks but few deals confirmed BBC"
     },
     {
-      "id": "bbc-news-2-https://news.google.com/",
+      "id": "bbc-news-1-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -276,7 +289,20 @@
       "summaryZh": "Trump-Xi meeting: Beijing trip ends with Zhongnanhai tour BBC"
     },
     {
-      "id": "bbc-news-10-https://news.google.com/",
+      "id": "bbc-news-9-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "特朗普访华最后一程参观中南海 习近平强调这种安排“极为罕见” - BBC",
+      "description": "特朗普访华最后一程参观中南海 习近平强调这种安排“极为罕见” BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kTVljdnA0azJEZENtbGkwcC1PWVZTZ2RONDRCdE14SE43NjhXc1U2M1JsTzZ2d3BBTWhVOGxzQTlaZXcxYlVmZmxad3dqVmlLUFNrNGRWcmZGRnpnNm5EQ2N6eWtvd9IBa0FVX3lxTFBSaHo0V2VEd2F1cjVQUFdTdF9lQk1WWnMxUkR0U0FMWDNoQVhZRGZNQ3pZNjZhaWlqb1Fmd0dtZC1QeWpUekFQV0NOTk43QzVicDFmdnZFRERaRVBUMjBzUnY4ZjN5ZllaTTNN?oc=5",
+      "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
+      "titleZh": "特朗普访华最后一程参观中南海 习近平强调这种安排“极为罕见” - BBC",
+      "summaryZh": "特朗普访华最后一程参观中南海 习近平强调这种安排“极为罕见” BBC"
+    },
+    {
+      "id": "bbc-news-11-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -408,15 +434,15 @@
     {
       "id": "general-news-11-https://news.google.com/",
       "sourceId": "general",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "sourceSite": "",
       "type": "news",
-      "title": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - cnbc.com",
-      "description": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access cnbc.com",
+      "title": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
+      "description": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVGtCaV9hM2dFZXpwajNOVjd3Ujg5TWlRODEzQjdvb1d3NjdERy1iWkJTZWlYRnh3ZFhFNG9pNVF5WFFiSkszSklvLW5pNWZYQjdRTTBicG1vRGVPbnltR2dvbC05djVYbzF6X2xhdVBPckhmTkE1S2plVlBIMllhZ29vQ2RSNXZHTXcycmdyTzTSAZYBQVVfeXFMUHFPcFMydTFFS21aSDJqMjQ5ZVZ3TDQtSEEyYWd3Z1pOYTd0QzB1eGFCY0gxV0tFdTYyYUV2Z3RCeUYtLXVZbE10SlF5TFpIc0hzRzdVcjdadkR3MkFBemdPZnl3cjJ6MU5hcnk5ckFkLW4wNXR2WEhDNnR2aGpDellnRGtTLWptbjlTMnRNWFM4UHJqZnB3?oc=5",
       "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
-      "titleZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - cnbc.com",
-      "summaryZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access cnbc.com"
+      "titleZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
+      "summaryZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC"
     },
     {
       "id": "general-news-14-https://news.google.com/",
@@ -497,7 +523,7 @@
       "summaryZh": "Nvidia CEO hopes Trump and Xi will improve two-way ties, CCTV says Reuters"
     },
     {
-      "id": "bbc-news-1-https://news.google.com/",
+      "id": "bbc-news-2-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -549,20 +575,7 @@
       "summaryZh": "Trump-Xi summit: US and China conclude 'very successful' talks but few deals confirmed BBC"
     },
     {
-      "id": "bbc-news-9-https://news.google.com/",
-      "sourceId": "bbc",
-      "source": "BBC",
-      "sourceSite": "bbc.com",
-      "type": "news",
-      "title": "红毯、国宴、会谈、台湾、黄仁勋：特朗普重返北京后的几大关键时刻 - BBC",
-      "description": "红毯、国宴、会谈、台湾、黄仁勋：特朗普重返北京后的几大关键时刻 BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WVTlISnJMRVpnX3JJakVoTTgxOVk5T0ZXY2ZjMjd3eWtGQV9meWhBUFk4dUJQN0lBU1dISzJIV2sweUJ1SG9RMkkyMDZMclpicU0zaHBNOFRtQ2tCU24xcWxnWHBGZ9IBa0FVX3lxTE85Yy14Q0F4cUNwczFMVkphTXJPYk9KdnQxX25ZcGgwbUktYVYtYlZLN0dvSlVKZGw1Sy1XV3BnQWhNNzBSM0xod1lJa1FEdERZS25DRk9VV3VBUVJkRl9TcmlzV1FoOEtGb20w?oc=5",
-      "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
-      "titleZh": "红毯、国宴、会谈、台湾、黄仁勋：特朗普重返北京后的几大关键时刻 - BBC",
-      "summaryZh": "红毯、国宴、会谈、台湾、黄仁勋：特朗普重返北京后的几大关键时刻 BBC"
-    },
-    {
-      "id": "bbc-news-11-https://news.google.com/",
+      "id": "bbc-news-10-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -601,7 +614,7 @@
       "summaryZh": "Trump in China for talks with Xi Jinping Al Jazeera"
     },
     {
-      "id": "zaobao-news-0-https://news.google.com/",
+      "id": "zaobao-news-1-https://news.google.com/",
       "sourceId": "zaobao",
       "source": "联合早报",
       "sourceSite": "zaobao.com.sg",
@@ -655,15 +668,15 @@
     {
       "id": "general-news-13-https://news.google.com/",
       "sourceId": "general",
-      "source": "The Christian Science Monitor",
+      "source": "csmonitor.com",
       "sourceSite": "",
       "type": "news",
-      "title": "As Trump and Xi talk business, questions about Taiwan loom - The Christian Science Monitor",
-      "description": "As Trump and Xi talk business, questions about Taiwan loom The Christian Science Monitor",
+      "title": "As Trump and Xi talk business, questions about Taiwan loom - csmonitor.com",
+      "description": "As Trump and Xi talk business, questions about Taiwan loom csmonitor.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOGpRbHJ1RDNiNXViVGowMXRseEc2UWxscXlpY3BPbThKajFOYXVwQjg5VUJoczBnaGZhdmlMZHF4TmZEeG5RU2MtRGxuLXBxekhHVS00M0F5MFFmTGpIUUxGRlF2UWFTWUdfZlh2QkZpQmpKQlQxTTZsQS1TVUJzUkRGTHhXSDB3WDBxNTZiNkY4bjhyd0FV0gGwAUFVX3lxTFBkaEZhWElrZ1ZZQzBtdlVIeENFNHVaUVcwUGZVNkZTT3k3SHJXVHNiU3UxQU9ScXFLNnN4dnFBQ1ZGNXEySVV0OXVxSDRFNXR4RnBVTElXT1BpenlyNlFKdE1yOUpnRnhiZk9xMWlHLWYtMTZGWEVWWkVhRkkzWlJseGhrX0lLMWcxNzY2eENaWVJERzdhS19lRElES0RETV83cTN2WHN2SUlSdGZ4bHEz?oc=5",
       "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
-      "titleZh": "As Trump and Xi talk business, questions about Taiwan loom - The Christian Science Monitor",
-      "summaryZh": "As Trump and Xi talk business, questions about Taiwan loom The Christian Science Monitor"
+      "titleZh": "As Trump and Xi talk business, questions about Taiwan loom - csmonitor.com",
+      "summaryZh": "As Trump and Xi talk business, questions about Taiwan loom csmonitor.com"
     },
     {
       "id": "general-news-16-https://news.google.com/",
@@ -763,6 +776,19 @@
           "summaryZh": "China says Trump visit deals are 'preliminary' Reuters"
         },
         {
+          "id": "reuters-news-3-https://news.google.com/",
+          "sourceId": "reuters",
+          "source": "Reuters",
+          "sourceSite": "reuters.com",
+          "type": "news",
+          "title": "Pageantry over policy: Takeaways from Trump's China trip - Reuters",
+          "description": "Pageantry over policy: Takeaways from Trump's China trip Reuters",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVjNqTDM4dlNDRXVMTmZCM09FSno0cERTbHFZT3pfLWRnTHlNMWx4YXJ1d3V0WUNuYVJGWVVYR29xdm1lSVQwNzc1bnlidjVybHFEQUdWcjlGVGdCa3ZDQjlyRmt1Wlo5cWUyTmlnLTdxOFktZ0hWVUVpQmoxdEVSczdodUlZWmU0MlpsMFRKWHhPbEZ0ODVqM1JGRGtBQQ?oc=5",
+          "publishedAt": "Sat, 16 May 2026 07:00:00 GMT",
+          "titleZh": "Pageantry over policy: Takeaways from Trump's China trip - Reuters",
+          "summaryZh": "Pageantry over policy: Takeaways from Trump's China trip Reuters"
+        },
+        {
           "id": "reuters-news-8-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
@@ -790,19 +816,6 @@
         },
         {
           "id": "reuters-news-2-https://news.google.com/",
-          "sourceId": "reuters",
-          "source": "Reuters",
-          "sourceSite": "reuters.com",
-          "type": "news",
-          "title": "Pageantry over policy: Takeaways from Trump's China trip - Reuters",
-          "description": "Pageantry over policy: Takeaways from Trump's China trip Reuters",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVjNqTDM4dlNDRXVMTmZCM09FSno0cERTbHFZT3pfLWRnTHlNMWx4YXJ1d3V0WUNuYVJGWVVYR29xdm1lSVQwNzc1bnlidjVybHFEQUdWcjlGVGdCa3ZDQjlyRmt1Wlo5cWUyTmlnLTdxOFktZ0hWVUVpQmoxdEVSczdodUlZWmU0MlpsMFRKWHhPbEZ0ODVqM1JGRGtBQQ?oc=5",
-          "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
-          "titleZh": "Pageantry over policy: Takeaways from Trump's China trip - Reuters",
-          "summaryZh": "Pageantry over policy: Takeaways from Trump's China trip Reuters"
-        },
-        {
-          "id": "reuters-news-3-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -899,7 +912,7 @@
           "summaryZh": "Trump-Xi summit: US and China conclude 'very successful' talks but few deals confirmed BBC"
         },
         {
-          "id": "bbc-news-2-https://news.google.com/",
+          "id": "bbc-news-1-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -938,7 +951,20 @@
           "summaryZh": "Trump-Xi meeting: Beijing trip ends with Zhongnanhai tour BBC"
         },
         {
-          "id": "bbc-news-10-https://news.google.com/",
+          "id": "bbc-news-9-https://news.google.com/",
+          "sourceId": "bbc",
+          "source": "BBC",
+          "sourceSite": "bbc.com",
+          "type": "news",
+          "title": "特朗普访华最后一程参观中南海 习近平强调这种安排“极为罕见” - BBC",
+          "description": "特朗普访华最后一程参观中南海 习近平强调这种安排“极为罕见” BBC",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kTVljdnA0azJEZENtbGkwcC1PWVZTZ2RONDRCdE14SE43NjhXc1U2M1JsTzZ2d3BBTWhVOGxzQTlaZXcxYlVmZmxad3dqVmlLUFNrNGRWcmZGRnpnNm5EQ2N6eWtvd9IBa0FVX3lxTFBSaHo0V2VEd2F1cjVQUFdTdF9lQk1WWnMxUkR0U0FMWDNoQVhZRGZNQ3pZNjZhaWlqb1Fmd0dtZC1QeWpUekFQV0NOTk43QzVicDFmdnZFRERaRVBUMjBzUnY4ZjN5ZllaTTNN?oc=5",
+          "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
+          "titleZh": "特朗普访华最后一程参观中南海 习近平强调这种安排“极为罕见” - BBC",
+          "summaryZh": "特朗普访华最后一程参观中南海 习近平强调这种安排“极为罕见” BBC"
+        },
+        {
+          "id": "bbc-news-11-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -951,7 +977,7 @@
           "summaryZh": "特朗普访华：17名美国商界领袖随行，尚未有大订单浮出水面 BBC"
         },
         {
-          "id": "bbc-news-1-https://news.google.com/",
+          "id": "bbc-news-2-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -1003,20 +1029,7 @@
           "summaryZh": "Trump-Xi summit: US and China conclude 'very successful' talks but few deals confirmed BBC"
         },
         {
-          "id": "bbc-news-9-https://news.google.com/",
-          "sourceId": "bbc",
-          "source": "BBC",
-          "sourceSite": "bbc.com",
-          "type": "news",
-          "title": "红毯、国宴、会谈、台湾、黄仁勋：特朗普重返北京后的几大关键时刻 - BBC",
-          "description": "红毯、国宴、会谈、台湾、黄仁勋：特朗普重返北京后的几大关键时刻 BBC",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WVTlISnJMRVpnX3JJakVoTTgxOVk5T0ZXY2ZjMjd3eWtGQV9meWhBUFk4dUJQN0lBU1dISzJIV2sweUJ1SG9RMkkyMDZMclpicU0zaHBNOFRtQ2tCU24xcWxnWHBGZ9IBa0FVX3lxTE85Yy14Q0F4cUNwczFMVkphTXJPYk9KdnQxX25ZcGgwbUktYVYtYlZLN0dvSlVKZGw1Sy1XV3BnQWhNNzBSM0xod1lJa1FEdERZS25DRk9VV3VBUVJkRl9TcmlzV1FoOEtGb20w?oc=5",
-          "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
-          "titleZh": "红毯、国宴、会谈、台湾、黄仁勋：特朗普重返北京后的几大关键时刻 - BBC",
-          "summaryZh": "红毯、国宴、会谈、台湾、黄仁勋：特朗普重返北京后的几大关键时刻 BBC"
-        },
-        {
-          "id": "bbc-news-11-https://news.google.com/",
+          "id": "bbc-news-10-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -1150,6 +1163,19 @@
           "source": "联合早报",
           "sourceSite": "zaobao.com.sg",
           "type": "news",
+          "title": "特朗普称习近平9月24日访美 AI料成关键议题 - 联合早报",
+          "description": "特朗普称习近平9月24日访美 AI料成关键议题 联合早报",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GQTFfaXVBdl8xYkdoX1VWTjNKd0hzb0ZGLXpHeFpDMHpYUlVuaXRxd3NDaUR5QjI5SEVJQ01UcmpjTzBsWndIeXh0ck52c0Z3U1Q3dEdUNHNzdEtDYm5Fc3Z3dm9nOVJJX2c?oc=5",
+          "publishedAt": "Fri, 24 Jul 2026 07:00:00 GMT",
+          "titleZh": "特朗普称习近平9月24日访美 AI料成关键议题 - 联合早报",
+          "summaryZh": "特朗普称习近平9月24日访美 AI料成关键议题 联合早报"
+        },
+        {
+          "id": "zaobao-news-1-https://news.google.com/",
+          "sourceId": "zaobao",
+          "source": "联合早报",
+          "sourceSite": "zaobao.com.sg",
+          "type": "news",
           "title": "会见随特朗普访华美企巨头 李强承诺政策环境稳定开放 - 联合早报",
           "description": "会见随特朗普访华美企巨头 李强承诺政策环境稳定开放 联合早报",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRakhjaUhVNTJVSjZ0NVBNc3pxTjkyckZPbUtWZnlYbkxyc0dmalhHc09LS0dVQXZnTkd3Y085NjkyX19JMS1Sd1ltNEJnR2YxdlJvMnFvd3U2ZVMzX2NldUhCLUxwTlhUOHc?oc=5",
@@ -1179,28 +1205,28 @@
         {
           "id": "general-news-8-https://news.google.com/",
           "sourceId": "general",
-          "source": "South China Morning Post",
+          "source": "scmp.com",
           "sourceSite": "",
           "type": "news",
-          "title": "As Rubio-Wang talks near, Trump dials down China election meddling rhetoric - South China Morning Post",
-          "description": "As Rubio-Wang talks near, Trump dials down China election meddling rhetoric South China Morning Post",
+          "title": "As Rubio-Wang talks near, Trump dials down China election meddling rhetoric - scmp.com",
+          "description": "As Rubio-Wang talks near, Trump dials down China election meddling rhetoric scmp.com",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLTNSX3dKbFdJTWZvdTRfZTFVRHR5S1BHYlRQRENQLVJCVWc4bWNJeDJzNkJWSlRBcFVybTdwa1RfMGtaLUR1Rk15SlQwcjBXVmlha2J6Qno5MmxGaEJhdERlSm1rQlA5WmZJczFZdUl1aE1ZRmpaV1RLY1d4X0xRazJDcWx4YU5PbDJYazRuOXJ4bzFtbzc4dUM0ODRxWWZucjRMZDZKTTZTOFdTMVZKazJoY0dhVjNHRFMyMFFCONIBvwFBVV95cUxNQUc1RU1FOE55c1NSTlRpbmE2cFR4cTBOVklFZ2dSYkgwSGhYcGUzdEZmUVd2Mmx0bEI1YzhzY3c5d3BKYnVzQTkxcTJoUUswVEVDN3F3eGFrWDhLY0NRRXFleTZNZEN5ZDdtSW4zVDlFdTktSkt2WGhZSWxiU2NuLThnUXNNMDF3c2NUejhOcGpMNDREaVVHLUZYXzdfcnJiUDNQMUV1VGtVMGJQWkJUNHliNGx5WFB5N3FrWWx0WQ?oc=5",
           "publishedAt": "Wed, 22 Jul 2026 07:00:00 GMT",
-          "titleZh": "As Rubio-Wang talks near, Trump dials down China election meddling rhetoric - South China Morning Post",
-          "summaryZh": "As Rubio-Wang talks near, Trump dials down China election meddling rhetoric South China Morning Post"
+          "titleZh": "As Rubio-Wang talks near, Trump dials down China election meddling rhetoric - scmp.com",
+          "summaryZh": "As Rubio-Wang talks near, Trump dials down China election meddling rhetoric scmp.com"
         },
         {
           "id": "general-news-6-https://news.google.com/",
           "sourceId": "general",
-          "source": "South China Morning Post",
+          "source": "scmp.com",
           "sourceSite": "",
           "type": "news",
-          "title": "China and US still in contact on Xi summit trip despite Trump’s election claims - South China Morning Post",
-          "description": "China and US still in contact on Xi summit trip despite Trump’s election claims South China Morning Post",
+          "title": "China and US still in contact on Xi summit trip despite Trump’s election claims - scmp.com",
+          "description": "China and US still in contact on Xi summit trip despite Trump’s election claims scmp.com",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMDJtNi1ZRl9zVk9WRmREeF83Zy1tcWNTS3ZRaVplT0ZaSUpWRHZiTHhpcUpHQnVHMTIwZEdMdmx3TFhlRThnNWhPdzF0bVlRX1RDZmxmbGVkZUpYVk5DYlBUc1lEakFPckFTMmRSRDR3cmg2OXI3Sk5SN3hNYVVhTkxQOG0tRERnYVV2SlZydUNqSGgzejM3UEhReEdPdkg2aDc1b3FPMWtHSlhQX1A4a0ZWRUJobzI0aHBEWVBmUWUxYWlmUnowRXVyVmVxQdIBzgFBVV95cUxPY3NrUUNIR043LS1vb2d4V2JDZTVWQmZoN0g4NWVSOUY1eUprdFBtLXlqMDlkU194RUlCVGFlaU1SWFRmRmRNQmZqT3N4SFpTcDdNUlVhS29JQWpMSFFfYzhMbVpKWERQLXpTRzNsR1NSUm1kTlJvdDdoZlBaWFAwaUpMaWNoY3lRWWJ6bTR4amRwU0cybTVnVWNscHZnSVVBTjd1UlZJQXJjTzZkTXNwVHFWcGRRWmhodTlVanpoaU94aXFycGt4ckM4SHhJdw?oc=5",
           "publishedAt": "Mon, 20 Jul 2026 07:00:00 GMT",
-          "titleZh": "China and US still in contact on Xi summit trip despite Trump’s election claims - South China Morning Post",
-          "summaryZh": "China and US still in contact on Xi summit trip despite Trump’s election claims South China Morning Post"
+          "titleZh": "China and US still in contact on Xi summit trip despite Trump’s election claims - scmp.com",
+          "summaryZh": "China and US still in contact on Xi summit trip despite Trump’s election claims scmp.com"
         },
         {
           "id": "general-news-0-https://news.google.com/",
@@ -1283,15 +1309,15 @@
         {
           "id": "general-news-11-https://news.google.com/",
           "sourceId": "general",
-          "source": "cnbc.com",
+          "source": "CNBC",
           "sourceSite": "",
           "type": "news",
-          "title": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - cnbc.com",
-          "description": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access cnbc.com",
+          "title": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
+          "description": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVGtCaV9hM2dFZXpwajNOVjd3Ujg5TWlRODEzQjdvb1d3NjdERy1iWkJTZWlYRnh3ZFhFNG9pNVF5WFFiSkszSklvLW5pNWZYQjdRTTBicG1vRGVPbnltR2dvbC05djVYbzF6X2xhdVBPckhmTkE1S2plVlBIMllhZ29vQ2RSNXZHTXcycmdyTzTSAZYBQVVfeXFMUHFPcFMydTFFS21aSDJqMjQ5ZVZ3TDQtSEEyYWd3Z1pOYTd0QzB1eGFCY0gxV0tFdTYyYUV2Z3RCeUYtLXVZbE10SlF5TFpIc0hzRzdVcjdadkR3MkFBemdPZnl3cjJ6MU5hcnk5ckFkLW4wNXR2WEhDNnR2aGpDellnRGtTLWptbjlTMnRNWFM4UHJqZnB3?oc=5",
           "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
-          "titleZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - cnbc.com",
-          "summaryZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access cnbc.com"
+          "titleZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
+          "summaryZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC"
         },
         {
           "id": "general-news-14-https://news.google.com/",
@@ -1374,15 +1400,15 @@
         {
           "id": "general-news-13-https://news.google.com/",
           "sourceId": "general",
-          "source": "The Christian Science Monitor",
+          "source": "csmonitor.com",
           "sourceSite": "",
           "type": "news",
-          "title": "As Trump and Xi talk business, questions about Taiwan loom - The Christian Science Monitor",
-          "description": "As Trump and Xi talk business, questions about Taiwan loom The Christian Science Monitor",
+          "title": "As Trump and Xi talk business, questions about Taiwan loom - csmonitor.com",
+          "description": "As Trump and Xi talk business, questions about Taiwan loom csmonitor.com",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOGpRbHJ1RDNiNXViVGowMXRseEc2UWxscXlpY3BPbThKajFOYXVwQjg5VUJoczBnaGZhdmlMZHF4TmZEeG5RU2MtRGxuLXBxekhHVS00M0F5MFFmTGpIUUxGRlF2UWFTWUdfZlh2QkZpQmpKQlQxTTZsQS1TVUJzUkRGTHhXSDB3WDBxNTZiNkY4bjhyd0FV0gGwAUFVX3lxTFBkaEZhWElrZ1ZZQzBtdlVIeENFNHVaUVcwUGZVNkZTT3k3SHJXVHNiU3UxQU9ScXFLNnN4dnFBQ1ZGNXEySVV0OXVxSDRFNXR4RnBVTElXT1BpenlyNlFKdE1yOUpnRnhiZk9xMWlHLWYtMTZGWEVWWkVhRkkzWlJseGhrX0lLMWcxNzY2eENaWVJERzdhS19lRElES0RETV83cTN2WHN2SUlSdGZ4bHEz?oc=5",
           "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
-          "titleZh": "As Trump and Xi talk business, questions about Taiwan loom - The Christian Science Monitor",
-          "summaryZh": "As Trump and Xi talk business, questions about Taiwan loom The Christian Science Monitor"
+          "titleZh": "As Trump and Xi talk business, questions about Taiwan loom - csmonitor.com",
+          "summaryZh": "As Trump and Xi talk business, questions about Taiwan loom csmonitor.com"
         },
         {
           "id": "general-news-16-https://news.google.com/",
@@ -1428,6 +1454,19 @@
   ],
   "commentary": [
     {
+      "id": "ft-commentary-0-https://news.google.com/",
+      "sourceId": "ft",
+      "source": "Financial Times",
+      "sourceSite": "ft.com",
+      "type": "commentary",
+      "title": "The DC lobbyists helping African leaders survive Donald Trump - Financial Times",
+      "description": "The DC lobbyists helping African leaders survive Donald Trump Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMURsdTVqU2otNmxiV0NqYk1XVTZUZU5CVzRhMXlqcFlYOG4zQ0hFaXJaQkczOXdqTzBadHp5V1pmT2ZuN2hPZ19nR1FEcDVXVjRwMktya3dBa001a1pFcnZMYXJZV1FVcXVVMFRnODdVRmJLalJ6UXp0eE9WT2NIVlhOTng?oc=5",
+      "publishedAt": "Wed, 05 Aug 2026 04:00:11 GMT",
+      "titleZh": "The DC lobbyists helping African leaders survive Donald Trump - Financial Times",
+      "summaryZh": "The DC lobbyists helping African leaders survive Donald Trump Financial Times"
+    },
+    {
       "id": "economist-commentary-0-https://news.google.com/",
       "sourceId": "economist",
       "source": "The Economist",
@@ -1454,7 +1493,7 @@
       "summaryZh": "Trump’s China Threats Don’t Match His China Policy Foreign Policy"
     },
     {
-      "id": "nytimes-commentary-1-https://news.google.com/",
+      "id": "nytimes-commentary-0-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -1480,7 +1519,7 @@
       "summaryZh": "The View From the Front Row of the Trump-Xi Summit Foreign Affairs"
     },
     {
-      "id": "nytimes-commentary-0-https://news.google.com/",
+      "id": "nytimes-commentary-1-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -1599,7 +1638,7 @@
       "summaryZh": "Xi, Putin to hold talks in Beijing days after Trump visit amid Iran war Anadolu Ajansı"
     },
     {
-      "id": "social-social-18-https://news.google.com/",
+      "id": "social-social-19-https://news.google.com/",
       "sourceId": "social",
       "source": "The Japan Times",
       "sourceSite": "",
@@ -1623,19 +1662,6 @@
       "publishedAt": "Sat, 16 May 2026 07:00:00 GMT",
       "titleZh": "Trump-Xi summit: How the US president's China visit unfolded - Nikkei Asia",
       "summaryZh": "Trump-Xi summit: How the US president's China visit unfolded Nikkei Asia"
-    },
-    {
-      "id": "social-social-23-https://news.google.com/",
-      "sourceId": "social",
-      "source": "The Straits Times",
-      "sourceSite": "",
-      "type": "social",
-      "title": "‘Japan Passing’? Trump eases Tokyo jitters with phone call to Takaichi after Xi summit - The Straits Times",
-      "description": "‘Japan Passing’? Trump eases Tokyo jitters with phone call to Takaichi after Xi summit The Straits Times",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTBPWWxvNUdyMnhlc2FSSUJrN1FnUmFoWFZwNHJYUF9zeXJocG9kVjdsUnZER3BlZXFIQndsZGd6Y1RMNGlJTk1oa0JJNzdneFNFTEhaUjVhaF9rNU1TczhPSnNPMVRwdFVqNVZtczdERzgzWnFRVVNWaHNPNjd4azZIcXlHYjFDaHR6bFFnYU1nX01Ca3Y4QXFrbjhCZ0s3XzB4ZUVnOElxRUZScGpnbXVKNFZwVjE4a0t6cUFSNDBRYUE2Wnc?oc=5",
-      "publishedAt": "Sat, 16 May 2026 07:00:00 GMT",
-      "titleZh": "‘Japan Passing’? Trump eases Tokyo jitters with phone call to Takaichi after Xi summit - The Straits Times",
-      "summaryZh": "‘Japan Passing’? Trump eases Tokyo jitters with phone call to Takaichi after Xi summit The Straits Times"
     },
     {
       "id": "social-social-5-https://news.google.com/",
@@ -1677,7 +1703,7 @@
       "summaryZh": "Seized ship taken toward Iran as Trump and China's Xi agree Strait of Hormuz \"must remain open\" CBS News"
     },
     {
-      "id": "social-social-14-https://news.google.com/",
+      "id": "social-social-15-https://news.google.com/",
       "sourceId": "social",
       "source": "Eurasia Review",
       "sourceSite": "",
@@ -1690,7 +1716,7 @@
       "summaryZh": "Trump Says Xi Offered Help To Open Hormuz Strait, Vowed Not To Arm Iran Eurasia Review"
     },
     {
-      "id": "social-social-21-https://news.google.com/",
+      "id": "social-social-22-https://news.google.com/",
       "sourceId": "social",
       "source": "India Today",
       "sourceSite": "",
@@ -1703,7 +1729,7 @@
       "summaryZh": "Largest economies meeting, not one woman at table: Trump-Xi meet draws criticism India Today"
     },
     {
-      "id": "social-social-22-https://news.google.com/",
+      "id": "social-social-23-https://news.google.com/",
       "sourceId": "social",
       "source": "The Indian Express",
       "sourceSite": "",
@@ -1820,7 +1846,20 @@
       "summaryZh": "Taiwan becomes flashpoint of Trump-Xi summit as Rubio warns Beijing of 'repercussions' for invasion New York Post"
     },
     {
-      "id": "social-social-15-https://news.google.com/",
+      "id": "social-social-14-https://news.google.com/",
+      "sourceId": "social",
+      "source": "The Daily Beast",
+      "sourceSite": "",
+      "type": "social",
+      "title": "Sheepish Trump Suddenly Quiet on Huge Issue After Xi’s Warning - The Daily Beast",
+      "description": "Sheepish Trump Suddenly Quiet on Huge Issue After Xi’s Warning The Daily Beast",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQlhoNllRaE5rcU53VGZ4ZEMzbGNaZER5Y0hsVENDaGdQOE1yQ0JhLWVGV2VvWTlQVWlrZk93bUtZMGh3WU82dTBoMzBjbXRvY1JyOHI2MHVtMHFsaVdocTBhem9kTkQtYkpmc3pHS1Brd0hjQ2xQOS11dUZGVks2eWgtYmV1WTRHV2xFSW14WThVUHFiZnkzUURDMHA?oc=5",
+      "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
+      "titleZh": "Sheepish Trump Suddenly Quiet on Huge Issue After Xi’s Warning - The Daily Beast",
+      "summaryZh": "Sheepish Trump Suddenly Quiet on Huge Issue After Xi’s Warning The Daily Beast"
+    },
+    {
+      "id": "social-social-16-https://news.google.com/",
       "sourceId": "social",
       "source": "Yahoo",
       "sourceSite": "",
@@ -1833,20 +1872,20 @@
       "summaryZh": "Dejected Trump Reacts to China Meeting With 9-Word Response Yahoo"
     },
     {
-      "id": "social-social-16-https://news.google.com/",
+      "id": "social-social-17-https://news.google.com/",
       "sourceId": "social",
-      "source": "New York Magazine",
+      "source": "nymag.com",
       "sourceSite": "",
       "type": "social",
-      "title": "14 Things That Definitely Happened on Day One of Trump’s China Trip - New York Magazine",
-      "description": "14 Things That Definitely Happened on Day One of Trump’s China Trip New York Magazine",
+      "title": "14 Things That Definitely Happened on Day One of Trump’s China Trip - nymag.com",
+      "description": "14 Things That Definitely Happened on Day One of Trump’s China Trip nymag.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR2xtV0ZxSllHeW5LcUV6aTlwMEMyU2drRGtWUzhidVU2RVNFMnA0OFhSU09WNmFuQmJZb09fZDdNTzdZekhQNnVCVlNiZ3RaQVZpYWtwYUpJNE41OHMydVhWcUlBUWxrc3pWWS1neXo3TzFvc3ZTOTE4am9CazdZZEoyS3VVbUw3YzNEdDhPOXpUOWRudjFySHFIUS1NZ2labm5FMg?oc=5",
       "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
-      "titleZh": "14 Things That Definitely Happened on Day One of Trump’s China Trip - New York Magazine",
-      "summaryZh": "14 Things That Definitely Happened on Day One of Trump’s China Trip New York Magazine"
+      "titleZh": "14 Things That Definitely Happened on Day One of Trump’s China Trip - nymag.com",
+      "summaryZh": "14 Things That Definitely Happened on Day One of Trump’s China Trip nymag.com"
     },
     {
-      "id": "social-social-17-https://news.google.com/",
+      "id": "social-social-18-https://news.google.com/",
       "sourceId": "social",
       "source": "USA Today",
       "sourceSite": "",
@@ -1859,7 +1898,7 @@
       "summaryZh": "What's the point of Trump, Xi talks in China? Your questions answered USA Today"
     },
     {
-      "id": "social-social-19-https://news.google.com/",
+      "id": "social-social-20-https://news.google.com/",
       "sourceId": "social",
       "source": "朝日新聞",
       "sourceSite": "",
@@ -1872,17 +1911,17 @@
       "summaryZh": "Trump and Xi open Beijing summit with praise for trade progress 朝日新聞"
     },
     {
-      "id": "social-social-20-https://news.google.com/",
+      "id": "social-social-21-https://news.google.com/",
       "sourceId": "social",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "source": "abc.net.au",
       "sourceSite": "",
       "type": "social",
-      "title": "The key takeaways from Trump and Xi's meeting in China - ABC News & Headlines – Australian Broadcasting Corporation",
-      "description": "The key takeaways from Trump and Xi's meeting in China ABC News & Headlines – Australian Broadcasting Corporation",
+      "title": "The key takeaways from Trump and Xi's meeting in China - abc.net.au",
+      "description": "The key takeaways from Trump and Xi's meeting in China abc.net.au",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY3Vla29fbHVPTXAxMElSU2lJSTNnXzRTZ3JsX0ZvV0RvVVRNay1aVlNJTE1jWlRfTEpZRTkzSkZxU2x6SkFLbm5hMGRPRVZHQnczQTZKS0JGd1RXN0RYcVh0NWdXYjlsSkR3a0lhMkR5TmxrY3VTMG5kMlg0NzBOZUNKZmlCNkx4RXpZdURkQ3hJa3VYRDlNYzJR?oc=5",
       "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
-      "titleZh": "The key takeaways from Trump and Xi's meeting in China - ABC News & Headlines – Australian Broadcasting Corporation",
-      "summaryZh": "The key takeaways from Trump and Xi's meeting in China ABC News & Headlines – Australian Broadcasting Corporation"
+      "titleZh": "The key takeaways from Trump and Xi's meeting in China - abc.net.au",
+      "summaryZh": "The key takeaways from Trump and Xi's meeting in China abc.net.au"
     }
   ],
   "markets": [
@@ -2094,13 +2133,13 @@
         "feed": "gdelt:特朗普 北京 会谈",
         "count": 0,
         "status": "failed",
-        "error": "GDELT fetch failed: 429"
+        "error": "fetch failed"
       },
       {
         "feed": "gdelt:特朗普 访华 美国企业家",
         "count": 0,
         "status": "failed",
-        "error": "GDELT fetch failed: 429"
+        "error": "Unexpected token 'Y', \"Your searc\"... is not valid JSON"
       }
     ],
     "commentary": [
@@ -2133,7 +2172,7 @@
     "social": [
       {
         "feed": "https://news.google.com/rss/search?q=Trump+Beijing+talks+X+OR+Twitter&hl=en-US&gl=US&ceid=US:en",
-        "count": 61,
+        "count": 63,
         "status": "ok"
       },
       {
@@ -2143,7 +2182,7 @@
       },
       {
         "feed": "https://news.google.com/rss/search?q=特朗普+访华+企业家+微博&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "count": 73,
+        "count": 74,
         "status": "ok"
       }
     ]
