@@ -1,10 +1,49 @@
 {
-  "generatedAt": "2026-08-20T18:32:28.217Z",
-  "totalNews": 23,
+  "generatedAt": "2026-08-20T21:23:06.851Z",
+  "totalNews": 25,
   "totalCommentary": 32,
   "timeline": [
     {
-      "id": "reuters-news-2-https://news.google.com/",
+      "id": "aljazeera-news-0-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "US Treasury secretary says new economic measures will ‘collapse’ Iran - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNV2pvQVMyNVJzdm95alZqZ2g1ZW10UEY2dkVRdXRHSm4tNF8yOTNlak5SOWIxYXNOakMwdEZ4Q2tLYjVJWWUxUUFaQzhaTVFhZTRUWXJuYlRTVng4NHdoUW94SXlwZkNPX1ZjVTc1T0tCblQwUkNfRHFtc1BFTk9YU19leFF4U2gxdVpMbm1TUmdxOVBJeWt3OTU0dEVoN1RURDE5bVpXZVpjY0M20gGyAUFVX3lxTE5NSmVlUW1LZV9DLXk3U2VhVl8yUHYtdnJ6RVJTZDJwT3IydUc0eGpKZGx5VWNhVW5GanlUS3N0SGRrX2tsNGgzTFVoNE1WakhjeE1Nd1VxVXAtSy1qWWF1ZG82Vi11Q0xkLUpiQk9Jdmh1S1JEbGx6Zkd1cnNsRElFT1ZnNTcyMlFVQUpTYkFNb182LW45Y21ZbjNuRi1LMERwUGFSU1p5Q0NrU092TE9zaUE?oc=5\" target=\"_blank\">US Treasury secretary says new economic measures will ‘collapse’ Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV2pvQVMyNVJzdm95alZqZ2g1ZW10UEY2dkVRdXRHSm4tNF8yOTNlak5SOWIxYXNOakMwdEZ4Q2tLYjVJWWUxUUFaQzhaTVFhZTRUWXJuYlRTVng4NHdoUW94SXlwZkNPX1ZjVTc1T0tCblQwUkNfRHFtc1BFTk9YU19leFF4U2gxdVpMbm1TUmdxOVBJeWt3OTU0dEVoN1RURDE5bVpXZVpjY0M20gGyAUFVX3lxTE5NSmVlUW1LZV9DLXk3U2VhVl8yUHYtdnJ6RVJTZDJwT3IydUc0eGpKZGx5VWNhVW5GanlUS3N0SGRrX2tsNGgzTFVoNE1WakhjeE1Nd1VxVXAtSy1qWWF1ZG82Vi11Q0xkLUpiQk9Jdmh1S1JEbGx6Zkd1cnNsRElFT1ZnNTcyMlFVQUpTYkFNb182LW45Y21ZbjNuRi1LMERwUGFSU1p5Q0NrU092TE9zaUE?oc=5",
+      "publishedAt": "Thu, 20 Aug 2026 19:14:38 GMT",
+      "titleZh": "US Treasury secretary says new economic measures will ‘collapse’ Iran - Al Jazeera",
+      "summaryZh": "US Treasury secretary says new economic measures will ‘collapse’ Iran&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "bbc-news-1-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "Scott Bessent urges US partners to back plans to 'squash' Iran economy - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MOUpxR0VLZHYtWllTZWxtUklUanM1R2tDOEhsZlJLRldrV1pmWWxBTHYtRnROUDlUZmkzUEx6VTJvNFh1MmxUYTNkNEl5X0R2SEQzSWFnTUdGdw?oc=5\" target=\"_blank\">Scott Bessent urges US partners to back plans to 'squash' Iran economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MOUpxR0VLZHYtWllTZWxtUklUanM1R2tDOEhsZlJLRldrV1pmWWxBTHYtRnROUDlUZmkzUEx6VTJvNFh1MmxUYTNkNEl5X0R2SEQzSWFnTUdGdw?oc=5",
+      "publishedAt": "Thu, 20 Aug 2026 18:40:46 GMT",
+      "titleZh": "Scott Bessent urges US partners to back plans to 'squash' Iran economy - BBC",
+      "summaryZh": "Scott Bessent urges US partners to back plans to 'squash' Iran economy&nbsp;&nbsp;BBC"
+    },
+    {
+      "id": "reuters-news-5-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
+      "type": "news",
+      "title": "US hits Hezbollah with fresh sanctions, emphasizing ties to Iranian government - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNaTBkRFJMMmRQcUtXVlRSS01DTjdnZnVCZkZ2d0k5VkJ1QVQtOHRrOXR2RnNuZWRiMFBsMEMwT0JqV3VkUTJ6QlRnaUJrQXZRRXZUSlZvcy1ONWlqb3E4ZUxzcUZwV29BSU9qYUhwR1NSQmwyR1l3eGRseGJKSEhaYmE4RUxkbkNlOWs2U2tiZ2tTaUJYa0JoWmRTcnBidTZWNHYzeklGblFwcE5WSE9HdFNpTTBNQldaZG12N3NVNTRzMDBYcEVTMUhR?oc=5\" target=\"_blank\">US hits Hezbollah with fresh sanctions, emphasizing ties to Iranian government</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaTBkRFJMMmRQcUtXVlRSS01DTjdnZnVCZkZ2d0k5VkJ1QVQtOHRrOXR2RnNuZWRiMFBsMEMwT0JqV3VkUTJ6QlRnaUJrQXZRRXZUSlZvcy1ONWlqb3E4ZUxzcUZwV29BSU9qYUhwR1NSQmwyR1l3eGRseGJKSEhaYmE4RUxkbkNlOWs2U2tiZ2tTaUJYa0JoWmRTcnBidTZWNHYzeklGblFwcE5WSE9HdFNpTTBNQldaZG12N3NVNTRzMDBYcEVTMUhR?oc=5",
+      "publishedAt": "Thu, 20 Aug 2026 18:20:15 GMT",
+      "titleZh": "US hits Hezbollah with fresh sanctions, emphasizing ties to Iranian government - Reuters",
+      "summaryZh": "US hits Hezbollah with fresh sanctions, emphasizing ties to Iranian government&nbsp;&nbsp;Reuters"
+    },
+    {
+      "id": "reuters-news-1-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -12,25 +51,12 @@
       "title": "Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate - Reuters",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlFnUHhPNjlxRW5kTy03TFctOE1ST1NabGVNalozY2hiR2RKcEtfV1ZRblJ1VlJXQXRNem1yZmpIRVVYUjJOd2pzWElTX0JVeXZVR1V1Tk5NOG5oWWUtRVZzWDNFOE5KbE1VNmtubXdodnVzQ1RZMFV3TnpUUXVHM1N5MXZqZTBtdW1iUG8xS18wdi1ranhQQXpfVDdiYnRsc09iN3JtbEhZTVIwS202X0lmSkF2V0c2dFV5NQ?oc=5\" target=\"_blank\">Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlFnUHhPNjlxRW5kTy03TFctOE1ST1NabGVNalozY2hiR2RKcEtfV1ZRblJ1VlJXQXRNem1yZmpIRVVYUjJOd2pzWElTX0JVeXZVR1V1Tk5NOG5oWWUtRVZzWDNFOE5KbE1VNmtubXdodnVzQ1RZMFV3TnpUUXVHM1N5MXZqZTBtdW1iUG8xS18wdi1ranhQQXpfVDdiYnRsc09iN3JtbEhZTVIwS202X0lmSkF2V0c2dFV5NQ?oc=5",
-      "publishedAt": "Thu, 20 Aug 2026 16:20:49 GMT",
+      "publishedAt": "Thu, 20 Aug 2026 18:04:43 GMT",
       "titleZh": "Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate - Reuters",
       "summaryZh": "Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "reuters-news-4-https://news.google.com/",
-      "sourceId": "reuters",
-      "source": "Reuters",
-      "sourceSite": "reuters.com",
-      "type": "news",
-      "title": "Trump threatens to isolate Iran. Who are its trading partners? - Reuters",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQUTliUERTQVlVWVpERU5Zd3V1dXdSY2JuZExLUjMtUkMxWXVoZFJzLUx1aTFITDQwdWY5RS1pR3pDNDVWMGlFS0t6cE9DQmYwNWRDeWViME50enF1X1RZWjNVYmF2ME9obUp6TTNLcG01ekdLS1liNUhmeDdmU1hYVnVpR21vTzlDYUJKY3EzYkItZThBZE9kYS1EV3FfYkx4MXZUVFloa2FYWG5jUVE?oc=5\" target=\"_blank\">Trump threatens to isolate Iran. Who are its trading partners?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUTliUERTQVlVWVpERU5Zd3V1dXdSY2JuZExLUjMtUkMxWXVoZFJzLUx1aTFITDQwdWY5RS1pR3pDNDVWMGlFS0t6cE9DQmYwNWRDeWViME50enF1X1RZWjNVYmF2ME9obUp6TTNLcG01ekdLS1liNUhmeDdmU1hYVnVpR21vTzlDYUJKY3EzYkItZThBZE9kYS1EV3FfYkx4MXZUVFloa2FYWG5jUVE?oc=5",
-      "publishedAt": "Thu, 20 Aug 2026 15:54:22 GMT",
-      "titleZh": "Trump threatens to isolate Iran. Who are its trading partners? - Reuters",
-      "summaryZh": "Trump threatens to isolate Iran. Who are its trading partners?&nbsp;&nbsp;Reuters"
-    },
-    {
-      "id": "aljazeera-news-2-https://news.google.com/",
+      "id": "aljazeera-news-3-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -43,7 +69,7 @@
       "summaryZh": "How China and Russia could hobble Trump’s plans to isolate Iran&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-0-https://news.google.com/",
+      "id": "aljazeera-news-1-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -56,7 +82,7 @@
       "summaryZh": "‘Tremendous costs’: Can Trump stop other countries from trading with Iran?&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-7-https://news.google.com/",
+      "id": "aljazeera-news-4-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -69,7 +95,20 @@
       "summaryZh": "War on Iran: Trump announces a new campaign to isolate Iran economically&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-3-https://news.google.com/",
+      "id": "bbc-news-0-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "Trump vows tougher economic measures on Iran and supporting countries - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE10NXpxUDd6UnRUMjB4X2k3SnljQ0VYNjJCb1VUaUpJTmV3SlFPdWszMDZVWWdzUkduVEpBWk9zSGNseW56M2JWOXEtRjV6WVlxMlVTc0N4bVRKdw?oc=5\" target=\"_blank\">Trump vows tougher economic measures on Iran and supporting countries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10NXpxUDd6UnRUMjB4X2k3SnljQ0VYNjJCb1VUaUpJTmV3SlFPdWszMDZVWWdzUkduVEpBWk9zSGNseW56M2JWOXEtRjV6WVlxMlVTc0N4bVRKdw?oc=5",
+      "publishedAt": "Thu, 20 Aug 2026 09:13:18 GMT",
+      "titleZh": "Trump vows tougher economic measures on Iran and supporting countries - BBC",
+      "summaryZh": "Trump vows tougher economic measures on Iran and supporting countries&nbsp;&nbsp;BBC"
+    },
+    {
+      "id": "aljazeera-news-5-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -82,7 +121,7 @@
       "summaryZh": "Are ships passing Hormuz more willing to defy Iran or US? What data shows&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-1-https://news.google.com/",
+      "id": "aljazeera-news-2-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -108,20 +147,20 @@
       "summaryZh": "The Iran war energy crisis is just getting started&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "reuters-news-1-https://news.google.com/",
+      "id": "reuters-news-2-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
       "type": "news",
-      "title": "Trump warns of economic consequences for any country that supports Iran - Reuters",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0t6ejR6ZDNSMllnR0lXWC1vV3ZyTXoxUDEyeHRXczFpRWtRbzEyWmdkRVRqWi1oZzJEaEF6UnAxcHItbXZ6Z1hKTzBQV2hPOUVFQml3Wk80T1F2UmFRSzIwakhFR2hKbmp3MFJ6LUFDX1BHV3BKeDZxYXdaT2wwWi1kaU5LbkFaX19IekRKSGNUT0VBc1FQeWVRdUxLd0U3V1I5WjZoMmtIcXZUQnRBczZKcTFZa19zUVE?oc=5\" target=\"_blank\">Trump warns of economic consequences for any country that supports Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "title": "US will impose 'toughest sanctions in history' on Iran, Bessent says - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0t6ejR6ZDNSMllnR0lXWC1vV3ZyTXoxUDEyeHRXczFpRWtRbzEyWmdkRVRqWi1oZzJEaEF6UnAxcHItbXZ6Z1hKTzBQV2hPOUVFQml3Wk80T1F2UmFRSzIwakhFR2hKbmp3MFJ6LUFDX1BHV3BKeDZxYXdaT2wwWi1kaU5LbkFaX19IekRKSGNUT0VBc1FQeWVRdUxLd0U3V1I5WjZoMmtIcXZUQnRBczZKcTFZa19zUVE?oc=5\" target=\"_blank\">US will impose 'toughest sanctions in history' on Iran, Bessent says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0t6ejR6ZDNSMllnR0lXWC1vV3ZyTXoxUDEyeHRXczFpRWtRbzEyWmdkRVRqWi1oZzJEaEF6UnAxcHItbXZ6Z1hKTzBQV2hPOUVFQml3Wk80T1F2UmFRSzIwakhFR2hKbmp3MFJ6LUFDX1BHV3BKeDZxYXdaT2wwWi1kaU5LbkFaX19IekRKSGNUT0VBc1FQeWVRdUxLd0U3V1I5WjZoMmtIcXZUQnRBczZKcTFZa19zUVE?oc=5",
       "publishedAt": "Thu, 20 Aug 2026 02:29:00 GMT",
-      "titleZh": "Trump warns of economic consequences for any country that supports Iran - Reuters",
-      "summaryZh": "Trump warns of economic consequences for any country that supports Iran&nbsp;&nbsp;Reuters"
+      "titleZh": "US will impose 'toughest sanctions in history' on Iran, Bessent says - Reuters",
+      "summaryZh": "US will impose 'toughest sanctions in history' on Iran, Bessent says&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "aljazeera-news-4-https://news.google.com/",
+      "id": "aljazeera-news-6-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -139,15 +178,15 @@
       "source": "Reuters",
       "sourceSite": "reuters.com",
       "type": "news",
-      "title": "Oil hits more than three-week high as Trump threatens Iran-related retaliation - Reuters",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5\" target=\"_blank\">Oil hits more than three-week high as Trump threatens Iran-related retaliation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "title": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5\" target=\"_blank\">Oil settles up more than 2% after Trump threatens countries supporting Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
       "publishedAt": "Thu, 20 Aug 2026 01:11:00 GMT",
-      "titleZh": "Oil hits more than three-week high as Trump threatens Iran-related retaliation - Reuters",
-      "summaryZh": "Oil hits more than three-week high as Trump threatens Iran-related retaliation&nbsp;&nbsp;Reuters"
+      "titleZh": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
+      "summaryZh": "Oil settles up more than 2% after Trump threatens countries supporting Iran&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "aljazeera-news-5-https://news.google.com/",
+      "id": "aljazeera-news-7-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -160,7 +199,7 @@
       "summaryZh": "USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-6-https://news.google.com/",
+      "id": "aljazeera-news-8-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -173,7 +212,7 @@
       "summaryZh": "Iran’s hardline parliament raises concerns with ‘foreign infiltration’ plan&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "reuters-news-5-https://news.google.com/",
+      "id": "reuters-news-4-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -186,7 +225,7 @@
       "summaryZh": "Iran threatens new offensive while US rules out extending ceasefire deal&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "bbc-news-4-https://news.google.com/",
+      "id": "bbc-news-6-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -199,7 +238,7 @@
       "summaryZh": "特朗普表示同意取消对伊朗的打击，前提是能“迅速”达成协议&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-3-https://news.google.com/",
+      "id": "bbc-news-5-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -212,7 +251,7 @@
       "summaryZh": "Iran deal presents political nightmare for Netanyahu&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-5-https://news.google.com/",
+      "id": "bbc-news-7-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -225,20 +264,7 @@
       "summaryZh": "伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限&nbsp;&nbsp;BBC"
     },
     {
-      "id": "aljazeera-news-9-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "Israel went to war with Iran, but Netanyahu may be the loser - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNYXBKTGhZelp6aXlpOFF2ZGZPNUdUckU3RGhsbDljcW5VT01wbE53RXB4VHAtckRzenFhOGprbnNfSTBSYmdMNjhta1FYUnRDWjRPbHRkYkJhWG5yUHNUdFdocHZ3RXktQklqd3R5eFlubDMzemQ5aUN5SmlTcG1tV3JkaVdfRnl2Qm9sbVBIS3dXOGxvUHNr0gGcAUFVX3lxTE1BM0RQcWNlVFdSYXlxZGZqQUtUd1ZVNFJoaUQ5M0Z4cEhVOURBNTBJVmV5RkthUWFLaWVKQjBLeTB2WDB0ckV1UkJIeHVZblNJdnlDbjlTN2JEWkJRUTZ4Q3V2eVZvMWllVEZ2WDNXajBLMzNJNjB0UlZVdEE2bFN0RmhBUVdsUTFtQ3I3TnN1SldYZnpxUVdFcWlQdg?oc=5\" target=\"_blank\">Israel went to war with Iran, but Netanyahu may be the loser</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYXBKTGhZelp6aXlpOFF2ZGZPNUdUckU3RGhsbDljcW5VT01wbE53RXB4VHAtckRzenFhOGprbnNfSTBSYmdMNjhta1FYUnRDWjRPbHRkYkJhWG5yUHNUdFdocHZ3RXktQklqd3R5eFlubDMzemQ5aUN5SmlTcG1tV3JkaVdfRnl2Qm9sbVBIS3dXOGxvUHNr0gGcAUFVX3lxTE1BM0RQcWNlVFdSYXlxZGZqQUtUd1ZVNFJoaUQ5M0Z4cEhVOURBNTBJVmV5RkthUWFLaWVKQjBLeTB2WDB0ckV1UkJIeHVZblNJdnlDbjlTN2JEWkJRUTZ4Q3V2eVZvMWllVEZ2WDNXajBLMzNJNjB0UlZVdEE2bFN0RmhBUVdsUTFtQ3I3TnN1SldYZnpxUVdFcWlQdg?oc=5",
-      "publishedAt": "Tue, 16 Jun 2026 07:00:00 GMT",
-      "titleZh": "Israel went to war with Iran, but Netanyahu may be the loser - Al Jazeera",
-      "summaryZh": "Israel went to war with Iran, but Netanyahu may be the loser&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "bbc-news-1-https://news.google.com/",
+      "id": "bbc-news-3-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -251,7 +277,7 @@
       "summaryZh": "US and Iran exchange strikes across Middle East for second day in a row&nbsp;&nbsp;BBC"
     },
     {
-      "id": "aljazeera-news-8-https://news.google.com/",
+      "id": "aljazeera-news-9-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -264,7 +290,7 @@
       "summaryZh": "How have countries around the world responded to the US-Israel war on Iran?&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "bbc-news-6-https://news.google.com/",
+      "id": "bbc-news-8-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -277,7 +303,7 @@
       "summaryZh": "伊朗战争：特朗普需要结束这场战争，但伊朗不会退让——分析&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-0-https://news.google.com/",
+      "id": "bbc-news-2-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -290,7 +316,7 @@
       "summaryZh": "Why did US and Israel attack Iran and how long could the war last?&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-2-https://news.google.com/",
+      "id": "bbc-news-4-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -309,7 +335,20 @@
       "source": "Reuters",
       "items": [
         {
-          "id": "reuters-news-2-https://news.google.com/",
+          "id": "reuters-news-5-https://news.google.com/",
+          "sourceId": "reuters",
+          "source": "Reuters",
+          "sourceSite": "reuters.com",
+          "type": "news",
+          "title": "US hits Hezbollah with fresh sanctions, emphasizing ties to Iranian government - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNaTBkRFJMMmRQcUtXVlRSS01DTjdnZnVCZkZ2d0k5VkJ1QVQtOHRrOXR2RnNuZWRiMFBsMEMwT0JqV3VkUTJ6QlRnaUJrQXZRRXZUSlZvcy1ONWlqb3E4ZUxzcUZwV29BSU9qYUhwR1NSQmwyR1l3eGRseGJKSEhaYmE4RUxkbkNlOWs2U2tiZ2tTaUJYa0JoWmRTcnBidTZWNHYzeklGblFwcE5WSE9HdFNpTTBNQldaZG12N3NVNTRzMDBYcEVTMUhR?oc=5\" target=\"_blank\">US hits Hezbollah with fresh sanctions, emphasizing ties to Iranian government</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaTBkRFJMMmRQcUtXVlRSS01DTjdnZnVCZkZ2d0k5VkJ1QVQtOHRrOXR2RnNuZWRiMFBsMEMwT0JqV3VkUTJ6QlRnaUJrQXZRRXZUSlZvcy1ONWlqb3E4ZUxzcUZwV29BSU9qYUhwR1NSQmwyR1l3eGRseGJKSEhaYmE4RUxkbkNlOWs2U2tiZ2tTaUJYa0JoWmRTcnBidTZWNHYzeklGblFwcE5WSE9HdFNpTTBNQldaZG12N3NVNTRzMDBYcEVTMUhR?oc=5",
+          "publishedAt": "Thu, 20 Aug 2026 18:20:15 GMT",
+          "titleZh": "US hits Hezbollah with fresh sanctions, emphasizing ties to Iranian government - Reuters",
+          "summaryZh": "US hits Hezbollah with fresh sanctions, emphasizing ties to Iranian government&nbsp;&nbsp;Reuters"
+        },
+        {
+          "id": "reuters-news-1-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -317,22 +356,9 @@
           "title": "Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate - Reuters",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlFnUHhPNjlxRW5kTy03TFctOE1ST1NabGVNalozY2hiR2RKcEtfV1ZRblJ1VlJXQXRNem1yZmpIRVVYUjJOd2pzWElTX0JVeXZVR1V1Tk5NOG5oWWUtRVZzWDNFOE5KbE1VNmtubXdodnVzQ1RZMFV3TnpUUXVHM1N5MXZqZTBtdW1iUG8xS18wdi1ranhQQXpfVDdiYnRsc09iN3JtbEhZTVIwS202X0lmSkF2V0c2dFV5NQ?oc=5\" target=\"_blank\">Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlFnUHhPNjlxRW5kTy03TFctOE1ST1NabGVNalozY2hiR2RKcEtfV1ZRblJ1VlJXQXRNem1yZmpIRVVYUjJOd2pzWElTX0JVeXZVR1V1Tk5NOG5oWWUtRVZzWDNFOE5KbE1VNmtubXdodnVzQ1RZMFV3TnpUUXVHM1N5MXZqZTBtdW1iUG8xS18wdi1ranhQQXpfVDdiYnRsc09iN3JtbEhZTVIwS202X0lmSkF2V0c2dFV5NQ?oc=5",
-          "publishedAt": "Thu, 20 Aug 2026 16:20:49 GMT",
+          "publishedAt": "Thu, 20 Aug 2026 18:04:43 GMT",
           "titleZh": "Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate - Reuters",
           "summaryZh": "Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate&nbsp;&nbsp;Reuters"
-        },
-        {
-          "id": "reuters-news-4-https://news.google.com/",
-          "sourceId": "reuters",
-          "source": "Reuters",
-          "sourceSite": "reuters.com",
-          "type": "news",
-          "title": "Trump threatens to isolate Iran. Who are its trading partners? - Reuters",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQUTliUERTQVlVWVpERU5Zd3V1dXdSY2JuZExLUjMtUkMxWXVoZFJzLUx1aTFITDQwdWY5RS1pR3pDNDVWMGlFS0t6cE9DQmYwNWRDeWViME50enF1X1RZWjNVYmF2ME9obUp6TTNLcG01ekdLS1liNUhmeDdmU1hYVnVpR21vTzlDYUJKY3EzYkItZThBZE9kYS1EV3FfYkx4MXZUVFloa2FYWG5jUVE?oc=5\" target=\"_blank\">Trump threatens to isolate Iran. Who are its trading partners?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUTliUERTQVlVWVpERU5Zd3V1dXdSY2JuZExLUjMtUkMxWXVoZFJzLUx1aTFITDQwdWY5RS1pR3pDNDVWMGlFS0t6cE9DQmYwNWRDeWViME50enF1X1RZWjNVYmF2ME9obUp6TTNLcG01ekdLS1liNUhmeDdmU1hYVnVpR21vTzlDYUJKY3EzYkItZThBZE9kYS1EV3FfYkx4MXZUVFloa2FYWG5jUVE?oc=5",
-          "publishedAt": "Thu, 20 Aug 2026 15:54:22 GMT",
-          "titleZh": "Trump threatens to isolate Iran. Who are its trading partners? - Reuters",
-          "summaryZh": "Trump threatens to isolate Iran. Who are its trading partners?&nbsp;&nbsp;Reuters"
         },
         {
           "id": "reuters-news-0-https://news.google.com/",
@@ -348,17 +374,17 @@
           "summaryZh": "The Iran war energy crisis is just getting started&nbsp;&nbsp;Reuters"
         },
         {
-          "id": "reuters-news-1-https://news.google.com/",
+          "id": "reuters-news-2-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
           "type": "news",
-          "title": "Trump warns of economic consequences for any country that supports Iran - Reuters",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0t6ejR6ZDNSMllnR0lXWC1vV3ZyTXoxUDEyeHRXczFpRWtRbzEyWmdkRVRqWi1oZzJEaEF6UnAxcHItbXZ6Z1hKTzBQV2hPOUVFQml3Wk80T1F2UmFRSzIwakhFR2hKbmp3MFJ6LUFDX1BHV3BKeDZxYXdaT2wwWi1kaU5LbkFaX19IekRKSGNUT0VBc1FQeWVRdUxLd0U3V1I5WjZoMmtIcXZUQnRBczZKcTFZa19zUVE?oc=5\" target=\"_blank\">Trump warns of economic consequences for any country that supports Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "title": "US will impose 'toughest sanctions in history' on Iran, Bessent says - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0t6ejR6ZDNSMllnR0lXWC1vV3ZyTXoxUDEyeHRXczFpRWtRbzEyWmdkRVRqWi1oZzJEaEF6UnAxcHItbXZ6Z1hKTzBQV2hPOUVFQml3Wk80T1F2UmFRSzIwakhFR2hKbmp3MFJ6LUFDX1BHV3BKeDZxYXdaT2wwWi1kaU5LbkFaX19IekRKSGNUT0VBc1FQeWVRdUxLd0U3V1I5WjZoMmtIcXZUQnRBczZKcTFZa19zUVE?oc=5\" target=\"_blank\">US will impose 'toughest sanctions in history' on Iran, Bessent says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0t6ejR6ZDNSMllnR0lXWC1vV3ZyTXoxUDEyeHRXczFpRWtRbzEyWmdkRVRqWi1oZzJEaEF6UnAxcHItbXZ6Z1hKTzBQV2hPOUVFQml3Wk80T1F2UmFRSzIwakhFR2hKbmp3MFJ6LUFDX1BHV3BKeDZxYXdaT2wwWi1kaU5LbkFaX19IekRKSGNUT0VBc1FQeWVRdUxLd0U3V1I5WjZoMmtIcXZUQnRBczZKcTFZa19zUVE?oc=5",
           "publishedAt": "Thu, 20 Aug 2026 02:29:00 GMT",
-          "titleZh": "Trump warns of economic consequences for any country that supports Iran - Reuters",
-          "summaryZh": "Trump warns of economic consequences for any country that supports Iran&nbsp;&nbsp;Reuters"
+          "titleZh": "US will impose 'toughest sanctions in history' on Iran, Bessent says - Reuters",
+          "summaryZh": "US will impose 'toughest sanctions in history' on Iran, Bessent says&nbsp;&nbsp;Reuters"
         },
         {
           "id": "reuters-news-3-https://news.google.com/",
@@ -366,15 +392,15 @@
           "source": "Reuters",
           "sourceSite": "reuters.com",
           "type": "news",
-          "title": "Oil hits more than three-week high as Trump threatens Iran-related retaliation - Reuters",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5\" target=\"_blank\">Oil hits more than three-week high as Trump threatens Iran-related retaliation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "title": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5\" target=\"_blank\">Oil settles up more than 2% after Trump threatens countries supporting Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
           "publishedAt": "Thu, 20 Aug 2026 01:11:00 GMT",
-          "titleZh": "Oil hits more than three-week high as Trump threatens Iran-related retaliation - Reuters",
-          "summaryZh": "Oil hits more than three-week high as Trump threatens Iran-related retaliation&nbsp;&nbsp;Reuters"
+          "titleZh": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
+          "summaryZh": "Oil settles up more than 2% after Trump threatens countries supporting Iran&nbsp;&nbsp;Reuters"
         },
         {
-          "id": "reuters-news-5-https://news.google.com/",
+          "id": "reuters-news-4-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -393,7 +419,33 @@
       "source": "BBC",
       "items": [
         {
-          "id": "bbc-news-4-https://news.google.com/",
+          "id": "bbc-news-1-https://news.google.com/",
+          "sourceId": "bbc",
+          "source": "BBC",
+          "sourceSite": "bbc.com",
+          "type": "news",
+          "title": "Scott Bessent urges US partners to back plans to 'squash' Iran economy - BBC",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MOUpxR0VLZHYtWllTZWxtUklUanM1R2tDOEhsZlJLRldrV1pmWWxBTHYtRnROUDlUZmkzUEx6VTJvNFh1MmxUYTNkNEl5X0R2SEQzSWFnTUdGdw?oc=5\" target=\"_blank\">Scott Bessent urges US partners to back plans to 'squash' Iran economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MOUpxR0VLZHYtWllTZWxtUklUanM1R2tDOEhsZlJLRldrV1pmWWxBTHYtRnROUDlUZmkzUEx6VTJvNFh1MmxUYTNkNEl5X0R2SEQzSWFnTUdGdw?oc=5",
+          "publishedAt": "Thu, 20 Aug 2026 18:40:46 GMT",
+          "titleZh": "Scott Bessent urges US partners to back plans to 'squash' Iran economy - BBC",
+          "summaryZh": "Scott Bessent urges US partners to back plans to 'squash' Iran economy&nbsp;&nbsp;BBC"
+        },
+        {
+          "id": "bbc-news-0-https://news.google.com/",
+          "sourceId": "bbc",
+          "source": "BBC",
+          "sourceSite": "bbc.com",
+          "type": "news",
+          "title": "Trump vows tougher economic measures on Iran and supporting countries - BBC",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE10NXpxUDd6UnRUMjB4X2k3SnljQ0VYNjJCb1VUaUpJTmV3SlFPdWszMDZVWWdzUkduVEpBWk9zSGNseW56M2JWOXEtRjV6WVlxMlVTc0N4bVRKdw?oc=5\" target=\"_blank\">Trump vows tougher economic measures on Iran and supporting countries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10NXpxUDd6UnRUMjB4X2k3SnljQ0VYNjJCb1VUaUpJTmV3SlFPdWszMDZVWWdzUkduVEpBWk9zSGNseW56M2JWOXEtRjV6WVlxMlVTc0N4bVRKdw?oc=5",
+          "publishedAt": "Thu, 20 Aug 2026 09:13:18 GMT",
+          "titleZh": "Trump vows tougher economic measures on Iran and supporting countries - BBC",
+          "summaryZh": "Trump vows tougher economic measures on Iran and supporting countries&nbsp;&nbsp;BBC"
+        },
+        {
+          "id": "bbc-news-6-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -406,7 +458,7 @@
           "summaryZh": "特朗普表示同意取消对伊朗的打击，前提是能“迅速”达成协议&nbsp;&nbsp;BBC"
         },
         {
-          "id": "bbc-news-3-https://news.google.com/",
+          "id": "bbc-news-5-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -419,7 +471,7 @@
           "summaryZh": "Iran deal presents political nightmare for Netanyahu&nbsp;&nbsp;BBC"
         },
         {
-          "id": "bbc-news-5-https://news.google.com/",
+          "id": "bbc-news-7-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -432,7 +484,7 @@
           "summaryZh": "伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限&nbsp;&nbsp;BBC"
         },
         {
-          "id": "bbc-news-1-https://news.google.com/",
+          "id": "bbc-news-3-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -443,32 +495,6 @@
           "publishedAt": "Thu, 11 Jun 2026 07:00:00 GMT",
           "titleZh": "US and Iran exchange strikes across Middle East for second day in a row - BBC",
           "summaryZh": "US and Iran exchange strikes across Middle East for second day in a row&nbsp;&nbsp;BBC"
-        },
-        {
-          "id": "bbc-news-6-https://news.google.com/",
-          "sourceId": "bbc",
-          "source": "BBC",
-          "sourceSite": "bbc.com",
-          "type": "news",
-          "title": "伊朗战争：特朗普需要结束这场战争，但伊朗不会退让——分析 - BBC",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGdllEbGpScUxQeEthUWtUY1c3MWZrcGIwV3lTYjZ6blFPV1R3OGhtUWwzZmlsS1Y3ejhwVDdTdlJCelNXNElyNm9QV1NVQjMzeHIyWkc3SkVfTUVFS3AwMjNQU0JCQdIBa0FVX3lxTFBjSUkxNzJIWF96dElpM2pZdHR6X3FkU3l6d3BFMWdkRGxOSy1qYUZuWV9NT0F5X2hjQ2QzdEowaXQ1SUcwNjYyRGRWeENtUm9mVERkZ0p2MlNqWmI2UXNrVXgtZmM1UC00V1dF?oc=5\" target=\"_blank\">伊朗战争：特朗普需要结束这场战争，但伊朗不会退让——分析</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGdllEbGpScUxQeEthUWtUY1c3MWZrcGIwV3lTYjZ6blFPV1R3OGhtUWwzZmlsS1Y3ejhwVDdTdlJCelNXNElyNm9QV1NVQjMzeHIyWkc3SkVfTUVFS3AwMjNQU0JCQdIBa0FVX3lxTFBjSUkxNzJIWF96dElpM2pZdHR6X3FkU3l6d3BFMWdkRGxOSy1qYUZuWV9NT0F5X2hjQ2QzdEowaXQ1SUcwNjYyRGRWeENtUm9mVERkZ0p2MlNqWmI2UXNrVXgtZmM1UC00V1dF?oc=5",
-          "publishedAt": "Tue, 02 Jun 2026 07:00:00 GMT",
-          "titleZh": "伊朗战争：特朗普需要结束这场战争，但伊朗不会退让——分析 - BBC",
-          "summaryZh": "伊朗战争：特朗普需要结束这场战争，但伊朗不会退让——分析&nbsp;&nbsp;BBC"
-        },
-        {
-          "id": "bbc-news-0-https://news.google.com/",
-          "sourceId": "bbc",
-          "source": "BBC",
-          "sourceSite": "bbc.com",
-          "type": "news",
-          "title": "Why did US and Israel attack Iran and how long could the war last? - BBC",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MG5wdTJrMFlNLWRENFBMZEFMcW0yN0E5dE1lajB6eGRWU1JNN2Y0cXhkbGlGdEpTcG1naHdqN00yLThGV3Qzd2RmYWhBa0tfS1I5ejRobjVGZw?oc=5\" target=\"_blank\">Why did US and Israel attack Iran and how long could the war last?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MG5wdTJrMFlNLWRENFBMZEFMcW0yN0E5dE1lajB6eGRWU1JNN2Y0cXhkbGlGdEpTcG1naHdqN00yLThGV3Qzd2RmYWhBa0tfS1I5ejRobjVGZw?oc=5",
-          "publishedAt": "Thu, 23 Apr 2026 07:00:00 GMT",
-          "titleZh": "Why did US and Israel attack Iran and how long could the war last? - BBC",
-          "summaryZh": "Why did US and Israel attack Iran and how long could the war last?&nbsp;&nbsp;BBC"
         }
       ]
     },
@@ -477,7 +503,20 @@
       "source": "Al Jazeera",
       "items": [
         {
-          "id": "aljazeera-news-2-https://news.google.com/",
+          "id": "aljazeera-news-0-https://news.google.com/",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "sourceSite": "aljazeera.com",
+          "type": "news",
+          "title": "US Treasury secretary says new economic measures will ‘collapse’ Iran - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNV2pvQVMyNVJzdm95alZqZ2g1ZW10UEY2dkVRdXRHSm4tNF8yOTNlak5SOWIxYXNOakMwdEZ4Q2tLYjVJWWUxUUFaQzhaTVFhZTRUWXJuYlRTVng4NHdoUW94SXlwZkNPX1ZjVTc1T0tCblQwUkNfRHFtc1BFTk9YU19leFF4U2gxdVpMbm1TUmdxOVBJeWt3OTU0dEVoN1RURDE5bVpXZVpjY0M20gGyAUFVX3lxTE5NSmVlUW1LZV9DLXk3U2VhVl8yUHYtdnJ6RVJTZDJwT3IydUc0eGpKZGx5VWNhVW5GanlUS3N0SGRrX2tsNGgzTFVoNE1WakhjeE1Nd1VxVXAtSy1qWWF1ZG82Vi11Q0xkLUpiQk9Jdmh1S1JEbGx6Zkd1cnNsRElFT1ZnNTcyMlFVQUpTYkFNb182LW45Y21ZbjNuRi1LMERwUGFSU1p5Q0NrU092TE9zaUE?oc=5\" target=\"_blank\">US Treasury secretary says new economic measures will ‘collapse’ Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV2pvQVMyNVJzdm95alZqZ2g1ZW10UEY2dkVRdXRHSm4tNF8yOTNlak5SOWIxYXNOakMwdEZ4Q2tLYjVJWWUxUUFaQzhaTVFhZTRUWXJuYlRTVng4NHdoUW94SXlwZkNPX1ZjVTc1T0tCblQwUkNfRHFtc1BFTk9YU19leFF4U2gxdVpMbm1TUmdxOVBJeWt3OTU0dEVoN1RURDE5bVpXZVpjY0M20gGyAUFVX3lxTE5NSmVlUW1LZV9DLXk3U2VhVl8yUHYtdnJ6RVJTZDJwT3IydUc0eGpKZGx5VWNhVW5GanlUS3N0SGRrX2tsNGgzTFVoNE1WakhjeE1Nd1VxVXAtSy1qWWF1ZG82Vi11Q0xkLUpiQk9Jdmh1S1JEbGx6Zkd1cnNsRElFT1ZnNTcyMlFVQUpTYkFNb182LW45Y21ZbjNuRi1LMERwUGFSU1p5Q0NrU092TE9zaUE?oc=5",
+          "publishedAt": "Thu, 20 Aug 2026 19:14:38 GMT",
+          "titleZh": "US Treasury secretary says new economic measures will ‘collapse’ Iran - Al Jazeera",
+          "summaryZh": "US Treasury secretary says new economic measures will ‘collapse’ Iran&nbsp;&nbsp;Al Jazeera"
+        },
+        {
+          "id": "aljazeera-news-3-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -490,7 +529,7 @@
           "summaryZh": "How China and Russia could hobble Trump’s plans to isolate Iran&nbsp;&nbsp;Al Jazeera"
         },
         {
-          "id": "aljazeera-news-0-https://news.google.com/",
+          "id": "aljazeera-news-1-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -503,7 +542,7 @@
           "summaryZh": "‘Tremendous costs’: Can Trump stop other countries from trading with Iran?&nbsp;&nbsp;Al Jazeera"
         },
         {
-          "id": "aljazeera-news-7-https://news.google.com/",
+          "id": "aljazeera-news-4-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -516,7 +555,7 @@
           "summaryZh": "War on Iran: Trump announces a new campaign to isolate Iran economically&nbsp;&nbsp;Al Jazeera"
         },
         {
-          "id": "aljazeera-news-3-https://news.google.com/",
+          "id": "aljazeera-news-5-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -529,7 +568,7 @@
           "summaryZh": "Are ships passing Hormuz more willing to defy Iran or US? What data shows&nbsp;&nbsp;Al Jazeera"
         },
         {
-          "id": "aljazeera-news-1-https://news.google.com/",
+          "id": "aljazeera-news-2-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -540,19 +579,6 @@
           "publishedAt": "Thu, 20 Aug 2026 07:23:52 GMT",
           "titleZh": "Trump announces ‘most crushing economic operation ever’ against Iran - Al Jazeera",
           "summaryZh": "Trump announces ‘most crushing economic operation ever’ against Iran&nbsp;&nbsp;Al Jazeera"
-        },
-        {
-          "id": "aljazeera-news-4-https://news.google.com/",
-          "sourceId": "aljazeera",
-          "source": "Al Jazeera",
-          "sourceSite": "aljazeera.com",
-          "type": "news",
-          "title": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPdmdNSjhQeC1GcmNGV2FmQnJaRHVzSVU0dEstM0hnX3JyVEFFbG5lMGVnT1pQbmxyNHdRUkU1NkllMUlIR282RGkyUEhXOVIxSjM4UTdoT3FKUGVDSWx1TGozdlRna3pPVk5zODd0OGhyRUFIN2RxVmxrVGJlSzdjZjA0OUhPdC02elhnNWpFc19oaVJiVnNfYS13bGVpTGNlQnBYRWhCT3dmd0tPOUpGSXk0WXHSAboBQVVfeXFMUDJUS1lmX2drelZKQzFXSDdub09CSkhEaUxoVkJIMXZzYkc1SmxNSG1SRC1mMTRSYXdTSUFacW9zYXpUYzlYWE9NMVRBRm9IdWJFald3bUZ6clFRa1Nwb1NmbjFDU1ZjNDFIMFJNS3hqVkhuUkNHdnBtd2tzUnA1RkxxV1BfalZZTUg4VGlKVzNPUU1fN25qV2E0cTlSRUdyME1lUU9qVDFaUWJQUVZIbTB3d3ZHTGlzY2dn?oc=5\" target=\"_blank\">Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdmdNSjhQeC1GcmNGV2FmQnJaRHVzSVU0dEstM0hnX3JyVEFFbG5lMGVnT1pQbmxyNHdRUkU1NkllMUlIR282RGkyUEhXOVIxSjM4UTdoT3FKUGVDSWx1TGozdlRna3pPVk5zODd0OGhyRUFIN2RxVmxrVGJlSzdjZjA0OUhPdC02elhnNWpFc19oaVJiVnNfYS13bGVpTGNlQnBYRWhCT3dmd0tPOUpGSXk0WXHSAboBQVVfeXFMUDJUS1lmX2drelZKQzFXSDdub09CSkhEaUxoVkJIMXZzYkc1SmxNSG1SRC1mMTRSYXdTSUFacW9zYXpUYzlYWE9NMVRBRm9IdWJFald3bUZ6clFRa1Nwb1NmbjFDU1ZjNDFIMFJNS3hqVkhuUkNHdnBtd2tzUnA1RkxxV1BfalZZTUg4VGlKVzNPUU1fN25qV2E0cTlSRUdyME1lUU9qVDFaUWJQUVZIbTB3d3ZHTGlzY2dn?oc=5",
-          "publishedAt": "Thu, 20 Aug 2026 02:06:47 GMT",
-          "titleZh": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance - Al Jazeera",
-          "summaryZh": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance&nbsp;&nbsp;Al Jazeera"
         }
       ]
     },
@@ -572,12 +598,12 @@
       "title": "Trump Threatens Economic Pain for Countries That Help Iran - The New York Times",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9aMHBHY1dJV3pyZjZQaXc4OXI4NHNjUnBlR0d5MFhsWVZXeG0zeGVDZUtTQjZ6UnpxODRUWW9sVGdZdzVVWkkzNEg3c1ZxdUprTU8yNlRrZnF0SHNPUFZ1bG9vWlcwQWhjcFV6M28ybC0yUmFqbjhadkx0RUI?oc=5\" target=\"_blank\">Trump Threatens Economic Pain for Countries That Help Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aMHBHY1dJV3pyZjZQaXc4OXI4NHNjUnBlR0d5MFhsWVZXeG0zeGVDZUtTQjZ6UnpxODRUWW9sVGdZdzVVWkkzNEg3c1ZxdUprTU8yNlRrZnF0SHNPUFZ1bG9vWlcwQWhjcFV6M28ybC0yUmFqbjhadkx0RUI?oc=5",
-      "publishedAt": "Thu, 20 Aug 2026 08:55:54 GMT",
+      "publishedAt": "Thu, 20 Aug 2026 08:45:00 GMT",
       "titleZh": "Trump Threatens Economic Pain for Countries That Help Iran - The New York Times",
       "summaryZh": "Trump Threatens Economic Pain for Countries That Help Iran&nbsp;&nbsp;The New York Times"
     },
     {
-      "id": "nytimes-commentary-4-https://news.google.com/",
+      "id": "nytimes-commentary-7-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -616,7 +642,7 @@
       "summaryZh": "UAE Joins Global Efforts to Isolate Iran&nbsp;&nbsp;Foreign Policy"
     },
     {
-      "id": "nytimes-commentary-2-https://news.google.com/",
+      "id": "nytimes-commentary-4-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -629,7 +655,7 @@
       "summaryZh": "How the Iran War Made Africa’s Richest Man Even Richer&nbsp;&nbsp;The New York Times"
     },
     {
-      "id": "nytimes-commentary-1-https://news.google.com/",
+      "id": "nytimes-commentary-2-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -694,7 +720,7 @@
       "summaryZh": "The End of the American Middle East: Iran and the Last Gasp of a Failed Order&nbsp;&nbsp;Foreign Affairs"
     },
     {
-      "id": "nytimes-commentary-7-https://news.google.com/",
+      "id": "nytimes-commentary-1-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -954,20 +980,20 @@
       "summaryZh": "The Iran Cease-Fire Was Doomed to Fail&nbsp;&nbsp;Foreign Affairs"
     },
     {
-      "id": "foreignaffairs-commentary-7-https://news.google.com/",
+      "id": "foreignaffairs-commentary-6-https://news.google.com/",
       "sourceId": "foreignaffairs",
       "source": "Foreign Affairs",
       "sourceSite": "foreignaffairs.com",
       "type": "commentary",
-      "title": "The Iran War Is an Expectations Game - Foreign Affairs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9fYlZldlZmdk9fWGxUeWRJd3pCWklncTJZY1ItQklCZF9VOW5UTkM2dnMzQVBWRWoyeV9iWHloTGxMb08ybm1IelNhSGRpQWpJRS1xOWlrUVpqYzNQNXZpWlRsMklueUZKUHdpdXJsMA?oc=5\" target=\"_blank\">The Iran War Is an Expectations Game</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fYlZldlZmdk9fWGxUeWRJd3pCWklncTJZY1ItQklCZF9VOW5UTkM2dnMzQVBWRWoyeV9iWHloTGxMb08ybm1IelNhSGRpQWpJRS1xOWlrUVpqYzNQNXZpWlRsMklueUZKUHdpdXJsMA?oc=5",
-      "publishedAt": "Tue, 21 Apr 2026 07:00:00 GMT",
-      "titleZh": "The Iran War Is an Expectations Game - Foreign Affairs",
-      "summaryZh": "The Iran War Is an Expectations Game&nbsp;&nbsp;Foreign Affairs"
+      "title": "What It Will Take to Change the Regime in Iran - Foreign Affairs",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBkRW9xN2p0NXRrdktQa2FMQ3ZlUHhaV2hFZWZrbklvaDlrZW8xOEFPWkpvR3F6NWdsUVRXNC1zMlZCeTRnM1NNTW1yYlMtVWMzd3otRkEyU0J6TnhMRzhaa2ozNFZjVDg4Sllmd19LYlhtRVRmMWdacWpaczY?oc=5\" target=\"_blank\">What It Will Take to Change the Regime in Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkRW9xN2p0NXRrdktQa2FMQ3ZlUHhaV2hFZWZrbklvaDlrZW8xOEFPWkpvR3F6NWdsUVRXNC1zMlZCeTRnM1NNTW1yYlMtVWMzd3otRkEyU0J6TnhMRzhaa2ozNFZjVDg4Sllmd19LYlhtRVRmMWdacWpaczY?oc=5",
+      "publishedAt": "Fri, 27 Feb 2026 08:00:00 GMT",
+      "titleZh": "What It Will Take to Change the Regime in Iran - Foreign Affairs",
+      "summaryZh": "What It Will Take to Change the Regime in Iran&nbsp;&nbsp;Foreign Affairs"
     },
     {
-      "id": "foreignaffairs-commentary-6-https://news.google.com/",
+      "id": "foreignaffairs-commentary-7-https://news.google.com/",
       "sourceId": "foreignaffairs",
       "source": "Foreign Affairs",
       "sourceSite": "foreignaffairs.com",
