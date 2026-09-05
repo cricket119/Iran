@@ -1,10 +1,23 @@
 {
-  "generatedAt": "2026-09-05T19:51:55.335Z",
-  "totalNews": 27,
+  "generatedAt": "2026-09-05T22:37:12.513Z",
+  "totalNews": 25,
   "totalCommentary": 32,
   "timeline": [
     {
-      "id": "reuters-news-0-https://news.google.com/",
+      "id": "bbc-news-0-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "US hits three Iranian oil tankers after saying its warships were targeted - BBC",
+      "description": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MR2lQUEVfWHpBVV9NQjVxS0x6WldUNHB1RzFWSzlDa0hYWm1wYVpxMEVhdkRiT1dCeGVlY2Y5d25uR3lQOEtxbW5CVG5VNDRhRmFvU2NLQlN5UQ?oc=5\" target=\"_blank\">US hits three Iranian oil tankers after saying its warships were targeted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEtPbThoMkY0OEVqRWdxUlA0eDRZYlhPTG5qbEt5V1RnazFIVzBuZHJyU2VMVHdHMzBCWmQxRDhmZ0RnOTZ2WGZPLVJTQjExWFo2amZiMmJFM3Jkb3plWnJOd0dkeEtHLXFqaFRseExIc00wUHRONXdVVWVWMWhJRmxRZFhPVTJuS3J3?oc=5\" target=\"_blank\">US strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">apnews.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOOWlQcFdRT0RveGtRSkc0aV83RTdSZzlHVzhuVkhuT3NvRE5HNFl1Mm05a1JEMWlHY1pRemp4ZkVnV3BYcHNXUUozdmtwYWxXc1RLcGtDVHF6ajU0aVgxMkl2ekFwdDM2UFNRTFpTT3RSbHktcl83S2tJbENLeXdmWkdfRDNYSWlrLXFEUWM3ak9uYmNzM01tNkNNbF95M3ZRREZPWUNrOWVqTWtGY2QxdU9OaHpzdnRNcHE2M9IBwgFBVV95cUxPSTRJbTVhakNqQTFMV3B1RDd0YXRETHR3WHNhOTZEX2FFMUtLVmlNQUlHQzJOLUhQdlNWeXFXLWdkamtsM1NoMDYwWXd4SEtKb2dzUmVVYzQxUEtSS2ZlM1IzRmtfemFpckc3MFdjNGhjSDRlMG5TVHR4d3dJejlVSXdDaHBzWkdWZmlZRWlRNVZNNEc2eHhrOVp1eFZ5bDBWWV9IZXA3YUV1aVhITFA5dkc0OExyZjBOeDJNMDlfel84UQ?oc=5\" target=\"_blank\">Iran war live: Tehran slams US attacks on oil tankers, threatens escalation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li></ol>",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MR2lQUEVfWHpBVV9NQjVxS0x6WldUNHB1RzFWSzlDa0hYWm1wYVpxMEVhdkRiT1dCeGVlY2Y5d25uR3lQOEtxbW5CVG5VNDRhRmFvU2NLQlN5UQ?oc=5",
+      "publishedAt": "Sat, 05 Sep 2026 20:41:59 GMT",
+      "titleZh": "US hits three Iranian oil tankers after saying its warships were targeted - BBC",
+      "summaryZh": "US hits three Iranian oil tankers after saying its warships were targeted&nbsp;&nbsp;BBCUS strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles&nbsp;&nbsp;apnews.comIran war live: Teh"
+    },
+    {
+      "id": "reuters-news-1-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -17,33 +30,7 @@
       "summaryZh": "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "bbc-news-0-https://news.google.com/",
-      "sourceId": "bbc",
-      "source": "BBC",
-      "sourceSite": "bbc.com",
-      "type": "news",
-      "title": "US hits three Iranian oil tankers after saying its warships were targeted - BBC",
-      "description": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MR2lQUEVfWHpBVV9NQjVxS0x6WldUNHB1RzFWSzlDa0hYWm1wYVpxMEVhdkRiT1dCeGVlY2Y5d25uR3lQOEtxbW5CVG5VNDRhRmFvU2NLQlN5UQ?oc=5\" target=\"_blank\">US hits three Iranian oil tankers after saying its warships were targeted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEtPbThoMkY0OEVqRWdxUlA0eDRZYlhPTG5qbEt5V1RnazFIVzBuZHJyU2VMVHdHMzBCWmQxRDhmZ0RnOTZ2WGZPLVJTQjExWFo2amZiMmJFM3Jkb3plWnJOd0dkeEtHLXFqaFRseExIc00wUHRONXdVVWVWMWhJRmxRZFhPVTJuS3J3?oc=5\" target=\"_blank\">US military hits 3 Iranian oil tankers after saying Navy ships were targeted with missiles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOOWlQcFdRT0RveGtRSkc0aV83RTdSZzlHVzhuVkhuT3NvRE5HNFl1Mm05a1JEMWlHY1pRemp4ZkVnV3BYcHNXUUozdmtwYWxXc1RLcGtDVHF6ajU0aVgxMkl2ekFwdDM2UFNRTFpTT3RSbHktcl83S2tJbENLeXdmWkdfRDNYSWlrLXFEUWM3ak9uYmNzM01tNkNNbF95M3ZRREZPWUNrOWVqTWtGY2QxdU9OaHpzdnRNcHE2M9IBwgFBVV95cUxPSTRJbTVhakNqQTFMV3B1RDd0YXRETHR3WHNhOTZEX2FFMUtLVmlNQUlHQzJOLUhQdlNWeXFXLWdkamtsM1NoMDYwWXd4SEtKb2dzUmVVYzQxUEtSS2ZlM1IzRmtfemFpckc3MFdjNGhjSDRlMG5TVHR4d3dJejlVSXdDaHBzWkdWZmlZRWlRNVZNNEc2eHhrOVp1eFZ5bDBWWV9IZXA3YUV1aVhITFA5dkc0OExyZjBOeDJNMDlfel84UQ?oc=5\" target=\"_blank\">Iran war live: US says it hit 3 Iranian oil tankers after US ships attacked</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li></ol>",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MR2lQUEVfWHpBVV9NQjVxS0x6WldUNHB1RzFWSzlDa0hYWm1wYVpxMEVhdkRiT1dCeGVlY2Y5d25uR3lQOEtxbW5CVG5VNDRhRmFvU2NLQlN5UQ?oc=5",
-      "publishedAt": "Sat, 05 Sep 2026 17:15:05 GMT",
-      "titleZh": "US hits three Iranian oil tankers after saying its warships were targeted - BBC",
-      "summaryZh": "US hits three Iranian oil tankers after saying its warships were targeted&nbsp;&nbsp;BBCUS military hits 3 Iranian oil tankers after saying Navy ships were targeted with missiles&nbsp;&nbsp;AP NewsIran war live: US says "
-    },
-    {
-      "id": "reuters-news-1-https://news.google.com/",
-      "sourceId": "reuters",
-      "source": "Reuters",
-      "sourceSite": "reuters.com",
-      "type": "news",
-      "title": "Fuel tanker explosion after traffic accident kills 10 in Western Iran, state media says - Reuters",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxORW1OZWlZUzItUmdsYlhnaXMzU2djTWZBVERaNG4zbzhvZTcxaWtPaGJWamowRDgwTTZRX3Ftekl0bDgxMkJEdTZJbmVzei1ya245RGdiUEx4cHltelZzVTdZVlVhVUEza0dNZ0hqbFR1cTNYMHllLTAwRGdxVVVOazdEb1poa3lyTld2V0ZxR0VHZUNONVJlWFlGaXhKU0ZkamxkZ1N4Vkt4N0YzVmhDM3RYWnlmeE9FbVZzeWFZT0pLaFlwalpnQUVrRDk?oc=5\" target=\"_blank\">Fuel tanker explosion after traffic accident kills 10 in Western Iran, state media says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORW1OZWlZUzItUmdsYlhnaXMzU2djTWZBVERaNG4zbzhvZTcxaWtPaGJWamowRDgwTTZRX3Ftekl0bDgxMkJEdTZJbmVzei1ya245RGdiUEx4cHltelZzVTdZVlVhVUEza0dNZ0hqbFR1cTNYMHllLTAwRGdxVVVOazdEb1poa3lyTld2V0ZxR0VHZUNONVJlWFlGaXhKU0ZkamxkZ1N4Vkt4N0YzVmhDM3RYWnlmeE9FbVZzeWFZT0pLaFlwalpnQUVrRDk?oc=5",
-      "publishedAt": "Sat, 05 Sep 2026 16:19:53 GMT",
-      "titleZh": "Fuel tanker explosion after traffic accident kills 10 in Western Iran, state media says - Reuters",
-      "summaryZh": "Fuel tanker explosion after traffic accident kills 10 in Western Iran, state media says&nbsp;&nbsp;Reuters"
-    },
-    {
-      "id": "aljazeera-news-7-https://news.google.com/",
+      "id": "aljazeera-news-8-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -69,7 +56,7 @@
       "summaryZh": "US military strikes three Iranian crude oil carriers, Central Command says&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "aljazeera-news-4-https://news.google.com/",
+      "id": "aljazeera-news-5-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -82,7 +69,7 @@
       "summaryZh": "Iran President Pezeshkian calls for unity as US ramps up economic pressure&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-5-https://news.google.com/",
+      "id": "aljazeera-news-6-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -95,7 +82,7 @@
       "summaryZh": "Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-6-https://news.google.com/",
+      "id": "aljazeera-news-7-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -108,7 +95,7 @@
       "summaryZh": "Iran war updates: Trump says US may attack Iran’s Pickaxe Mountain soon&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-8-https://news.google.com/",
+      "id": "aljazeera-news-9-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -134,20 +121,7 @@
       "summaryZh": "How could US-Iran conflict end? Three experts give their views&nbsp;&nbsp;BBC"
     },
     {
-      "id": "aljazeera-news-9-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "Iran war updates: US says no major operations against Iran; options open - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQcWY3aFROMjg1SUI0N0M5cDh5ODFZUGdRSHlIRUFfSjQ4UGl4Z2RvUmZScl9WS1pTbjJ1STlXelFGckNuTjB1akswSm5xUm1RSjc0RkRZUHloLURCWTU1eWRpcnVBdloxNG84eDVla3o4MC1BRDlmRExxZnNWTGlQNC1BdTExZzJBVEUwV2dxODZqTDlneUIxcU1GZ0lKU3hnbWRjUkFLUlpuNzNrbVJVRHpmeWZpd9IBuwFBVV95cUxPYWZQbWZRclMwUnVKanBGd2Etd0VTUVpLd3NHZHdBOGlJUllHX2JWeVM1ZVhzdmI2VEpXd0FkUnA4bFgtaHN2bmVsdHlqSVdlSEltM0swY2NJRmVlZW1fRWFPaGxGbFBZOTJISy1XdWZfdXEwREZQYXdwQ2FyOE9hYTZNN0lUNkVpMTdScTZjVzlMMjEyWklnWUVtTktObGNSeWFwUzB1YXlTNkxYZHNoQWRvUVFESTBJR2tj?oc=5\" target=\"_blank\">Iran war updates: US says no major operations against Iran; options open</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcWY3aFROMjg1SUI0N0M5cDh5ODFZUGdRSHlIRUFfSjQ4UGl4Z2RvUmZScl9WS1pTbjJ1STlXelFGckNuTjB1akswSm5xUm1RSjc0RkRZUHloLURCWTU1eWRpcnVBdloxNG84eDVla3o4MC1BRDlmRExxZnNWTGlQNC1BdTExZzJBVEUwV2dxODZqTDlneUIxcU1GZ0lKU3hnbWRjUkFLUlpuNzNrbVJVRHpmeWZpd9IBuwFBVV95cUxPYWZQbWZRclMwUnVKanBGd2Etd0VTUVpLd3NHZHdBOGlJUllHX2JWeVM1ZVhzdmI2VEpXd0FkUnA4bFgtaHN2bmVsdHlqSVdlSEltM0swY2NJRmVlZW1fRWFPaGxGbFBZOTJISy1XdWZfdXEwREZQYXdwQ2FyOE9hYTZNN0lUNkVpMTdScTZjVzlMMjEyWklnWUVtTktObGNSeWFwUzB1YXlTNkxYZHNoQWRvUVFESTBJR2tj?oc=5",
-      "publishedAt": "Fri, 04 Sep 2026 00:09:48 GMT",
-      "titleZh": "Iran war updates: US says no major operations against Iran; options open - Al Jazeera",
-      "summaryZh": "Iran war updates: US says no major operations against Iran; options open&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "reuters-news-3-https://news.google.com/",
+      "id": "reuters-news-0-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -173,33 +147,7 @@
       "summaryZh": "伊朗战争推高燃油价格 航空公司靠对冲减轻冲击&nbsp;&nbsp;联合早报"
     },
     {
-      "id": "reuters-news-4-https://news.google.com/",
-      "sourceId": "reuters",
-      "source": "Reuters",
-      "sourceSite": "reuters.com",
-      "type": "news",
-      "title": "Trump aides seek 'quiet' in Iran war but say attacks may intensify after November elections - Reuters",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNMDJDS3ZmaHY1S0hTTlJiUUVPQ081YTU5bWV3NmJJLTRTNDdNQUhKNWdFTXd4TzVVRkRiRXd6SV9xZ1hmbHVxMFVGOUhXMkJLTkdaN0VWa3g3aEZ1aWZDbnlNTkRoUk5zY2ltOW9PNVk1SlFJVU1mNzZFSE9GTGpGbmhwdW1sMFNuTFhwcTVmSlFUNUIwM3lOV3ZpQ0NCX3B2TmMwbXZB?oc=5\" target=\"_blank\">Trump aides seek 'quiet' in Iran war but say attacks may intensify after November elections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMDJDS3ZmaHY1S0hTTlJiUUVPQ081YTU5bWV3NmJJLTRTNDdNQUhKNWdFTXd4TzVVRkRiRXd6SV9xZ1hmbHVxMFVGOUhXMkJLTkdaN0VWa3g3aEZ1aWZDbnlNTkRoUk5zY2ltOW9PNVk1SlFJVU1mNzZFSE9GTGpGbmhwdW1sMFNuTFhwcTVmSlFUNUIwM3lOV3ZpQ0NCX3B2TmMwbXZB?oc=5",
-      "publishedAt": "Wed, 02 Sep 2026 20:54:25 GMT",
-      "titleZh": "Trump aides seek 'quiet' in Iran war but say attacks may intensify after November elections - Reuters",
-      "summaryZh": "Trump aides seek 'quiet' in Iran war but say attacks may intensify after November elections&nbsp;&nbsp;Reuters"
-    },
-    {
-      "id": "bbc-news-2-https://news.google.com/",
-      "sourceId": "bbc",
-      "source": "BBC",
-      "sourceSite": "bbc.com",
-      "type": "news",
-      "title": "Iran calls deaths at wedding celebration a 'war crime' as US denies targeting civilians - BBC",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE90WUgxdFM4WlA1Wm5tc0NuWFRacFpmM3FsQ2gwVE5ZSXJnaV9sNk11ZTJQcjhuOHlHSTc1T0FCQzlGTDBWbGdNWUJNR241MHVzOFpfYXV3?oc=5\" target=\"_blank\">Iran calls deaths at wedding celebration a 'war crime' as US denies targeting civilians</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90WUgxdFM4WlA1Wm5tc0NuWFRacFpmM3FsQ2gwVE5ZSXJnaV9sNk11ZTJQcjhuOHlHSTc1T0FCQzlGTDBWbGdNWUJNR241MHVzOFpfYXV3?oc=5",
-      "publishedAt": "Wed, 02 Sep 2026 15:35:44 GMT",
-      "titleZh": "Iran calls deaths at wedding celebration a 'war crime' as US denies targeting civilians - BBC",
-      "summaryZh": "Iran calls deaths at wedding celebration a 'war crime' as US denies targeting civilians&nbsp;&nbsp;BBC"
-    },
-    {
-      "id": "bbc-news-7-https://news.google.com/",
+      "id": "bbc-news-6-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -225,7 +173,7 @@
       "summaryZh": "伊朗：若与美国的谈判失败 将升级局势&nbsp;&nbsp;联合早报"
     },
     {
-      "id": "bbc-news-6-https://news.google.com/",
+      "id": "bbc-news-5-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -238,7 +186,7 @@
       "summaryZh": "伊朗跟美国、以色列打仗 还能撑多久？&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-8-https://news.google.com/",
+      "id": "bbc-news-7-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -251,7 +199,7 @@
       "summaryZh": "霍尔木兹海峡：伊朗向特朗普列出通航的六项条件&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-9-https://news.google.com/",
+      "id": "bbc-news-8-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -262,6 +210,19 @@
       "publishedAt": "Sun, 02 Aug 2026 07:00:00 GMT",
       "titleZh": "特朗普表示同意取消对伊朗的打击，前提是能“迅速”达成协议 - BBC",
       "summaryZh": "特朗普表示同意取消对伊朗的打击，前提是能“迅速”达成协议&nbsp;&nbsp;BBC"
+    },
+    {
+      "id": "aljazeera-news-4-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "Iran war updates: US hits Iran in latest tit-for-tat strike - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOLTM2b0s0V25IYjUxNEhrRDV1RDFfdzlRMFdGU1VFZlhPNXJwZ3BuS2RIY1pmT2JPVG9kd19Sdlhtby1uUGVHSTJuU0dnSzJIeFVydU5PeVVQbFJHa0NqbF9iS2Foc2FNSDh2Qk9hNU84dWV0SUpXc00xbzl1ei1UT3UzdUpFam43cFJDZWstWnpBMVJleWE5Ul8ycUNybWRjMDJKUWtEdFJZQjlPRUxrLVMtaVZPaHg3bWY5d9IBwgFBVV95cUxNaUdLcXdDSTJMcFZjY2NCcXRtYXhHWEZNaDNxcTBOUUZZUjBnY1hLSk5Xb1d4aXNRQXpKSVhWMVhhUU5iWVZjMnViTVE5X2hCdnBtbEdURzlPdEVSeEF2RkN2a2NDeU9oREdEZ1dUVUtqeHVndWdBelpaUWc4S0dHZkpqUTRFZy0tcEdMZGZPVWpxX0VPZFUwdURyQ1BkZXBFazIwT2E2QWxacUFZVnF6bVk3NFVlZnRYcmRNckR6QXloUQ?oc=5\" target=\"_blank\">Iran war updates: US hits Iran in latest tit-for-tat strike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLTM2b0s0V25IYjUxNEhrRDV1RDFfdzlRMFdGU1VFZlhPNXJwZ3BuS2RIY1pmT2JPVG9kd19Sdlhtby1uUGVHSTJuU0dnSzJIeFVydU5PeVVQbFJHa0NqbF9iS2Foc2FNSDh2Qk9hNU84dWV0SUpXc00xbzl1ei1UT3UzdUpFam43cFJDZWstWnpBMVJleWE5Ul8ycUNybWRjMDJKUWtEdFJZQjlPRUxrLVMtaVZPaHg3bWY5d9IBwgFBVV95cUxNaUdLcXdDSTJMcFZjY2NCcXRtYXhHWEZNaDNxcTBOUUZZUjBnY1hLSk5Xb1d4aXNRQXpKSVhWMVhhUU5iWVZjMnViTVE5X2hCdnBtbEdURzlPdEVSeEF2RkN2a2NDeU9oREdEZ1dUVUtqeHVndWdBelpaUWc4S0dHZkpqUTRFZy0tcEdMZGZPVWpxX0VPZFUwdURyQ1BkZXBFazIwT2E2QWxacUFZVnF6bVk3NFVlZnRYcmRNckR6QXloUQ?oc=5",
+      "publishedAt": "Sat, 27 Jun 2026 07:00:00 GMT",
+      "titleZh": "Iran war updates: US hits Iran in latest tit-for-tat strike - Al Jazeera",
+      "summaryZh": "Iran war updates: US hits Iran in latest tit-for-tat strike&nbsp;&nbsp;Al Jazeera"
     },
     {
       "id": "aljazeera-news-0-https://news.google.com/",
@@ -277,7 +238,7 @@
       "summaryZh": "Iran war updates: US hits Iran after Trump threat to respond to Gulf fire&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-3-https://news.google.com/",
+      "id": "aljazeera-news-2-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -288,19 +249,6 @@
       "publishedAt": "Wed, 24 Jun 2026 07:00:00 GMT",
       "titleZh": "Iran war updates: Rubio calls Gulf discussions frank; Iran talks next week - Al Jazeera",
       "summaryZh": "Iran war updates: Rubio calls Gulf discussions frank; Iran talks next week&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "aljazeera-news-2-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "Iran war updates: Pezeshkian says no negotiation on ballistic missiles - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSFJNQXhfTWNzWC1XaGtkVWV4Q0lZM1FfNmpiXzZfZEp3YmxTd19kTWUwQ2VZVjJTVGFpazJPZ2FfcG9Fd0VWNkN1bGdqMEg4ck12M3pZSmtpZ1ZJU0RkaUJGVURLaXY2SUliQWlEREo0VVpoWjJTbUx6M3l5Qmkzc0xHMVlOaEdhNHBLc2VPMVY2ZkVyTnZxajBPYXNjdFFDSE9pVDlNYXnSAa4BQVVfeXFMUHhicEdmMlY5RzllWFlGMDNRSG42dzUybDJ0QWE0Q2hSUjFvQTRSM3BqQkYyUzU3TTA3Z0xGQ2hrX1NhSk5WQkRYTnRSTE9jWUJfOVpxaWtVYU5vTGFfU0ZkVUtBcGt2WEMyTkIzNXVlQjljSFpJUkZaRE5mdnZvdGZ5VDVCUHdqZzR4UzRyLW1XYTZ4bjJtMWtDWUFKeGJxNGhQM3Z2S3Q0WFRHeWJn?oc=5\" target=\"_blank\">Iran war updates: Pezeshkian says no negotiation on ballistic missiles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSFJNQXhfTWNzWC1XaGtkVWV4Q0lZM1FfNmpiXzZfZEp3YmxTd19kTWUwQ2VZVjJTVGFpazJPZ2FfcG9Fd0VWNkN1bGdqMEg4ck12M3pZSmtpZ1ZJU0RkaUJGVURLaXY2SUliQWlEREo0VVpoWjJTbUx6M3l5Qmkzc0xHMVlOaEdhNHBLc2VPMVY2ZkVyTnZxajBPYXNjdFFDSE9pVDlNYXnSAa4BQVVfeXFMUHhicEdmMlY5RzllWFlGMDNRSG42dzUybDJ0QWE0Q2hSUjFvQTRSM3BqQkYyUzU3TTA3Z0xGQ2hrX1NhSk5WQkRYTnRSTE9jWUJfOVpxaWtVYU5vTGFfU0ZkVUtBcGt2WEMyTkIzNXVlQjljSFpJUkZaRE5mdnZvdGZ5VDVCUHdqZzR4UzRyLW1XYTZ4bjJtMWtDWUFKeGJxNGhQM3Z2S3Q0WFRHeWJn?oc=5",
-      "publishedAt": "Tue, 23 Jun 2026 07:00:00 GMT",
-      "titleZh": "Iran war updates: Pezeshkian says no negotiation on ballistic missiles - Al Jazeera",
-      "summaryZh": "Iran war updates: Pezeshkian says no negotiation on ballistic missiles&nbsp;&nbsp;Al Jazeera"
     },
     {
       "id": "aljazeera-news-1-https://news.google.com/",
@@ -316,7 +264,20 @@
       "summaryZh": "Iran war updates: First round of Iran-US talks concludes in Switzerland&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "bbc-news-5-https://news.google.com/",
+      "id": "aljazeera-news-3-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "Iran war updates: Tehran shuts Hormuz, Vance on way to Switzerland - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOR25aelZYNGo5ZVFrNnBfUDQzRTd6eTBzbmUyUW40aGg1MVFqOS0tSVFRNXIwZjAyOFg0UWFSSlAyOHRVMGw1UGtaMUVWTmNWcGtpeTV4eFhacHJFc0d5dVl1THFHa2NMMV9iYmhLSmk4Skc4OTU0U1JmNkNSVWExWDBia1REZF94WTUxbjdrWWJORGdyeGctMjhuNkJQdGlmdzVNbXEzUF9YRHBJQk0xRGlmZWdETEJ2bGYtR1pB0gHDAUFVX3lxTE5Vd2Y1Zm9PZWJQd3VMZ21rUDM3anBFY0NQN3QwN3l5Sll4cTZaWkV6Snc4RkJ2RHRsWlFnbHlBWXpNaGxma1RmZTBPVTAxc2x3U29EM2duMV9RMVJVNDVSREZXSXVnN0p3MmNqaHBManNTSkRFdlZlNkwydVVRTFlRWFR5YmdVZGtGVC1vM2dWTGd0d0hoWGdTMHh3aWo5NVZOVl9RWFBkLUVBRUtoMzdTV1BReTIxT0ExR0ZzM1ZZclRSZw?oc=5\" target=\"_blank\">Iran war updates: Tehran shuts Hormuz, Vance on way to Switzerland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR25aelZYNGo5ZVFrNnBfUDQzRTd6eTBzbmUyUW40aGg1MVFqOS0tSVFRNXIwZjAyOFg0UWFSSlAyOHRVMGw1UGtaMUVWTmNWcGtpeTV4eFhacHJFc0d5dVl1THFHa2NMMV9iYmhLSmk4Skc4OTU0U1JmNkNSVWExWDBia1REZF94WTUxbjdrWWJORGdyeGctMjhuNkJQdGlmdzVNbXEzUF9YRHBJQk0xRGlmZWdETEJ2bGYtR1pB0gHDAUFVX3lxTE5Vd2Y1Zm9PZWJQd3VMZ21rUDM3anBFY0NQN3QwN3l5Sll4cTZaWkV6Snc4RkJ2RHRsWlFnbHlBWXpNaGxma1RmZTBPVTAxc2x3U29EM2duMV9RMVJVNDVSREZXSXVnN0p3MmNqaHBManNTSkRFdlZlNkwydVVRTFlRWFR5YmdVZGtGVC1vM2dWTGd0d0hoWGdTMHh3aWo5NVZOVl9RWFBkLUVBRUtoMzdTV1BReTIxT0ExR0ZzM1ZZclRSZw?oc=5",
+      "publishedAt": "Sat, 20 Jun 2026 07:00:00 GMT",
+      "titleZh": "Iran war updates: Tehran shuts Hormuz, Vance on way to Switzerland - Al Jazeera",
+      "summaryZh": "Iran war updates: Tehran shuts Hormuz, Vance on way to Switzerland&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "bbc-news-4-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -329,7 +290,20 @@
       "summaryZh": "Iran deal presents political nightmare for Netanyahu&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-4-https://news.google.com/",
+      "id": "bbc-news-9-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限 - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mQ3BJTE9ES1ZqQ1dXQ1cyN0hpMTVqeWt2UmJZRHF4VEZOXzVWM3hLdGRkNlhxTkRvaTNjd1dBZUd1VHBMRExfR0ltQWlTU0tpNjFZMDZjUkd4TnliUE9WdEVNSmlXUdIBa0FVX3lxTE5LWDVfd0hjUUVYVkpxcHhBRkpsX05DYVRNbmk1N3FJV05lY1hoZ1o5aDFNaDExV1FHaDQ0VHlsZm5kUVQzc3Z3cTB5WGg2T0Q4MDZUd01NT0lENFlCcEpmQlFka1UyRGREWDVB?oc=5\" target=\"_blank\">伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mQ3BJTE9ES1ZqQ1dXQ1cyN0hpMTVqeWt2UmJZRHF4VEZOXzVWM3hLdGRkNlhxTkRvaTNjd1dBZUd1VHBMRExfR0ltQWlTU0tpNjFZMDZjUkd4TnliUE9WdEVNSmlXUdIBa0FVX3lxTE5LWDVfd0hjUUVYVkpxcHhBRkpsX05DYVRNbmk1N3FJV05lY1hoZ1o5aDFNaDExV1FHaDQ0VHlsZm5kUVQzc3Z3cTB5WGg2T0Q4MDZUd01NT0lENFlCcEpmQlFka1UyRGREWDVB?oc=5",
+      "publishedAt": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "titleZh": "伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限 - BBC",
+      "summaryZh": "伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限&nbsp;&nbsp;BBC"
+    },
+    {
+      "id": "bbc-news-3-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -342,7 +316,7 @@
       "summaryZh": "US and Iran exchange strikes across Middle East for second day in a row&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-3-https://news.google.com/",
+      "id": "bbc-news-2-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -361,7 +335,7 @@
       "source": "Reuters",
       "items": [
         {
-          "id": "reuters-news-0-https://news.google.com/",
+          "id": "reuters-news-1-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -372,19 +346,6 @@
           "publishedAt": "Sat, 05 Sep 2026 18:15:00 GMT",
           "titleZh": "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says - Reuters",
           "summaryZh": "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says&nbsp;&nbsp;Reuters"
-        },
-        {
-          "id": "reuters-news-1-https://news.google.com/",
-          "sourceId": "reuters",
-          "source": "Reuters",
-          "sourceSite": "reuters.com",
-          "type": "news",
-          "title": "Fuel tanker explosion after traffic accident kills 10 in Western Iran, state media says - Reuters",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxORW1OZWlZUzItUmdsYlhnaXMzU2djTWZBVERaNG4zbzhvZTcxaWtPaGJWamowRDgwTTZRX3Ftekl0bDgxMkJEdTZJbmVzei1ya245RGdiUEx4cHltelZzVTdZVlVhVUEza0dNZ0hqbFR1cTNYMHllLTAwRGdxVVVOazdEb1poa3lyTld2V0ZxR0VHZUNONVJlWFlGaXhKU0ZkamxkZ1N4Vkt4N0YzVmhDM3RYWnlmeE9FbVZzeWFZT0pLaFlwalpnQUVrRDk?oc=5\" target=\"_blank\">Fuel tanker explosion after traffic accident kills 10 in Western Iran, state media says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORW1OZWlZUzItUmdsYlhnaXMzU2djTWZBVERaNG4zbzhvZTcxaWtPaGJWamowRDgwTTZRX3Ftekl0bDgxMkJEdTZJbmVzei1ya245RGdiUEx4cHltelZzVTdZVlVhVUEza0dNZ0hqbFR1cTNYMHllLTAwRGdxVVVOazdEb1poa3lyTld2V0ZxR0VHZUNONVJlWFlGaXhKU0ZkamxkZ1N4Vkt4N0YzVmhDM3RYWnlmeE9FbVZzeWFZT0pLaFlwalpnQUVrRDk?oc=5",
-          "publishedAt": "Sat, 05 Sep 2026 16:19:53 GMT",
-          "titleZh": "Fuel tanker explosion after traffic accident kills 10 in Western Iran, state media says - Reuters",
-          "summaryZh": "Fuel tanker explosion after traffic accident kills 10 in Western Iran, state media says&nbsp;&nbsp;Reuters"
         },
         {
           "id": "reuters-news-2-https://news.google.com/",
@@ -400,7 +361,7 @@
           "summaryZh": "US military strikes three Iranian crude oil carriers, Central Command says&nbsp;&nbsp;Reuters"
         },
         {
-          "id": "reuters-news-3-https://news.google.com/",
+          "id": "reuters-news-0-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -411,19 +372,6 @@
           "publishedAt": "Thu, 03 Sep 2026 22:10:23 GMT",
           "titleZh": "Vance says Iran conflict is not a war, declines to offer timeline for end - Reuters",
           "summaryZh": "Vance says Iran conflict is not a war, declines to offer timeline for end&nbsp;&nbsp;Reuters"
-        },
-        {
-          "id": "reuters-news-4-https://news.google.com/",
-          "sourceId": "reuters",
-          "source": "Reuters",
-          "sourceSite": "reuters.com",
-          "type": "news",
-          "title": "Trump aides seek 'quiet' in Iran war but say attacks may intensify after November elections - Reuters",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNMDJDS3ZmaHY1S0hTTlJiUUVPQ081YTU5bWV3NmJJLTRTNDdNQUhKNWdFTXd4TzVVRkRiRXd6SV9xZ1hmbHVxMFVGOUhXMkJLTkdaN0VWa3g3aEZ1aWZDbnlNTkRoUk5zY2ltOW9PNVk1SlFJVU1mNzZFSE9GTGpGbmhwdW1sMFNuTFhwcTVmSlFUNUIwM3lOV3ZpQ0NCX3B2TmMwbXZB?oc=5\" target=\"_blank\">Trump aides seek 'quiet' in Iran war but say attacks may intensify after November elections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMDJDS3ZmaHY1S0hTTlJiUUVPQ081YTU5bWV3NmJJLTRTNDdNQUhKNWdFTXd4TzVVRkRiRXd6SV9xZ1hmbHVxMFVGOUhXMkJLTkdaN0VWa3g3aEZ1aWZDbnlNTkRoUk5zY2ltOW9PNVk1SlFJVU1mNzZFSE9GTGpGbmhwdW1sMFNuTFhwcTVmSlFUNUIwM3lOV3ZpQ0NCX3B2TmMwbXZB?oc=5",
-          "publishedAt": "Wed, 02 Sep 2026 20:54:25 GMT",
-          "titleZh": "Trump aides seek 'quiet' in Iran war but say attacks may intensify after November elections - Reuters",
-          "summaryZh": "Trump aides seek 'quiet' in Iran war but say attacks may intensify after November elections&nbsp;&nbsp;Reuters"
         }
       ]
     },
@@ -438,11 +386,11 @@
           "sourceSite": "bbc.com",
           "type": "news",
           "title": "US hits three Iranian oil tankers after saying its warships were targeted - BBC",
-          "description": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MR2lQUEVfWHpBVV9NQjVxS0x6WldUNHB1RzFWSzlDa0hYWm1wYVpxMEVhdkRiT1dCeGVlY2Y5d25uR3lQOEtxbW5CVG5VNDRhRmFvU2NLQlN5UQ?oc=5\" target=\"_blank\">US hits three Iranian oil tankers after saying its warships were targeted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEtPbThoMkY0OEVqRWdxUlA0eDRZYlhPTG5qbEt5V1RnazFIVzBuZHJyU2VMVHdHMzBCWmQxRDhmZ0RnOTZ2WGZPLVJTQjExWFo2amZiMmJFM3Jkb3plWnJOd0dkeEtHLXFqaFRseExIc00wUHRONXdVVWVWMWhJRmxRZFhPVTJuS3J3?oc=5\" target=\"_blank\">US military hits 3 Iranian oil tankers after saying Navy ships were targeted with missiles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOOWlQcFdRT0RveGtRSkc0aV83RTdSZzlHVzhuVkhuT3NvRE5HNFl1Mm05a1JEMWlHY1pRemp4ZkVnV3BYcHNXUUozdmtwYWxXc1RLcGtDVHF6ajU0aVgxMkl2ekFwdDM2UFNRTFpTT3RSbHktcl83S2tJbENLeXdmWkdfRDNYSWlrLXFEUWM3ak9uYmNzM01tNkNNbF95M3ZRREZPWUNrOWVqTWtGY2QxdU9OaHpzdnRNcHE2M9IBwgFBVV95cUxPSTRJbTVhakNqQTFMV3B1RDd0YXRETHR3WHNhOTZEX2FFMUtLVmlNQUlHQzJOLUhQdlNWeXFXLWdkamtsM1NoMDYwWXd4SEtKb2dzUmVVYzQxUEtSS2ZlM1IzRmtfemFpckc3MFdjNGhjSDRlMG5TVHR4d3dJejlVSXdDaHBzWkdWZmlZRWlRNVZNNEc2eHhrOVp1eFZ5bDBWWV9IZXA3YUV1aVhITFA5dkc0OExyZjBOeDJNMDlfel84UQ?oc=5\" target=\"_blank\">Iran war live: US says it hit 3 Iranian oil tankers after US ships attacked</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li></ol>",
+          "description": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MR2lQUEVfWHpBVV9NQjVxS0x6WldUNHB1RzFWSzlDa0hYWm1wYVpxMEVhdkRiT1dCeGVlY2Y5d25uR3lQOEtxbW5CVG5VNDRhRmFvU2NLQlN5UQ?oc=5\" target=\"_blank\">US hits three Iranian oil tankers after saying its warships were targeted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEtPbThoMkY0OEVqRWdxUlA0eDRZYlhPTG5qbEt5V1RnazFIVzBuZHJyU2VMVHdHMzBCWmQxRDhmZ0RnOTZ2WGZPLVJTQjExWFo2amZiMmJFM3Jkb3plWnJOd0dkeEtHLXFqaFRseExIc00wUHRONXdVVWVWMWhJRmxRZFhPVTJuS3J3?oc=5\" target=\"_blank\">US strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">apnews.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOOWlQcFdRT0RveGtRSkc0aV83RTdSZzlHVzhuVkhuT3NvRE5HNFl1Mm05a1JEMWlHY1pRemp4ZkVnV3BYcHNXUUozdmtwYWxXc1RLcGtDVHF6ajU0aVgxMkl2ekFwdDM2UFNRTFpTT3RSbHktcl83S2tJbENLeXdmWkdfRDNYSWlrLXFEUWM3ak9uYmNzM01tNkNNbF95M3ZRREZPWUNrOWVqTWtGY2QxdU9OaHpzdnRNcHE2M9IBwgFBVV95cUxPSTRJbTVhakNqQTFMV3B1RDd0YXRETHR3WHNhOTZEX2FFMUtLVmlNQUlHQzJOLUhQdlNWeXFXLWdkamtsM1NoMDYwWXd4SEtKb2dzUmVVYzQxUEtSS2ZlM1IzRmtfemFpckc3MFdjNGhjSDRlMG5TVHR4d3dJejlVSXdDaHBzWkdWZmlZRWlRNVZNNEc2eHhrOVp1eFZ5bDBWWV9IZXA3YUV1aVhITFA5dkc0OExyZjBOeDJNMDlfel84UQ?oc=5\" target=\"_blank\">Iran war live: Tehran slams US attacks on oil tankers, threatens escalation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li></ol>",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MR2lQUEVfWHpBVV9NQjVxS0x6WldUNHB1RzFWSzlDa0hYWm1wYVpxMEVhdkRiT1dCeGVlY2Y5d25uR3lQOEtxbW5CVG5VNDRhRmFvU2NLQlN5UQ?oc=5",
-          "publishedAt": "Sat, 05 Sep 2026 17:15:05 GMT",
+          "publishedAt": "Sat, 05 Sep 2026 20:41:59 GMT",
           "titleZh": "US hits three Iranian oil tankers after saying its warships were targeted - BBC",
-          "summaryZh": "US hits three Iranian oil tankers after saying its warships were targeted&nbsp;&nbsp;BBCUS military hits 3 Iranian oil tankers after saying Navy ships were targeted with missiles&nbsp;&nbsp;AP NewsIran war live: US says "
+          "summaryZh": "US hits three Iranian oil tankers after saying its warships were targeted&nbsp;&nbsp;BBCUS strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles&nbsp;&nbsp;apnews.comIran war live: Teh"
         },
         {
           "id": "bbc-news-1-https://news.google.com/",
@@ -458,20 +406,7 @@
           "summaryZh": "How could US-Iran conflict end? Three experts give their views&nbsp;&nbsp;BBC"
         },
         {
-          "id": "bbc-news-2-https://news.google.com/",
-          "sourceId": "bbc",
-          "source": "BBC",
-          "sourceSite": "bbc.com",
-          "type": "news",
-          "title": "Iran calls deaths at wedding celebration a 'war crime' as US denies targeting civilians - BBC",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE90WUgxdFM4WlA1Wm5tc0NuWFRacFpmM3FsQ2gwVE5ZSXJnaV9sNk11ZTJQcjhuOHlHSTc1T0FCQzlGTDBWbGdNWUJNR241MHVzOFpfYXV3?oc=5\" target=\"_blank\">Iran calls deaths at wedding celebration a 'war crime' as US denies targeting civilians</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90WUgxdFM4WlA1Wm5tc0NuWFRacFpmM3FsQ2gwVE5ZSXJnaV9sNk11ZTJQcjhuOHlHSTc1T0FCQzlGTDBWbGdNWUJNR241MHVzOFpfYXV3?oc=5",
-          "publishedAt": "Wed, 02 Sep 2026 15:35:44 GMT",
-          "titleZh": "Iran calls deaths at wedding celebration a 'war crime' as US denies targeting civilians - BBC",
-          "summaryZh": "Iran calls deaths at wedding celebration a 'war crime' as US denies targeting civilians&nbsp;&nbsp;BBC"
-        },
-        {
-          "id": "bbc-news-7-https://news.google.com/",
+          "id": "bbc-news-6-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -484,7 +419,7 @@
           "summaryZh": "美国制裁伊朗经济新措施 为何对中国“松手”？&nbsp;&nbsp;BBC"
         },
         {
-          "id": "bbc-news-6-https://news.google.com/",
+          "id": "bbc-news-5-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -497,7 +432,7 @@
           "summaryZh": "伊朗跟美国、以色列打仗 还能撑多久？&nbsp;&nbsp;BBC"
         },
         {
-          "id": "bbc-news-8-https://news.google.com/",
+          "id": "bbc-news-7-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -508,6 +443,19 @@
           "publishedAt": "Mon, 10 Aug 2026 07:00:00 GMT",
           "titleZh": "霍尔木兹海峡：伊朗向特朗普列出通航的六项条件 - BBC",
           "summaryZh": "霍尔木兹海峡：伊朗向特朗普列出通航的六项条件&nbsp;&nbsp;BBC"
+        },
+        {
+          "id": "bbc-news-8-https://news.google.com/",
+          "sourceId": "bbc",
+          "source": "BBC",
+          "sourceSite": "bbc.com",
+          "type": "news",
+          "title": "特朗普表示同意取消对伊朗的打击，前提是能“迅速”达成协议 - BBC",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BdjlWMlp1b1Uxa0pvUFpYd2NsTjlEV3d6OTh1QkNlY0tTSWM4X0g1MkZYV3hjcjZucUYtVm9zZHhYN21qc0JvX0t3cXBIYk1wTVNxbk9mMmY1WWlfYWl4ajhBQzZ4QdIBa0FVX3lxTE5hVXU2SW1QMzNRZTJQbG1IbW9MQVRZZmxWWW5aSFg4RzkzaUJ2Q2hUWGVHcnhLSl85SC05d3lZQklIRkthNWd2bFhFYUtNWDFQR010aGJHOHg4T0o3RjNJdkNlQk1PbkZFMGln?oc=5\" target=\"_blank\">特朗普表示同意取消对伊朗的打击，前提是能“迅速”达成协议</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BdjlWMlp1b1Uxa0pvUFpYd2NsTjlEV3d6OTh1QkNlY0tTSWM4X0g1MkZYV3hjcjZucUYtVm9zZHhYN21qc0JvX0t3cXBIYk1wTVNxbk9mMmY1WWlfYWl4ajhBQzZ4QdIBa0FVX3lxTE5hVXU2SW1QMzNRZTJQbG1IbW9MQVRZZmxWWW5aSFg4RzkzaUJ2Q2hUWGVHcnhLSl85SC05d3lZQklIRkthNWd2bFhFYUtNWDFQR010aGJHOHg4T0o3RjNJdkNlQk1PbkZFMGln?oc=5",
+          "publishedAt": "Sun, 02 Aug 2026 07:00:00 GMT",
+          "titleZh": "特朗普表示同意取消对伊朗的打击，前提是能“迅速”达成协议 - BBC",
+          "summaryZh": "特朗普表示同意取消对伊朗的打击，前提是能“迅速”达成协议&nbsp;&nbsp;BBC"
         }
       ]
     },
@@ -516,7 +464,7 @@
       "source": "Al Jazeera",
       "items": [
         {
-          "id": "aljazeera-news-7-https://news.google.com/",
+          "id": "aljazeera-news-8-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -529,7 +477,7 @@
           "summaryZh": "US says it hit Iran oil tankers helping finance ‘regional proxies’&nbsp;&nbsp;Al Jazeera"
         },
         {
-          "id": "aljazeera-news-4-https://news.google.com/",
+          "id": "aljazeera-news-5-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -542,7 +490,7 @@
           "summaryZh": "Iran President Pezeshkian calls for unity as US ramps up economic pressure&nbsp;&nbsp;Al Jazeera"
         },
         {
-          "id": "aljazeera-news-5-https://news.google.com/",
+          "id": "aljazeera-news-6-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -555,7 +503,7 @@
           "summaryZh": "Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?&nbsp;&nbsp;Al Jazeera"
         },
         {
-          "id": "aljazeera-news-6-https://news.google.com/",
+          "id": "aljazeera-news-7-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -568,7 +516,7 @@
           "summaryZh": "Iran war updates: Trump says US may attack Iran’s Pickaxe Mountain soon&nbsp;&nbsp;Al Jazeera"
         },
         {
-          "id": "aljazeera-news-8-https://news.google.com/",
+          "id": "aljazeera-news-9-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -581,17 +529,17 @@
           "summaryZh": "Iran war: Why US midterms could be a pivotal moment&nbsp;&nbsp;Al Jazeera"
         },
         {
-          "id": "aljazeera-news-9-https://news.google.com/",
+          "id": "aljazeera-news-4-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
           "type": "news",
-          "title": "Iran war updates: US says no major operations against Iran; options open - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQcWY3aFROMjg1SUI0N0M5cDh5ODFZUGdRSHlIRUFfSjQ4UGl4Z2RvUmZScl9WS1pTbjJ1STlXelFGckNuTjB1akswSm5xUm1RSjc0RkRZUHloLURCWTU1eWRpcnVBdloxNG84eDVla3o4MC1BRDlmRExxZnNWTGlQNC1BdTExZzJBVEUwV2dxODZqTDlneUIxcU1GZ0lKU3hnbWRjUkFLUlpuNzNrbVJVRHpmeWZpd9IBuwFBVV95cUxPYWZQbWZRclMwUnVKanBGd2Etd0VTUVpLd3NHZHdBOGlJUllHX2JWeVM1ZVhzdmI2VEpXd0FkUnA4bFgtaHN2bmVsdHlqSVdlSEltM0swY2NJRmVlZW1fRWFPaGxGbFBZOTJISy1XdWZfdXEwREZQYXdwQ2FyOE9hYTZNN0lUNkVpMTdScTZjVzlMMjEyWklnWUVtTktObGNSeWFwUzB1YXlTNkxYZHNoQWRvUVFESTBJR2tj?oc=5\" target=\"_blank\">Iran war updates: US says no major operations against Iran; options open</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcWY3aFROMjg1SUI0N0M5cDh5ODFZUGdRSHlIRUFfSjQ4UGl4Z2RvUmZScl9WS1pTbjJ1STlXelFGckNuTjB1akswSm5xUm1RSjc0RkRZUHloLURCWTU1eWRpcnVBdloxNG84eDVla3o4MC1BRDlmRExxZnNWTGlQNC1BdTExZzJBVEUwV2dxODZqTDlneUIxcU1GZ0lKU3hnbWRjUkFLUlpuNzNrbVJVRHpmeWZpd9IBuwFBVV95cUxPYWZQbWZRclMwUnVKanBGd2Etd0VTUVpLd3NHZHdBOGlJUllHX2JWeVM1ZVhzdmI2VEpXd0FkUnA4bFgtaHN2bmVsdHlqSVdlSEltM0swY2NJRmVlZW1fRWFPaGxGbFBZOTJISy1XdWZfdXEwREZQYXdwQ2FyOE9hYTZNN0lUNkVpMTdScTZjVzlMMjEyWklnWUVtTktObGNSeWFwUzB1YXlTNkxYZHNoQWRvUVFESTBJR2tj?oc=5",
-          "publishedAt": "Fri, 04 Sep 2026 00:09:48 GMT",
-          "titleZh": "Iran war updates: US says no major operations against Iran; options open - Al Jazeera",
-          "summaryZh": "Iran war updates: US says no major operations against Iran; options open&nbsp;&nbsp;Al Jazeera"
+          "title": "Iran war updates: US hits Iran in latest tit-for-tat strike - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOLTM2b0s0V25IYjUxNEhrRDV1RDFfdzlRMFdGU1VFZlhPNXJwZ3BuS2RIY1pmT2JPVG9kd19Sdlhtby1uUGVHSTJuU0dnSzJIeFVydU5PeVVQbFJHa0NqbF9iS2Foc2FNSDh2Qk9hNU84dWV0SUpXc00xbzl1ei1UT3UzdUpFam43cFJDZWstWnpBMVJleWE5Ul8ycUNybWRjMDJKUWtEdFJZQjlPRUxrLVMtaVZPaHg3bWY5d9IBwgFBVV95cUxNaUdLcXdDSTJMcFZjY2NCcXRtYXhHWEZNaDNxcTBOUUZZUjBnY1hLSk5Xb1d4aXNRQXpKSVhWMVhhUU5iWVZjMnViTVE5X2hCdnBtbEdURzlPdEVSeEF2RkN2a2NDeU9oREdEZ1dUVUtqeHVndWdBelpaUWc4S0dHZkpqUTRFZy0tcEdMZGZPVWpxX0VPZFUwdURyQ1BkZXBFazIwT2E2QWxacUFZVnF6bVk3NFVlZnRYcmRNckR6QXloUQ?oc=5\" target=\"_blank\">Iran war updates: US hits Iran in latest tit-for-tat strike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLTM2b0s0V25IYjUxNEhrRDV1RDFfdzlRMFdGU1VFZlhPNXJwZ3BuS2RIY1pmT2JPVG9kd19Sdlhtby1uUGVHSTJuU0dnSzJIeFVydU5PeVVQbFJHa0NqbF9iS2Foc2FNSDh2Qk9hNU84dWV0SUpXc00xbzl1ei1UT3UzdUpFam43cFJDZWstWnpBMVJleWE5Ul8ycUNybWRjMDJKUWtEdFJZQjlPRUxrLVMtaVZPaHg3bWY5d9IBwgFBVV95cUxNaUdLcXdDSTJMcFZjY2NCcXRtYXhHWEZNaDNxcTBOUUZZUjBnY1hLSk5Xb1d4aXNRQXpKSVhWMVhhUU5iWVZjMnViTVE5X2hCdnBtbEdURzlPdEVSeEF2RkN2a2NDeU9oREdEZ1dUVUtqeHVndWdBelpaUWc4S0dHZkpqUTRFZy0tcEdMZGZPVWpxX0VPZFUwdURyQ1BkZXBFazIwT2E2QWxacUFZVnF6bVk3NFVlZnRYcmRNckR6QXloUQ?oc=5",
+          "publishedAt": "Sat, 27 Jun 2026 07:00:00 GMT",
+          "titleZh": "Iran war updates: US hits Iran in latest tit-for-tat strike - Al Jazeera",
+          "summaryZh": "Iran war updates: US hits Iran in latest tit-for-tat strike&nbsp;&nbsp;Al Jazeera"
         }
       ]
     },
@@ -630,17 +578,17 @@
   ],
   "commentary": [
     {
-      "id": "nytimes-commentary-5-https://news.google.com/",
+      "id": "nytimes-commentary-6-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
       "type": "commentary",
-      "title": "Iran War Helps to Drive U.S. Diesel Prices to New High - The New York Times",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQcXloYk5UMGdQS2dXVEZsR3FsU1RERGpiZFpTNkdUMzAtTnRLb1VKbEZxanY4cUp3M2UtaFZFdlBBVG5FWjFwZWRNQ3QyakluVEw4d3JjZHZTZzZRQlAyZEFLOG1OU0lkNUExTmQ4X3J1WWpWeEJscjBtcTg3Tnh1Qks0WQ?oc=5\" target=\"_blank\">Iran War Helps to Drive U.S. Diesel Prices to New High</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcXloYk5UMGdQS2dXVEZsR3FsU1RERGpiZFpTNkdUMzAtTnRLb1VKbEZxanY4cUp3M2UtaFZFdlBBVG5FWjFwZWRNQ3QyakluVEw4d3JjZHZTZzZRQlAyZEFLOG1OU0lkNUExTmQ4X3J1WWpWeEJscjBtcTg3Tnh1Qks0WQ?oc=5",
-      "publishedAt": "Fri, 04 Sep 2026 17:40:08 GMT",
-      "titleZh": "Iran War Helps to Drive U.S. Diesel Prices to New High - The New York Times",
-      "summaryZh": "Iran War Helps to Drive U.S. Diesel Prices to New High&nbsp;&nbsp;The New York Times"
+      "title": "U.S. Strikes Three Iranian ‘Shadow Network’ Oil Tankers, Military Says - The New York Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQVXFRdGRLT2Y0eEtsblc4WEZPWGs2a2JFNW9ULTFwSHQ2TlpzUEs0NmxHdjZYV1pjdnVoenM1MjBiRDZhVDZkajRzVVl0RF90SzNNWEprTXN5NkN4NW84LWVqR0xMU0pkVFB1REd1N3pIajlEaHJDczBCNGc5a1czX2ZjT05DTkFqTlhmOHBHeGR4QQ?oc=5\" target=\"_blank\">U.S. Strikes Three Iranian ‘Shadow Network’ Oil Tankers, Military Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVXFRdGRLT2Y0eEtsblc4WEZPWGs2a2JFNW9ULTFwSHQ2TlpzUEs0NmxHdjZYV1pjdnVoenM1MjBiRDZhVDZkajRzVVl0RF90SzNNWEprTXN5NkN4NW84LWVqR0xMU0pkVFB1REd1N3pIajlEaHJDczBCNGc5a1czX2ZjT05DTkFqTlhmOHBHeGR4QQ?oc=5",
+      "publishedAt": "Sat, 05 Sep 2026 21:09:39 GMT",
+      "titleZh": "U.S. Strikes Three Iranian ‘Shadow Network’ Oil Tankers, Military Says - The New York Times",
+      "summaryZh": "U.S. Strikes Three Iranian ‘Shadow Network’ Oil Tankers, Military Says&nbsp;&nbsp;The New York Times"
     },
     {
       "id": "nytimes-commentary-0-https://news.google.com/",
@@ -654,6 +602,19 @@
       "publishedAt": "Fri, 04 Sep 2026 15:21:43 GMT",
       "titleZh": "A More Confident Iran Emerges After Six Months of War With the U.S. - The New York Times",
       "summaryZh": "A More Confident Iran Emerges After Six Months of War With the U.S.&nbsp;&nbsp;The New York Times"
+    },
+    {
+      "id": "nytimes-commentary-5-https://news.google.com/",
+      "sourceId": "nytimes",
+      "source": "The New York Times",
+      "sourceSite": "nytimes.com",
+      "type": "commentary",
+      "title": "Iran War Helps to Drive U.S. Diesel Prices to New High - The New York Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQcXloYk5UMGdQS2dXVEZsR3FsU1RERGpiZFpTNkdUMzAtTnRLb1VKbEZxanY4cUp3M2UtaFZFdlBBVG5FWjFwZWRNQ3QyakluVEw4d3JjZHZTZzZRQlAyZEFLOG1OU0lkNUExTmQ4X3J1WWpWeEJscjBtcTg3Tnh1Qks0WQ?oc=5\" target=\"_blank\">Iran War Helps to Drive U.S. Diesel Prices to New High</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcXloYk5UMGdQS2dXVEZsR3FsU1RERGpiZFpTNkdUMzAtTnRLb1VKbEZxanY4cUp3M2UtaFZFdlBBVG5FWjFwZWRNQ3QyakluVEw4d3JjZHZTZzZRQlAyZEFLOG1OU0lkNUExTmQ4X3J1WWpWeEJscjBtcTg3Tnh1Qks0WQ?oc=5",
+      "publishedAt": "Fri, 04 Sep 2026 07:41:50 GMT",
+      "titleZh": "Iran War Helps to Drive U.S. Diesel Prices to New High - The New York Times",
+      "summaryZh": "Iran War Helps to Drive U.S. Diesel Prices to New High&nbsp;&nbsp;The New York Times"
     },
     {
       "id": "foreignpolicy-commentary-0-https://news.google.com/",
@@ -747,20 +708,7 @@
       "summaryZh": "World in Brief: Trump says Iran strikes won’t last long; Google wins in court&nbsp;&nbsp;The Economist"
     },
     {
-      "id": "nytimes-commentary-7-https://news.google.com/",
-      "sourceId": "nytimes",
-      "source": "The New York Times",
-      "sourceSite": "nytimes.com",
-      "type": "commentary",
-      "title": "Video: U.S. Strike Kills Several at a Wedding, Iran Says - The New York Times",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOdGJqSHNBR3dnakd0eEtocDVZNnRPZU94bThDeWVtcW9SdDlVeGJlY21DMDJHRHBxOGZlLUhWU2VESkNreDJVNk5MWjBPamNuUTlrUmVPb29ya3QxSzVJUk1lVTdCdEV3NjI1MnMzR2Z1UTVfZTFfOEtnUTg4MWtza0xZQm8tNXctWm83UzNFZTRRWU0tbWtYMVBobHJ5UEdBTmNTdDln?oc=5\" target=\"_blank\">Video: U.S. Strike Kills Several at a Wedding, Iran Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdGJqSHNBR3dnakd0eEtocDVZNnRPZU94bThDeWVtcW9SdDlVeGJlY21DMDJHRHBxOGZlLUhWU2VESkNreDJVNk5MWjBPamNuUTlrUmVPb29ya3QxSzVJUk1lVTdCdEV3NjI1MnMzR2Z1UTVfZTFfOEtnUTg4MWtza0xZQm8tNXctWm83UzNFZTRRWU0tbWtYMVBobHJ5UEdBTmNTdDln?oc=5",
-      "publishedAt": "Wed, 02 Sep 2026 16:21:35 GMT",
-      "titleZh": "Video: U.S. Strike Kills Several at a Wedding, Iran Says - The New York Times",
-      "summaryZh": "Video: U.S. Strike Kills Several at a Wedding, Iran Says&nbsp;&nbsp;The New York Times"
-    },
-    {
-      "id": "nytimes-commentary-3-https://news.google.com/",
+      "id": "nytimes-commentary-2-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -773,7 +721,7 @@
       "summaryZh": "Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again&nbsp;&nbsp;The New York Times"
     },
     {
-      "id": "nytimes-commentary-6-https://news.google.com/",
+      "id": "nytimes-commentary-7-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -864,7 +812,7 @@
       "summaryZh": "Jordan Sees Bigger Threat From Israel Than Iran&nbsp;&nbsp;Foreign Policy"
     },
     {
-      "id": "nytimes-commentary-2-https://news.google.com/",
+      "id": "nytimes-commentary-3-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
