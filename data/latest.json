@@ -1,23 +1,101 @@
 {
-  "generatedAt": "2026-09-07T07:51:47.635Z",
-  "totalNews": 23,
+  "generatedAt": "2026-09-07T14:44:01.037Z",
+  "totalNews": 24,
   "totalCommentary": 32,
   "timeline": [
     {
-      "id": "aljazeera-news-2-https://news.google.com/",
+      "id": "reuters-news-0-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
+      "type": "news",
+      "title": "UAE says its energy exports will not be 'held hostage' by Iran war - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX2k1aEFKNWUzaXRzZXlkTVZNb3MyOTZoSjBoa2N5Zmtpd1Z2VVRWbV9JcnNHN0hkS1ZPRXEyb1UxdGMzN1pFNUFCUmpPVTNvQndsa3c1TzBwNEVvVXNLVXZjNGVnbzF6TUdGS2N5SVdLT2k2Nlk1TmREb0ZlTVp1cGlLRzJTMWJqLTN4VVRiY2s1emV6YldrQnJHQWRmZFBKRUdDalJjb1lFM1NxaHI2eDdWWFN1R0tydFJYOUh3Z0phb0paZUNRMw?oc=5\" target=\"_blank\">UAE says its energy exports will not be 'held hostage' by Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX2k1aEFKNWUzaXRzZXlkTVZNb3MyOTZoSjBoa2N5Zmtpd1Z2VVRWbV9JcnNHN0hkS1ZPRXEyb1UxdGMzN1pFNUFCUmpPVTNvQndsa3c1TzBwNEVvVXNLVXZjNGVnbzF6TUdGS2N5SVdLT2k2Nlk1TmREb0ZlTVp1cGlLRzJTMWJqLTN4VVRiY2s1emV6YldrQnJHQWRmZFBKRUdDalJjb1lFM1NxaHI2eDdWWFN1R0tydFJYOUh3Z0phb0paZUNRMw?oc=5",
+      "publishedAt": "Mon, 07 Sep 2026 13:13:23 GMT",
+      "titleZh": "UAE says its energy exports will not be 'held hostage' by Iran war - Reuters",
+      "summaryZh": "UAE says its energy exports will not be 'held hostage' by Iran war&nbsp;&nbsp;Reuters"
+    },
+    {
+      "id": "aljazeera-news-0-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
       "type": "news",
-      "title": "Iran war live: Tehran to announce new Hormuz shipping route in coming days - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNWEx0eDJjS1ZhZmlrQm81R0JkSXFYTG1HeDVRTHY2VFNVa3RKaXl4YThfbjAxWnhoNGlsZTM2UFUzbmk2WTB4dWtMcFZnWDRFb204bXJJRXYzbXVnbjBPdEVzTHpwc3UtVEk4cDBtQW9meTdNTTFGZGx5cVRqVWFZYS13anZZZGszd3J0UGlQdkRxdTN5LU5YOUJwQkxUdFNJNkZxSV81RTF3Y3htTTZZY1hIVTdwMnREd2JBTWhnd9IBxAFBVV95cUxNU0twWmhxcUJXelhrV0xFeWVxWlBWZkFMRmozVXc0Tmx5WGlkRFlad3BMRXptUTZ3OE5VUTFuZkhiQzBGNklFMUlidkg2TmxOTG5PRm9jRXExZ29rNkd4cEFoWjhVblg5VnFJYjJyVUtfbWZ4b0JRNjl2ZUdBSVRtRVhqRUtnYkdHanRPcmJqdXRYRWViYUVhNVk2YXdEdzJ0NTU2MmhLcHJnQ1JDNTlteHhzSWY1S3ZzbjdfTVpvMU4zS2Uz?oc=5\" target=\"_blank\">Iran war live: Tehran to announce new Hormuz shipping route in coming days</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWEx0eDJjS1ZhZmlrQm81R0JkSXFYTG1HeDVRTHY2VFNVa3RKaXl4YThfbjAxWnhoNGlsZTM2UFUzbmk2WTB4dWtMcFZnWDRFb204bXJJRXYzbXVnbjBPdEVzTHpwc3UtVEk4cDBtQW9meTdNTTFGZGx5cVRqVWFZYS13anZZZGszd3J0UGlQdkRxdTN5LU5YOUJwQkxUdFNJNkZxSV81RTF3Y3htTTZZY1hIVTdwMnREd2JBTWhnd9IBxAFBVV95cUxNU0twWmhxcUJXelhrV0xFeWVxWlBWZkFMRmozVXc0Tmx5WGlkRFlad3BMRXptUTZ3OE5VUTFuZkhiQzBGNklFMUlidkg2TmxOTG5PRm9jRXExZ29rNkd4cEFoWjhVblg5VnFJYjJyVUtfbWZ4b0JRNjl2ZUdBSVRtRVhqRUtnYkdHanRPcmJqdXRYRWViYUVhNVk2YXdEdzJ0NTU2MmhLcHJnQ1JDNTlteHhzSWY1S3ZzbjdfTVpvMU4zS2Uz?oc=5",
-      "publishedAt": "Mon, 07 Sep 2026 05:13:16 GMT",
-      "titleZh": "Iran war live: Tehran to announce new Hormuz shipping route in coming days - Al Jazeera",
-      "summaryZh": "Iran war live: Tehran to announce new Hormuz shipping route in coming days&nbsp;&nbsp;Al Jazeera"
+      "title": "Iran and Ukraine wars: Why ship fuel is running short, and why it matters - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPQm00Zy1HeEFXTUZiYXR5cHZNeXBVVnFnUzI0YVdHVW5ya1M3QkFpVDNwLXFnOUpsWUdOX1BGMDVUanlFazU1LTc0Y1I2UFNPazI4TlR0SkZkNGZIMXlMWDJOR25SQmRuTEFNQ1VpbUxsbmpWQi1MeWNEOHJXRW9WdWNzeFkySUlFR1hQS2M2LUVrNy1tYkpzaWZBMVdpNHV3TVlIekRmb2taRXVVbVJvTNIBtgFBVV95cUxQWGtVU0l3aG41TUZvRVJ2NF9yWTBHOWpZM1YyT1BqSFVsdDZyZEZuUmJYRmw3Z3Q4T2tCY3RmSC0tRlRqaVMySXZfdFktTEhsbF9oTGEwX08walNFZzhLYXhQa29JOHMtbC12U2p4czB2eE53MVRfOXZpNDNqTmJnZXRzR2JyU0pRSEc2QXk1LWFsZWlJdGNjSTc1YXMwS3JKc05BRXFEdHFRRHd1T2hqUVNCeTBMQQ?oc=5\" target=\"_blank\">Iran and Ukraine wars: Why ship fuel is running short, and why it matters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQm00Zy1HeEFXTUZiYXR5cHZNeXBVVnFnUzI0YVdHVW5ya1M3QkFpVDNwLXFnOUpsWUdOX1BGMDVUanlFazU1LTc0Y1I2UFNPazI4TlR0SkZkNGZIMXlMWDJOR25SQmRuTEFNQ1VpbUxsbmpWQi1MeWNEOHJXRW9WdWNzeFkySUlFR1hQS2M2LUVrNy1tYkpzaWZBMVdpNHV3TVlIekRmb2taRXVVbVJvTNIBtgFBVV95cUxQWGtVU0l3aG41TUZvRVJ2NF9yWTBHOWpZM1YyT1BqSFVsdDZyZEZuUmJYRmw3Z3Q4T2tCY3RmSC0tRlRqaVMySXZfdFktTEhsbF9oTGEwX08walNFZzhLYXhQa29JOHMtbC12U2p4czB2eE53MVRfOXZpNDNqTmJnZXRzR2JyU0pRSEc2QXk1LWFsZWlJdGNjSTc1YXMwS3JKc05BRXFEdHFRRHd1T2hqUVNCeTBMQQ?oc=5",
+      "publishedAt": "Mon, 07 Sep 2026 12:49:41 GMT",
+      "titleZh": "Iran and Ukraine wars: Why ship fuel is running short, and why it matters - Al Jazeera",
+      "summaryZh": "Iran and Ukraine wars: Why ship fuel is running short, and why it matters&nbsp;&nbsp;Al Jazeera"
     },
     {
       "id": "aljazeera-news-5-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "Could Trump’s Iran trade war threaten Spain’s saffron-infused paella? - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEpaRDN5N0xhSkIwclBqNTlTTVVLa2FjRWktQW5LOUZDR2dNbkJRSjR5dlYzMkd4YnBLWHBYaHE2dWN6Y1BlZ2NZLTNNMm1DM3FsZmFydlRfV3lQSlNvakFycUduNC1aLTJGUVhIa3dTcHZsX2RWdExYOHFOem94Y0tPZndrWXhRNnBNbFFIXzkwZmpVQVA3Sml1ZWlNbkRPV0xwNnJDVmQ5Z9IBrwFBVV95cUxOc2gwMzBTamNMcTZfWTBudThCNVJ3ZEs1M0lBX1FOWXNBWHpVcmdlRUxLM3RzaWpmSlh1NGNsa1NjODZfY3BjVm92Wmp5cHd0TjBSV0pFWXdLbS1PYnF6N21pMkVqWkkyYnlqaW5OYnBSYzIwMUpOZkNKVkpDQVB2c0NEYjdmWkNjb3ZUTi13RWMyXzZfR1MxbXo5aV90VmlhVUlfN0ZZRUJ5RjkyQ0g0?oc=5\" target=\"_blank\">Could Trump’s Iran trade war threaten Spain’s saffron-infused paella?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEpaRDN5N0xhSkIwclBqNTlTTVVLa2FjRWktQW5LOUZDR2dNbkJRSjR5dlYzMkd4YnBLWHBYaHE2dWN6Y1BlZ2NZLTNNMm1DM3FsZmFydlRfV3lQSlNvakFycUduNC1aLTJGUVhIa3dTcHZsX2RWdExYOHFOem94Y0tPZndrWXhRNnBNbFFIXzkwZmpVQVA3Sml1ZWlNbkRPV0xwNnJDVmQ5Z9IBrwFBVV95cUxOc2gwMzBTamNMcTZfWTBudThCNVJ3ZEs1M0lBX1FOWXNBWHpVcmdlRUxLM3RzaWpmSlh1NGNsa1NjODZfY3BjVm92Wmp5cHd0TjBSV0pFWXdLbS1PYnF6N21pMkVqWkkyYnlqaW5OYnBSYzIwMUpOZkNKVkpDQVB2c0NEYjdmWkNjb3ZUTi13RWMyXzZfR1MxbXo5aV90VmlhVUlfN0ZZRUJ5RjkyQ0g0?oc=5",
+      "publishedAt": "Mon, 07 Sep 2026 12:03:10 GMT",
+      "titleZh": "Could Trump’s Iran trade war threaten Spain’s saffron-infused paella? - Al Jazeera",
+      "summaryZh": "Could Trump’s Iran trade war threaten Spain’s saffron-infused paella?&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "aljazeera-news-4-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "Can Iran enforce a restricted zone in the Strait of Hormuz? - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNVEt3eFVmQzY5SGV4MS1nV194dS1QZmtocWEwQVpkTkpKYldmcV8wWjRnT3llQVV1ZFJDXzRHWEpfM2R2Y2VSWHJPOEpqVXBrWm92MzZQaTh4aUhZUkNkZ0tfR3kzTm1lNzlKQUVxQU5udGFuMjB1REktN0loMmZQNDF5NENDVW8tQlJ0cDg1NTh3S0xpMUtjOVp1d3RqUTjSAaQBQVVfeXFMTWZyOFFNR0NJNy1aYTVwZi1lX0NYdW1fOThtR1ZHLVFVMWtQd3g1aUotQWR1WDU4TC0ydjRrX3dxS0w4eGlfcnYxdTd2Z1BiTGVEZlYzdFFKdGxqeGVHSVRxMUREY001Uy12MUprT2w2aXRmdFZ0UW93M3JNYWdCU3J2X20wNHZjWWhNQ2RmZlJwYmpsYlRwUjJQUFRqbzFVMlk0SGo?oc=5\" target=\"_blank\">Can Iran enforce a restricted zone in the Strait of Hormuz?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVEt3eFVmQzY5SGV4MS1nV194dS1QZmtocWEwQVpkTkpKYldmcV8wWjRnT3llQVV1ZFJDXzRHWEpfM2R2Y2VSWHJPOEpqVXBrWm92MzZQaTh4aUhZUkNkZ0tfR3kzTm1lNzlKQUVxQU5udGFuMjB1REktN0loMmZQNDF5NENDVW8tQlJ0cDg1NTh3S0xpMUtjOVp1d3RqUTjSAaQBQVVfeXFMTWZyOFFNR0NJNy1aYTVwZi1lX0NYdW1fOThtR1ZHLVFVMWtQd3g1aUotQWR1WDU4TC0ydjRrX3dxS0w4eGlfcnYxdTd2Z1BiTGVEZlYzdFFKdGxqeGVHSVRxMUREY001Uy12MUprT2w2aXRmdFZ0UW93M3JNYWdCU3J2X20wNHZjWWhNQ2RmZlJwYmpsYlRwUjJQUFRqbzFVMlk0SGo?oc=5",
+      "publishedAt": "Mon, 07 Sep 2026 11:41:10 GMT",
+      "titleZh": "Can Iran enforce a restricted zone in the Strait of Hormuz? - Al Jazeera",
+      "summaryZh": "Can Iran enforce a restricted zone in the Strait of Hormuz?&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "aljazeera-news-3-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "Iran war live: US energy firms ‘legitimate’ targets after tanker attacks - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNWEx0eDJjS1ZhZmlrQm81R0JkSXFYTG1HeDVRTHY2VFNVa3RKaXl4YThfbjAxWnhoNGlsZTM2UFUzbmk2WTB4dWtMcFZnWDRFb204bXJJRXYzbXVnbjBPdEVzTHpwc3UtVEk4cDBtQW9meTdNTTFGZGx5cVRqVWFZYS13anZZZGszd3J0UGlQdkRxdTN5LU5YOUJwQkxUdFNJNkZxSV81RTF3Y3htTTZZY1hIVTdwMnREd2JBTWhnd9IBxAFBVV95cUxNU0twWmhxcUJXelhrV0xFeWVxWlBWZkFMRmozVXc0Tmx5WGlkRFlad3BMRXptUTZ3OE5VUTFuZkhiQzBGNklFMUlidkg2TmxOTG5PRm9jRXExZ29rNkd4cEFoWjhVblg5VnFJYjJyVUtfbWZ4b0JRNjl2ZUdBSVRtRVhqRUtnYkdHanRPcmJqdXRYRWViYUVhNVk2YXdEdzJ0NTU2MmhLcHJnQ1JDNTlteHhzSWY1S3ZzbjdfTVpvMU4zS2Uz?oc=5\" target=\"_blank\">Iran war live: US energy firms ‘legitimate’ targets after tanker attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWEx0eDJjS1ZhZmlrQm81R0JkSXFYTG1HeDVRTHY2VFNVa3RKaXl4YThfbjAxWnhoNGlsZTM2UFUzbmk2WTB4dWtMcFZnWDRFb204bXJJRXYzbXVnbjBPdEVzTHpwc3UtVEk4cDBtQW9meTdNTTFGZGx5cVRqVWFZYS13anZZZGszd3J0UGlQdkRxdTN5LU5YOUJwQkxUdFNJNkZxSV81RTF3Y3htTTZZY1hIVTdwMnREd2JBTWhnd9IBxAFBVV95cUxNU0twWmhxcUJXelhrV0xFeWVxWlBWZkFMRmozVXc0Tmx5WGlkRFlad3BMRXptUTZ3OE5VUTFuZkhiQzBGNklFMUlidkg2TmxOTG5PRm9jRXExZ29rNkd4cEFoWjhVblg5VnFJYjJyVUtfbWZ4b0JRNjl2ZUdBSVRtRVhqRUtnYkdHanRPcmJqdXRYRWViYUVhNVk2YXdEdzJ0NTU2MmhLcHJnQ1JDNTlteHhzSWY1S3ZzbjdfTVpvMU4zS2Uz?oc=5",
+      "publishedAt": "Mon, 07 Sep 2026 10:43:50 GMT",
+      "titleZh": "Iran war live: US energy firms ‘legitimate’ targets after tanker attacks - Al Jazeera",
+      "summaryZh": "Iran war live: US energy firms ‘legitimate’ targets after tanker attacks&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "aljazeera-news-6-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "Iran war: How US consumers spent an additional $100bn on fuel - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQUXk3UFV5SW1td09PamY5NEI0ejRlRWo5RUJ5bVBXUUEtZVRNNjRNOFhOZ0NlQzU0akRTT0cxZENGS1o2OHB5Y0ZReWYwZDNpQkl6YXA4Q0w2d0VwNlhTZmlJQllGQW5saEZoYVlqUGdBN2F4T2gzTDViaExabEpEUUNEUFhQelVudEVfdkVUTExJSDIwTEluQlFGc3U2NXdR0gGmAUFVX3lxTE51S3dUTzh4SlBVMkZmOWNlZmVBY1VMdlZsM2Q2dEZpeHp6TWd6Sm1NOUVYNVU0dU16UEdITTNoeG1uU1A1V19SZktVem9ETXdBUGx1UnIzWVJpOGJGbnRmUHowLWJvX0lTZGEzWVZtT3Y3c2p4YmVjYm5uY2hYaTNHUVpiamRTZzNJSGZlT2xfdEtEbTduLUlrZlRTLXJfc3V0TDdmS1E?oc=5\" target=\"_blank\">Iran war: How US consumers spent an additional $100bn on fuel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUXk3UFV5SW1td09PamY5NEI0ejRlRWo5RUJ5bVBXUUEtZVRNNjRNOFhOZ0NlQzU0akRTT0cxZENGS1o2OHB5Y0ZReWYwZDNpQkl6YXA4Q0w2d0VwNlhTZmlJQllGQW5saEZoYVlqUGdBN2F4T2gzTDViaExabEpEUUNEUFhQelVudEVfdkVUTExJSDIwTEluQlFGc3U2NXdR0gGmAUFVX3lxTE51S3dUTzh4SlBVMkZmOWNlZmVBY1VMdlZsM2Q2dEZpeHp6TWd6Sm1NOUVYNVU0dU16UEdITTNoeG1uU1A1V19SZktVem9ETXdBUGx1UnIzWVJpOGJGbnRmUHowLWJvX0lTZGEzWVZtT3Y3c2p4YmVjYm5uY2hYaTNHUVpiamRTZzNJSGZlT2xfdEtEbTduLUlrZlRTLXJfc3V0TDdmS1E?oc=5",
+      "publishedAt": "Mon, 07 Sep 2026 10:27:54 GMT",
+      "titleZh": "Iran war: How US consumers spent an additional $100bn on fuel - Al Jazeera",
+      "summaryZh": "Iran war: How US consumers spent an additional $100bn on fuel&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "reuters-news-1-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
+      "type": "news",
+      "title": "Iran vows to respond to US strikes, says US energy companies' facilities are 'exposed' - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQM292TDh2Uk9IeUlEeFNFY1UyeFM3OFZzd2w1S013bEtmVnhXYmdfT0ptV1ZfTlRTRXBLVzFZdmZ6T0d2cVdkZHAtbmhFTjlHUmJRQkRVZDhwMGJZZUM2MEpBS041SmhGcEhWZTlQemFBcjRaNkwyWkhhUlNFc1dNZEVyQ1R0YzFnRm5ZNHd3VU5NV01EeWZVZjJrUW5VWGF2X2R1U0xzSFEwbE9iY1E?oc=5\" target=\"_blank\">Iran vows to respond to US strikes, says US energy companies' facilities are 'exposed'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM292TDh2Uk9IeUlEeFNFY1UyeFM3OFZzd2w1S013bEtmVnhXYmdfT0ptV1ZfTlRTRXBLVzFZdmZ6T0d2cVdkZHAtbmhFTjlHUmJRQkRVZDhwMGJZZUM2MEpBS041SmhGcEhWZTlQemFBcjRaNkwyWkhhUlNFc1dNZEVyQ1R0YzFnRm5ZNHd3VU5NV01EeWZVZjJrUW5VWGF2X2R1U0xzSFEwbE9iY1E?oc=5",
+      "publishedAt": "Mon, 07 Sep 2026 06:57:00 GMT",
+      "titleZh": "Iran vows to respond to US strikes, says US energy companies' facilities are 'exposed' - Reuters",
+      "summaryZh": "Iran vows to respond to US strikes, says US energy companies' facilities are 'exposed'&nbsp;&nbsp;Reuters"
+    },
+    {
+      "id": "aljazeera-news-8-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -28,19 +106,6 @@
       "publishedAt": "Mon, 07 Sep 2026 03:14:41 GMT",
       "titleZh": "Iran to announce restricted zone outside Strait of Hormuz - Al Jazeera",
       "summaryZh": "Iran to announce restricted zone outside Strait of Hormuz&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "aljazeera-news-0-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "Iran war updates: Tehran to announce restricted zone near Hormuz Strait - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPMGlsWGJZOXNiQVpva0R4eDBWMlQtTFRqR0dJSDdTQzJhUDVRemFoUzhxUzgyUzlmdWxDQ2p3VmN6V3Y0TElxR0lubUVQSTY1elhnMm9CX3pMQ0xmU09hTE82Tko0ODNDLUVpQ0hpVWx1aGJNTWR6RVV6Z3hDenMzQ3NvYjA5UFN4QVFRWjJNX1JqWnVqVjhkVU5BVkFfSk4xUEZ4YU5ueGZiU3pGcEJHZDh4OVFHUlZudEZyUGhB0gHDAUFVX3lxTE9vLU56cXNQckU0VWZTSzhDMTZYMU82eG5uX1NBRlBrY1RVUy1QXzNfZ0hBYXMwdUlLS21UenNBZm1jMm5EV05veERqSm9XdHZHU0lTSGttaUNHMHhxWWQ2N2djV2JnR1FuVGJzZDNjeTgwMTNON1ViLTV0VUM2V2VzUW94X3FGSWplVzMtUUVZT3pYRmZzakNvSTRBekNnU215TEFNdzI5UlpXTEtMZzZtWXNmemQ3N2NUSkdwcFZQbXlRYw?oc=5\" target=\"_blank\">Iran war updates: Tehran to announce restricted zone near Hormuz Strait</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMGlsWGJZOXNiQVpva0R4eDBWMlQtTFRqR0dJSDdTQzJhUDVRemFoUzhxUzgyUzlmdWxDQ2p3VmN6V3Y0TElxR0lubUVQSTY1elhnMm9CX3pMQ0xmU09hTE82Tko0ODNDLUVpQ0hpVWx1aGJNTWR6RVV6Z3hDenMzQ3NvYjA5UFN4QVFRWjJNX1JqWnVqVjhkVU5BVkFfSk4xUEZ4YU5ueGZiU3pGcEJHZDh4OVFHUlZudEZyUGhB0gHDAUFVX3lxTE9vLU56cXNQckU0VWZTSzhDMTZYMU82eG5uX1NBRlBrY1RVUy1QXzNfZ0hBYXMwdUlLS21UenNBZm1jMm5EV05veERqSm9XdHZHU0lTSGttaUNHMHhxWWQ2N2djV2JnR1FuVGJzZDNjeTgwMTNON1ViLTV0VUM2V2VzUW94X3FGSWplVzMtUUVZT3pYRmZzakNvSTRBekNnU215TEFNdzI5UlpXTEtMZzZtWXNmemQ3N2NUSkdwcFZQbXlRYw?oc=5",
-      "publishedAt": "Sun, 06 Sep 2026 20:10:54 GMT",
-      "titleZh": "Iran war updates: Tehran to announce restricted zone near Hormuz Strait - Al Jazeera",
-      "summaryZh": "Iran war updates: Tehran to announce restricted zone near Hormuz Strait&nbsp;&nbsp;Al Jazeera"
     },
     {
       "id": "aljazeera-news-1-https://news.google.com/",
@@ -56,7 +121,7 @@
       "summaryZh": "Trump official says ‘there may not be a nuclear agreement’ with Iran&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "bbc-news-0-https://news.google.com/",
+      "id": "bbc-news-1-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -69,7 +134,7 @@
       "summaryZh": "Iran warns of 'faster, heavier, more painful response' to US attacks&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-2-https://news.google.com/",
+      "id": "bbc-news-0-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -82,7 +147,7 @@
       "summaryZh": "Iran touts military response as US maintains blockade, hits tankers&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-3-https://news.google.com/",
+      "id": "aljazeera-news-2-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -95,7 +160,7 @@
       "summaryZh": "Iran touts military response as US maintains blockade, hits tankers&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "reuters-news-1-https://news.google.com/",
+      "id": "reuters-news-2-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -108,7 +173,7 @@
       "summaryZh": "Iran's Hormuz leverage wanes as US economic squeeze bites&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "reuters-news-0-https://news.google.com/",
+      "id": "reuters-news-3-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -121,7 +186,7 @@
       "summaryZh": "Iran to tackle economic issues, says further attacks will be 'more painful'&nbsp;&nbsp;Reuters"
     },
     {
-      "id": "aljazeera-news-4-https://news.google.com/",
+      "id": "aljazeera-news-9-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -134,7 +199,7 @@
       "summaryZh": "US, Iran engaged in tanker war: Where is the months-long conflict headed?&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-6-https://news.google.com/",
+      "id": "aljazeera-news-7-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -147,59 +212,7 @@
       "summaryZh": "Iran war updates: Tehran slams US attacks on oil tankers, vows to respond&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "bbc-news-3-https://news.google.com/",
-      "sourceId": "bbc",
-      "source": "BBC",
-      "sourceSite": "bbc.com",
-      "type": "news",
-      "title": "US and Iran trade retaliatory attacks on ships as conflict flares - BBC",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MR2lQUEVfWHpBVV9NQjVxS0x6WldUNHB1RzFWSzlDa0hYWm1wYVpxMEVhdkRiT1dCeGVlY2Y5d25uR3lQOEtxbW5CVG5VNDRhRmFvU2NLQlN5UQ?oc=5\" target=\"_blank\">US and Iran trade retaliatory attacks on ships as conflict flares</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MR2lQUEVfWHpBVV9NQjVxS0x6WldUNHB1RzFWSzlDa0hYWm1wYVpxMEVhdkRiT1dCeGVlY2Y5d25uR3lQOEtxbW5CVG5VNDRhRmFvU2NLQlN5UQ?oc=5",
-      "publishedAt": "Sat, 05 Sep 2026 22:44:07 GMT",
-      "titleZh": "US and Iran trade retaliatory attacks on ships as conflict flares - BBC",
-      "summaryZh": "US and Iran trade retaliatory attacks on ships as conflict flares&nbsp;&nbsp;BBC"
-    },
-    {
-      "id": "aljazeera-news-7-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "Iran war updates: Trump says US may attack Iran’s Pickaxe Mountain soon - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxONS1WZEF3NG1NVkJVVDBHSzdxUzRjS0h3RnVfQm9xY0VqLXJoc2tpQVpBanRvdUw4a0hPQ19CcE9XNzZicWZGQ1lHTDE0alRLYXNvRElVMVNxcTVlSFduaGlIUE9YQ1RwNFE1WkM0ZjRTcEI0NWVSTFFtb2RTaFQ4a01WOHZHdWFweFlWYzduVkFrSTR1TkFRN0RCZUdaU1ZNRmRtdGRCTXhkcDRIT2pj0gG0AUFVX3lxTFA0TGR6aDhZUDNmOFhxd0RJRTkxbmdpZkhJTS1EalVBY3VEU01GcmY3aXBrTzVOTjBOdXlkSUl5UWhXcmFXbG13bngzb3BKR0g1Tjh6WjN2Mm9iUjBvanpFVVJaaDQ5QnNSYVRjMUxPWUhtcTFtdHhaUEItVjJhMmNaUGZRdUlGRDZhZXAxTGtQTVFfZkFXeEx0WXNLN1VqMjQ1WHg3X2l1N3Jtem80NGs5MG1NMw?oc=5\" target=\"_blank\">Iran war updates: Trump says US may attack Iran’s Pickaxe Mountain soon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONS1WZEF3NG1NVkJVVDBHSzdxUzRjS0h3RnVfQm9xY0VqLXJoc2tpQVpBanRvdUw4a0hPQ19CcE9XNzZicWZGQ1lHTDE0alRLYXNvRElVMVNxcTVlSFduaGlIUE9YQ1RwNFE1WkM0ZjRTcEI0NWVSTFFtb2RTaFQ4a01WOHZHdWFweFlWYzduVkFrSTR1TkFRN0RCZUdaU1ZNRmRtdGRCTXhkcDRIT2pj0gG0AUFVX3lxTFA0TGR6aDhZUDNmOFhxd0RJRTkxbmdpZkhJTS1EalVBY3VEU01GcmY3aXBrTzVOTjBOdXlkSUl5UWhXcmFXbG13bngzb3BKR0g1Tjh6WjN2Mm9iUjBvanpFVVJaaDQ5QnNSYVRjMUxPWUhtcTFtdHhaUEItVjJhMmNaUGZRdUlGRDZhZXAxTGtQTVFfZkFXeEx0WXNLN1VqMjQ1WHg3X2l1N3Jtem80NGs5MG1NMw?oc=5",
-      "publishedAt": "Fri, 04 Sep 2026 23:59:00 GMT",
-      "titleZh": "Iran war updates: Trump says US may attack Iran’s Pickaxe Mountain soon - Al Jazeera",
-      "summaryZh": "Iran war updates: Trump says US may attack Iran’s Pickaxe Mountain soon&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "aljazeera-news-9-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "Iran war updates: US says no major operations against Iran; options open - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQcWY3aFROMjg1SUI0N0M5cDh5ODFZUGdRSHlIRUFfSjQ4UGl4Z2RvUmZScl9WS1pTbjJ1STlXelFGckNuTjB1akswSm5xUm1RSjc0RkRZUHloLURCWTU1eWRpcnVBdloxNG84eDVla3o4MC1BRDlmRExxZnNWTGlQNC1BdTExZzJBVEUwV2dxODZqTDlneUIxcU1GZ0lKU3hnbWRjUkFLUlpuNzNrbVJVRHpmeWZpd9IBuwFBVV95cUxPYWZQbWZRclMwUnVKanBGd2Etd0VTUVpLd3NHZHdBOGlJUllHX2JWeVM1ZVhzdmI2VEpXd0FkUnA4bFgtaHN2bmVsdHlqSVdlSEltM0swY2NJRmVlZW1fRWFPaGxGbFBZOTJISy1XdWZfdXEwREZQYXdwQ2FyOE9hYTZNN0lUNkVpMTdScTZjVzlMMjEyWklnWUVtTktObGNSeWFwUzB1YXlTNkxYZHNoQWRvUVFESTBJR2tj?oc=5\" target=\"_blank\">Iran war updates: US says no major operations against Iran; options open</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcWY3aFROMjg1SUI0N0M5cDh5ODFZUGdRSHlIRUFfSjQ4UGl4Z2RvUmZScl9WS1pTbjJ1STlXelFGckNuTjB1akswSm5xUm1RSjc0RkRZUHloLURCWTU1eWRpcnVBdloxNG84eDVla3o4MC1BRDlmRExxZnNWTGlQNC1BdTExZzJBVEUwV2dxODZqTDlneUIxcU1GZ0lKU3hnbWRjUkFLUlpuNzNrbVJVRHpmeWZpd9IBuwFBVV95cUxPYWZQbWZRclMwUnVKanBGd2Etd0VTUVpLd3NHZHdBOGlJUllHX2JWeVM1ZVhzdmI2VEpXd0FkUnA4bFgtaHN2bmVsdHlqSVdlSEltM0swY2NJRmVlZW1fRWFPaGxGbFBZOTJISy1XdWZfdXEwREZQYXdwQ2FyOE9hYTZNN0lUNkVpMTdScTZjVzlMMjEyWklnWUVtTktObGNSeWFwUzB1YXlTNkxYZHNoQWRvUVFESTBJR2tj?oc=5",
-      "publishedAt": "Fri, 04 Sep 2026 00:09:48 GMT",
-      "titleZh": "Iran war updates: US says no major operations against Iran; options open - Al Jazeera",
-      "summaryZh": "Iran war updates: US says no major operations against Iran; options open&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "aljazeera-news-8-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "Iran war updates: Trump says renewed US-Iran fighting will not last long - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQclJVZlVOS0hmbG9xRjFzR3JBc3ZzWmtUS2RKVGJnYjN0bnFBb3kwNDQxdTZaRUZpS2QzaXZwNXh1RHBjMnJRaE5MUEZsendhbzAyRnpuRGxHekUzX2hLTWFZTkU2ZHVGekR0NDBUaW8xTDRSTDhMSXBSN2NvaTIwOGI2bGRjTTF2a1V0aVdWN2ZSWTdScUV5V3ZoQnFnNUVuUGhidV9MdU53bVEwZk0yalZhOHd5Zkl3N1N1ctIBwgFBVV95cUxPQlNQQVdCYnlaT2lycU4tR0FpenhMRTM4MDR3ekZoTnVIc0V3WVFMWkRXc2VCR0laSURhR1pXaVNvSlNlcFlTUnZJbi0yNHNNQWMwUWp1ZzZTWXBZam9meEZzaGlhd0xiU2hNT0F2VzUtTUdrQXo4RGFEWDYtZmx5MXBtOGZwNHN3Mm1FWkVabUMwOEZ0dUxrbkhSTVUyRXlteGY0Y3NPRkhpNHk1NkdTTlV1OGhlUG96cUxWWGFHX1dlQQ?oc=5\" target=\"_blank\">Iran war updates: Trump says renewed US-Iran fighting will not last long</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQclJVZlVOS0hmbG9xRjFzR3JBc3ZzWmtUS2RKVGJnYjN0bnFBb3kwNDQxdTZaRUZpS2QzaXZwNXh1RHBjMnJRaE5MUEZsendhbzAyRnpuRGxHekUzX2hLTWFZTkU2ZHVGekR0NDBUaW8xTDRSTDhMSXBSN2NvaTIwOGI2bGRjTTF2a1V0aVdWN2ZSWTdScUV5V3ZoQnFnNUVuUGhidV9MdU53bVEwZk0yalZhOHd5Zkl3N1N1ctIBwgFBVV95cUxPQlNQQVdCYnlaT2lycU4tR0FpenhMRTM4MDR3ekZoTnVIc0V3WVFMWkRXc2VCR0laSURhR1pXaVNvSlNlcFlTUnZJbi0yNHNNQWMwUWp1ZzZTWXBZam9meEZzaGlhd0xiU2hNT0F2VzUtTUdrQXo4RGFEWDYtZmx5MXBtOGZwNHN3Mm1FWkVabUMwOEZ0dUxrbkhSTVUyRXlteGY0Y3NPRkhpNHk1NkdTTlV1OGhlUG96cUxWWGFHX1dlQQ?oc=5",
-      "publishedAt": "Thu, 03 Sep 2026 00:03:58 GMT",
-      "titleZh": "Iran war updates: Trump says renewed US-Iran fighting will not last long - Al Jazeera",
-      "summaryZh": "Iran war updates: Trump says renewed US-Iran fighting will not last long&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "bbc-news-1-https://news.google.com/",
+      "id": "bbc-news-2-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -212,7 +225,7 @@
       "summaryZh": "Watch: Six months into the Iran war: What has Trump accomplished?&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-7-https://news.google.com/",
+      "id": "bbc-news-6-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -225,20 +238,7 @@
       "summaryZh": "美国制裁伊朗经济新措施 为何对中国“松手”？&nbsp;&nbsp;BBC"
     },
     {
-      "id": "zaobao-news-0-https://news.google.com/",
-      "sourceId": "zaobao",
-      "source": "联合早报",
-      "sourceSite": "zaobao.com.sg",
-      "type": "news",
-      "title": "伊朗：若与美国的谈判失败 将升级局势 - 联合早报",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE95R1Rici1laVF4ZW9DX0syMm5VSXFSYTZwSEZ1Nl9aRkI2X0E5TDQ1d3N0cVBfYVZGU0p4ellZNDhvNWh0TXJkTUlJVkdkUXRSQ09LTm9DaXktUXVaWmkzdGcyRzlaVkdMb3c?oc=5\" target=\"_blank\">伊朗：若与美国的谈判失败 将升级局势</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95R1Rici1laVF4ZW9DX0syMm5VSXFSYTZwSEZ1Nl9aRkI2X0E5TDQ1d3N0cVBfYVZGU0p4ellZNDhvNWh0TXJkTUlJVkdkUXRSQ09LTm9DaXktUXVaWmkzdGcyRzlaVkdMb3c?oc=5",
-      "publishedAt": "Mon, 17 Aug 2026 07:00:00 GMT",
-      "titleZh": "伊朗：若与美国的谈判失败 将升级局势 - 联合早报",
-      "summaryZh": "伊朗：若与美国的谈判失败 将升级局势&nbsp;&nbsp;联合早报"
-    },
-    {
-      "id": "bbc-news-8-https://news.google.com/",
+      "id": "bbc-news-7-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -251,7 +251,7 @@
       "summaryZh": "伊朗跟美国、以色列打仗 还能撑多久？&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-9-https://news.google.com/",
+      "id": "bbc-news-8-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -264,7 +264,7 @@
       "summaryZh": "特朗普表示同意取消对伊朗的打击，前提是能“迅速”达成协议&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-6-https://news.google.com/",
+      "id": "bbc-news-5-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -277,7 +277,20 @@
       "summaryZh": "Iran deal presents political nightmare for Netanyahu&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-5-https://news.google.com/",
+      "id": "bbc-news-9-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限 - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mQ3BJTE9ES1ZqQ1dXQ1cyN0hpMTVqeWt2UmJZRHF4VEZOXzVWM3hLdGRkNlhxTkRvaTNjd1dBZUd1VHBMRExfR0ltQWlTU0tpNjFZMDZjUkd4TnliUE9WdEVNSmlXUdIBa0FVX3lxTE5LWDVfd0hjUUVYVkpxcHhBRkpsX05DYVRNbmk1N3FJV05lY1hoZ1o5aDFNaDExV1FHaDQ0VHlsZm5kUVQzc3Z3cTB5WGg2T0Q4MDZUd01NT0lENFlCcEpmQlFka1UyRGREWDVB?oc=5\" target=\"_blank\">伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mQ3BJTE9ES1ZqQ1dXQ1cyN0hpMTVqeWt2UmJZRHF4VEZOXzVWM3hLdGRkNlhxTkRvaTNjd1dBZUd1VHBMRExfR0ltQWlTU0tpNjFZMDZjUkd4TnliUE9WdEVNSmlXUdIBa0FVX3lxTE5LWDVfd0hjUUVYVkpxcHhBRkpsX05DYVRNbmk1N3FJV05lY1hoZ1o5aDFNaDExV1FHaDQ0VHlsZm5kUVQzc3Z3cTB5WGg2T0Q4MDZUd01NT0lENFlCcEpmQlFka1UyRGREWDVB?oc=5",
+      "publishedAt": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "titleZh": "伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限 - BBC",
+      "summaryZh": "伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限&nbsp;&nbsp;BBC"
+    },
+    {
+      "id": "bbc-news-4-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -290,7 +303,7 @@
       "summaryZh": "US and Iran exchange strikes across Middle East for second day in a row&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-4-https://news.google.com/",
+      "id": "bbc-news-3-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -309,7 +322,33 @@
       "source": "Reuters",
       "items": [
         {
+          "id": "reuters-news-0-https://news.google.com/",
+          "sourceId": "reuters",
+          "source": "Reuters",
+          "sourceSite": "reuters.com",
+          "type": "news",
+          "title": "UAE says its energy exports will not be 'held hostage' by Iran war - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX2k1aEFKNWUzaXRzZXlkTVZNb3MyOTZoSjBoa2N5Zmtpd1Z2VVRWbV9JcnNHN0hkS1ZPRXEyb1UxdGMzN1pFNUFCUmpPVTNvQndsa3c1TzBwNEVvVXNLVXZjNGVnbzF6TUdGS2N5SVdLT2k2Nlk1TmREb0ZlTVp1cGlLRzJTMWJqLTN4VVRiY2s1emV6YldrQnJHQWRmZFBKRUdDalJjb1lFM1NxaHI2eDdWWFN1R0tydFJYOUh3Z0phb0paZUNRMw?oc=5\" target=\"_blank\">UAE says its energy exports will not be 'held hostage' by Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX2k1aEFKNWUzaXRzZXlkTVZNb3MyOTZoSjBoa2N5Zmtpd1Z2VVRWbV9JcnNHN0hkS1ZPRXEyb1UxdGMzN1pFNUFCUmpPVTNvQndsa3c1TzBwNEVvVXNLVXZjNGVnbzF6TUdGS2N5SVdLT2k2Nlk1TmREb0ZlTVp1cGlLRzJTMWJqLTN4VVRiY2s1emV6YldrQnJHQWRmZFBKRUdDalJjb1lFM1NxaHI2eDdWWFN1R0tydFJYOUh3Z0phb0paZUNRMw?oc=5",
+          "publishedAt": "Mon, 07 Sep 2026 13:13:23 GMT",
+          "titleZh": "UAE says its energy exports will not be 'held hostage' by Iran war - Reuters",
+          "summaryZh": "UAE says its energy exports will not be 'held hostage' by Iran war&nbsp;&nbsp;Reuters"
+        },
+        {
           "id": "reuters-news-1-https://news.google.com/",
+          "sourceId": "reuters",
+          "source": "Reuters",
+          "sourceSite": "reuters.com",
+          "type": "news",
+          "title": "Iran vows to respond to US strikes, says US energy companies' facilities are 'exposed' - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQM292TDh2Uk9IeUlEeFNFY1UyeFM3OFZzd2w1S013bEtmVnhXYmdfT0ptV1ZfTlRTRXBLVzFZdmZ6T0d2cVdkZHAtbmhFTjlHUmJRQkRVZDhwMGJZZUM2MEpBS041SmhGcEhWZTlQemFBcjRaNkwyWkhhUlNFc1dNZEVyQ1R0YzFnRm5ZNHd3VU5NV01EeWZVZjJrUW5VWGF2X2R1U0xzSFEwbE9iY1E?oc=5\" target=\"_blank\">Iran vows to respond to US strikes, says US energy companies' facilities are 'exposed'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM292TDh2Uk9IeUlEeFNFY1UyeFM3OFZzd2w1S013bEtmVnhXYmdfT0ptV1ZfTlRTRXBLVzFZdmZ6T0d2cVdkZHAtbmhFTjlHUmJRQkRVZDhwMGJZZUM2MEpBS041SmhGcEhWZTlQemFBcjRaNkwyWkhhUlNFc1dNZEVyQ1R0YzFnRm5ZNHd3VU5NV01EeWZVZjJrUW5VWGF2X2R1U0xzSFEwbE9iY1E?oc=5",
+          "publishedAt": "Mon, 07 Sep 2026 06:57:00 GMT",
+          "titleZh": "Iran vows to respond to US strikes, says US energy companies' facilities are 'exposed' - Reuters",
+          "summaryZh": "Iran vows to respond to US strikes, says US energy companies' facilities are 'exposed'&nbsp;&nbsp;Reuters"
+        },
+        {
+          "id": "reuters-news-2-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -322,7 +361,7 @@
           "summaryZh": "Iran's Hormuz leverage wanes as US economic squeeze bites&nbsp;&nbsp;Reuters"
         },
         {
-          "id": "reuters-news-0-https://news.google.com/",
+          "id": "reuters-news-3-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -341,7 +380,7 @@
       "source": "BBC",
       "items": [
         {
-          "id": "bbc-news-0-https://news.google.com/",
+          "id": "bbc-news-1-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -354,7 +393,7 @@
           "summaryZh": "Iran warns of 'faster, heavier, more painful response' to US attacks&nbsp;&nbsp;BBC"
         },
         {
-          "id": "bbc-news-2-https://news.google.com/",
+          "id": "bbc-news-0-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -367,20 +406,7 @@
           "summaryZh": "Iran touts military response as US maintains blockade, hits tankers&nbsp;&nbsp;Al Jazeera"
         },
         {
-          "id": "bbc-news-3-https://news.google.com/",
-          "sourceId": "bbc",
-          "source": "BBC",
-          "sourceSite": "bbc.com",
-          "type": "news",
-          "title": "US and Iran trade retaliatory attacks on ships as conflict flares - BBC",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MR2lQUEVfWHpBVV9NQjVxS0x6WldUNHB1RzFWSzlDa0hYWm1wYVpxMEVhdkRiT1dCeGVlY2Y5d25uR3lQOEtxbW5CVG5VNDRhRmFvU2NLQlN5UQ?oc=5\" target=\"_blank\">US and Iran trade retaliatory attacks on ships as conflict flares</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MR2lQUEVfWHpBVV9NQjVxS0x6WldUNHB1RzFWSzlDa0hYWm1wYVpxMEVhdkRiT1dCeGVlY2Y5d25uR3lQOEtxbW5CVG5VNDRhRmFvU2NLQlN5UQ?oc=5",
-          "publishedAt": "Sat, 05 Sep 2026 22:44:07 GMT",
-          "titleZh": "US and Iran trade retaliatory attacks on ships as conflict flares - BBC",
-          "summaryZh": "US and Iran trade retaliatory attacks on ships as conflict flares&nbsp;&nbsp;BBC"
-        },
-        {
-          "id": "bbc-news-1-https://news.google.com/",
+          "id": "bbc-news-2-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -393,7 +419,7 @@
           "summaryZh": "Watch: Six months into the Iran war: What has Trump accomplished?&nbsp;&nbsp;BBC"
         },
         {
-          "id": "bbc-news-7-https://news.google.com/",
+          "id": "bbc-news-6-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -406,7 +432,7 @@
           "summaryZh": "美国制裁伊朗经济新措施 为何对中国“松手”？&nbsp;&nbsp;BBC"
         },
         {
-          "id": "bbc-news-8-https://news.google.com/",
+          "id": "bbc-news-7-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -417,6 +443,19 @@
           "publishedAt": "Fri, 14 Aug 2026 07:00:00 GMT",
           "titleZh": "伊朗跟美国、以色列打仗 还能撑多久？ - BBC",
           "summaryZh": "伊朗跟美国、以色列打仗 还能撑多久？&nbsp;&nbsp;BBC"
+        },
+        {
+          "id": "bbc-news-8-https://news.google.com/",
+          "sourceId": "bbc",
+          "source": "BBC",
+          "sourceSite": "bbc.com",
+          "type": "news",
+          "title": "特朗普表示同意取消对伊朗的打击，前提是能“迅速”达成协议 - BBC",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BdjlWMlp1b1Uxa0pvUFpYd2NsTjlEV3d6OTh1QkNlY0tTSWM4X0g1MkZYV3hjcjZucUYtVm9zZHhYN21qc0JvX0t3cXBIYk1wTVNxbk9mMmY1WWlfYWl4ajhBQzZ4QdIBa0FVX3lxTE5hVXU2SW1QMzNRZTJQbG1IbW9MQVRZZmxWWW5aSFg4RzkzaUJ2Q2hUWGVHcnhLSl85SC05d3lZQklIRkthNWd2bFhFYUtNWDFQR010aGJHOHg4T0o3RjNJdkNlQk1PbkZFMGln?oc=5\" target=\"_blank\">特朗普表示同意取消对伊朗的打击，前提是能“迅速”达成协议</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BdjlWMlp1b1Uxa0pvUFpYd2NsTjlEV3d6OTh1QkNlY0tTSWM4X0g1MkZYV3hjcjZucUYtVm9zZHhYN21qc0JvX0t3cXBIYk1wTVNxbk9mMmY1WWlfYWl4ajhBQzZ4QdIBa0FVX3lxTE5hVXU2SW1QMzNRZTJQbG1IbW9MQVRZZmxWWW5aSFg4RzkzaUJ2Q2hUWGVHcnhLSl85SC05d3lZQklIRkthNWd2bFhFYUtNWDFQR010aGJHOHg4T0o3RjNJdkNlQk1PbkZFMGln?oc=5",
+          "publishedAt": "Sun, 02 Aug 2026 07:00:00 GMT",
+          "titleZh": "特朗普表示同意取消对伊朗的打击，前提是能“迅速”达成协议 - BBC",
+          "summaryZh": "特朗普表示同意取消对伊朗的打击，前提是能“迅速”达成协议&nbsp;&nbsp;BBC"
         }
       ]
     },
@@ -425,20 +464,72 @@
       "source": "Al Jazeera",
       "items": [
         {
-          "id": "aljazeera-news-2-https://news.google.com/",
+          "id": "aljazeera-news-0-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
           "type": "news",
-          "title": "Iran war live: Tehran to announce new Hormuz shipping route in coming days - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNWEx0eDJjS1ZhZmlrQm81R0JkSXFYTG1HeDVRTHY2VFNVa3RKaXl4YThfbjAxWnhoNGlsZTM2UFUzbmk2WTB4dWtMcFZnWDRFb204bXJJRXYzbXVnbjBPdEVzTHpwc3UtVEk4cDBtQW9meTdNTTFGZGx5cVRqVWFZYS13anZZZGszd3J0UGlQdkRxdTN5LU5YOUJwQkxUdFNJNkZxSV81RTF3Y3htTTZZY1hIVTdwMnREd2JBTWhnd9IBxAFBVV95cUxNU0twWmhxcUJXelhrV0xFeWVxWlBWZkFMRmozVXc0Tmx5WGlkRFlad3BMRXptUTZ3OE5VUTFuZkhiQzBGNklFMUlidkg2TmxOTG5PRm9jRXExZ29rNkd4cEFoWjhVblg5VnFJYjJyVUtfbWZ4b0JRNjl2ZUdBSVRtRVhqRUtnYkdHanRPcmJqdXRYRWViYUVhNVk2YXdEdzJ0NTU2MmhLcHJnQ1JDNTlteHhzSWY1S3ZzbjdfTVpvMU4zS2Uz?oc=5\" target=\"_blank\">Iran war live: Tehran to announce new Hormuz shipping route in coming days</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWEx0eDJjS1ZhZmlrQm81R0JkSXFYTG1HeDVRTHY2VFNVa3RKaXl4YThfbjAxWnhoNGlsZTM2UFUzbmk2WTB4dWtMcFZnWDRFb204bXJJRXYzbXVnbjBPdEVzTHpwc3UtVEk4cDBtQW9meTdNTTFGZGx5cVRqVWFZYS13anZZZGszd3J0UGlQdkRxdTN5LU5YOUJwQkxUdFNJNkZxSV81RTF3Y3htTTZZY1hIVTdwMnREd2JBTWhnd9IBxAFBVV95cUxNU0twWmhxcUJXelhrV0xFeWVxWlBWZkFMRmozVXc0Tmx5WGlkRFlad3BMRXptUTZ3OE5VUTFuZkhiQzBGNklFMUlidkg2TmxOTG5PRm9jRXExZ29rNkd4cEFoWjhVblg5VnFJYjJyVUtfbWZ4b0JRNjl2ZUdBSVRtRVhqRUtnYkdHanRPcmJqdXRYRWViYUVhNVk2YXdEdzJ0NTU2MmhLcHJnQ1JDNTlteHhzSWY1S3ZzbjdfTVpvMU4zS2Uz?oc=5",
-          "publishedAt": "Mon, 07 Sep 2026 05:13:16 GMT",
-          "titleZh": "Iran war live: Tehran to announce new Hormuz shipping route in coming days - Al Jazeera",
-          "summaryZh": "Iran war live: Tehran to announce new Hormuz shipping route in coming days&nbsp;&nbsp;Al Jazeera"
+          "title": "Iran and Ukraine wars: Why ship fuel is running short, and why it matters - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPQm00Zy1HeEFXTUZiYXR5cHZNeXBVVnFnUzI0YVdHVW5ya1M3QkFpVDNwLXFnOUpsWUdOX1BGMDVUanlFazU1LTc0Y1I2UFNPazI4TlR0SkZkNGZIMXlMWDJOR25SQmRuTEFNQ1VpbUxsbmpWQi1MeWNEOHJXRW9WdWNzeFkySUlFR1hQS2M2LUVrNy1tYkpzaWZBMVdpNHV3TVlIekRmb2taRXVVbVJvTNIBtgFBVV95cUxQWGtVU0l3aG41TUZvRVJ2NF9yWTBHOWpZM1YyT1BqSFVsdDZyZEZuUmJYRmw3Z3Q4T2tCY3RmSC0tRlRqaVMySXZfdFktTEhsbF9oTGEwX08walNFZzhLYXhQa29JOHMtbC12U2p4czB2eE53MVRfOXZpNDNqTmJnZXRzR2JyU0pRSEc2QXk1LWFsZWlJdGNjSTc1YXMwS3JKc05BRXFEdHFRRHd1T2hqUVNCeTBMQQ?oc=5\" target=\"_blank\">Iran and Ukraine wars: Why ship fuel is running short, and why it matters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQm00Zy1HeEFXTUZiYXR5cHZNeXBVVnFnUzI0YVdHVW5ya1M3QkFpVDNwLXFnOUpsWUdOX1BGMDVUanlFazU1LTc0Y1I2UFNPazI4TlR0SkZkNGZIMXlMWDJOR25SQmRuTEFNQ1VpbUxsbmpWQi1MeWNEOHJXRW9WdWNzeFkySUlFR1hQS2M2LUVrNy1tYkpzaWZBMVdpNHV3TVlIekRmb2taRXVVbVJvTNIBtgFBVV95cUxQWGtVU0l3aG41TUZvRVJ2NF9yWTBHOWpZM1YyT1BqSFVsdDZyZEZuUmJYRmw3Z3Q4T2tCY3RmSC0tRlRqaVMySXZfdFktTEhsbF9oTGEwX08walNFZzhLYXhQa29JOHMtbC12U2p4czB2eE53MVRfOXZpNDNqTmJnZXRzR2JyU0pRSEc2QXk1LWFsZWlJdGNjSTc1YXMwS3JKc05BRXFEdHFRRHd1T2hqUVNCeTBMQQ?oc=5",
+          "publishedAt": "Mon, 07 Sep 2026 12:49:41 GMT",
+          "titleZh": "Iran and Ukraine wars: Why ship fuel is running short, and why it matters - Al Jazeera",
+          "summaryZh": "Iran and Ukraine wars: Why ship fuel is running short, and why it matters&nbsp;&nbsp;Al Jazeera"
         },
         {
           "id": "aljazeera-news-5-https://news.google.com/",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "sourceSite": "aljazeera.com",
+          "type": "news",
+          "title": "Could Trump’s Iran trade war threaten Spain’s saffron-infused paella? - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEpaRDN5N0xhSkIwclBqNTlTTVVLa2FjRWktQW5LOUZDR2dNbkJRSjR5dlYzMkd4YnBLWHBYaHE2dWN6Y1BlZ2NZLTNNMm1DM3FsZmFydlRfV3lQSlNvakFycUduNC1aLTJGUVhIa3dTcHZsX2RWdExYOHFOem94Y0tPZndrWXhRNnBNbFFIXzkwZmpVQVA3Sml1ZWlNbkRPV0xwNnJDVmQ5Z9IBrwFBVV95cUxOc2gwMzBTamNMcTZfWTBudThCNVJ3ZEs1M0lBX1FOWXNBWHpVcmdlRUxLM3RzaWpmSlh1NGNsa1NjODZfY3BjVm92Wmp5cHd0TjBSV0pFWXdLbS1PYnF6N21pMkVqWkkyYnlqaW5OYnBSYzIwMUpOZkNKVkpDQVB2c0NEYjdmWkNjb3ZUTi13RWMyXzZfR1MxbXo5aV90VmlhVUlfN0ZZRUJ5RjkyQ0g0?oc=5\" target=\"_blank\">Could Trump’s Iran trade war threaten Spain’s saffron-infused paella?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEpaRDN5N0xhSkIwclBqNTlTTVVLa2FjRWktQW5LOUZDR2dNbkJRSjR5dlYzMkd4YnBLWHBYaHE2dWN6Y1BlZ2NZLTNNMm1DM3FsZmFydlRfV3lQSlNvakFycUduNC1aLTJGUVhIa3dTcHZsX2RWdExYOHFOem94Y0tPZndrWXhRNnBNbFFIXzkwZmpVQVA3Sml1ZWlNbkRPV0xwNnJDVmQ5Z9IBrwFBVV95cUxOc2gwMzBTamNMcTZfWTBudThCNVJ3ZEs1M0lBX1FOWXNBWHpVcmdlRUxLM3RzaWpmSlh1NGNsa1NjODZfY3BjVm92Wmp5cHd0TjBSV0pFWXdLbS1PYnF6N21pMkVqWkkyYnlqaW5OYnBSYzIwMUpOZkNKVkpDQVB2c0NEYjdmWkNjb3ZUTi13RWMyXzZfR1MxbXo5aV90VmlhVUlfN0ZZRUJ5RjkyQ0g0?oc=5",
+          "publishedAt": "Mon, 07 Sep 2026 12:03:10 GMT",
+          "titleZh": "Could Trump’s Iran trade war threaten Spain’s saffron-infused paella? - Al Jazeera",
+          "summaryZh": "Could Trump’s Iran trade war threaten Spain’s saffron-infused paella?&nbsp;&nbsp;Al Jazeera"
+        },
+        {
+          "id": "aljazeera-news-4-https://news.google.com/",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "sourceSite": "aljazeera.com",
+          "type": "news",
+          "title": "Can Iran enforce a restricted zone in the Strait of Hormuz? - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNVEt3eFVmQzY5SGV4MS1nV194dS1QZmtocWEwQVpkTkpKYldmcV8wWjRnT3llQVV1ZFJDXzRHWEpfM2R2Y2VSWHJPOEpqVXBrWm92MzZQaTh4aUhZUkNkZ0tfR3kzTm1lNzlKQUVxQU5udGFuMjB1REktN0loMmZQNDF5NENDVW8tQlJ0cDg1NTh3S0xpMUtjOVp1d3RqUTjSAaQBQVVfeXFMTWZyOFFNR0NJNy1aYTVwZi1lX0NYdW1fOThtR1ZHLVFVMWtQd3g1aUotQWR1WDU4TC0ydjRrX3dxS0w4eGlfcnYxdTd2Z1BiTGVEZlYzdFFKdGxqeGVHSVRxMUREY001Uy12MUprT2w2aXRmdFZ0UW93M3JNYWdCU3J2X20wNHZjWWhNQ2RmZlJwYmpsYlRwUjJQUFRqbzFVMlk0SGo?oc=5\" target=\"_blank\">Can Iran enforce a restricted zone in the Strait of Hormuz?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVEt3eFVmQzY5SGV4MS1nV194dS1QZmtocWEwQVpkTkpKYldmcV8wWjRnT3llQVV1ZFJDXzRHWEpfM2R2Y2VSWHJPOEpqVXBrWm92MzZQaTh4aUhZUkNkZ0tfR3kzTm1lNzlKQUVxQU5udGFuMjB1REktN0loMmZQNDF5NENDVW8tQlJ0cDg1NTh3S0xpMUtjOVp1d3RqUTjSAaQBQVVfeXFMTWZyOFFNR0NJNy1aYTVwZi1lX0NYdW1fOThtR1ZHLVFVMWtQd3g1aUotQWR1WDU4TC0ydjRrX3dxS0w4eGlfcnYxdTd2Z1BiTGVEZlYzdFFKdGxqeGVHSVRxMUREY001Uy12MUprT2w2aXRmdFZ0UW93M3JNYWdCU3J2X20wNHZjWWhNQ2RmZlJwYmpsYlRwUjJQUFRqbzFVMlk0SGo?oc=5",
+          "publishedAt": "Mon, 07 Sep 2026 11:41:10 GMT",
+          "titleZh": "Can Iran enforce a restricted zone in the Strait of Hormuz? - Al Jazeera",
+          "summaryZh": "Can Iran enforce a restricted zone in the Strait of Hormuz?&nbsp;&nbsp;Al Jazeera"
+        },
+        {
+          "id": "aljazeera-news-3-https://news.google.com/",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "sourceSite": "aljazeera.com",
+          "type": "news",
+          "title": "Iran war live: US energy firms ‘legitimate’ targets after tanker attacks - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNWEx0eDJjS1ZhZmlrQm81R0JkSXFYTG1HeDVRTHY2VFNVa3RKaXl4YThfbjAxWnhoNGlsZTM2UFUzbmk2WTB4dWtMcFZnWDRFb204bXJJRXYzbXVnbjBPdEVzTHpwc3UtVEk4cDBtQW9meTdNTTFGZGx5cVRqVWFZYS13anZZZGszd3J0UGlQdkRxdTN5LU5YOUJwQkxUdFNJNkZxSV81RTF3Y3htTTZZY1hIVTdwMnREd2JBTWhnd9IBxAFBVV95cUxNU0twWmhxcUJXelhrV0xFeWVxWlBWZkFMRmozVXc0Tmx5WGlkRFlad3BMRXptUTZ3OE5VUTFuZkhiQzBGNklFMUlidkg2TmxOTG5PRm9jRXExZ29rNkd4cEFoWjhVblg5VnFJYjJyVUtfbWZ4b0JRNjl2ZUdBSVRtRVhqRUtnYkdHanRPcmJqdXRYRWViYUVhNVk2YXdEdzJ0NTU2MmhLcHJnQ1JDNTlteHhzSWY1S3ZzbjdfTVpvMU4zS2Uz?oc=5\" target=\"_blank\">Iran war live: US energy firms ‘legitimate’ targets after tanker attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWEx0eDJjS1ZhZmlrQm81R0JkSXFYTG1HeDVRTHY2VFNVa3RKaXl4YThfbjAxWnhoNGlsZTM2UFUzbmk2WTB4dWtMcFZnWDRFb204bXJJRXYzbXVnbjBPdEVzTHpwc3UtVEk4cDBtQW9meTdNTTFGZGx5cVRqVWFZYS13anZZZGszd3J0UGlQdkRxdTN5LU5YOUJwQkxUdFNJNkZxSV81RTF3Y3htTTZZY1hIVTdwMnREd2JBTWhnd9IBxAFBVV95cUxNU0twWmhxcUJXelhrV0xFeWVxWlBWZkFMRmozVXc0Tmx5WGlkRFlad3BMRXptUTZ3OE5VUTFuZkhiQzBGNklFMUlidkg2TmxOTG5PRm9jRXExZ29rNkd4cEFoWjhVblg5VnFJYjJyVUtfbWZ4b0JRNjl2ZUdBSVRtRVhqRUtnYkdHanRPcmJqdXRYRWViYUVhNVk2YXdEdzJ0NTU2MmhLcHJnQ1JDNTlteHhzSWY1S3ZzbjdfTVpvMU4zS2Uz?oc=5",
+          "publishedAt": "Mon, 07 Sep 2026 10:43:50 GMT",
+          "titleZh": "Iran war live: US energy firms ‘legitimate’ targets after tanker attacks - Al Jazeera",
+          "summaryZh": "Iran war live: US energy firms ‘legitimate’ targets after tanker attacks&nbsp;&nbsp;Al Jazeera"
+        },
+        {
+          "id": "aljazeera-news-6-https://news.google.com/",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "sourceSite": "aljazeera.com",
+          "type": "news",
+          "title": "Iran war: How US consumers spent an additional $100bn on fuel - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQUXk3UFV5SW1td09PamY5NEI0ejRlRWo5RUJ5bVBXUUEtZVRNNjRNOFhOZ0NlQzU0akRTT0cxZENGS1o2OHB5Y0ZReWYwZDNpQkl6YXA4Q0w2d0VwNlhTZmlJQllGQW5saEZoYVlqUGdBN2F4T2gzTDViaExabEpEUUNEUFhQelVudEVfdkVUTExJSDIwTEluQlFGc3U2NXdR0gGmAUFVX3lxTE51S3dUTzh4SlBVMkZmOWNlZmVBY1VMdlZsM2Q2dEZpeHp6TWd6Sm1NOUVYNVU0dU16UEdITTNoeG1uU1A1V19SZktVem9ETXdBUGx1UnIzWVJpOGJGbnRmUHowLWJvX0lTZGEzWVZtT3Y3c2p4YmVjYm5uY2hYaTNHUVpiamRTZzNJSGZlT2xfdEtEbTduLUlrZlRTLXJfc3V0TDdmS1E?oc=5\" target=\"_blank\">Iran war: How US consumers spent an additional $100bn on fuel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUXk3UFV5SW1td09PamY5NEI0ejRlRWo5RUJ5bVBXUUEtZVRNNjRNOFhOZ0NlQzU0akRTT0cxZENGS1o2OHB5Y0ZReWYwZDNpQkl6YXA4Q0w2d0VwNlhTZmlJQllGQW5saEZoYVlqUGdBN2F4T2gzTDViaExabEpEUUNEUFhQelVudEVfdkVUTExJSDIwTEluQlFGc3U2NXdR0gGmAUFVX3lxTE51S3dUTzh4SlBVMkZmOWNlZmVBY1VMdlZsM2Q2dEZpeHp6TWd6Sm1NOUVYNVU0dU16UEdITTNoeG1uU1A1V19SZktVem9ETXdBUGx1UnIzWVJpOGJGbnRmUHowLWJvX0lTZGEzWVZtT3Y3c2p4YmVjYm5uY2hYaTNHUVpiamRTZzNJSGZlT2xfdEtEbTduLUlrZlRTLXJfc3V0TDdmS1E?oc=5",
+          "publishedAt": "Mon, 07 Sep 2026 10:27:54 GMT",
+          "titleZh": "Iran war: How US consumers spent an additional $100bn on fuel - Al Jazeera",
+          "summaryZh": "Iran war: How US consumers spent an additional $100bn on fuel&nbsp;&nbsp;Al Jazeera"
+        },
+        {
+          "id": "aljazeera-news-8-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -449,97 +540,31 @@
           "publishedAt": "Mon, 07 Sep 2026 03:14:41 GMT",
           "titleZh": "Iran to announce restricted zone outside Strait of Hormuz - Al Jazeera",
           "summaryZh": "Iran to announce restricted zone outside Strait of Hormuz&nbsp;&nbsp;Al Jazeera"
-        },
-        {
-          "id": "aljazeera-news-0-https://news.google.com/",
-          "sourceId": "aljazeera",
-          "source": "Al Jazeera",
-          "sourceSite": "aljazeera.com",
-          "type": "news",
-          "title": "Iran war updates: Tehran to announce restricted zone near Hormuz Strait - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPMGlsWGJZOXNiQVpva0R4eDBWMlQtTFRqR0dJSDdTQzJhUDVRemFoUzhxUzgyUzlmdWxDQ2p3VmN6V3Y0TElxR0lubUVQSTY1elhnMm9CX3pMQ0xmU09hTE82Tko0ODNDLUVpQ0hpVWx1aGJNTWR6RVV6Z3hDenMzQ3NvYjA5UFN4QVFRWjJNX1JqWnVqVjhkVU5BVkFfSk4xUEZ4YU5ueGZiU3pGcEJHZDh4OVFHUlZudEZyUGhB0gHDAUFVX3lxTE9vLU56cXNQckU0VWZTSzhDMTZYMU82eG5uX1NBRlBrY1RVUy1QXzNfZ0hBYXMwdUlLS21UenNBZm1jMm5EV05veERqSm9XdHZHU0lTSGttaUNHMHhxWWQ2N2djV2JnR1FuVGJzZDNjeTgwMTNON1ViLTV0VUM2V2VzUW94X3FGSWplVzMtUUVZT3pYRmZzakNvSTRBekNnU215TEFNdzI5UlpXTEtMZzZtWXNmemQ3N2NUSkdwcFZQbXlRYw?oc=5\" target=\"_blank\">Iran war updates: Tehran to announce restricted zone near Hormuz Strait</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMGlsWGJZOXNiQVpva0R4eDBWMlQtTFRqR0dJSDdTQzJhUDVRemFoUzhxUzgyUzlmdWxDQ2p3VmN6V3Y0TElxR0lubUVQSTY1elhnMm9CX3pMQ0xmU09hTE82Tko0ODNDLUVpQ0hpVWx1aGJNTWR6RVV6Z3hDenMzQ3NvYjA5UFN4QVFRWjJNX1JqWnVqVjhkVU5BVkFfSk4xUEZ4YU5ueGZiU3pGcEJHZDh4OVFHUlZudEZyUGhB0gHDAUFVX3lxTE9vLU56cXNQckU0VWZTSzhDMTZYMU82eG5uX1NBRlBrY1RVUy1QXzNfZ0hBYXMwdUlLS21UenNBZm1jMm5EV05veERqSm9XdHZHU0lTSGttaUNHMHhxWWQ2N2djV2JnR1FuVGJzZDNjeTgwMTNON1ViLTV0VUM2V2VzUW94X3FGSWplVzMtUUVZT3pYRmZzakNvSTRBekNnU215TEFNdzI5UlpXTEtMZzZtWXNmemQ3N2NUSkdwcFZQbXlRYw?oc=5",
-          "publishedAt": "Sun, 06 Sep 2026 20:10:54 GMT",
-          "titleZh": "Iran war updates: Tehran to announce restricted zone near Hormuz Strait - Al Jazeera",
-          "summaryZh": "Iran war updates: Tehran to announce restricted zone near Hormuz Strait&nbsp;&nbsp;Al Jazeera"
-        },
-        {
-          "id": "aljazeera-news-1-https://news.google.com/",
-          "sourceId": "aljazeera",
-          "source": "Al Jazeera",
-          "sourceSite": "aljazeera.com",
-          "type": "news",
-          "title": "Trump official says ‘there may not be a nuclear agreement’ with Iran - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVHhKc1NXcE9lZkMxZFVjQjJvZDc3TER6MnNiM1o0X05YVE44TW40TkVTZmo1RVdLZDQxdHpVUmlMRGZWVlhXZlBFMmpvQXJBNUotWE84d3NETlpENUVycnlMSHE0dzNIVnp5TUc5UVE5MzlLTk1Mal8yZ2dObHhlUVBWRzFtX2Vhak5TcFdtanZ3N0hkZDhZMkJWWi1QSnplbW1nRzVjaTNqZ9IBrwFBVV95cUxNMmVOZjFjeVpXUEQ4MmNMeVBRQVFrbENiOXFVXzRXek95V1g1cGo2czVSWW1Nd2RnU2ZLSHRsNTJEd2pRclFzT0RCbWIyd1pERHF6RS11TDc2ejF6UkMyMHgxT2Z4NE5VclV5VXozanFaMUwyd1VuNDdpVWlkOVpjNlRSZWZxaC1Wb0FGOGd0RGlSQzc0QnFZTDhpTXViNG9EY2pDRWRmblFNVXZ6VzdB?oc=5\" target=\"_blank\">Trump official says ‘there may not be a nuclear agreement’ with Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVHhKc1NXcE9lZkMxZFVjQjJvZDc3TER6MnNiM1o0X05YVE44TW40TkVTZmo1RVdLZDQxdHpVUmlMRGZWVlhXZlBFMmpvQXJBNUotWE84d3NETlpENUVycnlMSHE0dzNIVnp5TUc5UVE5MzlLTk1Mal8yZ2dObHhlUVBWRzFtX2Vhak5TcFdtanZ3N0hkZDhZMkJWWi1QSnplbW1nRzVjaTNqZ9IBrwFBVV95cUxNMmVOZjFjeVpXUEQ4MmNMeVBRQVFrbENiOXFVXzRXek95V1g1cGo2czVSWW1Nd2RnU2ZLSHRsNTJEd2pRclFzT0RCbWIyd1pERHF6RS11TDc2ejF6UkMyMHgxT2Z4NE5VclV5VXozanFaMUwyd1VuNDdpVWlkOVpjNlRSZWZxaC1Wb0FGOGd0RGlSQzc0QnFZTDhpTXViNG9EY2pDRWRmblFNVXZ6VzdB?oc=5",
-          "publishedAt": "Sun, 06 Sep 2026 17:03:14 GMT",
-          "titleZh": "Trump official says ‘there may not be a nuclear agreement’ with Iran - Al Jazeera",
-          "summaryZh": "Trump official says ‘there may not be a nuclear agreement’ with Iran&nbsp;&nbsp;Al Jazeera"
-        },
-        {
-          "id": "aljazeera-news-3-https://news.google.com/",
-          "sourceId": "aljazeera",
-          "source": "Al Jazeera",
-          "sourceSite": "aljazeera.com",
-          "type": "news",
-          "title": "Iran touts military response as US maintains blockade, hits tankers - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXd6SjRYNFpkcjM2M1JweThUd0QxbW55eE5FRERDSkFVYTBtd0pPMUM2VVpYVGhMR2tweHJWd3dmT2ZmWHBZZ09UVVJSOWQ3bFY1b1FSTTg4UzE2YjA4RzNsaVJoZHFvekNCdXhwWEVSV185MWNBTUVSaG12d09XTlQ2eTdJS0MwYzRNWjJaSXBBcUZnSWwxbnpPN1h6STFURjNCNHZ5dUE0UdIBrwFBVV95cUxPZ2dOX0VHTGtIRmF0UGdHTkFnb2QyZnRCX2p1ZUVWdUpWRG1jY2ljc3V6R091eEJHTkNldGc5SHlaamZVamZnY3RZbHBMeGRsY3F0ejFzTkN4SXVUUUhyNWRjTU9QN3FDZWozblFzdzd6Wmd5RjUyXzNzZ19jRUNfanZZSlhpSm5MX0J2T21HTGlaNWJiUmN3SXNqZkpwaUxsZ1FHZkRJS1RjZWpacUxN?oc=5\" target=\"_blank\">Iran touts military response as US maintains blockade, hits tankers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXd6SjRYNFpkcjM2M1JweThUd0QxbW55eE5FRERDSkFVYTBtd0pPMUM2VVpYVGhMR2tweHJWd3dmT2ZmWHBZZ09UVVJSOWQ3bFY1b1FSTTg4UzE2YjA4RzNsaVJoZHFvekNCdXhwWEVSV185MWNBTUVSaG12d09XTlQ2eTdJS0MwYzRNWjJaSXBBcUZnSWwxbnpPN1h6STFURjNCNHZ5dUE0UdIBrwFBVV95cUxPZ2dOX0VHTGtIRmF0UGdHTkFnb2QyZnRCX2p1ZUVWdUpWRG1jY2ljc3V6R091eEJHTkNldGc5SHlaamZVamZnY3RZbHBMeGRsY3F0ejFzTkN4SXVUUUhyNWRjTU9QN3FDZWozblFzdzd6Wmd5RjUyXzNzZ19jRUNfanZZSlhpSm5MX0J2T21HTGlaNWJiUmN3SXNqZkpwaUxsZ1FHZkRJS1RjZWpacUxN?oc=5",
-          "publishedAt": "Sun, 06 Sep 2026 16:28:45 GMT",
-          "titleZh": "Iran touts military response as US maintains blockade, hits tankers - Al Jazeera",
-          "summaryZh": "Iran touts military response as US maintains blockade, hits tankers&nbsp;&nbsp;Al Jazeera"
-        },
-        {
-          "id": "aljazeera-news-4-https://news.google.com/",
-          "sourceId": "aljazeera",
-          "source": "Al Jazeera",
-          "sourceSite": "aljazeera.com",
-          "type": "news",
-          "title": "US, Iran engaged in tanker war: Where is the months-long conflict headed? - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQYl9iXzAxY2Jyd3FvVE1aa1V3TmVHd19wcDNad1RSUG13VTFFZ1BINnpIWjBQa1lwRVdsZXBFa1NFeGZnbzZpQWN3Ul8zeEx2aGs0cFQwUVZIamljSEVBMDZUNmJQdWhlSDREZU5Xcmh5emh5dFNMZm1RTTloNkxoeG9VWjhual9jYXZyMkQ5NTBXZnZuemFJeGRYd1ZWQmFSN3JtTDJLV0lXTWw1MUtZ0gG0AUFVX3lxTE5scDhDRzVfdkhnVkpIMF9pbkYxNFphWVdKd19fZ0phU0Q4QkFsZFctaDk4SmxiVWVvMDhFM1R3R1l6T2dfWlJtaUJ6TVR1WUtXaUhjY05jc1NKaTVrVUlORlZBXzhVUDhZZ1Rabmpnb0ZiZ0UtZlFOeFdnUkVzTWpPdW84YUF6NkVneF9tMU0tUDVaaTQ1bmNweGI4UkZSVFZVX2hFbHZlVmltYTFDd0pteUc4YQ?oc=5\" target=\"_blank\">US, Iran engaged in tanker war: Where is the months-long conflict headed?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYl9iXzAxY2Jyd3FvVE1aa1V3TmVHd19wcDNad1RSUG13VTFFZ1BINnpIWjBQa1lwRVdsZXBFa1NFeGZnbzZpQWN3Ul8zeEx2aGs0cFQwUVZIamljSEVBMDZUNmJQdWhlSDREZU5Xcmh5emh5dFNMZm1RTTloNkxoeG9VWjhual9jYXZyMkQ5NTBXZnZuemFJeGRYd1ZWQmFSN3JtTDJLV0lXTWw1MUtZ0gG0AUFVX3lxTE5scDhDRzVfdkhnVkpIMF9pbkYxNFphWVdKd19fZ0phU0Q4QkFsZFctaDk4SmxiVWVvMDhFM1R3R1l6T2dfWlJtaUJ6TVR1WUtXaUhjY05jc1NKaTVrVUlORlZBXzhVUDhZZ1Rabmpnb0ZiZ0UtZlFOeFdnUkVzTWpPdW84YUF6NkVneF9tMU0tUDVaaTQ1bmNweGI4UkZSVFZVX2hFbHZlVmltYTFDd0pteUc4YQ?oc=5",
-          "publishedAt": "Sun, 06 Sep 2026 10:50:58 GMT",
-          "titleZh": "US, Iran engaged in tanker war: Where is the months-long conflict headed? - Al Jazeera",
-          "summaryZh": "US, Iran engaged in tanker war: Where is the months-long conflict headed?&nbsp;&nbsp;Al Jazeera"
         }
       ]
     },
     {
       "sourceId": "zaobao",
       "source": "联合早报",
-      "items": [
-        {
-          "id": "zaobao-news-0-https://news.google.com/",
-          "sourceId": "zaobao",
-          "source": "联合早报",
-          "sourceSite": "zaobao.com.sg",
-          "type": "news",
-          "title": "伊朗：若与美国的谈判失败 将升级局势 - 联合早报",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE95R1Rici1laVF4ZW9DX0syMm5VSXFSYTZwSEZ1Nl9aRkI2X0E5TDQ1d3N0cVBfYVZGU0p4ellZNDhvNWh0TXJkTUlJVkdkUXRSQ09LTm9DaXktUXVaWmkzdGcyRzlaVkdMb3c?oc=5\" target=\"_blank\">伊朗：若与美国的谈判失败 将升级局势</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95R1Rici1laVF4ZW9DX0syMm5VSXFSYTZwSEZ1Nl9aRkI2X0E5TDQ1d3N0cVBfYVZGU0p4ellZNDhvNWh0TXJkTUlJVkdkUXRSQ09LTm9DaXktUXVaWmkzdGcyRzlaVkdMb3c?oc=5",
-          "publishedAt": "Mon, 17 Aug 2026 07:00:00 GMT",
-          "titleZh": "伊朗：若与美国的谈判失败 将升级局势 - 联合早报",
-          "summaryZh": "伊朗：若与美国的谈判失败 将升级局势&nbsp;&nbsp;联合早报"
-        }
-      ]
+      "items": []
     }
   ],
   "commentary": [
     {
-      "id": "nytimes-commentary-3-https://news.google.com/",
+      "id": "nytimes-commentary-1-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
       "type": "commentary",
-      "title": "Oil Prices Rise Slightly After U.S. and Iran Trade Strikes - The New York Times",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1tdXhlb3hCRjN0TWt4Vkl1THhuUklqUGJTbzgybGZ4WFB2Q2oxUVd1Mk5Zd09MS3FuZ0pMd29lMk9WSmMzMktxZkpVaTQxczI3UEJnSkxlMkl4dEE1ODcyX2xPZmQweDJSeVpuamRyS1dBdGJZVDVzT2trSWY?oc=5\" target=\"_blank\">Oil Prices Rise Slightly After U.S. and Iran Trade Strikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "title": "Oil Prices Rise After U.S. and Iran Trade Strikes - The New York Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1tdXhlb3hCRjN0TWt4Vkl1THhuUklqUGJTbzgybGZ4WFB2Q2oxUVd1Mk5Zd09MS3FuZ0pMd29lMk9WSmMzMktxZkpVaTQxczI3UEJnSkxlMkl4dEE1ODcyX2xPZmQweDJSeVpuamRyS1dBdGJZVDVzT2trSWY?oc=5\" target=\"_blank\">Oil Prices Rise After U.S. and Iran Trade Strikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tdXhlb3hCRjN0TWt4Vkl1THhuUklqUGJTbzgybGZ4WFB2Q2oxUVd1Mk5Zd09MS3FuZ0pMd29lMk9WSmMzMktxZkpVaTQxczI3UEJnSkxlMkl4dEE1ODcyX2xPZmQweDJSeVpuamRyS1dBdGJZVDVzT2trSWY?oc=5",
-      "publishedAt": "Sun, 06 Sep 2026 22:32:01 GMT",
-      "titleZh": "Oil Prices Rise Slightly After U.S. and Iran Trade Strikes - The New York Times",
-      "summaryZh": "Oil Prices Rise Slightly After U.S. and Iran Trade Strikes&nbsp;&nbsp;The New York Times"
+      "publishedAt": "Mon, 07 Sep 2026 06:44:17 GMT",
+      "titleZh": "Oil Prices Rise After U.S. and Iran Trade Strikes - The New York Times",
+      "summaryZh": "Oil Prices Rise After U.S. and Iran Trade Strikes&nbsp;&nbsp;The New York Times"
     },
     {
-      "id": "nytimes-commentary-4-https://news.google.com/",
+      "id": "nytimes-commentary-3-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -550,6 +575,19 @@
       "publishedAt": "Sun, 06 Sep 2026 13:28:53 GMT",
       "titleZh": "Iran’s Attacks Keep the Strait of Hormuz in a Lethal Stalemate - The New York Times",
       "summaryZh": "Iran’s Attacks Keep the Strait of Hormuz in a Lethal Stalemate&nbsp;&nbsp;The New York Times"
+    },
+    {
+      "id": "nytimes-commentary-6-https://news.google.com/",
+      "sourceId": "nytimes",
+      "source": "The New York Times",
+      "sourceSite": "nytimes.com",
+      "type": "commentary",
+      "title": "OPEC Plus Holds Oil Production Steady as U.S.-Iran Strikes Resume - The New York Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPY2pWUklObC1DTFJZQTFnd2s1eVJhRFplUkZoZlNXZU84bjl4ckRQOEdhclpUTlBKMHNRLU1nRE81Sjl3amhuLVJwZEd0TDBGZ1pfbUt3UmxaLXNIRWt6LWJRRWdHUEllR0pVRV8zS2ZMMEItZkxsLTdNNmowV0pvWlJFcw?oc=5\" target=\"_blank\">OPEC Plus Holds Oil Production Steady as U.S.-Iran Strikes Resume</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY2pWUklObC1DTFJZQTFnd2s1eVJhRFplUkZoZlNXZU84bjl4ckRQOEdhclpUTlBKMHNRLU1nRE81Sjl3amhuLVJwZEd0TDBGZ1pfbUt3UmxaLXNIRWt6LWJRRWdHUEllR0pVRV8zS2ZMMEItZkxsLTdNNmowV0pvWlJFcw?oc=5",
+      "publishedAt": "Sun, 06 Sep 2026 13:26:07 GMT",
+      "titleZh": "OPEC Plus Holds Oil Production Steady as U.S.-Iran Strikes Resume - The New York Times",
+      "summaryZh": "OPEC Plus Holds Oil Production Steady as U.S.-Iran Strikes Resume&nbsp;&nbsp;The New York Times"
     },
     {
       "id": "nytimes-commentary-2-https://news.google.com/",
@@ -599,12 +637,12 @@
       "title": "The USS Abraham Lincoln Is a Troubling Metaphor for the Iran War - Foreign Policy",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTM2d3BTTGRPM0tHdzBScUZZNl8tRzBRTS1RUGdUSFBQb3JKaDBuVjVPbWVnaUxGTVE2amU3dEs3a3JLRGppMEpkcFVxY0U1bmpGZHdnTUI5NWNGVjc2WXJaMVpJMWFJTlZDbEgwZmpreldhbnlLN3VSekhuZk9Edm9pSUsxYnVrZVJoLTQ0eTlnUU0?oc=5\" target=\"_blank\">The USS Abraham Lincoln Is a Troubling Metaphor for the Iran War</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Policy</font>",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTM2d3BTTGRPM0tHdzBScUZZNl8tRzBRTS1RUGdUSFBQb3JKaDBuVjVPbWVnaUxGTVE2amU3dEs3a3JLRGppMEpkcFVxY0U1bmpGZHdnTUI5NWNGVjc2WXJaMVpJMWFJTlZDbEgwZmpreldhbnlLN3VSekhuZk9Edm9pSUsxYnVrZVJoLTQ0eTlnUU0?oc=5",
-      "publishedAt": "Thu, 03 Sep 2026 22:29:22 GMT",
+      "publishedAt": "Thu, 03 Sep 2026 21:47:06 GMT",
       "titleZh": "The USS Abraham Lincoln Is a Troubling Metaphor for the Iran War - Foreign Policy",
       "summaryZh": "The USS Abraham Lincoln Is a Troubling Metaphor for the Iran War&nbsp;&nbsp;Foreign Policy"
     },
     {
-      "id": "foreignpolicy-commentary-2-https://news.google.com/",
+      "id": "foreignpolicy-commentary-1-https://news.google.com/",
       "sourceId": "foreignpolicy",
       "source": "Foreign Policy",
       "sourceSite": "foreignpolicy.com",
@@ -656,7 +694,7 @@
       "summaryZh": "The Case for a Stalemate With Iran&nbsp;&nbsp;Foreign Affairs"
     },
     {
-      "id": "foreignpolicy-commentary-1-https://news.google.com/",
+      "id": "foreignpolicy-commentary-2-https://news.google.com/",
       "sourceId": "foreignpolicy",
       "source": "Foreign Policy",
       "sourceSite": "foreignpolicy.com",
@@ -734,7 +772,7 @@
       "summaryZh": "Jordan Sees Bigger Threat From Israel Than Iran&nbsp;&nbsp;Foreign Policy"
     },
     {
-      "id": "nytimes-commentary-5-https://news.google.com/",
+      "id": "nytimes-commentary-4-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -747,7 +785,7 @@
       "summaryZh": "U.S. and Iran Exchange Strikes Overnight After Monthlong Calm&nbsp;&nbsp;The New York Times"
     },
     {
-      "id": "nytimes-commentary-6-https://news.google.com/",
+      "id": "nytimes-commentary-5-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -758,19 +796,6 @@
       "publishedAt": "Sun, 30 Aug 2026 21:20:35 GMT",
       "titleZh": "U.S. Attacks Island in Strait of Hormuz; Iran Retaliates With Missile Fire - The New York Times",
       "summaryZh": "U.S. Attacks Island in Strait of Hormuz; Iran Retaliates With Missile Fire&nbsp;&nbsp;The New York Times"
-    },
-    {
-      "id": "nytimes-commentary-1-https://news.google.com/",
-      "sourceId": "nytimes",
-      "source": "The New York Times",
-      "sourceSite": "nytimes.com",
-      "type": "commentary",
-      "title": "For Trump, the Iran War Is Stuck Between Combat and Genuine Peace - The New York Times",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE0wd05wa1llUXZOMnFCRHd0RGZVOElYc1o1NjFJWTZDWlI3UXVCOTFIZzVsR2RVeUl6M0NPQ1pYOFJ1V0JuNkVZNXZPaVp0Q2lLMllzeHlHNmVlTHVSOTQzVlBVQnJEY3pvSE1zTHVQZ1NhaXVk?oc=5\" target=\"_blank\">For Trump, the Iran War Is Stuck Between Combat and Genuine Peace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wd05wa1llUXZOMnFCRHd0RGZVOElYc1o1NjFJWTZDWlI3UXVCOTFIZzVsR2RVeUl6M0NPQ1pYOFJ1V0JuNkVZNXZPaVp0Q2lLMllzeHlHNmVlTHVSOTQzVlBVQnJEY3pvSE1zTHVQZ1NhaXVk?oc=5",
-      "publishedAt": "Fri, 28 Aug 2026 07:00:00 GMT",
-      "titleZh": "For Trump, the Iran War Is Stuck Between Combat and Genuine Peace - The New York Times",
-      "summaryZh": "For Trump, the Iran War Is Stuck Between Combat and Genuine Peace&nbsp;&nbsp;The New York Times"
     },
     {
       "id": "foreignaffairs-commentary-1-https://news.google.com/",
@@ -812,7 +837,7 @@
       "summaryZh": "Nate Swanson: Maximum Pressure on Iran Will Fail&nbsp;&nbsp;Foreign Affairs"
     },
     {
-      "id": "economist-commentary-7-https://news.google.com/",
+      "id": "economist-commentary-6-https://news.google.com/",
       "sourceId": "economist",
       "source": "The Economist",
       "sourceSite": "economist.com",
@@ -838,7 +863,7 @@
       "summaryZh": "U.S. Unveils ‘Economic D-Day’ Against Iran&nbsp;&nbsp;Foreign Policy"
     },
     {
-      "id": "economist-commentary-6-https://news.google.com/",
+      "id": "economist-commentary-7-https://news.google.com/",
       "sourceId": "economist",
       "source": "The Economist",
       "sourceSite": "economist.com",
@@ -903,33 +928,20 @@
       "summaryZh": "The Long Shadow of the Iran Shock&nbsp;&nbsp;Foreign Affairs"
     },
     {
-      "id": "foreignaffairs-commentary-6-https://news.google.com/",
-      "sourceId": "foreignaffairs",
-      "source": "Foreign Affairs",
-      "sourceSite": "foreignaffairs.com",
-      "type": "commentary",
-      "title": "Iran Won the War but May Lose the Peace - Foreign Affairs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBnRVRtem5MMThYU2FOMHlrT3hCaDJaVVRSTF9wWWE5ZzdyV0hMT0I4dW1DU3Z5RFo2SmlZbkQzdWhHVDh3U3VpY3dMTEY3NmZfZE5VbEJodUwwTmxtTVJCaEtZcGtDR3lTU293NDZ5SXc?oc=5\" target=\"_blank\">Iran Won the War but May Lose the Peace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnRVRtem5MMThYU2FOMHlrT3hCaDJaVVRSTF9wWWE5ZzdyV0hMT0I4dW1DU3Z5RFo2SmlZbkQzdWhHVDh3U3VpY3dMTEY3NmZfZE5VbEJodUwwTmxtTVJCaEtZcGtDR3lTU293NDZ5SXc?oc=5",
-      "publishedAt": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "titleZh": "Iran Won the War but May Lose the Peace - Foreign Affairs",
-      "summaryZh": "Iran Won the War but May Lose the Peace&nbsp;&nbsp;Foreign Affairs"
-    },
-    {
       "id": "foreignaffairs-commentary-5-https://news.google.com/",
       "sourceId": "foreignaffairs",
       "source": "Foreign Affairs",
       "sourceSite": "foreignaffairs.com",
       "type": "commentary",
-      "title": "How to End the Iran Crisis - Foreign Affairs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EM0p6cURzcTFKR2pLaHBPRjMtLTl6NlNXbExoOEpNU3hLRlRvZnk1ZUE0Sm9xVnFxTFdfM2RHZlNWSk5lUWdxdXk5QkwwTk9LZVc4NkN6OFZWODdtZVRTTkdpejU2QQ?oc=5\" target=\"_blank\">How to End the Iran Crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EM0p6cURzcTFKR2pLaHBPRjMtLTl6NlNXbExoOEpNU3hLRlRvZnk1ZUE0Sm9xVnFxTFdfM2RHZlNWSk5lUWdxdXk5QkwwTk9LZVc4NkN6OFZWODdtZVRTTkdpejU2QQ?oc=5",
-      "publishedAt": "Mon, 13 Apr 2026 07:00:00 GMT",
-      "titleZh": "How to End the Iran Crisis - Foreign Affairs",
-      "summaryZh": "How to End the Iran Crisis&nbsp;&nbsp;Foreign Affairs"
+      "title": "Iran’s New Oil Weapon - Foreign Affairs",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaWFZKWFR5M2thQlJ3M2ZUZUtTQ0gxV1cyUURzNEw4aEZYRnR3YXJaZ3NPSWxFOUlOVDF2REVrZHhucDVOaW1kLWJKanFOT0I1UkpmbVBqcExnOURCSWxHT2FSSC1nZGc?oc=5\" target=\"_blank\">Iran’s New Oil Weapon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaWFZKWFR5M2thQlJ3M2ZUZUtTQ0gxV1cyUURzNEw4aEZYRnR3YXJaZ3NPSWxFOUlOVDF2REVrZHhucDVOaW1kLWJKanFOT0I1UkpmbVBqcExnOURCSWxHT2FSSC1nZGc?oc=5",
+      "publishedAt": "Wed, 06 May 2026 07:00:00 GMT",
+      "titleZh": "Iran’s New Oil Weapon - Foreign Affairs",
+      "summaryZh": "Iran’s New Oil Weapon&nbsp;&nbsp;Foreign Affairs"
     },
     {
-      "id": "foreignaffairs-commentary-7-https://news.google.com/",
+      "id": "foreignaffairs-commentary-6-https://news.google.com/",
       "sourceId": "foreignaffairs",
       "source": "Foreign Affairs",
       "sourceSite": "foreignaffairs.com",
@@ -940,6 +952,19 @@
       "publishedAt": "Tue, 02 Feb 2021 08:00:00 GMT",
       "titleZh": "Iran Isn’t Just a Nuclear File - Foreign Affairs",
       "summaryZh": "Iran Isn’t Just a Nuclear File&nbsp;&nbsp;Foreign Affairs"
+    },
+    {
+      "id": "foreignaffairs-commentary-7-https://news.google.com/",
+      "sourceId": "foreignaffairs",
+      "source": "Foreign Affairs",
+      "sourceSite": "foreignaffairs.com",
+      "type": "commentary",
+      "title": "The Coming Crisis in Iran - Foreign Affairs",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5qZm1OWFI4YV9pOGJVZ3gtNkYwTGd0VzAwaWl3UVhmNEVVNWdXWlRiaHVBNkdhNEtiOVdqV3VfLW1BaHZYVV9tWGFCTkt5cHBWV2doU0hnd2xTbDFxUUNuaGNWdWZrMmdha3FFNzJoN21sV3FqM09BRnNGa09Pek0?oc=5\" target=\"_blank\">The Coming Crisis in Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qZm1OWFI4YV9pOGJVZ3gtNkYwTGd0VzAwaWl3UVhmNEVVNWdXWlRiaHVBNkdhNEtiOVdqV3VfLW1BaHZYVV9tWGFCTkt5cHBWV2doU0hnd2xTbDFxUUNuaGNWdWZrMmdha3FFNzJoN21sV3FqM09BRnNGa09Pek0?oc=5",
+      "publishedAt": "Fri, 01 May 2015 17:33:17 GMT",
+      "titleZh": "The Coming Crisis in Iran - Foreign Affairs",
+      "summaryZh": "The Coming Crisis in Iran&nbsp;&nbsp;Foreign Affairs"
     }
   ]
 }
