@@ -1,10 +1,49 @@
 {
-  "generatedAt": "2026-09-15T16:08:44.010Z",
-  "totalNews": 26,
-  "totalCommentary": 24,
+  "generatedAt": "2026-09-15T20:48:56.292Z",
+  "totalNews": 23,
+  "totalCommentary": 32,
   "timeline": [
     {
-      "id": "bbc-news-2-https://news.google.com/",
+      "id": "reuters-news-1-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
+      "type": "news",
+      "title": "Iran war cost hits $38 billion, forecast to rise $3 billion a month, CBO says - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQNEs4SmV2UTYzblAwenVTemk5SWQtMTRPbkpoLTVxaEVrYzBYNDJfX0RrSmVVZVZadlFBVnF0WkJNeGc5czMxVWREeDFtS0dZeGJ2V2tqSVg5VWM5UUFtN1hsMXlPX3g4d1RMbk5BR1oxcVdyYjBIaHg0bFl1SXY1dDMzazVEZlNBOHdCWm8zRno2Vjc1TEJ6ekdnQ25COEVkS3FVNHJmeWEyRVZJd2p3aF80RFlhZmVtREhQbkpIdw?oc=5\" target=\"_blank\">Iran war cost hits $38 billion, forecast to rise $3 billion a month, CBO says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNEs4SmV2UTYzblAwenVTemk5SWQtMTRPbkpoLTVxaEVrYzBYNDJfX0RrSmVVZVZadlFBVnF0WkJNeGc5czMxVWREeDFtS0dZeGJ2V2tqSVg5VWM5UUFtN1hsMXlPX3g4d1RMbk5BR1oxcVdyYjBIaHg0bFl1SXY1dDMzazVEZlNBOHdCWm8zRno2Vjc1TEJ6ekdnQ25COEVkS3FVNHJmeWEyRVZJd2p3aF80RFlhZmVtREhQbkpIdw?oc=5",
+      "publishedAt": "Tue, 15 Sep 2026 19:33:12 GMT",
+      "titleZh": "Iran war cost hits $38 billion, forecast to rise $3 billion a month, CBO says - Reuters",
+      "summaryZh": "Iran war cost hits $38 billion, forecast to rise $3 billion a month, CBO says&nbsp;&nbsp;Reuters"
+    },
+    {
+      "id": "bbc-news-1-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "More than 750 US service members wounded since start of Iran War - KOAT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOdENZcW1ibHJNS0RoVUs3SDg4UnpLcExXaU1XOXJaOS1sSm90TmZfNVZYU3I2blk3RzluMXFkVVlxTy1VbU55cE1yaWYwWnBieF9PSmt4d2hDYUZqWkVLVUZtdFNTWTczNGx4WTNlbjM1dW9Za1BBcDlaeUtxVDVRaHV4RQ?oc=5\" target=\"_blank\">More than 750 US service members wounded since start of Iran War</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOAT</font>",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdENZcW1ibHJNS0RoVUs3SDg4UnpLcExXaU1XOXJaOS1sSm90TmZfNVZYU3I2blk3RzluMXFkVVlxTy1VbU55cE1yaWYwWnBieF9PSmt4d2hDYUZqWkVLVUZtdFNTWTczNGx4WTNlbjM1dW9Za1BBcDlaeUtxVDVRaHV4RQ?oc=5",
+      "publishedAt": "Tue, 15 Sep 2026 19:31:00 GMT",
+      "titleZh": "More than 750 US service members wounded since start of Iran War - KOAT",
+      "summaryZh": "More than 750 US service members wounded since start of Iran War&nbsp;&nbsp;KOAT"
+    },
+    {
+      "id": "aljazeera-news-0-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "Iran war live: US says Saudi pipeline to resume as Yemen fighting rages - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTjlaYWFaQXNPbFE1Z3VwTXFPNUtkWmhMTFJ3YXk2MWVIUFV4ZnpNQkxFaEhwNjREWVlBVWktYm0zdDRJZ0Rhc3IzNkNRVzFQbG9VMWI3VExxOFFJSzhXZzdGV0tfWnlrb09xV2c1NjF5eklyYUI5eWpPMkJyRjRoT0J5SmNNZk9ubWk3UHZLR1hjeWJCX2dwVEZnakxQRllFb21teFd5aE5Cc0hEWnBaMTNrY05kcnlRaXZV0gHAAUFVX3lxTE51V3J2YldvbldYcHRSUFRlSVpuZzlYbjRQbWJwSDJzd255REhySHN3U3lrdHFjNmhfclNZSEcwXzlBVW04VDFYQkdnMDZOMjJCVzZOZEdXWXIydl9seEp5RU43NVd1WGF4WjZ0dmFENlpyLWJvVHJ3cV9KSFp3Z1U1eGRWYS02NnkyWG5zdlFhTjJYS2xzWmhvQ1VSRlZFZHZnbjJQbGlYREpUVVJGWU03TXhzMnVqWWJfeEtNUEFnaw?oc=5\" target=\"_blank\">Iran war live: US says Saudi pipeline to resume as Yemen fighting rages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTjlaYWFaQXNPbFE1Z3VwTXFPNUtkWmhMTFJ3YXk2MWVIUFV4ZnpNQkxFaEhwNjREWVlBVWktYm0zdDRJZ0Rhc3IzNkNRVzFQbG9VMWI3VExxOFFJSzhXZzdGV0tfWnlrb09xV2c1NjF5eklyYUI5eWpPMkJyRjRoT0J5SmNNZk9ubWk3UHZLR1hjeWJCX2dwVEZnakxQRllFb21teFd5aE5Cc0hEWnBaMTNrY05kcnlRaXZV0gHAAUFVX3lxTE51V3J2YldvbldYcHRSUFRlSVpuZzlYbjRQbWJwSDJzd255REhySHN3U3lrdHFjNmhfclNZSEcwXzlBVW04VDFYQkdnMDZOMjJCVzZOZEdXWXIydl9seEp5RU43NVd1WGF4WjZ0dmFENlpyLWJvVHJ3cV9KSFp3Z1U1eGRWYS02NnkyWG5zdlFhTjJYS2xzWmhvQ1VSRlZFZHZnbjJQbGlYREpUVVJGWU03TXhzMnVqWWJfeEtNUEFnaw?oc=5",
+      "publishedAt": "Tue, 15 Sep 2026 17:59:06 GMT",
+      "titleZh": "Iran war live: US says Saudi pipeline to resume as Yemen fighting rages - Al Jazeera",
+      "summaryZh": "Iran war live: US says Saudi pipeline to resume as Yemen fighting rages&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "bbc-news-0-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -15,19 +54,6 @@
       "publishedAt": "Tue, 15 Sep 2026 15:31:34 GMT",
       "titleZh": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms - BBC",
       "summaryZh": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms&nbsp;&nbsp;BBC"
-    },
-    {
-      "id": "aljazeera-news-0-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "Iran war live: 125,000 people flee Yemen fighting as Houthis take fire - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTjlaYWFaQXNPbFE1Z3VwTXFPNUtkWmhMTFJ3YXk2MWVIUFV4ZnpNQkxFaEhwNjREWVlBVWktYm0zdDRJZ0Rhc3IzNkNRVzFQbG9VMWI3VExxOFFJSzhXZzdGV0tfWnlrb09xV2c1NjF5eklyYUI5eWpPMkJyRjRoT0J5SmNNZk9ubWk3UHZLR1hjeWJCX2dwVEZnakxQRllFb21teFd5aE5Cc0hEWnBaMTNrY05kcnlRaXZV0gHAAUFVX3lxTE51V3J2YldvbldYcHRSUFRlSVpuZzlYbjRQbWJwSDJzd255REhySHN3U3lrdHFjNmhfclNZSEcwXzlBVW04VDFYQkdnMDZOMjJCVzZOZEdXWXIydl9seEp5RU43NVd1WGF4WjZ0dmFENlpyLWJvVHJ3cV9KSFp3Z1U1eGRWYS02NnkyWG5zdlFhTjJYS2xzWmhvQ1VSRlZFZHZnbjJQbGlYREpUVVJGWU03TXhzMnVqWWJfeEtNUEFnaw?oc=5\" target=\"_blank\">Iran war live: 125,000 people flee Yemen fighting as Houthis take fire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTjlaYWFaQXNPbFE1Z3VwTXFPNUtkWmhMTFJ3YXk2MWVIUFV4ZnpNQkxFaEhwNjREWVlBVWktYm0zdDRJZ0Rhc3IzNkNRVzFQbG9VMWI3VExxOFFJSzhXZzdGV0tfWnlrb09xV2c1NjF5eklyYUI5eWpPMkJyRjRoT0J5SmNNZk9ubWk3UHZLR1hjeWJCX2dwVEZnakxQRllFb21teFd5aE5Cc0hEWnBaMTNrY05kcnlRaXZV0gHAAUFVX3lxTE51V3J2YldvbldYcHRSUFRlSVpuZzlYbjRQbWJwSDJzd255REhySHN3U3lrdHFjNmhfclNZSEcwXzlBVW04VDFYQkdnMDZOMjJCVzZOZEdXWXIydl9seEp5RU43NVd1WGF4WjZ0dmFENlpyLWJvVHJ3cV9KSFp3Z1U1eGRWYS02NnkyWG5zdlFhTjJYS2xzWmhvQ1VSRlZFZHZnbjJQbGlYREpUVVJGWU03TXhzMnVqWWJfeEtNUEFnaw?oc=5",
-      "publishedAt": "Tue, 15 Sep 2026 14:55:52 GMT",
-      "titleZh": "Iran war live: 125,000 people flee Yemen fighting as Houthis take fire - Al Jazeera",
-      "summaryZh": "Iran war live: 125,000 people flee Yemen fighting as Houthis take fire&nbsp;&nbsp;Al Jazeera"
     },
     {
       "id": "aljazeera-news-2-https://news.google.com/",
@@ -43,45 +69,6 @@
       "summaryZh": "Dozens of aircraft, hundreds of buildings: US loss to Iran attacks revealed&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "reuters-news-2-https://news.google.com/",
-      "sourceId": "reuters",
-      "source": "Reuters",
-      "sourceSite": "reuters.com",
-      "type": "news",
-      "title": "China's August oil throughput rises as fuel exports rebound amid Iran war - Reuters",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY3JiM0k1cEJ2SDhnVmNCbHJpeWlQWTJyWjVTUDlSX0dhM0I4MHAwOHltcFl6WW5RazFEWE0yYk1ja0hJcnE1cWpJYVZDZFp0cW1XeVpMeXFEc01veFFRRmNZeFhkSXBIeFphV0pYU3NGZjJNbzhfRlFrUk5Gc3puWVo2SllOZm5CM19xZ2dSWGV3aGpzdkdOTFpRVHVMNDRyMTB1WWJRSVFKbVV6YXRJNG9JZU1iMk9XRF9KMlFXUHdNZw?oc=5\" target=\"_blank\">China's August oil throughput rises as fuel exports rebound amid Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY3JiM0k1cEJ2SDhnVmNCbHJpeWlQWTJyWjVTUDlSX0dhM0I4MHAwOHltcFl6WW5RazFEWE0yYk1ja0hJcnE1cWpJYVZDZFp0cW1XeVpMeXFEc01veFFRRmNZeFhkSXBIeFphV0pYU3NGZjJNbzhfRlFrUk5Gc3puWVo2SllOZm5CM19xZ2dSWGV3aGpzdkdOTFpRVHVMNDRyMTB1WWJRSVFKbVV6YXRJNG9JZU1iMk9XRF9KMlFXUHdNZw?oc=5",
-      "publishedAt": "Tue, 15 Sep 2026 05:12:00 GMT",
-      "titleZh": "China's August oil throughput rises as fuel exports rebound amid Iran war - Reuters",
-      "summaryZh": "China's August oil throughput rises as fuel exports rebound amid Iran war&nbsp;&nbsp;Reuters"
-    },
-    {
-      "id": "bbc-news-0-https://news.google.com/",
-      "sourceId": "bbc",
-      "source": "BBC",
-      "sourceSite": "bbc.com",
-      "type": "news",
-      "title": "US DoD inspector general report says Iran war resulted in munitions shortfall & ‘bottlenecks’ | LIVE BLOG - i24NEWS",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSmRud3hkbnlJMThSUThmcVFlY3RIdlQ5cHo1VHBySFNVVHU4VVFRUTc4NFhLclZ0ZUY2QUFCUlpuNmlFaXJrQ0I2MTVhS3RiYzMxVmM5ZzgtcjR1OEFtYVRvSVBBcF9lZlhZZGgyeENjcTBEdDBIR0VCX2lTNzcyMnNUUGhpelotVVdUR0N0SWpoazlpdE9yM0I1Y0NlXzhHZnF2dkRZbEJBdXExRjV3cC1lREZTeDlWbFhwMDNGYzNnZ0VlNk9Cc25BYXRZNWZoSTNGUW5OdDF5RGhNWk5YbE9MWQ?oc=5\" target=\"_blank\">US DoD inspector general report says Iran war resulted in munitions shortfall & ‘bottlenecks’ | LIVE BLOG</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">i24NEWS</font>",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSmRud3hkbnlJMThSUThmcVFlY3RIdlQ5cHo1VHBySFNVVHU4VVFRUTc4NFhLclZ0ZUY2QUFCUlpuNmlFaXJrQ0I2MTVhS3RiYzMxVmM5ZzgtcjR1OEFtYVRvSVBBcF9lZlhZZGgyeENjcTBEdDBIR0VCX2lTNzcyMnNUUGhpelotVVdUR0N0SWpoazlpdE9yM0I1Y0NlXzhHZnF2dkRZbEJBdXExRjV3cC1lREZTeDlWbFhwMDNGYzNnZ0VlNk9Cc25BYXRZNWZoSTNGUW5OdDF5RGhNWk5YbE9MWQ?oc=5",
-      "publishedAt": "Tue, 15 Sep 2026 03:41:00 GMT",
-      "titleZh": "US DoD inspector general report says Iran war resulted in munitions shortfall & ‘bottlenecks’ | LIVE BLOG - i24NEWS",
-      "summaryZh": "US DoD inspector general report says Iran war resulted in munitions shortfall & ‘bottlenecks’ | LIVE BLOG&nbsp;&nbsp;i24NEWS"
-    },
-    {
-      "id": "reuters-news-0-https://news.google.com/",
-      "sourceId": "reuters",
-      "source": "Reuters",
-      "sourceSite": "reuters.com",
-      "type": "news",
-      "title": "LNG demand in China, India and Pakistan expected to rebound after US-Iran war ends - Reuters",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQb19XZTBOamlRdWRZa2xJc2F1b0g2ZmlzU1BObHJlSXpldVdQVHR3T2JSWFVvUDEyWTk1Zm9RU3dCUmVmQXIyWjVBTkVpam8xVndOTTNjS3k3c0R1LVlDN09taHZHNDVTUU84TF9fZmNKWTZhQVVpeFJpVXBqb0w3TjB0V0ZDM3Q5aWFpZ1R3WVdaUl9hZURqcG5tOVhiaXIwQ3c4S2I2Q1lCMmZ6OGtqSzhVOA?oc=5\" target=\"_blank\">LNG demand in China, India and Pakistan expected to rebound after US-Iran war ends</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb19XZTBOamlRdWRZa2xJc2F1b0g2ZmlzU1BObHJlSXpldVdQVHR3T2JSWFVvUDEyWTk1Zm9RU3dCUmVmQXIyWjVBTkVpam8xVndOTTNjS3k3c0R1LVlDN09taHZHNDVTUU84TF9fZmNKWTZhQVVpeFJpVXBqb0w3TjB0V0ZDM3Q5aWFpZ1R3WVdaUl9hZURqcG5tOVhiaXIwQ3c4S2I2Q1lCMmZ6OGtqSzhVOA?oc=5",
-      "publishedAt": "Tue, 15 Sep 2026 02:17:00 GMT",
-      "titleZh": "LNG demand in China, India and Pakistan expected to rebound after US-Iran war ends - Reuters",
-      "summaryZh": "LNG demand in China, India and Pakistan expected to rebound after US-Iran war ends&nbsp;&nbsp;Reuters"
-    },
-    {
       "id": "aljazeera-news-3-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
@@ -93,32 +80,6 @@
       "publishedAt": "Tue, 15 Sep 2026 00:09:07 GMT",
       "titleZh": "Iran war updates: Houthis seize 2 islands, Saudis intensify air attacks - Al Jazeera",
       "summaryZh": "Iran war updates: Houthis seize 2 islands, Saudis intensify air attacks&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "aljazeera-news-9-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "Fiscal pressure from Iran War clouds Gulf States’ US spending plans - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQQzNBcXVZSFJ0blZSaUE4MmlWRWNOeGNWOVQzR0xrSlhSWF95bi04a3pLRmFzNE1QY2hWMmJvdEpLWkxlUjhBa0dQTy0wTlZfUThZcmFlVGZQc3c4R3ZYYlRmVXJWR1N3RkM4QW5wc3FyaFhGdjBNLW1CV2FhVlFSMG14T1J3SUJ3YnV3WjFrRHdOZlRwZVdjU2ZuNjN3V2UyNWtYcFNLYWpIRUVWTUNv0gG0AUFVX3lxTE9WOE4yYmVmTkRjdHU1T3gyTUJPdmw1Sl9NbWhFeGJSWTlvQ2hmRWdhd2lqcUUwSktGaEdqQjVQQzE3bGhjVnRmZ3Z6TGNueE5BX3BkckhJMnRndVQ1dDhUNWdwVnIxZHhqT01UaDJLUzItM1MyNVlDM3hjdnRSb29lQkxDclh6Vk5wbTRQZ1FnbFQtcmtGSlJ1OVZtQjlPMWRKbTFqTzNmZm5GZjNQaDZ2MC1xVg?oc=5\" target=\"_blank\">Fiscal pressure from Iran War clouds Gulf States’ US spending plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQzNBcXVZSFJ0blZSaUE4MmlWRWNOeGNWOVQzR0xrSlhSWF95bi04a3pLRmFzNE1QY2hWMmJvdEpLWkxlUjhBa0dQTy0wTlZfUThZcmFlVGZQc3c4R3ZYYlRmVXJWR1N3RkM4QW5wc3FyaFhGdjBNLW1CV2FhVlFSMG14T1J3SUJ3YnV3WjFrRHdOZlRwZVdjU2ZuNjN3V2UyNWtYcFNLYWpIRUVWTUNv0gG0AUFVX3lxTE9WOE4yYmVmTkRjdHU1T3gyTUJPdmw1Sl9NbWhFeGJSWTlvQ2hmRWdhd2lqcUUwSktGaEdqQjVQQzE3bGhjVnRmZ3Z6TGNueE5BX3BkckhJMnRndVQ1dDhUNWdwVnIxZHhqT01UaDJLUzItM1MyNVlDM3hjdnRSb29lQkxDclh6Vk5wbTRQZ1FnbFQtcmtGSlJ1OVZtQjlPMWRKbTFqTzNmZm5GZjNQaDZ2MC1xVg?oc=5",
-      "publishedAt": "Mon, 14 Sep 2026 14:41:22 GMT",
-      "titleZh": "Fiscal pressure from Iran War clouds Gulf States’ US spending plans - Al Jazeera",
-      "summaryZh": "Fiscal pressure from Iran War clouds Gulf States’ US spending plans&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "reuters-news-3-https://news.google.com/",
-      "sourceId": "reuters",
-      "source": "Reuters",
-      "sourceSite": "reuters.com",
-      "type": "news",
-      "title": "Etihad Airways says passenger numbers have rebounded from Iran war impact - Reuters",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNYzdYYUtHSkVTSDY0dUZQVUZzdkY3WDVCZmgteEFHcXhrNGxmVmY5X1k4dGR3Z3o4ek9CdTNycWw3Z01jcHlRUFhJYllYLUd0V3JpRF9JVzY5eDh4WEFOVVBOSDd6RXhGa3lrSFFKVlBjV2cwMDhCdG5jcE1zN180Q0J1Y3lyVXNsWE9CaHBZWHlJZGtxdXNRWFlTWmVSR3RNV2dtR2RYV1JoU3VQcllHaUhIUEhMS2UwNzY4QzQxc2dwZjRQRFhtMkExRHI1Ukk?oc=5\" target=\"_blank\">Etihad Airways says passenger numbers have rebounded from Iran war impact</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYzdYYUtHSkVTSDY0dUZQVUZzdkY3WDVCZmgteEFHcXhrNGxmVmY5X1k4dGR3Z3o4ek9CdTNycWw3Z01jcHlRUFhJYllYLUd0V3JpRF9JVzY5eDh4WEFOVVBOSDd6RXhGa3lrSFFKVlBjV2cwMDhCdG5jcE1zN180Q0J1Y3lyVXNsWE9CaHBZWHlJZGtxdXNRWFlTWmVSR3RNV2dtR2RYV1JoU3VQcllHaUhIUEhMS2UwNzY4QzQxc2dwZjRQRFhtMkExRHI1Ukk?oc=5",
-      "publishedAt": "Mon, 14 Sep 2026 14:15:11 GMT",
-      "titleZh": "Etihad Airways says passenger numbers have rebounded from Iran war impact - Reuters",
-      "summaryZh": "Etihad Airways says passenger numbers have rebounded from Iran war impact&nbsp;&nbsp;Reuters"
     },
     {
       "id": "zaobao-news-0-https://news.google.com/",
@@ -134,59 +95,7 @@
       "summaryZh": "伊朗与波斯湾国家会议推迟 霍尔木兹海峡局势短期难有外交突破&nbsp;&nbsp;联合早报"
     },
     {
-      "id": "reuters-news-1-https://news.google.com/",
-      "sourceId": "reuters",
-      "source": "Reuters",
-      "sourceSite": "reuters.com",
-      "type": "news",
-      "title": "AirBaltic files for Chapter 11 bankruptcy as Iran war costs bite - Reuters",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOSTBsQlVVMThMRmZ6a3gxOE5lRG1fbENPRnEwUmlWN3pXNUdGT1ZhMDZOQnFMbGZWZUk5ZTQzYUd0VVByOXdZVy01ZE85UTJ2dVBIZW1EX0ZzZjVaRjRyc09PTkpGQlJQc0JGQmh3b1J0NkllWFItWHhaNTVIRUxrbEJVaWQyVkpfcm0zcks0X1ZZdw?oc=5\" target=\"_blank\">AirBaltic files for Chapter 11 bankruptcy as Iran war costs bite</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSTBsQlVVMThMRmZ6a3gxOE5lRG1fbENPRnEwUmlWN3pXNUdGT1ZhMDZOQnFMbGZWZUk5ZTQzYUd0VVByOXdZVy01ZE85UTJ2dVBIZW1EX0ZzZjVaRjRyc09PTkpGQlJQc0JGQmh3b1J0NkllWFItWHhaNTVIRUxrbEJVaWQyVkpfcm0zcks0X1ZZdw?oc=5",
-      "publishedAt": "Mon, 14 Sep 2026 06:47:00 GMT",
-      "titleZh": "AirBaltic files for Chapter 11 bankruptcy as Iran war costs bite - Reuters",
-      "summaryZh": "AirBaltic files for Chapter 11 bankruptcy as Iran war costs bite&nbsp;&nbsp;Reuters"
-    },
-    {
-      "id": "reuters-news-4-https://news.google.com/",
-      "sourceId": "reuters",
-      "source": "Reuters",
-      "sourceSite": "reuters.com",
-      "type": "news",
-      "title": "COMMENTARY: Oil markets survived the Iran war sprint. Now comes the marathon - Reuters",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYkNyZjhwWkFHcjR0aVV2b3lPNFROSy0tNDZBQVJpWE9JelJyVWhtNFJjWlY3OW56NmdXY2s3Q0luV1h1cGZnRXJiM0VzMWxqVDFROENnOEFFMHpPN2VfWXJYTjZ3TW1EWlZLdU16clZBN28wVlI4SXJYeWR1U3kzZlAyempIWXVhaC1LdWNKbVo3QS1YMjZucjZnd3FTdnNaWmpNd2phODkxTlFwcng2aWo3WjZhdUdCOXZBejRyaW5kdw?oc=5\" target=\"_blank\">COMMENTARY: Oil markets survived the Iran war sprint. Now comes the marathon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYkNyZjhwWkFHcjR0aVV2b3lPNFROSy0tNDZBQVJpWE9JelJyVWhtNFJjWlY3OW56NmdXY2s3Q0luV1h1cGZnRXJiM0VzMWxqVDFROENnOEFFMHpPN2VfWXJYTjZ3TW1EWlZLdU16clZBN28wVlI4SXJYeWR1U3kzZlAyempIWXVhaC1LdWNKbVo3QS1YMjZucjZnd3FTdnNaWmpNd2phODkxTlFwcng2aWo3WjZhdUdCOXZBejRyaW5kdw?oc=5",
-      "publishedAt": "Mon, 14 Sep 2026 06:02:49 GMT",
-      "titleZh": "COMMENTARY: Oil markets survived the Iran war sprint. Now comes the marathon - Reuters",
-      "summaryZh": "COMMENTARY: Oil markets survived the Iran war sprint. Now comes the marathon&nbsp;&nbsp;Reuters"
-    },
-    {
-      "id": "aljazeera-news-5-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "Iran war updates: Houthi vehicles in Dhubab, Mocha hit by Yemen’s army - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPdjJYYTEtc01jR1hnV3dPbDl1SW9GTlM3cmpZSkM1OFBsNm5pLVpTS3ZwbkdMQXN3YkdkVW5wUDNyUHBKeE01NUFvd3RDYUlMUlM2VGwwbUtodV9uTkhNYzFTR0h4NTdRbklvNUlZbjQ5aDZ1WTZZbzUtQTJ6U3BsaHRHZGVibkdVSkZaQ2NUMDk2Vk5lbHgwZFhjT0JvTjJOSkRjT01EYVNMOVFCbWF6bENSRWU5bjFRN0s3YlRR0gHDAUFVX3lxTE80eEFuVVFCNXR0dWhobEFRNTFGX0ZTQzJVT2NGQlh4djNpR2cySEl0ZHlXdmdNQ2I4Y0xhRDBOLXYzdGt6bkRRNlJCcFJ2X2dkMDg4R1hFeUplLTEwM3dDS2E4RU1GWllqU205OFgtVFJsWDk0OHk4RTdGX0F2MWppZW5vbGxjcTdteFZTZ1VzaVVaTlpWaGYzZE9IQzFfOFFVdUF2TzZUV3ZYSUhmSG9FenEyWkRGMkFtOHFfaUpoOFRUYw?oc=5\" target=\"_blank\">Iran war updates: Houthi vehicles in Dhubab, Mocha hit by Yemen’s army</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdjJYYTEtc01jR1hnV3dPbDl1SW9GTlM3cmpZSkM1OFBsNm5pLVpTS3ZwbkdMQXN3YkdkVW5wUDNyUHBKeE01NUFvd3RDYUlMUlM2VGwwbUtodV9uTkhNYzFTR0h4NTdRbklvNUlZbjQ5aDZ1WTZZbzUtQTJ6U3BsaHRHZGVibkdVSkZaQ2NUMDk2Vk5lbHgwZFhjT0JvTjJOSkRjT01EYVNMOVFCbWF6bENSRWU5bjFRN0s3YlRR0gHDAUFVX3lxTE80eEFuVVFCNXR0dWhobEFRNTFGX0ZTQzJVT2NGQlh4djNpR2cySEl0ZHlXdmdNQ2I4Y0xhRDBOLXYzdGt6bkRRNlJCcFJ2X2dkMDg4R1hFeUplLTEwM3dDS2E4RU1GWllqU205OFgtVFJsWDk0OHk4RTdGX0F2MWppZW5vbGxjcTdteFZTZ1VzaVVaTlpWaGYzZE9IQzFfOFFVdUF2TzZUV3ZYSUhmSG9FenEyWkRGMkFtOHFfaUpoOFRUYw?oc=5",
-      "publishedAt": "Sun, 13 Sep 2026 23:28:05 GMT",
-      "titleZh": "Iran war updates: Houthi vehicles in Dhubab, Mocha hit by Yemen’s army - Al Jazeera",
-      "summaryZh": "Iran war updates: Houthi vehicles in Dhubab, Mocha hit by Yemen’s army&nbsp;&nbsp;Al Jazeera"
-    },
-    {
       "id": "aljazeera-news-4-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "The Iran war reveals the limits of BRICS - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNX0Q3eEEtNnBfMDlyVTZNZjU0MXRpd0I3X1RzSkl2bFdJWUpIRGxjamN3MDlvQS1nOVpOM2U0YzFSdXNCdkx5MFhQeXlibnV0RlVDNG11emcxMWRXNmFVc2U3ek5EbDV1M25ET0VNd3JRTHlxWXVmbFRRaVN4YUNaOE5BMmp1d9IBiwFBVV95cUxPYV9SWXdINDBrdGMtN1dNcGxfZzFwRFc3ck9pd2kxa1Rqd1QzQXB0V2FJWWdObVd5U0szdzk1aVdscmF1SlVGeUE4QW9PVEFqWnJDcjZSbnpWOV9hRVJUTk5IVEIwcHo4bzM4dXU5c0VMdWxSblpaZTJpNVFYbEVtd0RTSWJQYjhiSE1j?oc=5\" target=\"_blank\">The Iran war reveals the limits of BRICS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX0Q3eEEtNnBfMDlyVTZNZjU0MXRpd0I3X1RzSkl2bFdJWUpIRGxjamN3MDlvQS1nOVpOM2U0YzFSdXNCdkx5MFhQeXlibnV0RlVDNG11emcxMWRXNmFVc2U3ek5EbDV1M25ET0VNd3JRTHlxWXVmbFRRaVN4YUNaOE5BMmp1d9IBiwFBVV95cUxPYV9SWXdINDBrdGMtN1dNcGxfZzFwRFc3ck9pd2kxa1Rqd1QzQXB0V2FJWWdObVd5U0szdzk1aVdscmF1SlVGeUE4QW9PVEFqWnJDcjZSbnpWOV9hRVJUTk5IVEIwcHo4bzM4dXU5c0VMdWxSblpaZTJpNVFYbEVtd0RTSWJQYjhiSE1j?oc=5",
-      "publishedAt": "Sun, 13 Sep 2026 12:49:32 GMT",
-      "titleZh": "The Iran war reveals the limits of BRICS - Al Jazeera",
-      "summaryZh": "The Iran war reveals the limits of BRICS&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "aljazeera-news-6-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -199,20 +108,7 @@
       "summaryZh": "Iran war updates: Houthis warn against intervention&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "bbc-news-1-https://news.google.com/",
-      "sourceId": "bbc",
-      "source": "BBC",
-      "sourceSite": "bbc.com",
-      "type": "news",
-      "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war - BBC",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vQlZpVXV2Q214SGQxUFQ0SUJyUzlob3NBOW04SkhGbnpIcVQ4QTVYWDNrcF9TWWdTRjEwR0prS1hMN2E4UjN3aDh5NE5RdUY2c2Z5N212b3BVZw?oc=5\" target=\"_blank\">Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vQlZpVXV2Q214SGQxUFQ0SUJyUzlob3NBOW04SkhGbnpIcVQ4QTVYWDNrcF9TWWdTRjEwR0prS1hMN2E4UjN3aDh5NE5RdUY2c2Z5N212b3BVZw?oc=5",
-      "publishedAt": "Fri, 11 Sep 2026 19:44:58 GMT",
-      "titleZh": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war - BBC",
-      "summaryZh": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war&nbsp;&nbsp;BBC"
-    },
-    {
-      "id": "aljazeera-news-8-https://news.google.com/",
+      "id": "aljazeera-news-6-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -225,7 +121,7 @@
       "summaryZh": "Iran war updates: UNSC meets on Yemen after Houthis seize city of Mocha&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-7-https://news.google.com/",
+      "id": "aljazeera-news-5-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -238,7 +134,33 @@
       "summaryZh": "Iran war updates: US says no major operations against Iran; options open&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "bbc-news-7-https://news.google.com/",
+      "id": "reuters-news-0-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
+      "type": "news",
+      "title": "US-Iran strikes raise fears of renewed war across the Middle East - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxORjZ4d3JRTk1WcXR6eThpVm1wcVpzQV8wMm42eDB4bDJRMVhxelJpdmZTYXVPQ0JTUmtiNXFVWEZyb1NBTTZibmZJTkk4bjlRNGwtWTU1OF8zXzhENVZhWDN4TUwzekdfVG8xWUpmY3hmcHBDQk5TUzBLSERGbFJ0c05nekFpclo3cFdMcm93dHlEUXctVTY2MjJIMkkxSTRGWnc?oc=5\" target=\"_blank\">US-Iran strikes raise fears of renewed war across the Middle East</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORjZ4d3JRTk1WcXR6eThpVm1wcVpzQV8wMm42eDB4bDJRMVhxelJpdmZTYXVPQ0JTUmtiNXFVWEZyb1NBTTZibmZJTkk4bjlRNGwtWTU1OF8zXzhENVZhWDN4TUwzekdfVG8xWUpmY3hmcHBDQk5TUzBLSERGbFJ0c05nekFpclo3cFdMcm93dHlEUXctVTY2MjJIMkkxSTRGWnc?oc=5",
+      "publishedAt": "Wed, 02 Sep 2026 07:00:00 GMT",
+      "titleZh": "US-Iran strikes raise fears of renewed war across the Middle East - Reuters",
+      "summaryZh": "US-Iran strikes raise fears of renewed war across the Middle East&nbsp;&nbsp;Reuters"
+    },
+    {
+      "id": "aljazeera-news-7-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "US-Israel war on Iran, six months down the line: In numbers - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNcy1NQzdyLWdscWpPa3BXeFoydjY5eXJxYnh3eXdSajYxckNKNW4zVl8tdEFwcXlvX1VfMVg3ZkVLNG1uM0x2TzBNdDN5cjFVYi0wZHlWSlNiODJ1QV82SlIwS0QwS0k0V3JCZUZvMEM3OE1fQWFJTGtnUFhoU203YmI2elY2SjQ1Q29zMWxxMXRVcnh3bEthdzRwbUQ5NTjSAaQBQVVfeXFMTmFSOXFHWlJWRFA1SWhMRmpXYkZ0UTlIdHl6dXVGUnFxVTVhalptTGFDc210dkJsc0lDR3NWUFVqdV9fVVFDNGMyVldHbHd2MWZRYUlSNW0tc3gwZ3V4MjNhcWJkZVAzVC1icHlyNnJXUl9ZTS11d0xtaVhxYUNTWHBDUlVJU1dBdTI3TjF1UHBEenYtSVhRTGxWV0hRR09LT1k5QWc?oc=5\" target=\"_blank\">US-Israel war on Iran, six months down the line: In numbers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcy1NQzdyLWdscWpPa3BXeFoydjY5eXJxYnh3eXdSajYxckNKNW4zVl8tdEFwcXlvX1VfMVg3ZkVLNG1uM0x2TzBNdDN5cjFVYi0wZHlWSlNiODJ1QV82SlIwS0QwS0k0V3JCZUZvMEM3OE1fQWFJTGtnUFhoU203YmI2elY2SjQ1Q29zMWxxMXRVcnh3bEthdzRwbUQ5NTjSAaQBQVVfeXFMTmFSOXFHWlJWRFA1SWhMRmpXYkZ0UTlIdHl6dXVGUnFxVTVhalptTGFDc210dkJsc0lDR3NWUFVqdV9fVVFDNGMyVldHbHd2MWZRYUlSNW0tc3gwZ3V4MjNhcWJkZVAzVC1icHlyNnJXUl9ZTS11d0xtaVhxYUNTWHBDUlVJU1dBdTI3TjF1UHBEenYtSVhRTGxWV0hRR09LT1k5QWc?oc=5",
+      "publishedAt": "Fri, 28 Aug 2026 07:00:00 GMT",
+      "titleZh": "US-Israel war on Iran, six months down the line: In numbers - Al Jazeera",
+      "summaryZh": "US-Israel war on Iran, six months down the line: In numbers&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "bbc-news-6-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -251,7 +173,7 @@
       "summaryZh": "美国制裁伊朗经济新措施 为何对中国“松手”？&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-8-https://news.google.com/",
+      "id": "bbc-news-7-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -264,7 +186,7 @@
       "summaryZh": "伊朗跟美国、以色列打仗 还能撑多久？&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-9-https://news.google.com/",
+      "id": "bbc-news-8-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -277,7 +199,7 @@
       "summaryZh": "特朗普表示同意取消对伊朗的打击，前提是能“迅速”达成协议&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-3-https://news.google.com/",
+      "id": "bbc-news-2-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -303,7 +225,7 @@
       "summaryZh": "Iran war updates: IRGC says 8 US military sites destroyed&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "bbc-news-6-https://news.google.com/",
+      "id": "bbc-news-5-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -316,7 +238,20 @@
       "summaryZh": "Iran deal presents political nightmare for Netanyahu&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-5-https://news.google.com/",
+      "id": "bbc-news-9-https://news.google.com/",
+      "sourceId": "bbc",
+      "source": "BBC",
+      "sourceSite": "bbc.com",
+      "type": "news",
+      "title": "伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限 - BBC",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mQ3BJTE9ES1ZqQ1dXQ1cyN0hpMTVqeWt2UmJZRHF4VEZOXzVWM3hLdGRkNlhxTkRvaTNjd1dBZUd1VHBMRExfR0ltQWlTU0tpNjFZMDZjUkd4TnliUE9WdEVNSmlXUdIBa0FVX3lxTE5LWDVfd0hjUUVYVkpxcHhBRkpsX05DYVRNbmk1N3FJV05lY1hoZ1o5aDFNaDExV1FHaDQ0VHlsZm5kUVQzc3Z3cTB5WGg2T0Q4MDZUd01NT0lENFlCcEpmQlFka1UyRGREWDVB?oc=5\" target=\"_blank\">伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mQ3BJTE9ES1ZqQ1dXQ1cyN0hpMTVqeWt2UmJZRHF4VEZOXzVWM3hLdGRkNlhxTkRvaTNjd1dBZUd1VHBMRExfR0ltQWlTU0tpNjFZMDZjUkd4TnliUE9WdEVNSmlXUdIBa0FVX3lxTE5LWDVfd0hjUUVYVkpxcHhBRkpsX05DYVRNbmk1N3FJV05lY1hoZ1o5aDFNaDExV1FHaDQ0VHlsZm5kUVQzc3Z3cTB5WGg2T0Q4MDZUd01NT0lENFlCcEpmQlFka1UyRGREWDVB?oc=5",
+      "publishedAt": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "titleZh": "伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限 - BBC",
+      "summaryZh": "伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限&nbsp;&nbsp;BBC"
+    },
+    {
+      "id": "bbc-news-4-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -329,7 +264,33 @@
       "summaryZh": "US and Iran exchange strikes across Middle East for second day in a row&nbsp;&nbsp;BBC"
     },
     {
-      "id": "bbc-news-4-https://news.google.com/",
+      "id": "aljazeera-news-8-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "How have countries around the world responded to the US-Israel war on Iran? - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOcUhQekE3N0RCZlNiWGdNTmhoNFM5OUMxaklWX0M2dTN3Q3poM3R5bTNMS2NVY0JzN1o0TUVtMnh4NXkxOXZIZ2xrb2NuTDV3dVJhbTdoVm1LTVloc2tPTGZ2TE5oNnByWmdva1AxanNvckJIcHFBV3E5blRBclVMOERnYkNSVFlEVC03VHNlMVNuVjhVWVh6eUJvdm9XVkh0M29yM1hqX2MxenVXV1pscExEcHHSAboBQVVfeXFMUGJ0UUtUOHF2UFlQVEt5M0JrVVVCNlRVSnRxLUVtSFpSQU50bHVJZ0tpSGVhd0ZSYy1JMkFaek1MTlpma0hNSldFWkRfa3ZCbXQ3TmZIMlFveUJtcHV5V0dEeWIzUWN5alliTGE5OE9sMkJEN200U0w5U2tRSXJFcXBrVUJrNDR5NXdZTXU5ejloaDJRMy1XTzVDYkFYa0lhV1g0OHdQWlAxS19oSUhvMlprNTVPWWlLMi1B?oc=5\" target=\"_blank\">How have countries around the world responded to the US-Israel war on Iran?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcUhQekE3N0RCZlNiWGdNTmhoNFM5OUMxaklWX0M2dTN3Q3poM3R5bTNMS2NVY0JzN1o0TUVtMnh4NXkxOXZIZ2xrb2NuTDV3dVJhbTdoVm1LTVloc2tPTGZ2TE5oNnByWmdva1AxanNvckJIcHFBV3E5blRBclVMOERnYkNSVFlEVC03VHNlMVNuVjhVWVh6eUJvdm9XVkh0M29yM1hqX2MxenVXV1pscExEcHHSAboBQVVfeXFMUGJ0UUtUOHF2UFlQVEt5M0JrVVVCNlRVSnRxLUVtSFpSQU50bHVJZ0tpSGVhd0ZSYy1JMkFaek1MTlpma0hNSldFWkRfa3ZCbXQ3TmZIMlFveUJtcHV5V0dEeWIzUWN5alliTGE5OE9sMkJEN200U0w5U2tRSXJFcXBrVUJrNDR5NXdZTXU5ejloaDJRMy1XTzVDYkFYa0lhV1g0OHdQWlAxS19oSUhvMlprNTVPWWlLMi1B?oc=5",
+      "publishedAt": "Sun, 07 Jun 2026 07:00:00 GMT",
+      "titleZh": "How have countries around the world responded to the US-Israel war on Iran? - Al Jazeera",
+      "summaryZh": "How have countries around the world responded to the US-Israel war on Iran?&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "aljazeera-news-9-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "Iran war 100 days: How the conflict impacted Iran and the world - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNenlMTUNlaVd2MnlwZ2VyQk45TXZHaUxhNFBodW45S2tPU21ueWpnakpBMGZWWTI1QVNpd18xdThldW9oRjRHeld1SF9iTHRYelJjMF9kbHJkUVdrUkxGOTlPUThscU1NMFlYaEpHS09kMW9kblpiT2hocXFFLXlGOTQ0U0JraUVPdGttZUh6cU8zSUxMUEdV0gGcAUFVX3lxTE1QUG55b1dldzRJVGY4a2ZSZjlBNmFVenBRTld0VDRqRjdnZVQ0NFJkbGFrbjNqOFlOMlpTNGk2cm04MFBQckxScEd3Si11cngxTUJXcGtiQXktcEltM29kSERaMUYtTllQRjB4cHdubk5CWHRiYlRQM2s0WG5Pc19vMlkyT21xNVl6SkNDNmJJbzE0S3Q3MmtvaVBkbQ?oc=5\" target=\"_blank\">Iran war 100 days: How the conflict impacted Iran and the world</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNenlMTUNlaVd2MnlwZ2VyQk45TXZHaUxhNFBodW45S2tPU21ueWpnakpBMGZWWTI1QVNpd18xdThldW9oRjRHeld1SF9iTHRYelJjMF9kbHJkUVdrUkxGOTlPUThscU1NMFlYaEpHS09kMW9kblpiT2hocXFFLXlGOTQ0U0JraUVPdGttZUh6cU8zSUxMUEdV0gGcAUFVX3lxTE1QUG55b1dldzRJVGY4a2ZSZjlBNmFVenBRTld0VDRqRjdnZVQ0NFJkbGFrbjNqOFlOMlpTNGk2cm04MFBQckxScEd3Si11cngxTUJXcGtiQXktcEltM29kSERaMUYtTllQRjB4cHdubk5CWHRiYlRQM2s0WG5Pc19vMlkyT21xNVl6SkNDNmJJbzE0S3Q3MmtvaVBkbQ?oc=5",
+      "publishedAt": "Sun, 07 Jun 2026 07:00:00 GMT",
+      "titleZh": "Iran war 100 days: How the conflict impacted Iran and the world - Al Jazeera",
+      "summaryZh": "Iran war 100 days: How the conflict impacted Iran and the world&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "bbc-news-3-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -348,17 +309,17 @@
       "source": "Reuters",
       "items": [
         {
-          "id": "reuters-news-2-https://news.google.com/",
+          "id": "reuters-news-1-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
           "type": "news",
-          "title": "China's August oil throughput rises as fuel exports rebound amid Iran war - Reuters",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY3JiM0k1cEJ2SDhnVmNCbHJpeWlQWTJyWjVTUDlSX0dhM0I4MHAwOHltcFl6WW5RazFEWE0yYk1ja0hJcnE1cWpJYVZDZFp0cW1XeVpMeXFEc01veFFRRmNZeFhkSXBIeFphV0pYU3NGZjJNbzhfRlFrUk5Gc3puWVo2SllOZm5CM19xZ2dSWGV3aGpzdkdOTFpRVHVMNDRyMTB1WWJRSVFKbVV6YXRJNG9JZU1iMk9XRF9KMlFXUHdNZw?oc=5\" target=\"_blank\">China's August oil throughput rises as fuel exports rebound amid Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY3JiM0k1cEJ2SDhnVmNCbHJpeWlQWTJyWjVTUDlSX0dhM0I4MHAwOHltcFl6WW5RazFEWE0yYk1ja0hJcnE1cWpJYVZDZFp0cW1XeVpMeXFEc01veFFRRmNZeFhkSXBIeFphV0pYU3NGZjJNbzhfRlFrUk5Gc3puWVo2SllOZm5CM19xZ2dSWGV3aGpzdkdOTFpRVHVMNDRyMTB1WWJRSVFKbVV6YXRJNG9JZU1iMk9XRF9KMlFXUHdNZw?oc=5",
-          "publishedAt": "Tue, 15 Sep 2026 05:12:00 GMT",
-          "titleZh": "China's August oil throughput rises as fuel exports rebound amid Iran war - Reuters",
-          "summaryZh": "China's August oil throughput rises as fuel exports rebound amid Iran war&nbsp;&nbsp;Reuters"
+          "title": "Iran war cost hits $38 billion, forecast to rise $3 billion a month, CBO says - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQNEs4SmV2UTYzblAwenVTemk5SWQtMTRPbkpoLTVxaEVrYzBYNDJfX0RrSmVVZVZadlFBVnF0WkJNeGc5czMxVWREeDFtS0dZeGJ2V2tqSVg5VWM5UUFtN1hsMXlPX3g4d1RMbk5BR1oxcVdyYjBIaHg0bFl1SXY1dDMzazVEZlNBOHdCWm8zRno2Vjc1TEJ6ekdnQ25COEVkS3FVNHJmeWEyRVZJd2p3aF80RFlhZmVtREhQbkpIdw?oc=5\" target=\"_blank\">Iran war cost hits $38 billion, forecast to rise $3 billion a month, CBO says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNEs4SmV2UTYzblAwenVTemk5SWQtMTRPbkpoLTVxaEVrYzBYNDJfX0RrSmVVZVZadlFBVnF0WkJNeGc5czMxVWREeDFtS0dZeGJ2V2tqSVg5VWM5UUFtN1hsMXlPX3g4d1RMbk5BR1oxcVdyYjBIaHg0bFl1SXY1dDMzazVEZlNBOHdCWm8zRno2Vjc1TEJ6ekdnQ25COEVkS3FVNHJmeWEyRVZJd2p3aF80RFlhZmVtREhQbkpIdw?oc=5",
+          "publishedAt": "Tue, 15 Sep 2026 19:33:12 GMT",
+          "titleZh": "Iran war cost hits $38 billion, forecast to rise $3 billion a month, CBO says - Reuters",
+          "summaryZh": "Iran war cost hits $38 billion, forecast to rise $3 billion a month, CBO says&nbsp;&nbsp;Reuters"
         },
         {
           "id": "reuters-news-0-https://news.google.com/",
@@ -366,51 +327,12 @@
           "source": "Reuters",
           "sourceSite": "reuters.com",
           "type": "news",
-          "title": "LNG demand in China, India and Pakistan expected to rebound after US-Iran war ends - Reuters",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQb19XZTBOamlRdWRZa2xJc2F1b0g2ZmlzU1BObHJlSXpldVdQVHR3T2JSWFVvUDEyWTk1Zm9RU3dCUmVmQXIyWjVBTkVpam8xVndOTTNjS3k3c0R1LVlDN09taHZHNDVTUU84TF9fZmNKWTZhQVVpeFJpVXBqb0w3TjB0V0ZDM3Q5aWFpZ1R3WVdaUl9hZURqcG5tOVhiaXIwQ3c4S2I2Q1lCMmZ6OGtqSzhVOA?oc=5\" target=\"_blank\">LNG demand in China, India and Pakistan expected to rebound after US-Iran war ends</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb19XZTBOamlRdWRZa2xJc2F1b0g2ZmlzU1BObHJlSXpldVdQVHR3T2JSWFVvUDEyWTk1Zm9RU3dCUmVmQXIyWjVBTkVpam8xVndOTTNjS3k3c0R1LVlDN09taHZHNDVTUU84TF9fZmNKWTZhQVVpeFJpVXBqb0w3TjB0V0ZDM3Q5aWFpZ1R3WVdaUl9hZURqcG5tOVhiaXIwQ3c4S2I2Q1lCMmZ6OGtqSzhVOA?oc=5",
-          "publishedAt": "Tue, 15 Sep 2026 02:17:00 GMT",
-          "titleZh": "LNG demand in China, India and Pakistan expected to rebound after US-Iran war ends - Reuters",
-          "summaryZh": "LNG demand in China, India and Pakistan expected to rebound after US-Iran war ends&nbsp;&nbsp;Reuters"
-        },
-        {
-          "id": "reuters-news-3-https://news.google.com/",
-          "sourceId": "reuters",
-          "source": "Reuters",
-          "sourceSite": "reuters.com",
-          "type": "news",
-          "title": "Etihad Airways says passenger numbers have rebounded from Iran war impact - Reuters",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNYzdYYUtHSkVTSDY0dUZQVUZzdkY3WDVCZmgteEFHcXhrNGxmVmY5X1k4dGR3Z3o4ek9CdTNycWw3Z01jcHlRUFhJYllYLUd0V3JpRF9JVzY5eDh4WEFOVVBOSDd6RXhGa3lrSFFKVlBjV2cwMDhCdG5jcE1zN180Q0J1Y3lyVXNsWE9CaHBZWHlJZGtxdXNRWFlTWmVSR3RNV2dtR2RYV1JoU3VQcllHaUhIUEhMS2UwNzY4QzQxc2dwZjRQRFhtMkExRHI1Ukk?oc=5\" target=\"_blank\">Etihad Airways says passenger numbers have rebounded from Iran war impact</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYzdYYUtHSkVTSDY0dUZQVUZzdkY3WDVCZmgteEFHcXhrNGxmVmY5X1k4dGR3Z3o4ek9CdTNycWw3Z01jcHlRUFhJYllYLUd0V3JpRF9JVzY5eDh4WEFOVVBOSDd6RXhGa3lrSFFKVlBjV2cwMDhCdG5jcE1zN180Q0J1Y3lyVXNsWE9CaHBZWHlJZGtxdXNRWFlTWmVSR3RNV2dtR2RYV1JoU3VQcllHaUhIUEhMS2UwNzY4QzQxc2dwZjRQRFhtMkExRHI1Ukk?oc=5",
-          "publishedAt": "Mon, 14 Sep 2026 14:15:11 GMT",
-          "titleZh": "Etihad Airways says passenger numbers have rebounded from Iran war impact - Reuters",
-          "summaryZh": "Etihad Airways says passenger numbers have rebounded from Iran war impact&nbsp;&nbsp;Reuters"
-        },
-        {
-          "id": "reuters-news-1-https://news.google.com/",
-          "sourceId": "reuters",
-          "source": "Reuters",
-          "sourceSite": "reuters.com",
-          "type": "news",
-          "title": "AirBaltic files for Chapter 11 bankruptcy as Iran war costs bite - Reuters",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOSTBsQlVVMThMRmZ6a3gxOE5lRG1fbENPRnEwUmlWN3pXNUdGT1ZhMDZOQnFMbGZWZUk5ZTQzYUd0VVByOXdZVy01ZE85UTJ2dVBIZW1EX0ZzZjVaRjRyc09PTkpGQlJQc0JGQmh3b1J0NkllWFItWHhaNTVIRUxrbEJVaWQyVkpfcm0zcks0X1ZZdw?oc=5\" target=\"_blank\">AirBaltic files for Chapter 11 bankruptcy as Iran war costs bite</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSTBsQlVVMThMRmZ6a3gxOE5lRG1fbENPRnEwUmlWN3pXNUdGT1ZhMDZOQnFMbGZWZUk5ZTQzYUd0VVByOXdZVy01ZE85UTJ2dVBIZW1EX0ZzZjVaRjRyc09PTkpGQlJQc0JGQmh3b1J0NkllWFItWHhaNTVIRUxrbEJVaWQyVkpfcm0zcks0X1ZZdw?oc=5",
-          "publishedAt": "Mon, 14 Sep 2026 06:47:00 GMT",
-          "titleZh": "AirBaltic files for Chapter 11 bankruptcy as Iran war costs bite - Reuters",
-          "summaryZh": "AirBaltic files for Chapter 11 bankruptcy as Iran war costs bite&nbsp;&nbsp;Reuters"
-        },
-        {
-          "id": "reuters-news-4-https://news.google.com/",
-          "sourceId": "reuters",
-          "source": "Reuters",
-          "sourceSite": "reuters.com",
-          "type": "news",
-          "title": "COMMENTARY: Oil markets survived the Iran war sprint. Now comes the marathon - Reuters",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYkNyZjhwWkFHcjR0aVV2b3lPNFROSy0tNDZBQVJpWE9JelJyVWhtNFJjWlY3OW56NmdXY2s3Q0luV1h1cGZnRXJiM0VzMWxqVDFROENnOEFFMHpPN2VfWXJYTjZ3TW1EWlZLdU16clZBN28wVlI4SXJYeWR1U3kzZlAyempIWXVhaC1LdWNKbVo3QS1YMjZucjZnd3FTdnNaWmpNd2phODkxTlFwcng2aWo3WjZhdUdCOXZBejRyaW5kdw?oc=5\" target=\"_blank\">COMMENTARY: Oil markets survived the Iran war sprint. Now comes the marathon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYkNyZjhwWkFHcjR0aVV2b3lPNFROSy0tNDZBQVJpWE9JelJyVWhtNFJjWlY3OW56NmdXY2s3Q0luV1h1cGZnRXJiM0VzMWxqVDFROENnOEFFMHpPN2VfWXJYTjZ3TW1EWlZLdU16clZBN28wVlI4SXJYeWR1U3kzZlAyempIWXVhaC1LdWNKbVo3QS1YMjZucjZnd3FTdnNaWmpNd2phODkxTlFwcng2aWo3WjZhdUdCOXZBejRyaW5kdw?oc=5",
-          "publishedAt": "Mon, 14 Sep 2026 06:02:49 GMT",
-          "titleZh": "COMMENTARY: Oil markets survived the Iran war sprint. Now comes the marathon - Reuters",
-          "summaryZh": "COMMENTARY: Oil markets survived the Iran war sprint. Now comes the marathon&nbsp;&nbsp;Reuters"
+          "title": "US-Iran strikes raise fears of renewed war across the Middle East - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxORjZ4d3JRTk1WcXR6eThpVm1wcVpzQV8wMm42eDB4bDJRMVhxelJpdmZTYXVPQ0JTUmtiNXFVWEZyb1NBTTZibmZJTkk4bjlRNGwtWTU1OF8zXzhENVZhWDN4TUwzekdfVG8xWUpmY3hmcHBDQk5TUzBLSERGbFJ0c05nekFpclo3cFdMcm93dHlEUXctVTY2MjJIMkkxSTRGWnc?oc=5\" target=\"_blank\">US-Iran strikes raise fears of renewed war across the Middle East</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORjZ4d3JRTk1WcXR6eThpVm1wcVpzQV8wMm42eDB4bDJRMVhxelJpdmZTYXVPQ0JTUmtiNXFVWEZyb1NBTTZibmZJTkk4bjlRNGwtWTU1OF8zXzhENVZhWDN4TUwzekdfVG8xWUpmY3hmcHBDQk5TUzBLSERGbFJ0c05nekFpclo3cFdMcm93dHlEUXctVTY2MjJIMkkxSTRGWnc?oc=5",
+          "publishedAt": "Wed, 02 Sep 2026 07:00:00 GMT",
+          "titleZh": "US-Iran strikes raise fears of renewed war across the Middle East - Reuters",
+          "summaryZh": "US-Iran strikes raise fears of renewed war across the Middle East&nbsp;&nbsp;Reuters"
         }
       ]
     },
@@ -419,7 +341,20 @@
       "source": "BBC",
       "items": [
         {
-          "id": "bbc-news-2-https://news.google.com/",
+          "id": "bbc-news-1-https://news.google.com/",
+          "sourceId": "bbc",
+          "source": "BBC",
+          "sourceSite": "bbc.com",
+          "type": "news",
+          "title": "More than 750 US service members wounded since start of Iran War - KOAT",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOdENZcW1ibHJNS0RoVUs3SDg4UnpLcExXaU1XOXJaOS1sSm90TmZfNVZYU3I2blk3RzluMXFkVVlxTy1VbU55cE1yaWYwWnBieF9PSmt4d2hDYUZqWkVLVUZtdFNTWTczNGx4WTNlbjM1dW9Za1BBcDlaeUtxVDVRaHV4RQ?oc=5\" target=\"_blank\">More than 750 US service members wounded since start of Iran War</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOAT</font>",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdENZcW1ibHJNS0RoVUs3SDg4UnpLcExXaU1XOXJaOS1sSm90TmZfNVZYU3I2blk3RzluMXFkVVlxTy1VbU55cE1yaWYwWnBieF9PSmt4d2hDYUZqWkVLVUZtdFNTWTczNGx4WTNlbjM1dW9Za1BBcDlaeUtxVDVRaHV4RQ?oc=5",
+          "publishedAt": "Tue, 15 Sep 2026 19:31:00 GMT",
+          "titleZh": "More than 750 US service members wounded since start of Iran War - KOAT",
+          "summaryZh": "More than 750 US service members wounded since start of Iran War&nbsp;&nbsp;KOAT"
+        },
+        {
+          "id": "bbc-news-0-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -432,33 +367,7 @@
           "summaryZh": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms&nbsp;&nbsp;BBC"
         },
         {
-          "id": "bbc-news-0-https://news.google.com/",
-          "sourceId": "bbc",
-          "source": "BBC",
-          "sourceSite": "bbc.com",
-          "type": "news",
-          "title": "US DoD inspector general report says Iran war resulted in munitions shortfall & ‘bottlenecks’ | LIVE BLOG - i24NEWS",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSmRud3hkbnlJMThSUThmcVFlY3RIdlQ5cHo1VHBySFNVVHU4VVFRUTc4NFhLclZ0ZUY2QUFCUlpuNmlFaXJrQ0I2MTVhS3RiYzMxVmM5ZzgtcjR1OEFtYVRvSVBBcF9lZlhZZGgyeENjcTBEdDBIR0VCX2lTNzcyMnNUUGhpelotVVdUR0N0SWpoazlpdE9yM0I1Y0NlXzhHZnF2dkRZbEJBdXExRjV3cC1lREZTeDlWbFhwMDNGYzNnZ0VlNk9Cc25BYXRZNWZoSTNGUW5OdDF5RGhNWk5YbE9MWQ?oc=5\" target=\"_blank\">US DoD inspector general report says Iran war resulted in munitions shortfall & ‘bottlenecks’ | LIVE BLOG</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">i24NEWS</font>",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSmRud3hkbnlJMThSUThmcVFlY3RIdlQ5cHo1VHBySFNVVHU4VVFRUTc4NFhLclZ0ZUY2QUFCUlpuNmlFaXJrQ0I2MTVhS3RiYzMxVmM5ZzgtcjR1OEFtYVRvSVBBcF9lZlhZZGgyeENjcTBEdDBIR0VCX2lTNzcyMnNUUGhpelotVVdUR0N0SWpoazlpdE9yM0I1Y0NlXzhHZnF2dkRZbEJBdXExRjV3cC1lREZTeDlWbFhwMDNGYzNnZ0VlNk9Cc25BYXRZNWZoSTNGUW5OdDF5RGhNWk5YbE9MWQ?oc=5",
-          "publishedAt": "Tue, 15 Sep 2026 03:41:00 GMT",
-          "titleZh": "US DoD inspector general report says Iran war resulted in munitions shortfall & ‘bottlenecks’ | LIVE BLOG - i24NEWS",
-          "summaryZh": "US DoD inspector general report says Iran war resulted in munitions shortfall & ‘bottlenecks’ | LIVE BLOG&nbsp;&nbsp;i24NEWS"
-        },
-        {
-          "id": "bbc-news-1-https://news.google.com/",
-          "sourceId": "bbc",
-          "source": "BBC",
-          "sourceSite": "bbc.com",
-          "type": "news",
-          "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war - BBC",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vQlZpVXV2Q214SGQxUFQ0SUJyUzlob3NBOW04SkhGbnpIcVQ4QTVYWDNrcF9TWWdTRjEwR0prS1hMN2E4UjN3aDh5NE5RdUY2c2Z5N212b3BVZw?oc=5\" target=\"_blank\">Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vQlZpVXV2Q214SGQxUFQ0SUJyUzlob3NBOW04SkhGbnpIcVQ4QTVYWDNrcF9TWWdTRjEwR0prS1hMN2E4UjN3aDh5NE5RdUY2c2Z5N212b3BVZw?oc=5",
-          "publishedAt": "Fri, 11 Sep 2026 19:44:58 GMT",
-          "titleZh": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war - BBC",
-          "summaryZh": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war&nbsp;&nbsp;BBC"
-        },
-        {
-          "id": "bbc-news-7-https://news.google.com/",
+          "id": "bbc-news-6-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -471,7 +380,7 @@
           "summaryZh": "美国制裁伊朗经济新措施 为何对中国“松手”？&nbsp;&nbsp;BBC"
         },
         {
-          "id": "bbc-news-8-https://news.google.com/",
+          "id": "bbc-news-7-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -484,7 +393,7 @@
           "summaryZh": "伊朗跟美国、以色列打仗 还能撑多久？&nbsp;&nbsp;BBC"
         },
         {
-          "id": "bbc-news-9-https://news.google.com/",
+          "id": "bbc-news-8-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -495,6 +404,19 @@
           "publishedAt": "Sun, 02 Aug 2026 07:00:00 GMT",
           "titleZh": "特朗普表示同意取消对伊朗的打击，前提是能“迅速”达成协议 - BBC",
           "summaryZh": "特朗普表示同意取消对伊朗的打击，前提是能“迅速”达成协议&nbsp;&nbsp;BBC"
+        },
+        {
+          "id": "bbc-news-2-https://news.google.com/",
+          "sourceId": "bbc",
+          "source": "BBC",
+          "sourceSite": "bbc.com",
+          "type": "news",
+          "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war - BBC",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4QnM4bnVUQUNKa2J3QnhtT0lDeVZFUFRibWNxZTZfYktmNy1ZSzZZZEJPWnRTbUxfV2g1Z1BNSmdfU20xM1pKUzZpaXR0Q2dQUnhxbk5qcV95QQ?oc=5\" target=\"_blank\">Saudi Arabia's dilemma as it tries to stay out of US-Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4QnM4bnVUQUNKa2J3QnhtT0lDeVZFUFRibWNxZTZfYktmNy1ZSzZZZEJPWnRTbUxfV2g1Z1BNSmdfU20xM1pKUzZpaXR0Q2dQUnhxbk5qcV95QQ?oc=5",
+          "publishedAt": "Wed, 29 Jul 2026 07:00:00 GMT",
+          "titleZh": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war - BBC",
+          "summaryZh": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war&nbsp;&nbsp;BBC"
         }
       ]
     },
@@ -508,12 +430,12 @@
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
           "type": "news",
-          "title": "Iran war live: 125,000 people flee Yemen fighting as Houthis take fire - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTjlaYWFaQXNPbFE1Z3VwTXFPNUtkWmhMTFJ3YXk2MWVIUFV4ZnpNQkxFaEhwNjREWVlBVWktYm0zdDRJZ0Rhc3IzNkNRVzFQbG9VMWI3VExxOFFJSzhXZzdGV0tfWnlrb09xV2c1NjF5eklyYUI5eWpPMkJyRjRoT0J5SmNNZk9ubWk3UHZLR1hjeWJCX2dwVEZnakxQRllFb21teFd5aE5Cc0hEWnBaMTNrY05kcnlRaXZV0gHAAUFVX3lxTE51V3J2YldvbldYcHRSUFRlSVpuZzlYbjRQbWJwSDJzd255REhySHN3U3lrdHFjNmhfclNZSEcwXzlBVW04VDFYQkdnMDZOMjJCVzZOZEdXWXIydl9seEp5RU43NVd1WGF4WjZ0dmFENlpyLWJvVHJ3cV9KSFp3Z1U1eGRWYS02NnkyWG5zdlFhTjJYS2xzWmhvQ1VSRlZFZHZnbjJQbGlYREpUVVJGWU03TXhzMnVqWWJfeEtNUEFnaw?oc=5\" target=\"_blank\">Iran war live: 125,000 people flee Yemen fighting as Houthis take fire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "title": "Iran war live: US says Saudi pipeline to resume as Yemen fighting rages - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTjlaYWFaQXNPbFE1Z3VwTXFPNUtkWmhMTFJ3YXk2MWVIUFV4ZnpNQkxFaEhwNjREWVlBVWktYm0zdDRJZ0Rhc3IzNkNRVzFQbG9VMWI3VExxOFFJSzhXZzdGV0tfWnlrb09xV2c1NjF5eklyYUI5eWpPMkJyRjRoT0J5SmNNZk9ubWk3UHZLR1hjeWJCX2dwVEZnakxQRllFb21teFd5aE5Cc0hEWnBaMTNrY05kcnlRaXZV0gHAAUFVX3lxTE51V3J2YldvbldYcHRSUFRlSVpuZzlYbjRQbWJwSDJzd255REhySHN3U3lrdHFjNmhfclNZSEcwXzlBVW04VDFYQkdnMDZOMjJCVzZOZEdXWXIydl9seEp5RU43NVd1WGF4WjZ0dmFENlpyLWJvVHJ3cV9KSFp3Z1U1eGRWYS02NnkyWG5zdlFhTjJYS2xzWmhvQ1VSRlZFZHZnbjJQbGlYREpUVVJGWU03TXhzMnVqWWJfeEtNUEFnaw?oc=5\" target=\"_blank\">Iran war live: US says Saudi pipeline to resume as Yemen fighting rages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTjlaYWFaQXNPbFE1Z3VwTXFPNUtkWmhMTFJ3YXk2MWVIUFV4ZnpNQkxFaEhwNjREWVlBVWktYm0zdDRJZ0Rhc3IzNkNRVzFQbG9VMWI3VExxOFFJSzhXZzdGV0tfWnlrb09xV2c1NjF5eklyYUI5eWpPMkJyRjRoT0J5SmNNZk9ubWk3UHZLR1hjeWJCX2dwVEZnakxQRllFb21teFd5aE5Cc0hEWnBaMTNrY05kcnlRaXZV0gHAAUFVX3lxTE51V3J2YldvbldYcHRSUFRlSVpuZzlYbjRQbWJwSDJzd255REhySHN3U3lrdHFjNmhfclNZSEcwXzlBVW04VDFYQkdnMDZOMjJCVzZOZEdXWXIydl9seEp5RU43NVd1WGF4WjZ0dmFENlpyLWJvVHJ3cV9KSFp3Z1U1eGRWYS02NnkyWG5zdlFhTjJYS2xzWmhvQ1VSRlZFZHZnbjJQbGlYREpUVVJGWU03TXhzMnVqWWJfeEtNUEFnaw?oc=5",
-          "publishedAt": "Tue, 15 Sep 2026 14:55:52 GMT",
-          "titleZh": "Iran war live: 125,000 people flee Yemen fighting as Houthis take fire - Al Jazeera",
-          "summaryZh": "Iran war live: 125,000 people flee Yemen fighting as Houthis take fire&nbsp;&nbsp;Al Jazeera"
+          "publishedAt": "Tue, 15 Sep 2026 17:59:06 GMT",
+          "titleZh": "Iran war live: US says Saudi pipeline to resume as Yemen fighting rages - Al Jazeera",
+          "summaryZh": "Iran war live: US says Saudi pipeline to resume as Yemen fighting rages&nbsp;&nbsp;Al Jazeera"
         },
         {
           "id": "aljazeera-news-2-https://news.google.com/",
@@ -542,17 +464,30 @@
           "summaryZh": "Iran war updates: Houthis seize 2 islands, Saudis intensify air attacks&nbsp;&nbsp;Al Jazeera"
         },
         {
-          "id": "aljazeera-news-9-https://news.google.com/",
+          "id": "aljazeera-news-4-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
           "type": "news",
-          "title": "Fiscal pressure from Iran War clouds Gulf States’ US spending plans - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQQzNBcXVZSFJ0blZSaUE4MmlWRWNOeGNWOVQzR0xrSlhSWF95bi04a3pLRmFzNE1QY2hWMmJvdEpLWkxlUjhBa0dQTy0wTlZfUThZcmFlVGZQc3c4R3ZYYlRmVXJWR1N3RkM4QW5wc3FyaFhGdjBNLW1CV2FhVlFSMG14T1J3SUJ3YnV3WjFrRHdOZlRwZVdjU2ZuNjN3V2UyNWtYcFNLYWpIRUVWTUNv0gG0AUFVX3lxTE9WOE4yYmVmTkRjdHU1T3gyTUJPdmw1Sl9NbWhFeGJSWTlvQ2hmRWdhd2lqcUUwSktGaEdqQjVQQzE3bGhjVnRmZ3Z6TGNueE5BX3BkckhJMnRndVQ1dDhUNWdwVnIxZHhqT01UaDJLUzItM1MyNVlDM3hjdnRSb29lQkxDclh6Vk5wbTRQZ1FnbFQtcmtGSlJ1OVZtQjlPMWRKbTFqTzNmZm5GZjNQaDZ2MC1xVg?oc=5\" target=\"_blank\">Fiscal pressure from Iran War clouds Gulf States’ US spending plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQzNBcXVZSFJ0blZSaUE4MmlWRWNOeGNWOVQzR0xrSlhSWF95bi04a3pLRmFzNE1QY2hWMmJvdEpLWkxlUjhBa0dQTy0wTlZfUThZcmFlVGZQc3c4R3ZYYlRmVXJWR1N3RkM4QW5wc3FyaFhGdjBNLW1CV2FhVlFSMG14T1J3SUJ3YnV3WjFrRHdOZlRwZVdjU2ZuNjN3V2UyNWtYcFNLYWpIRUVWTUNv0gG0AUFVX3lxTE9WOE4yYmVmTkRjdHU1T3gyTUJPdmw1Sl9NbWhFeGJSWTlvQ2hmRWdhd2lqcUUwSktGaEdqQjVQQzE3bGhjVnRmZ3Z6TGNueE5BX3BkckhJMnRndVQ1dDhUNWdwVnIxZHhqT01UaDJLUzItM1MyNVlDM3hjdnRSb29lQkxDclh6Vk5wbTRQZ1FnbFQtcmtGSlJ1OVZtQjlPMWRKbTFqTzNmZm5GZjNQaDZ2MC1xVg?oc=5",
-          "publishedAt": "Mon, 14 Sep 2026 14:41:22 GMT",
-          "titleZh": "Fiscal pressure from Iran War clouds Gulf States’ US spending plans - Al Jazeera",
-          "summaryZh": "Fiscal pressure from Iran War clouds Gulf States’ US spending plans&nbsp;&nbsp;Al Jazeera"
+          "title": "Iran war updates: Houthis warn against intervention - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOdTZTa1RDLUhuSVNvcm83QzVKdFN5WHZFT0hMSWtkVE5vaExLaXpON2tsdFVHTTUydWxXTGcyMkNUTVlwbmtfQmVtdFdYd2xuMHV1VTZtQ3Y2OUIzLTdsaWsxd19XVFZ1RjFvamRSSmI4c0YzY25jR2xOWmNQX0VySlJWMkZrNWZ6WmlYbjJ6c05EUWxrTTAyZFVJUmJxaS11eGFvaTRzVWlxVWlMSGV6RU1yZFl3N2V6alHSAb8BQVVfeXFMTWZBUFBQRV9OOHlHeXp6Y1VNbUdLLWRpRmFiNUFXX1dtRUlNNEZUYW5rUjlwR055VFpnN3FnOVBteThHanFnNGdEbDdQbnhhdVQzWHk3MENpR2hCcUh2WWlkMGFFNm1IVHhPelNJNzhxRTVUQlExUW1iSUtPSktUTGZRbUY4TUxqTnJCQjFSdTZZOGxJaVdOV3lfcS1abzJXX1Q3UTlSdjlDQ1d6VS1OWG5GLThBVGFuLThqYjBtWU0?oc=5\" target=\"_blank\">Iran war updates: Houthis warn against intervention</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdTZTa1RDLUhuSVNvcm83QzVKdFN5WHZFT0hMSWtkVE5vaExLaXpON2tsdFVHTTUydWxXTGcyMkNUTVlwbmtfQmVtdFdYd2xuMHV1VTZtQ3Y2OUIzLTdsaWsxd19XVFZ1RjFvamRSSmI4c0YzY25jR2xOWmNQX0VySlJWMkZrNWZ6WmlYbjJ6c05EUWxrTTAyZFVJUmJxaS11eGFvaTRzVWlxVWlMSGV6RU1yZFl3N2V6alHSAb8BQVVfeXFMTWZBUFBQRV9OOHlHeXp6Y1VNbUdLLWRpRmFiNUFXX1dtRUlNNEZUYW5rUjlwR055VFpnN3FnOVBteThHanFnNGdEbDdQbnhhdVQzWHk3MENpR2hCcUh2WWlkMGFFNm1IVHhPelNJNzhxRTVUQlExUW1iSUtPSktUTGZRbUY4TUxqTnJCQjFSdTZZOGxJaVdOV3lfcS1abzJXX1Q3UTlSdjlDQ1d6VS1OWG5GLThBVGFuLThqYjBtWU0?oc=5",
+          "publishedAt": "Sun, 13 Sep 2026 00:08:34 GMT",
+          "titleZh": "Iran war updates: Houthis warn against intervention - Al Jazeera",
+          "summaryZh": "Iran war updates: Houthis warn against intervention&nbsp;&nbsp;Al Jazeera"
+        },
+        {
+          "id": "aljazeera-news-6-https://news.google.com/",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "sourceSite": "aljazeera.com",
+          "type": "news",
+          "title": "Iran war updates: UNSC meets on Yemen after Houthis seize city of Mocha - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPSi05Yl9uRDRWMVJyalZULUVmOGVmMzBwN2xtQTU4Qzh2NlBvVUNBX0tRam90VkI5b2Z0NXMxaUNENHVoejNaNkJoN3Byd29EX1FRQldDN25JQ0ZBcnBiMTg2YWg2VXFoUHFDTTBMM3IybWN4MUZ3dU1kdjV0QUd4ckRQOW9xbVplUWlZQl9FVGxHNlZiejBfWUxucGpvamYzeXIzUU13U2xqTFZaeEppYkVzUS13aGtTLTJZdtIBwgFBVV95cUxNbmdDM2Y5SlMxdnVlekM0RzUzM3IzZXZTMXRQYzd2b1ctWjVFNUxCaTA2d1Z4Qm9fcTltZ0lUdGRLQjlPM0hGUmQycFBuMkxEYVlsYXNpMzBXVS1BUFVqZHdsdmZiYzZmNjJ4UGpFMGh0bW1mLXJrMUtNZWtFTkJVQ1ZMeG1CRDBTZThNT3hhMFlNbC0wZm1WMFVsb2w0Z0RoT3pITnczOVp1MkJJSkNRdzV5RkVhVDNNbV9CQ0I0emg1dw?oc=5\" target=\"_blank\">Iran war updates: UNSC meets on Yemen after Houthis seize city of Mocha</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSi05Yl9uRDRWMVJyalZULUVmOGVmMzBwN2xtQTU4Qzh2NlBvVUNBX0tRam90VkI5b2Z0NXMxaUNENHVoejNaNkJoN3Byd29EX1FRQldDN25JQ0ZBcnBiMTg2YWg2VXFoUHFDTTBMM3IybWN4MUZ3dU1kdjV0QUd4ckRQOW9xbVplUWlZQl9FVGxHNlZiejBfWUxucGpvamYzeXIzUU13U2xqTFZaeEppYkVzUS13aGtTLTJZdtIBwgFBVV95cUxNbmdDM2Y5SlMxdnVlekM0RzUzM3IzZXZTMXRQYzd2b1ctWjVFNUxCaTA2d1Z4Qm9fcTltZ0lUdGRLQjlPM0hGUmQycFBuMkxEYVlsYXNpMzBXVS1BUFVqZHdsdmZiYzZmNjJ4UGpFMGh0bW1mLXJrMUtNZWtFTkJVQ1ZMeG1CRDBTZThNT3hhMFlNbC0wZm1WMFVsb2w0Z0RoT3pITnczOVp1MkJJSkNRdzV5RkVhVDNNbV9CQ0I0emg1dw?oc=5",
+          "publishedAt": "Fri, 11 Sep 2026 00:05:51 GMT",
+          "titleZh": "Iran war updates: UNSC meets on Yemen after Houthis seize city of Mocha - Al Jazeera",
+          "summaryZh": "Iran war updates: UNSC meets on Yemen after Houthis seize city of Mocha&nbsp;&nbsp;Al Jazeera"
         },
         {
           "id": "aljazeera-news-5-https://news.google.com/",
@@ -560,25 +495,12 @@
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
           "type": "news",
-          "title": "Iran war updates: Houthi vehicles in Dhubab, Mocha hit by Yemen’s army - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPdjJYYTEtc01jR1hnV3dPbDl1SW9GTlM3cmpZSkM1OFBsNm5pLVpTS3ZwbkdMQXN3YkdkVW5wUDNyUHBKeE01NUFvd3RDYUlMUlM2VGwwbUtodV9uTkhNYzFTR0h4NTdRbklvNUlZbjQ5aDZ1WTZZbzUtQTJ6U3BsaHRHZGVibkdVSkZaQ2NUMDk2Vk5lbHgwZFhjT0JvTjJOSkRjT01EYVNMOVFCbWF6bENSRWU5bjFRN0s3YlRR0gHDAUFVX3lxTE80eEFuVVFCNXR0dWhobEFRNTFGX0ZTQzJVT2NGQlh4djNpR2cySEl0ZHlXdmdNQ2I4Y0xhRDBOLXYzdGt6bkRRNlJCcFJ2X2dkMDg4R1hFeUplLTEwM3dDS2E4RU1GWllqU205OFgtVFJsWDk0OHk4RTdGX0F2MWppZW5vbGxjcTdteFZTZ1VzaVVaTlpWaGYzZE9IQzFfOFFVdUF2TzZUV3ZYSUhmSG9FenEyWkRGMkFtOHFfaUpoOFRUYw?oc=5\" target=\"_blank\">Iran war updates: Houthi vehicles in Dhubab, Mocha hit by Yemen’s army</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdjJYYTEtc01jR1hnV3dPbDl1SW9GTlM3cmpZSkM1OFBsNm5pLVpTS3ZwbkdMQXN3YkdkVW5wUDNyUHBKeE01NUFvd3RDYUlMUlM2VGwwbUtodV9uTkhNYzFTR0h4NTdRbklvNUlZbjQ5aDZ1WTZZbzUtQTJ6U3BsaHRHZGVibkdVSkZaQ2NUMDk2Vk5lbHgwZFhjT0JvTjJOSkRjT01EYVNMOVFCbWF6bENSRWU5bjFRN0s3YlRR0gHDAUFVX3lxTE80eEFuVVFCNXR0dWhobEFRNTFGX0ZTQzJVT2NGQlh4djNpR2cySEl0ZHlXdmdNQ2I4Y0xhRDBOLXYzdGt6bkRRNlJCcFJ2X2dkMDg4R1hFeUplLTEwM3dDS2E4RU1GWllqU205OFgtVFJsWDk0OHk4RTdGX0F2MWppZW5vbGxjcTdteFZTZ1VzaVVaTlpWaGYzZE9IQzFfOFFVdUF2TzZUV3ZYSUhmSG9FenEyWkRGMkFtOHFfaUpoOFRUYw?oc=5",
-          "publishedAt": "Sun, 13 Sep 2026 23:28:05 GMT",
-          "titleZh": "Iran war updates: Houthi vehicles in Dhubab, Mocha hit by Yemen’s army - Al Jazeera",
-          "summaryZh": "Iran war updates: Houthi vehicles in Dhubab, Mocha hit by Yemen’s army&nbsp;&nbsp;Al Jazeera"
-        },
-        {
-          "id": "aljazeera-news-4-https://news.google.com/",
-          "sourceId": "aljazeera",
-          "source": "Al Jazeera",
-          "sourceSite": "aljazeera.com",
-          "type": "news",
-          "title": "The Iran war reveals the limits of BRICS - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNX0Q3eEEtNnBfMDlyVTZNZjU0MXRpd0I3X1RzSkl2bFdJWUpIRGxjamN3MDlvQS1nOVpOM2U0YzFSdXNCdkx5MFhQeXlibnV0RlVDNG11emcxMWRXNmFVc2U3ek5EbDV1M25ET0VNd3JRTHlxWXVmbFRRaVN4YUNaOE5BMmp1d9IBiwFBVV95cUxPYV9SWXdINDBrdGMtN1dNcGxfZzFwRFc3ck9pd2kxa1Rqd1QzQXB0V2FJWWdObVd5U0szdzk1aVdscmF1SlVGeUE4QW9PVEFqWnJDcjZSbnpWOV9hRVJUTk5IVEIwcHo4bzM4dXU5c0VMdWxSblpaZTJpNVFYbEVtd0RTSWJQYjhiSE1j?oc=5\" target=\"_blank\">The Iran war reveals the limits of BRICS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX0Q3eEEtNnBfMDlyVTZNZjU0MXRpd0I3X1RzSkl2bFdJWUpIRGxjamN3MDlvQS1nOVpOM2U0YzFSdXNCdkx5MFhQeXlibnV0RlVDNG11emcxMWRXNmFVc2U3ek5EbDV1M25ET0VNd3JRTHlxWXVmbFRRaVN4YUNaOE5BMmp1d9IBiwFBVV95cUxPYV9SWXdINDBrdGMtN1dNcGxfZzFwRFc3ck9pd2kxa1Rqd1QzQXB0V2FJWWdObVd5U0szdzk1aVdscmF1SlVGeUE4QW9PVEFqWnJDcjZSbnpWOV9hRVJUTk5IVEIwcHo4bzM4dXU5c0VMdWxSblpaZTJpNVFYbEVtd0RTSWJQYjhiSE1j?oc=5",
-          "publishedAt": "Sun, 13 Sep 2026 12:49:32 GMT",
-          "titleZh": "The Iran war reveals the limits of BRICS - Al Jazeera",
-          "summaryZh": "The Iran war reveals the limits of BRICS&nbsp;&nbsp;Al Jazeera"
+          "title": "Iran war updates: US says no major operations against Iran; options open - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQcWY3aFROMjg1SUI0N0M5cDh5ODFZUGdRSHlIRUFfSjQ4UGl4Z2RvUmZScl9WS1pTbjJ1STlXelFGckNuTjB1akswSm5xUm1RSjc0RkRZUHloLURCWTU1eWRpcnVBdloxNG84eDVla3o4MC1BRDlmRExxZnNWTGlQNC1BdTExZzJBVEUwV2dxODZqTDlneUIxcU1GZ0lKU3hnbWRjUkFLUlpuNzNrbVJVRHpmeWZpd9IBuwFBVV95cUxPYWZQbWZRclMwUnVKanBGd2Etd0VTUVpLd3NHZHdBOGlJUllHX2JWeVM1ZVhzdmI2VEpXd0FkUnA4bFgtaHN2bmVsdHlqSVdlSEltM0swY2NJRmVlZW1fRWFPaGxGbFBZOTJISy1XdWZfdXEwREZQYXdwQ2FyOE9hYTZNN0lUNkVpMTdScTZjVzlMMjEyWklnWUVtTktObGNSeWFwUzB1YXlTNkxYZHNoQWRvUVFESTBJR2tj?oc=5\" target=\"_blank\">Iran war updates: US says no major operations against Iran; options open</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcWY3aFROMjg1SUI0N0M5cDh5ODFZUGdRSHlIRUFfSjQ4UGl4Z2RvUmZScl9WS1pTbjJ1STlXelFGckNuTjB1akswSm5xUm1RSjc0RkRZUHloLURCWTU1eWRpcnVBdloxNG84eDVla3o4MC1BRDlmRExxZnNWTGlQNC1BdTExZzJBVEUwV2dxODZqTDlneUIxcU1GZ0lKU3hnbWRjUkFLUlpuNzNrbVJVRHpmeWZpd9IBuwFBVV95cUxPYWZQbWZRclMwUnVKanBGd2Etd0VTUVpLd3NHZHdBOGlJUllHX2JWeVM1ZVhzdmI2VEpXd0FkUnA4bFgtaHN2bmVsdHlqSVdlSEltM0swY2NJRmVlZW1fRWFPaGxGbFBZOTJISy1XdWZfdXEwREZQYXdwQ2FyOE9hYTZNN0lUNkVpMTdScTZjVzlMMjEyWklnWUVtTktObGNSeWFwUzB1YXlTNkxYZHNoQWRvUVFESTBJR2tj?oc=5",
+          "publishedAt": "Thu, 03 Sep 2026 07:00:00 GMT",
+          "titleZh": "Iran war updates: US says no major operations against Iran; options open - Al Jazeera",
+          "summaryZh": "Iran war updates: US says no major operations against Iran; options open&nbsp;&nbsp;Al Jazeera"
         }
       ]
     },
@@ -604,17 +526,30 @@
   ],
   "commentary": [
     {
+      "id": "nytimes-commentary-6-https://news.google.com/",
+      "sourceId": "nytimes",
+      "source": "The New York Times",
+      "sourceSite": "nytimes.com",
+      "type": "commentary",
+      "title": "Independent Budget Office Estimates Iran War Has Cost $38 Billion - The New York Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1UM2lFREJyVTNRT1pQMF9EVk9uRnNFNTl4OW9CMUJhdTVRbTNXTDRtNXZXMlRPZnlDcmVHMDhXeEozNVpuM2lQdTRJSGlseEsySVFBeWhxc3V4dElZLVJyc1ktS3JaMjNpcGduS1gzOVJGSmc?oc=5\" target=\"_blank\">Independent Budget Office Estimates Iran War Has Cost $38 Billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UM2lFREJyVTNRT1pQMF9EVk9uRnNFNTl4OW9CMUJhdTVRbTNXTDRtNXZXMlRPZnlDcmVHMDhXeEozNVpuM2lQdTRJSGlseEsySVFBeWhxc3V4dElZLVJyc1ktS3JaMjNpcGduS1gzOVJGSmc?oc=5",
+      "publishedAt": "Tue, 15 Sep 2026 18:07:41 GMT",
+      "titleZh": "Independent Budget Office Estimates Iran War Has Cost $38 Billion - The New York Times",
+      "summaryZh": "Independent Budget Office Estimates Iran War Has Cost $38 Billion&nbsp;&nbsp;The New York Times"
+    },
+    {
       "id": "nytimes-commentary-2-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
       "type": "commentary",
-      "title": "Gulf Arabs Seek Options After U.S. Bases Did Not Deter Iran - nytimes.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOWDhmdDRfOWpDRjBqWUpqSVBvMDhpdXJBd1BKZkNfTmVTaGpydm1lQ0U2Q0trb0xGME5peEp4dzJVdU9sSXdGTVFxZHhwRWM5MFpOUl82NTVmdUJrbnFwU0c4OEdxZk1SekpaRDdmVFU2R3kyZkdGSmtaMjFXamtLbC1ZMEsxdHdDZWwtcko4Z2F0NGZPRHFyVnl3?oc=5\" target=\"_blank\">Gulf Arabs Seek Options After U.S. Bases Did Not Deter Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nytimes.com</font>",
+      "title": "Gulf Arab States Explore New Options as U.S. Bases Fail to Deter Iran - The New York Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOWDhmdDRfOWpDRjBqWUpqSVBvMDhpdXJBd1BKZkNfTmVTaGpydm1lQ0U2Q0trb0xGME5peEp4dzJVdU9sSXdGTVFxZHhwRWM5MFpOUl82NTVmdUJrbnFwU0c4OEdxZk1SekpaRDdmVFU2R3kyZkdGSmtaMjFXamtLbC1ZMEsxdHdDZWwtcko4Z2F0NGZPRHFyVnl3?oc=5\" target=\"_blank\">Gulf Arab States Explore New Options as U.S. Bases Fail to Deter Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWDhmdDRfOWpDRjBqWUpqSVBvMDhpdXJBd1BKZkNfTmVTaGpydm1lQ0U2Q0trb0xGME5peEp4dzJVdU9sSXdGTVFxZHhwRWM5MFpOUl82NTVmdUJrbnFwU0c4OEdxZk1SekpaRDdmVFU2R3kyZkdGSmtaMjFXamtLbC1ZMEsxdHdDZWwtcko4Z2F0NGZPRHFyVnl3?oc=5",
-      "publishedAt": "Tue, 15 Sep 2026 12:27:29 GMT",
-      "titleZh": "Gulf Arabs Seek Options After U.S. Bases Did Not Deter Iran - nytimes.com",
-      "summaryZh": "Gulf Arabs Seek Options After U.S. Bases Did Not Deter Iran&nbsp;&nbsp;nytimes.com"
+      "publishedAt": "Tue, 15 Sep 2026 08:57:22 GMT",
+      "titleZh": "Gulf Arab States Explore New Options as U.S. Bases Fail to Deter Iran - The New York Times",
+      "summaryZh": "Gulf Arab States Explore New Options as U.S. Bases Fail to Deter Iran&nbsp;&nbsp;The New York Times"
     },
     {
       "id": "foreignpolicy-commentary-0-https://news.google.com/",
@@ -643,17 +578,30 @@
       "summaryZh": "Fresh Houthi Strikes Inject New Uncertainty Into Iran War&nbsp;&nbsp;Foreign Policy"
     },
     {
-      "id": "nytimes-commentary-5-https://news.google.com/",
+      "id": "nytimes-commentary-3-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
       "type": "commentary",
-      "title": "U.S. Imposes Sanctions on Russia’s VTB Bank Over Ties to Iran - nytimes.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPSHJKa3lZSl9wejJpckVtMVQzcldlQ1BuQ01HN3AxdHVyck5vTTZtQ1dHbXRoUWJoYWpCV200dE1EOTZMYU1UYUVDLTJMcGt4R1lVYXNCczBlbkxZYUxEZzRRVnRySG5oZ3A2bUhZTlpoNFZ3cDB5VkQ5Sk1HeFZETlpSeDJ4RUZwQlE?oc=5\" target=\"_blank\">U.S. Imposes Sanctions on Russia’s VTB Bank Over Ties to Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nytimes.com</font>",
+      "title": "U.S. Imposes Sanctions on Russia’s VTB Bank Over Ties to Iran - The New York Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPSHJKa3lZSl9wejJpckVtMVQzcldlQ1BuQ01HN3AxdHVyck5vTTZtQ1dHbXRoUWJoYWpCV200dE1EOTZMYU1UYUVDLTJMcGt4R1lVYXNCczBlbkxZYUxEZzRRVnRySG5oZ3A2bUhZTlpoNFZ3cDB5VkQ5Sk1HeFZETlpSeDJ4RUZwQlE?oc=5\" target=\"_blank\">U.S. Imposes Sanctions on Russia’s VTB Bank Over Ties to Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSHJKa3lZSl9wejJpckVtMVQzcldlQ1BuQ01HN3AxdHVyck5vTTZtQ1dHbXRoUWJoYWpCV200dE1EOTZMYU1UYUVDLTJMcGt4R1lVYXNCczBlbkxZYUxEZzRRVnRySG5oZ3A2bUhZTlpoNFZ3cDB5VkQ5Sk1HeFZETlpSeDJ4RUZwQlE?oc=5",
       "publishedAt": "Mon, 14 Sep 2026 20:35:29 GMT",
-      "titleZh": "U.S. Imposes Sanctions on Russia’s VTB Bank Over Ties to Iran - nytimes.com",
-      "summaryZh": "U.S. Imposes Sanctions on Russia’s VTB Bank Over Ties to Iran&nbsp;&nbsp;nytimes.com"
+      "titleZh": "U.S. Imposes Sanctions on Russia’s VTB Bank Over Ties to Iran - The New York Times",
+      "summaryZh": "U.S. Imposes Sanctions on Russia’s VTB Bank Over Ties to Iran&nbsp;&nbsp;The New York Times"
+    },
+    {
+      "id": "nytimes-commentary-4-https://news.google.com/",
+      "sourceId": "nytimes",
+      "source": "The New York Times",
+      "sourceSite": "nytimes.com",
+      "type": "commentary",
+      "title": "Meeting Between Iran and Arab States Postponed as Mideast Diplomacy Stalls - The New York Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOR3M3U3hWNjVhYmNZUnZTdTJnZXNEYTNfV25MVGVKU2JxSGZaZXAxNFdFMnotX1pNVDB5OVhtT05WVngzTG1VcWtuS2dyYkg3MFJPYjcwRUM4UV9NMF96T1lFa0k0dDFXekkxNUNHd1RFLTgtUnhFeldaMEJCSUV6dk80T0RndldjSVQzVVRlZw?oc=5\" target=\"_blank\">Meeting Between Iran and Arab States Postponed as Mideast Diplomacy Stalls</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR3M3U3hWNjVhYmNZUnZTdTJnZXNEYTNfV25MVGVKU2JxSGZaZXAxNFdFMnotX1pNVDB5OVhtT05WVngzTG1VcWtuS2dyYkg3MFJPYjcwRUM4UV9NMF96T1lFa0k0dDFXekkxNUNHd1RFLTgtUnhFeldaMEJCSUV6dk80T0RndldjSVQzVVRlZw?oc=5",
+      "publishedAt": "Mon, 14 Sep 2026 10:50:00 GMT",
+      "titleZh": "Meeting Between Iran and Arab States Postponed as Mideast Diplomacy Stalls - The New York Times",
+      "summaryZh": "Meeting Between Iran and Arab States Postponed as Mideast Diplomacy Stalls&nbsp;&nbsp;The New York Times"
     },
     {
       "id": "economist-commentary-0-https://news.google.com/",
@@ -669,69 +617,30 @@
       "summaryZh": "The Houthis’ shock advance in Yemen gives Iran new leverage&nbsp;&nbsp;The Economist"
     },
     {
-      "id": "nytimes-commentary-3-https://news.google.com/",
-      "sourceId": "nytimes",
-      "source": "The New York Times",
-      "sourceSite": "nytimes.com",
-      "type": "commentary",
-      "title": "Meeting Between Iran and Arab States Postponed as Mideast Diplomacy Stalls - nytimes.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOR3M3U3hWNjVhYmNZUnZTdTJnZXNEYTNfV25MVGVKU2JxSGZaZXAxNFdFMnotX1pNVDB5OVhtT05WVngzTG1VcWtuS2dyYkg3MFJPYjcwRUM4UV9NMF96T1lFa0k0dDFXekkxNUNHd1RFLTgtUnhFeldaMEJCSUV6dk80T0RndldjSVQzVVRlZw?oc=5\" target=\"_blank\">Meeting Between Iran and Arab States Postponed as Mideast Diplomacy Stalls</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nytimes.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR3M3U3hWNjVhYmNZUnZTdTJnZXNEYTNfV25MVGVKU2JxSGZaZXAxNFdFMnotX1pNVDB5OVhtT05WVngzTG1VcWtuS2dyYkg3MFJPYjcwRUM4UV9NMF96T1lFa0k0dDFXekkxNUNHd1RFLTgtUnhFeldaMEJCSUV6dk80T0RndldjSVQzVVRlZw?oc=5",
-      "publishedAt": "Sun, 13 Sep 2026 11:52:17 GMT",
-      "titleZh": "Meeting Between Iran and Arab States Postponed as Mideast Diplomacy Stalls - nytimes.com",
-      "summaryZh": "Meeting Between Iran and Arab States Postponed as Mideast Diplomacy Stalls&nbsp;&nbsp;nytimes.com"
-    },
-    {
       "id": "nytimes-commentary-1-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
       "type": "commentary",
-      "title": "How Iran’s Hard-Liners Prevailed and Sabotaged U.S. Peace Deal - nytimes.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQYWp6SnIyOVptSnVNdU5nVGtKVzM4T29uZ2NLMDd6T3FTeG1XU0l1dXp0NmNOcV90ZHprS0FTMG9RNEJIUFBjWU5DU1pLYS1sbjVVeVN6WXVPWm4yZUJUN3dxM1Q5Z2FWYmo0bkxpU1NYX3lkTE9vdHV6S0lOMk5wMm1CdnR5SlUzNmhVVDZ1Tml4TEJsdHo2Q05B?oc=5\" target=\"_blank\">How Iran’s Hard-Liners Prevailed and Sabotaged U.S. Peace Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nytimes.com</font>",
+      "title": "How Iran’s Hard-liners Blew Up the Peace Deal with Trump - The New York Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQYWp6SnIyOVptSnVNdU5nVGtKVzM4T29uZ2NLMDd6T3FTeG1XU0l1dXp0NmNOcV90ZHprS0FTMG9RNEJIUFBjWU5DU1pLYS1sbjVVeVN6WXVPWm4yZUJUN3dxM1Q5Z2FWYmo0bkxpU1NYX3lkTE9vdHV6S0lOMk5wMm1CdnR5SlUzNmhVVDZ1Tml4TEJsdHo2Q05B?oc=5\" target=\"_blank\">How Iran’s Hard-liners Blew Up the Peace Deal with Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYWp6SnIyOVptSnVNdU5nVGtKVzM4T29uZ2NLMDd6T3FTeG1XU0l1dXp0NmNOcV90ZHprS0FTMG9RNEJIUFBjWU5DU1pLYS1sbjVVeVN6WXVPWm4yZUJUN3dxM1Q5Z2FWYmo0bkxpU1NYX3lkTE9vdHV6S0lOMk5wMm1CdnR5SlUzNmhVVDZ1Tml4TEJsdHo2Q05B?oc=5",
       "publishedAt": "Sun, 13 Sep 2026 09:02:54 GMT",
-      "titleZh": "How Iran’s Hard-Liners Prevailed and Sabotaged U.S. Peace Deal - nytimes.com",
-      "summaryZh": "How Iran’s Hard-Liners Prevailed and Sabotaged U.S. Peace Deal&nbsp;&nbsp;nytimes.com"
+      "titleZh": "How Iran’s Hard-liners Blew Up the Peace Deal with Trump - The New York Times",
+      "summaryZh": "How Iran’s Hard-liners Blew Up the Peace Deal with Trump&nbsp;&nbsp;The New York Times"
     },
     {
-      "id": "nytimes-commentary-4-https://news.google.com/",
+      "id": "nytimes-commentary-5-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
       "type": "commentary",
-      "title": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S. - nytimes.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNeGt3bmM5Z3hRbkRTZlVJbUhxRnY2YmdMNUVJVHRaNTNJeXlYYzNNdFNZcW9qdjBta0Q5cDNTUWxfZjZVUzdNRUV1U0VVNERzeERvUE5VS3p0VTk3V3JkN3JjV01tOU1va2Z1djJxbU1LbHlPVkFBZzRsb054Z1dhOXcwOGV4LWVBaElIa1U2bnE0akJJZTlwMms5MUU?oc=5\" target=\"_blank\">Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nytimes.com</font>",
+      "title": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S. - The New York Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNeGt3bmM5Z3hRbkRTZlVJbUhxRnY2YmdMNUVJVHRaNTNJeXlYYzNNdFNZcW9qdjBta0Q5cDNTUWxfZjZVUzdNRUV1U0VVNERzeERvUE5VS3p0VTk3V3JkN3JjV01tOU1va2Z1djJxbU1LbHlPVkFBZzRsb054Z1dhOXcwOGV4LWVBaElIa1U2bnE0akJJZTlwMms5MUU?oc=5\" target=\"_blank\">Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeGt3bmM5Z3hRbkRTZlVJbUhxRnY2YmdMNUVJVHRaNTNJeXlYYzNNdFNZcW9qdjBta0Q5cDNTUWxfZjZVUzdNRUV1U0VVNERzeERvUE5VS3p0VTk3V3JkN3JjV01tOU1va2Z1djJxbU1LbHlPVkFBZzRsb054Z1dhOXcwOGV4LWVBaElIa1U2bnE0akJJZTlwMms5MUU?oc=5",
       "publishedAt": "Sat, 12 Sep 2026 15:23:04 GMT",
-      "titleZh": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S. - nytimes.com",
-      "summaryZh": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S.&nbsp;&nbsp;nytimes.com"
-    },
-    {
-      "id": "nytimes-commentary-6-https://news.google.com/",
-      "sourceId": "nytimes",
-      "source": "The New York Times",
-      "sourceSite": "nytimes.com",
-      "type": "commentary",
-      "title": "Lurking in Trump’s 9/11 Tribute, a Defense of His War With Iran - nytimes.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5ad2tJcno2dURrU3JpVXVMbGNYbFZLUUJpUWFya3RXUWtUOTczNkU0X21HTDdSMXJ2SUNmMEFUcXhlZXVWSzRkWVBEd3ZNMDhFM0FBT0dMR2syVEZuZTUtWGh5SWp4aktlekMtbDFJSmQwYnc2ZUZYeF9aMXJaaDQ?oc=5\" target=\"_blank\">Lurking in Trump’s 9/11 Tribute, a Defense of His War With Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nytimes.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ad2tJcno2dURrU3JpVXVMbGNYbFZLUUJpUWFya3RXUWtUOTczNkU0X21HTDdSMXJ2SUNmMEFUcXhlZXVWSzRkWVBEd3ZNMDhFM0FBT0dMR2syVEZuZTUtWGh5SWp4aktlekMtbDFJSmQwYnc2ZUZYeF9aMXJaaDQ?oc=5",
-      "publishedAt": "Fri, 11 Sep 2026 19:37:24 GMT",
-      "titleZh": "Lurking in Trump’s 9/11 Tribute, a Defense of His War With Iran - nytimes.com",
-      "summaryZh": "Lurking in Trump’s 9/11 Tribute, a Defense of His War With Iran&nbsp;&nbsp;nytimes.com"
-    },
-    {
-      "id": "nytimes-commentary-0-https://news.google.com/",
-      "sourceId": "nytimes",
-      "source": "The New York Times",
-      "sourceSite": "nytimes.com",
-      "type": "commentary",
-      "title": "Behind the Scenes, Vance Gathered Unvarnished Views of the Iran War - nytimes.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPdDc4c2JiRUtCb2Z1cVpwZE83UWtvN2Zmb1RmQ1VXTEV6VGFiY3FFTWtSd05pNnR0UUktVlcwSGdFT2MxWExrSERfX2JxZVlPcGJJbVRtak5zal82UmFqRFhKU01KLVhpWGpSc1dpVFJRVGhXUy0tUW1jU2NQY2d6QWR5d0NYSXVFVnc?oc=5\" target=\"_blank\">Behind the Scenes, Vance Gathered Unvarnished Views of the Iran War</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nytimes.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdDc4c2JiRUtCb2Z1cVpwZE83UWtvN2Zmb1RmQ1VXTEV6VGFiY3FFTWtSd05pNnR0UUktVlcwSGdFT2MxWExrSERfX2JxZVlPcGJJbVRtak5zal82UmFqRFhKU01KLVhpWGpSc1dpVFJRVGhXUy0tUW1jU2NQY2d6QWR5d0NYSXVFVnc?oc=5",
-      "publishedAt": "Thu, 10 Sep 2026 19:56:46 GMT",
-      "titleZh": "Behind the Scenes, Vance Gathered Unvarnished Views of the Iran War - nytimes.com",
-      "summaryZh": "Behind the Scenes, Vance Gathered Unvarnished Views of the Iran War&nbsp;&nbsp;nytimes.com"
+      "titleZh": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S. - The New York Times",
+      "summaryZh": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S.&nbsp;&nbsp;The New York Times"
     },
     {
       "id": "nytimes-commentary-7-https://news.google.com/",
@@ -739,12 +648,38 @@
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
       "type": "commentary",
-      "title": "‘The Fix’ Review: A Head-Spinning Mission to Iran - nytimes.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBBMm1sVS1hUlFmbzFwa3JkUS12bTRvc3FnSUE3RXRiS05KMkdDeFBVcVJ0LWdvUHhfUlA4bURYLW5EZUg0R29KR1RRRjBIN09fdVozd01NZllNQ19sb25MNm92UVlYdXRwOVhjejRn?oc=5\" target=\"_blank\">‘The Fix’ Review: A Head-Spinning Mission to Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nytimes.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBMm1sVS1hUlFmbzFwa3JkUS12bTRvc3FnSUE3RXRiS05KMkdDeFBVcVJ0LWdvUHhfUlA4bURYLW5EZUg0R29KR1RRRjBIN09fdVozd01NZllNQ19sb25MNm92UVlYdXRwOVhjejRn?oc=5",
-      "publishedAt": "Thu, 10 Sep 2026 16:00:06 GMT",
-      "titleZh": "‘The Fix’ Review: A Head-Spinning Mission to Iran - nytimes.com",
-      "summaryZh": "‘The Fix’ Review: A Head-Spinning Mission to Iran&nbsp;&nbsp;nytimes.com"
+      "title": "Lurking in Trump’s 9/11 Tribute, a Defense of His War With Iran - The New York Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5ad2tJcno2dURrU3JpVXVMbGNYbFZLUUJpUWFya3RXUWtUOTczNkU0X21HTDdSMXJ2SUNmMEFUcXhlZXVWSzRkWVBEd3ZNMDhFM0FBT0dMR2syVEZuZTUtWGh5SWp4aktlekMtbDFJSmQwYnc2ZUZYeF9aMXJaaDQ?oc=5\" target=\"_blank\">Lurking in Trump’s 9/11 Tribute, a Defense of His War With Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ad2tJcno2dURrU3JpVXVMbGNYbFZLUUJpUWFya3RXUWtUOTczNkU0X21HTDdSMXJ2SUNmMEFUcXhlZXVWSzRkWVBEd3ZNMDhFM0FBT0dMR2syVEZuZTUtWGh5SWp4aktlekMtbDFJSmQwYnc2ZUZYeF9aMXJaaDQ?oc=5",
+      "publishedAt": "Fri, 11 Sep 2026 19:37:24 GMT",
+      "titleZh": "Lurking in Trump’s 9/11 Tribute, a Defense of His War With Iran - The New York Times",
+      "summaryZh": "Lurking in Trump’s 9/11 Tribute, a Defense of His War With Iran&nbsp;&nbsp;The New York Times"
+    },
+    {
+      "id": "foreignaffairs-commentary-0-https://news.google.com/",
+      "sourceId": "foreignaffairs",
+      "source": "Foreign Affairs",
+      "sourceSite": "foreignaffairs.com",
+      "type": "commentary",
+      "title": "Iran’s Second Front - Foreign Affairs",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MajYtenJhVmpkRUhOUzRjVng2SHdLLXQ0ZUVhOFczaWNETXl4MDJpOWI3d0tIWGNpcU0wRklTanJDajBuRW9xTVoxNU1wQVEzRDFuTTV1NS1OOUMzWGVma3NkREZnUQ?oc=5\" target=\"_blank\">Iran’s Second Front</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MajYtenJhVmpkRUhOUzRjVng2SHdLLXQ0ZUVhOFczaWNETXl4MDJpOWI3d0tIWGNpcU0wRklTanJDajBuRW9xTVoxNU1wQVEzRDFuTTV1NS1OOUMzWGVma3NkREZnUQ?oc=5",
+      "publishedAt": "Fri, 11 Sep 2026 13:57:00 GMT",
+      "titleZh": "Iran’s Second Front - Foreign Affairs",
+      "summaryZh": "Iran’s Second Front&nbsp;&nbsp;Foreign Affairs"
+    },
+    {
+      "id": "nytimes-commentary-0-https://news.google.com/",
+      "sourceId": "nytimes",
+      "source": "The New York Times",
+      "sourceSite": "nytimes.com",
+      "type": "commentary",
+      "title": "Behind the Scenes, Vance Gathered Unvarnished Views of the Iran War - The New York Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPdDc4c2JiRUtCb2Z1cVpwZE83UWtvN2Zmb1RmQ1VXTEV6VGFiY3FFTWtSd05pNnR0UUktVlcwSGdFT2MxWExrSERfX2JxZVlPcGJJbVRtak5zal82UmFqRFhKU01KLVhpWGpSc1dpVFJRVGhXUy0tUW1jU2NQY2d6QWR5d0NYSXVFVnc?oc=5\" target=\"_blank\">Behind the Scenes, Vance Gathered Unvarnished Views of the Iran War</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdDc4c2JiRUtCb2Z1cVpwZE83UWtvN2Zmb1RmQ1VXTEV6VGFiY3FFTWtSd05pNnR0UUktVlcwSGdFT2MxWExrSERfX2JxZVlPcGJJbVRtak5zal82UmFqRFhKU01KLVhpWGpSc1dpVFJRVGhXUy0tUW1jU2NQY2d6QWR5d0NYSXVFVnc?oc=5",
+      "publishedAt": "Thu, 10 Sep 2026 19:56:46 GMT",
+      "titleZh": "Behind the Scenes, Vance Gathered Unvarnished Views of the Iran War - The New York Times",
+      "summaryZh": "Behind the Scenes, Vance Gathered Unvarnished Views of the Iran War&nbsp;&nbsp;The New York Times"
     },
     {
       "id": "economist-commentary-4-https://news.google.com/",
@@ -758,6 +693,19 @@
       "publishedAt": "Thu, 10 Sep 2026 12:35:25 GMT",
       "titleZh": "World in Brief: Iran and America trade more blows; Treasury yields jump - The Economist",
       "summaryZh": "World in Brief: Iran and America trade more blows; Treasury yields jump&nbsp;&nbsp;The Economist"
+    },
+    {
+      "id": "foreignaffairs-commentary-1-https://news.google.com/",
+      "sourceId": "foreignaffairs",
+      "source": "Foreign Affairs",
+      "sourceSite": "foreignaffairs.com",
+      "type": "commentary",
+      "title": "The Iran Shock Is Not Over - Foreign Affairs",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5wcl9DLUJxSlFNakQyeFhXWUVsNmZ4cjZWTm5KcU9Yek1sUzhfVVhtQnZKQk1GSXgxM0d1MXBaWjBaU29vZ0ZJelFGOWdRaDUtak9BWGFLNDZCQ19PS1pEbVRVcXU0SUd2Smh3?oc=5\" target=\"_blank\">The Iran Shock Is Not Over</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wcl9DLUJxSlFNakQyeFhXWUVsNmZ4cjZWTm5KcU9Yek1sUzhfVVhtQnZKQk1GSXgxM0d1MXBaWjBaU29vZ0ZJelFGOWdRaDUtak9BWGFLNDZCQ19PS1pEbVRVcXU0SUd2Smh3?oc=5",
+      "publishedAt": "Thu, 10 Sep 2026 10:00:00 GMT",
+      "titleZh": "The Iran Shock Is Not Over - Foreign Affairs",
+      "summaryZh": "The Iran Shock Is Not Over&nbsp;&nbsp;Foreign Affairs"
     },
     {
       "id": "foreignpolicy-commentary-4-https://news.google.com/",
@@ -799,7 +747,7 @@
       "summaryZh": "As the Iran war menaces shipping, land routes are making a comeback&nbsp;&nbsp;The Economist"
     },
     {
-      "id": "foreignpolicy-commentary-7-https://news.google.com/",
+      "id": "foreignpolicy-commentary-6-https://news.google.com/",
       "sourceId": "foreignpolicy",
       "source": "Foreign Policy",
       "sourceSite": "foreignpolicy.com",
@@ -810,6 +758,19 @@
       "publishedAt": "Tue, 08 Sep 2026 14:54:35 GMT",
       "titleZh": "Iran’s Regional Strategy Is Never Coming Back - Foreign Policy",
       "summaryZh": "Iran’s Regional Strategy Is Never Coming Back&nbsp;&nbsp;Foreign Policy"
+    },
+    {
+      "id": "foreignaffairs-commentary-2-https://news.google.com/",
+      "sourceId": "foreignaffairs",
+      "source": "Foreign Affairs",
+      "sourceSite": "foreignaffairs.com",
+      "type": "commentary",
+      "title": "Why America Can’t Strangle Iran - Foreign Affairs",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBYMjdYWlhoRTlZcHlGN0dvR3lodUZmV3VfZzhnTTA0NkNhVWIwSTExTlU0b2FSU2l4bmtLOUVYTEJma2xmRXRiQzBVV1VaaDlyeFktUHdtZlkwM2I1YzZRM2lDTkpNZWJFY3NWWHBaUzZ6RTJG?oc=5\" target=\"_blank\">Why America Can’t Strangle Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYMjdYWlhoRTlZcHlGN0dvR3lodUZmV3VfZzhnTTA0NkNhVWIwSTExTlU0b2FSU2l4bmtLOUVYTEJma2xmRXRiQzBVV1VaaDlyeFktUHdtZlkwM2I1YzZRM2lDTkpNZWJFY3NWWHBaUzZ6RTJG?oc=5",
+      "publishedAt": "Tue, 08 Sep 2026 04:00:00 GMT",
+      "titleZh": "Why America Can’t Strangle Iran - Foreign Affairs",
+      "summaryZh": "Why America Can’t Strangle Iran&nbsp;&nbsp;Foreign Affairs"
     },
     {
       "id": "economist-commentary-5-https://news.google.com/",
@@ -851,6 +812,19 @@
       "summaryZh": "World in Brief: Trump says Iran strikes won’t last long; Nvidia buys Hugging Face&nbsp;&nbsp;The Economist"
     },
     {
+      "id": "foreignaffairs-commentary-3-https://news.google.com/",
+      "sourceId": "foreignaffairs",
+      "source": "Foreign Affairs",
+      "sourceSite": "foreignaffairs.com",
+      "type": "commentary",
+      "title": "The Case for a Stalemate With Iran - Foreign Affairs",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CQUlWcTE2Vml4U3NuaHpoVkkydnQ2T0s4OVNBY0ozNDlKNVNFb05BNFFlcEl0Y3FiaVB0RnRoM3VBLXI4cWljNHoxZjFIcTZqM28tbHhnRUtUTUlQT0RJalZyenkzdw?oc=5\" target=\"_blank\">The Case for a Stalemate With Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CQUlWcTE2Vml4U3NuaHpoVkkydnQ2T0s4OVNBY0ozNDlKNVNFb05BNFFlcEl0Y3FiaVB0RnRoM3VBLXI4cWljNHoxZjFIcTZqM28tbHhnRUtUTUlQT0RJalZyenkzdw?oc=5",
+      "publishedAt": "Thu, 03 Sep 2026 07:00:00 GMT",
+      "titleZh": "The Case for a Stalemate With Iran - Foreign Affairs",
+      "summaryZh": "The Case for a Stalemate With Iran&nbsp;&nbsp;Foreign Affairs"
+    },
+    {
       "id": "economist-commentary-2-https://news.google.com/",
       "sourceId": "economist",
       "source": "The Economist",
@@ -862,6 +836,32 @@
       "publishedAt": "Thu, 03 Sep 2026 07:00:00 GMT",
       "titleZh": "Iran’s proxies are going their own way - The Economist",
       "summaryZh": "Iran’s proxies are going their own way&nbsp;&nbsp;The Economist"
+    },
+    {
+      "id": "foreignaffairs-commentary-5-https://news.google.com/",
+      "sourceId": "foreignaffairs",
+      "source": "Foreign Affairs",
+      "sourceSite": "foreignaffairs.com",
+      "type": "commentary",
+      "title": "The Impossible Middle East: After the Iran War, the Region Has No Good Options - Foreign Affairs",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBGWGJqd1dRbVFHdW5UQWZRMU9NN1c5X2dhZ19wR0IxbF9kbTFSbUVGenVyNUVIOVZtQ1ctZmRJN1dWMFgzTzlYT0ZQNGozenBtOGlNdEJRNUtFMmxwOW1qTUpxcFJPTVJOR25DUkpuTW9ubTA?oc=5\" target=\"_blank\">The Impossible Middle East: After the Iran War, the Region Has No Good Options</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGWGJqd1dRbVFHdW5UQWZRMU9NN1c5X2dhZ19wR0IxbF9kbTFSbUVGenVyNUVIOVZtQ1ctZmRJN1dWMFgzTzlYT0ZQNGozenBtOGlNdEJRNUtFMmxwOW1qTUpxcFJPTVJOR25DUkpuTW9ubTA?oc=5",
+      "publishedAt": "Thu, 27 Aug 2026 07:00:00 GMT",
+      "titleZh": "The Impossible Middle East: After the Iran War, the Region Has No Good Options - Foreign Affairs",
+      "summaryZh": "The Impossible Middle East: After the Iran War, the Region Has No Good Options&nbsp;&nbsp;Foreign Affairs"
+    },
+    {
+      "id": "foreignaffairs-commentary-6-https://news.google.com/",
+      "sourceId": "foreignaffairs",
+      "source": "Foreign Affairs",
+      "sourceSite": "foreignaffairs.com",
+      "type": "commentary",
+      "title": "Nate Swanson: Maximum Pressure on Iran Will Fail - Foreign Affairs",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNTWsybVJWV0lDY3NDRlkzN3FteGI4U0tDSXp0bzVIeDJzR0dwaXlQVElIZmZmVXVlTi1NWFdOc3JBYkR5cjM0QllnX2otemplNjdLal9PRGJqdDdETDNBam9JRzhId0JhTV9sYnJzUmx0eXV5M2pZN05yVm4xLUdBZWpB?oc=5\" target=\"_blank\">Nate Swanson: Maximum Pressure on Iran Will Fail</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTWsybVJWV0lDY3NDRlkzN3FteGI4U0tDSXp0bzVIeDJzR0dwaXlQVElIZmZmVXVlTi1NWFdOc3JBYkR5cjM0QllnX2otemplNjdLal9PRGJqdDdETDNBam9JRzhId0JhTV9sYnJzUmx0eXV5M2pZN05yVm4xLUdBZWpB?oc=5",
+      "publishedAt": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "titleZh": "Nate Swanson: Maximum Pressure on Iran Will Fail - Foreign Affairs",
+      "summaryZh": "Nate Swanson: Maximum Pressure on Iran Will Fail&nbsp;&nbsp;Foreign Affairs"
     },
     {
       "id": "foreignpolicy-commentary-2-https://news.google.com/",
@@ -877,7 +877,20 @@
       "summaryZh": "The U.S. Is Learning the Wrong Lessons in Iran&nbsp;&nbsp;Foreign Policy"
     },
     {
-      "id": "foreignpolicy-commentary-6-https://news.google.com/",
+      "id": "foreignaffairs-commentary-4-https://news.google.com/",
+      "sourceId": "foreignaffairs",
+      "source": "Foreign Affairs",
+      "sourceSite": "foreignaffairs.com",
+      "type": "commentary",
+      "title": "The Long Shadow of the Iran Shock - Foreign Affairs",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFA5MGRCVV93U19qODlOQ2V5OTNaQncxTU5YQWJTTGJxNDA2OHlHZjVEa1BqUDRVM3hYbXNReDA4anlZa0E4SmUzZ1BJY3hYc1VvRURSZ0ZnZUlUSnNTMk93Rl9kQ0w5Rmo5QXc?oc=5\" target=\"_blank\">The Long Shadow of the Iran Shock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5MGRCVV93U19qODlOQ2V5OTNaQncxTU5YQWJTTGJxNDA2OHlHZjVEa1BqUDRVM3hYbXNReDA4anlZa0E4SmUzZ1BJY3hYc1VvRURSZ0ZnZUlUSnNTMk93Rl9kQ0w5Rmo5QXc?oc=5",
+      "publishedAt": "Fri, 14 Aug 2026 07:00:00 GMT",
+      "titleZh": "The Long Shadow of the Iran Shock - Foreign Affairs",
+      "summaryZh": "The Long Shadow of the Iran Shock&nbsp;&nbsp;Foreign Affairs"
+    },
+    {
+      "id": "foreignpolicy-commentary-5-https://news.google.com/",
       "sourceId": "foreignpolicy",
       "source": "Foreign Policy",
       "sourceSite": "foreignpolicy.com",
@@ -903,17 +916,30 @@
       "summaryZh": "Donald Trump gambles that Iran wants money more than power&nbsp;&nbsp;The Economist"
     },
     {
-      "id": "foreignpolicy-commentary-5-https://news.google.com/",
+      "id": "foreignpolicy-commentary-7-https://news.google.com/",
       "sourceId": "foreignpolicy",
       "source": "Foreign Policy",
       "sourceSite": "foreignpolicy.com",
       "type": "commentary",
-      "title": "Iran Is a Bigger Defeat Than Vietnam - Foreign Policy",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE12cF9kWkNBNzRwZEpWTi1CaFIwM29lRDJPN002QkkyU2YwbVMzU0pIRnpaMGtnVjk2Tmkwd3k5NXZKQS1YWW9wSUdQeDZEc0h0WWFYS1lGUzVaN1pVT1JJejFwVlc5eWNRdTRtWldpU1FibG9Y?oc=5\" target=\"_blank\">Iran Is a Bigger Defeat Than Vietnam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Policy</font>",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12cF9kWkNBNzRwZEpWTi1CaFIwM29lRDJPN002QkkyU2YwbVMzU0pIRnpaMGtnVjk2Tmkwd3k5NXZKQS1YWW9wSUdQeDZEc0h0WWFYS1lGUzVaN1pVT1JJejFwVlc5eWNRdTRtWldpU1FibG9Y?oc=5",
-      "publishedAt": "Tue, 16 Jun 2026 07:00:00 GMT",
-      "titleZh": "Iran Is a Bigger Defeat Than Vietnam - Foreign Policy",
-      "summaryZh": "Iran Is a Bigger Defeat Than Vietnam&nbsp;&nbsp;Foreign Policy"
+      "title": "Trump Defends His Iran Deal - Foreign Policy",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPVXUtTkZjdkpvX3c2Q0NTUVJVY2VMVm54ZGFxSDVEcmVlZU1mOXBxNm1WbmNLMWIxbnVvbjFpSEdCLW5BQm9SbE5Jb2FaY0ljQ2JaZi1RWXVIeE51Snd1Sko4SUUxOFF3Qjh4V25hWDVvVWdSemJNOE16WmxJdHliYlRiR0d1UDFIb3JVak1Fb2szcjVVMV9UU00za0Z4RWlX?oc=5\" target=\"_blank\">Trump Defends His Iran Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Policy</font>",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVXUtTkZjdkpvX3c2Q0NTUVJVY2VMVm54ZGFxSDVEcmVlZU1mOXBxNm1WbmNLMWIxbnVvbjFpSEdCLW5BQm9SbE5Jb2FaY0ljQ2JaZi1RWXVIeE51Snd1Sko4SUUxOFF3Qjh4V25hWDVvVWdSemJNOE16WmxJdHliYlRiR0d1UDFIb3JVak1Fb2szcjVVMV9UU00za0Z4RWlX?oc=5",
+      "publishedAt": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "titleZh": "Trump Defends His Iran Deal - Foreign Policy",
+      "summaryZh": "Trump Defends His Iran Deal&nbsp;&nbsp;Foreign Policy"
+    },
+    {
+      "id": "foreignaffairs-commentary-7-https://news.google.com/",
+      "sourceId": "foreignaffairs",
+      "source": "Foreign Affairs",
+      "sourceSite": "foreignaffairs.com",
+      "type": "commentary",
+      "title": "The Coming Crisis in Iran - Foreign Affairs",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5qZm1OWFI4YV9pOGJVZ3gtNkYwTGd0VzAwaWl3UVhmNEVVNWdXWlRiaHVBNkdhNEtiOVdqV3VfLW1BaHZYVV9tWGFCTkt5cHBWV2doU0hnd2xTbDFxUUNuaGNWdWZrMmdha3FFNzJoN21sV3FqM09BRnNGa09Pek0?oc=5\" target=\"_blank\">The Coming Crisis in Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qZm1OWFI4YV9pOGJVZ3gtNkYwTGd0VzAwaWl3UVhmNEVVNWdXWlRiaHVBNkdhNEtiOVdqV3VfLW1BaHZYVV9tWGFCTkt5cHBWV2doU0hnd2xTbDFxUUNuaGNWdWZrMmdha3FFNzJoN21sV3FqM09BRnNGa09Pek0?oc=5",
+      "publishedAt": "Fri, 01 May 2015 17:33:17 GMT",
+      "titleZh": "The Coming Crisis in Iran - Foreign Affairs",
+      "summaryZh": "The Coming Crisis in Iran&nbsp;&nbsp;Foreign Affairs"
     }
   ]
 }
