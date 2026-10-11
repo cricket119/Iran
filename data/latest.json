@@ -1,20 +1,46 @@
 {
-  "generatedAt": "2026-10-11T12:01:22.349Z",
-  "totalNews": 20,
+  "generatedAt": "2026-10-11T19:18:35.008Z",
+  "totalNews": 21,
   "totalCommentary": 32,
   "timeline": [
     {
-      "id": "aljazeera-news-1-https://news.google.com/",
+      "id": "reuters-news-0-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
+      "type": "news",
+      "title": "Iran says US response to its proposal to reopen Hormuz was 'insufficient' - Reuters",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaDM4RVFjdmpFdUszUHFFbm5tWGM1R21NMEI2aFNqN2NOUGZPZzVPQ3d6QnUwY3VkWm96Q0tXQVFfTFF6c21hYzgzQWwyQVhJam0zZW45cGNuc282RkYzVEIyOEJlTkljM0l5MkdTRHRzRE1rdExZV2o4aFBiTURQMXd0UlFsTVlLdVlwVDZJcGpBNWZkb0RhalloX21XclFXTWJnN3pTSzZPNy1tS1o0SDNjLVlmZ2ZkVldj?oc=5\" target=\"_blank\">Iran says US response to its proposal to reopen Hormuz was 'insufficient'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaDM4RVFjdmpFdUszUHFFbm5tWGM1R21NMEI2aFNqN2NOUGZPZzVPQ3d6QnUwY3VkWm96Q0tXQVFfTFF6c21hYzgzQWwyQVhJam0zZW45cGNuc282RkYzVEIyOEJlTkljM0l5MkdTRHRzRE1rdExZV2o4aFBiTURQMXd0UlFsTVlLdVlwVDZJcGpBNWZkb0RhalloX21XclFXTWJnN3pTSzZPNy1tS1o0SDNjLVlmZ2ZkVldj?oc=5",
+      "publishedAt": "Sun, 11 Oct 2026 17:11:12 GMT",
+      "titleZh": "Iran says US response to its proposal to reopen Hormuz was 'insufficient' - Reuters",
+      "summaryZh": "Iran says US response to its proposal to reopen Hormuz was 'insufficient'&nbsp;&nbsp;Reuters"
+    },
+    {
+      "id": "aljazeera-news-2-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
       "type": "news",
-      "title": "Iran war live: 12 killed in Riyadh, Saudi-led coalition vows to respond - Al Jazeera",
-      "description": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOG4wRG0xOU5UdG45YWVFYzNfSE5xMGJPY3M3bTMwT0NJLWFnSGJpd211eHBTVGNSNXlBekVHZFJIZ3FFLW1pV0RLSlhIdmxRZE1OTHRJNTg1SW1qemxqTTdMZk5zZjdYeE40bTB3Q2t2b2ktWHBXNHc5bGdaZXQ4dDlwY3Axc3dYaDBaMllmUUVvQmxmTFU2SVM0bldoVWZPUkN6bVhPMXNHdDVFeDZSSGFtQjdXdXFFSUNIbklTTnlWd9IBxwFBVV95cUxQTUdPNUxLbldYa1ZvckFxelBsWFBkaEFSN0NITWpqT21xU1V4aU1hdEphWGFqMXdSZ05lWFBqNUdhNjVDdHJUSW1hcjk3QWxTMEk2cWF5S0NlUTZMX3lYSTZJTC1TNUhOdDBwSXprM284RWlmZmJtRHB5T0FQQ1A1d0IxeVhXei1KREozV2dyMTFXMVRzWXRxNGRHMU5wMzZXMFBVLXM3Sy16cE93Z2wydU9sSnpOMkVVZ29uSXFjTnJXSjJGOTFF?oc=5\" target=\"_blank\">Iran war live: 12 killed in Riyadh, Saudi-led coalition vows to respond</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQQkRLWlFxeDRfeGxUcGJ6dTM2X3l2cldSWlB4MDJIN3lpWXlRUE1sdE8tbHhtQzY5Ul9WRzJ0bk4taEVCOF9JVGkwN2d4S0xIQmJHbmlFZFlDZ3VDdXk1U3B6bHE4SExtTWZIcURVWkFmaXdNZ1QtdWdoNVR3Z2FBOHNxVmFwQTY2TXpUOWlja3hvdXdLekhv?oc=5\" target=\"_blank\">Live Updates: Trump says he is considering whether U.S. should join fight against Houthis after Saudi airport strike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxNcHNrVF9CQnMzNHlWUU5Db011eERJUHJoQTdzQzZfdllQUWZmZjBBSzdkaWViSG9UN1BmZklLTzB5SzYzcmhGd0dNVU9iM1F2dVJnMHBxaGlYMXh2cC1tZHpFV0dmSExIOGhkVUxXQ25hVlVtbzV0YUxLWU9NZTNobzJFaTR6UzkzNVdKazkxWUh4TW1aMUl4c3dhRk9TQkVnWXFNanFCUm1pdzFYWERZZ2ZvdjRvR2FyUzNvV0xXc2dZYy1KR3dBR0c3Q1ZWc0xCZnNkSVVtaVdkX2FXY3k2aUthREZSYmNlVFYtMWlwdW1vSDlBT1EzdWpibWJFcEFlNDk4VGd1VDVxYVFKdEwxRmZvN0l2RHc?oc=5\" target=\"_blank\">Middle East latest: Houthis tell airlines and passengers to stay away from Saudi airports after attack kills 12</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sky News</font></li></ol>",
+      "title": "Hormuz attacks intensify as efforts to end war on Iran stall - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOajZFRE5qcjI5WGVBUWVORmRYZ01xNzFGS0RvR01PLVY4UEx1dUFwQ3FkZlA4QWNOeTJSR0NUVUZQcVR1UjdaVmNBRU1yZ1ZuT2gyWDkzRlA1MUE0MXkwU3NEdWJWbzNodU9nY1pLU0VyT0pRQ0FjbVdEcFFSVEMxNnNHSjRHdmNUZmVGNjd3ZV9YTTJpc2U4dTRJUHBJOUlMendhONIBqgFBVV95cUxOVTdCRlJ6b1lUaVNqQlB0cERHWTB3TG5sRl9nSURfalAzZEJOTi1Ba3dkNmQ5ZGFoelJVMUhDY0l3QzQ2bWhFcUlfalkycDIyRFFiNGpaMGdSRl9pRHFpTGh6YXZJb0MwdGx1T1E1SDd3NjhkNmc0QlZibTdVbzBQNUdYQ0k4eHQ2TjJ6Y05lMW5FRHVEd3Nfdi1KZE1CdmthbDNMeHZjelVoUQ?oc=5\" target=\"_blank\">Hormuz attacks intensify as efforts to end war on Iran stall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOajZFRE5qcjI5WGVBUWVORmRYZ01xNzFGS0RvR01PLVY4UEx1dUFwQ3FkZlA4QWNOeTJSR0NUVUZQcVR1UjdaVmNBRU1yZ1ZuT2gyWDkzRlA1MUE0MXkwU3NEdWJWbzNodU9nY1pLU0VyT0pRQ0FjbVdEcFFSVEMxNnNHSjRHdmNUZmVGNjd3ZV9YTTJpc2U4dTRJUHBJOUlMendhONIBqgFBVV95cUxOVTdCRlJ6b1lUaVNqQlB0cERHWTB3TG5sRl9nSURfalAzZEJOTi1Ba3dkNmQ5ZGFoelJVMUhDY0l3QzQ2bWhFcUlfalkycDIyRFFiNGpaMGdSRl9pRHFpTGh6YXZJb0MwdGx1T1E1SDd3NjhkNmc0QlZibTdVbzBQNUdYQ0k4eHQ2TjJ6Y05lMW5FRHVEd3Nfdi1KZE1CdmthbDNMeHZjelVoUQ?oc=5",
+      "publishedAt": "Sun, 11 Oct 2026 14:05:52 GMT",
+      "titleZh": "Hormuz attacks intensify as efforts to end war on Iran stall - Al Jazeera",
+      "summaryZh": "Hormuz attacks intensify as efforts to end war on Iran stall&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "id": "aljazeera-news-0-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "Iran war live: Injuries after new Houthi attack on Saudi Arabia’s airport - Al Jazeera",
+      "description": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOG4wRG0xOU5UdG45YWVFYzNfSE5xMGJPY3M3bTMwT0NJLWFnSGJpd211eHBTVGNSNXlBekVHZFJIZ3FFLW1pV0RLSlhIdmxRZE1OTHRJNTg1SW1qemxqTTdMZk5zZjdYeE40bTB3Q2t2b2ktWHBXNHc5bGdaZXQ4dDlwY3Axc3dYaDBaMllmUUVvQmxmTFU2SVM0bldoVWZPUkN6bVhPMXNHdDVFeDZSSGFtQjdXdXFFSUNIbklTTnlWd9IBxwFBVV95cUxQTUdPNUxLbldYa1ZvckFxelBsWFBkaEFSN0NITWpqT21xU1V4aU1hdEphWGFqMXdSZ05lWFBqNUdhNjVDdHJUSW1hcjk3QWxTMEk2cWF5S0NlUTZMX3lYSTZJTC1TNUhOdDBwSXprM284RWlmZmJtRHB5T0FQQ1A1d0IxeVhXei1KREozV2dyMTFXMVRzWXRxNGRHMU5wMzZXMFBVLXM3Sy16cE93Z2wydU9sSnpOMkVVZ29uSXFjTnJXSjJGOTFF?oc=5\" target=\"_blank\">Iran war live: Injuries after new Houthi attack on Saudi Arabia’s airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQX1ZaSjhHakhEb2hLUXUxdWZVb1pVQXJicTgtVENldndaRTI4VG5iaFJyV0sxSTRieVliX0c3SV81SEYtNmFxOXd2YUM2bDh6Tjk0cnBCVWM0RWNJeE4xLUVKXy10ZUM5cVNHc2tZYXR2R1A5U21MRVVjb0hMcHp5VTNfc29FTWFUaW51MVhnemJfRW9CMk8wb29HWVpzQ3pENDZscW43SEVxNHhUcUxrN3JBaUo4bWtENEE?oc=5\" target=\"_blank\">12 killed, hundreds injured in Saudi Arabia airport attack as Houthi strikes intensify</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTTAxdXE1eURtVlVzVXVYOTctZVNjbTlfb2FLU3FwQ0JXcGE0ekpEZGJ3NGlxVEVyNElCdjRxdmpVRGNMMFpMWVNJMlBJb051YzBYYWMxZGZXbEliVXIzd2llaExzbzduM1BXV1V0TEkycDdQYmM4bTVVMUFrUkZIYTlNWEJFSmo1NXYxWmV0XzN6UFVnazNoOGx1YlZ5M1ZWV2g1NzRoTVJlT0dHQ3RlNTZFS0t3cmtMRlNtTUNJSkE2XzdWNTdJeUV4SzMwMEN1azEwU0xYeVdnajVzeld1T1BoM2ZYT3Vla19oOXVJRl9VSVpjb1HSAfsBQVVfeXFMTkZjV085eFNNbGtTUk1aYzB2YV9xQTBMX3JabTZwel9VbkdJWmhKWDlrNG1PUlRvUzhCMWFxaHRRQUZfa0lEN3FCeHo0dlpHYVhJaDllVHRjc2xPWmJoVW8tV2kzeXlCZmpGQ1d0VklSQjIwUHZMaWpYbV9VdXNuMVhOekl2NC1ja09uZTNRZ2JCYml3VzllWDM1TGs2cFk5V2UtcE9INDB1NFBIXzgwcy1oeERRMGZUdmZUeURheXBacG4xOHg2MW5ZXzdtaEd3aEw4ZkRwd2tRSU8xS2dmUTZ1RkhBMFQ1cktwZDJZXzFwdG5Kc0NENXBpZms?oc=5\" target=\"_blank\">US-Iran War Live Updates: Saudi Arabia's Dammam airport attacked, aviation authority says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font></li></ol>",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOG4wRG0xOU5UdG45YWVFYzNfSE5xMGJPY3M3bTMwT0NJLWFnSGJpd211eHBTVGNSNXlBekVHZFJIZ3FFLW1pV0RLSlhIdmxRZE1OTHRJNTg1SW1qemxqTTdMZk5zZjdYeE40bTB3Q2t2b2ktWHBXNHc5bGdaZXQ4dDlwY3Axc3dYaDBaMllmUUVvQmxmTFU2SVM0bldoVWZPUkN6bVhPMXNHdDVFeDZSSGFtQjdXdXFFSUNIbklTTnlWd9IBxwFBVV95cUxQTUdPNUxLbldYa1ZvckFxelBsWFBkaEFSN0NITWpqT21xU1V4aU1hdEphWGFqMXdSZ05lWFBqNUdhNjVDdHJUSW1hcjk3QWxTMEk2cWF5S0NlUTZMX3lYSTZJTC1TNUhOdDBwSXprM284RWlmZmJtRHB5T0FQQ1A1d0IxeVhXei1KREozV2dyMTFXMVRzWXRxNGRHMU5wMzZXMFBVLXM3Sy16cE93Z2wydU9sSnpOMkVVZ29uSXFjTnJXSjJGOTFF?oc=5",
       "publishedAt": "Sun, 11 Oct 2026 11:00:05 GMT",
-      "titleZh": "Iran war live: 12 killed in Riyadh, Saudi-led coalition vows to respond - Al Jazeera",
-      "summaryZh": "Iran war live: 12 killed in Riyadh, Saudi-led coalition vows to respond&nbsp;&nbsp;Al JazeeraLive Updates: Trump says he is considering whether U.S. should join fight against Houthis after Saudi airport strike&nbsp;&nbsp"
+      "titleZh": "Iran war live: Injuries after new Houthi attack on Saudi Arabia’s airport - Al Jazeera",
+      "summaryZh": "Iran war live: Injuries after new Houthi attack on Saudi Arabia’s airport&nbsp;&nbsp;Al Jazeera12 killed, hundreds injured in Saudi Arabia airport attack as Houthi strikes intensify&nbsp;&nbsp;The Washington PostUS-Iran "
     },
     {
       "id": "aljazeera-news-4-https://news.google.com/",
@@ -43,7 +69,7 @@
       "summaryZh": "US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "reuters-news-0-https://news.google.com/",
+      "id": "reuters-news-1-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -95,7 +121,7 @@
       "summaryZh": "Iran war updates: Saudi-led coalition hits Houthis; Putin, Trump talk Iran&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-0-https://news.google.com/",
+      "id": "aljazeera-news-8-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -108,30 +134,17 @@
       "summaryZh": "Is Trump signalling a return to war with Iran after the midterms?&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "id": "aljazeera-news-2-https://news.google.com/",
+      "id": "aljazeera-news-1-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
       "type": "news",
-      "title": "Putin pledges Russia’s support to end US-led war on Iran - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOODdQNEExVmlqMVFrdmVYaHVjN3l6dnJFQ25sd0NiVUtseTc5MHJKRXJTSHY4UUJYRXVVWEh0S1RYeXdUc0lqSnYtSG5Yemdwdm00SzlCdzgxNjZYeWR6Tk82dFBOVWFjb2Y0cmcxMGpFcFU5NHkzdkZFOXI1X1U1aG5rTngyU3VMTFpjMmlPS2FaUmE1N3ZFSzIwT23SAaIBQVVfeXFMT2F4aVM0N2d5d1lmN2k4a1ZkbDJEMFRCdG41LXhWUkticGQ2bDlUQUotaHg3eURpdnl3SUV3YllnZ192LVo5UlFpXzRlYW8tSEl2ZkNFYUhUMTNPc2hNamxjU3BsT2FlWUprTXh2clU3UFRrb1kxbWxuRmNVT2JId2JDalkzRVFwR1N4ZzVSSXNtQTNFeEZhSjRveUxMdzBRWmdB?oc=5\" target=\"_blank\">Putin pledges Russia’s support to end US-led war on Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOODdQNEExVmlqMVFrdmVYaHVjN3l6dnJFQ25sd0NiVUtseTc5MHJKRXJTSHY4UUJYRXVVWEh0S1RYeXdUc0lqSnYtSG5Yemdwdm00SzlCdzgxNjZYeWR6Tk82dFBOVWFjb2Y0cmcxMGpFcFU5NHkzdkZFOXI1X1U1aG5rTngyU3VMTFpjMmlPS2FaUmE1N3ZFSzIwT23SAaIBQVVfeXFMT2F4aVM0N2d5d1lmN2k4a1ZkbDJEMFRCdG41LXhWUkticGQ2bDlUQUotaHg3eURpdnl3SUV3YllnZ192LVo5UlFpXzRlYW8tSEl2ZkNFYUhUMTNPc2hNamxjU3BsT2FlWUprTXh2clU3UFRrb1kxbWxuRmNVT2JId2JDalkzRVFwR1N4ZzVSSXNtQTNFeEZhSjRveUxMdzBRWmdB?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 22:35:46 GMT",
-      "titleZh": "Putin pledges Russia’s support to end US-led war on Iran - Al Jazeera",
-      "summaryZh": "Putin pledges Russia’s support to end US-led war on Iran&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "id": "aljazeera-news-8-https://news.google.com/",
-      "sourceId": "aljazeera",
-      "source": "Al Jazeera",
-      "sourceSite": "aljazeera.com",
-      "type": "news",
-      "title": "At least 81 US aircraft worth up to $3.3bn lost or damaged in Iran war - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGJkWmJFODJFOWZtaHlLUUt5TXgwQ21XRkVrWEVrcHVwYlgtbG5JNHRxWVVGbmZGekpHdTlrWjhyZ1ZXbmdQcjRmb2lUbEx2cXlmcnZkdkExX2I4OWpzTS1reGlkc2g0RjNUN3FvZHpWX2tBa2NybjJZRW1ZM3A1UjgyV3RkbVZKcDVLQ1lKUm1Kc3VmQ0h1QnliOXE3MVYzcDliNzZYV2xBazczZHdJ0gG0AUFVX3lxTE1QLUsxVk1lZmY2cTFCVUFIVUtHdzVqTXE5aTJmTGdDWWtDX0xzb0l2VS1iLVI2OVYwd0k0R2I4M2NkejQ1NmZaV0VKZmUwZWlKWDJMOTJ0X0NPdllJZHRHUWlBZUc1NGI0ejJqYVJIR1dycVo4UHNtY0VJYlhpdWNmUUttZDJXR2R6NkE1Q1U4bHZmNlltNk1rN1lHVS16WkFzX2Rkc3lIUG5lSzJvQ1hOeWM2cQ?oc=5\" target=\"_blank\">At least 81 US aircraft worth up to $3.3bn lost or damaged in Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGJkWmJFODJFOWZtaHlLUUt5TXgwQ21XRkVrWEVrcHVwYlgtbG5JNHRxWVVGbmZGekpHdTlrWjhyZ1ZXbmdQcjRmb2lUbEx2cXlmcnZkdkExX2I4OWpzTS1reGlkc2g0RjNUN3FvZHpWX2tBa2NybjJZRW1ZM3A1UjgyV3RkbVZKcDVLQ1lKUm1Kc3VmQ0h1QnliOXE3MVYzcDliNzZYV2xBazczZHdJ0gG0AUFVX3lxTE1QLUsxVk1lZmY2cTFCVUFIVUtHdzVqTXE5aTJmTGdDWWtDX0xzb0l2VS1iLVI2OVYwd0k0R2I4M2NkejQ1NmZaV0VKZmUwZWlKWDJMOTJ0X0NPdllJZHRHUWlBZUc1NGI0ejJqYVJIR1dycVo4UHNtY0VJYlhpdWNmUUttZDJXR2R6NkE1Q1U4bHZmNlltNk1rN1lHVS16WkFzX2Rkc3lIUG5lSzJvQ1hOeWM2cQ?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 19:47:50 GMT",
-      "titleZh": "At least 81 US aircraft worth up to $3.3bn lost or damaged in Iran war - Al Jazeera",
-      "summaryZh": "At least 81 US aircraft worth up to $3.3bn lost or damaged in Iran war&nbsp;&nbsp;Al Jazeera"
+      "title": "USS Lincoln returns to US after long deployment supporting war on Iran - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPOGJVVlpoQmRBVkZHbDRudE00UDZBQTNzcld1eXl3YnZxY2JzdGRuVTlaWkw0VUcxZUpMRVVxek1VQTJoQVpIejZRdy1KMEM0bHdMMGZDUTFGU0REQ0lhX04yMGc4Y0Z5R2RHRFdTOUtnR0syOXVuX04wUVdyenpDR1lQRmNtTzFsNTJaNHVzTmszZHBSTWttdTdrLXB5ZElJR3dFRkluR1lLalBxLVlfYdIBtgFBVV95cUxNeFpVMnhxdlVsa2lwTGRjSkZQU3hNLWZQRFhoUU9kcmV3MmlmVm50bU9PN0R1UUtwUHFfWElXOGFYQjU3alZ6R3BvQ2RGTlgzclVsMy1GZzVDTlM1enFfMWhFa2dXc2NXdnhVa0t6V3dlZ2xob2dvQ05JcXVrd3Fhdlp4cUpBWU5WbVJfekZpbEYxM1ZycmtiZU9zZ2pxSmoxQlJHMGlPVnc3WUw2NXFpUlZ5ZTYwUQ?oc=5\" target=\"_blank\">USS Lincoln returns to US after long deployment supporting war on Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOGJVVlpoQmRBVkZHbDRudE00UDZBQTNzcld1eXl3YnZxY2JzdGRuVTlaWkw0VUcxZUpMRVVxek1VQTJoQVpIejZRdy1KMEM0bHdMMGZDUTFGU0REQ0lhX04yMGc4Y0Z5R2RHRFdTOUtnR0syOXVuX04wUVdyenpDR1lQRmNtTzFsNTJaNHVzTmszZHBSTWttdTdrLXB5ZElJR3dFRkluR1lLalBxLVlfYdIBtgFBVV95cUxNeFpVMnhxdlVsa2lwTGRjSkZQU3hNLWZQRFhoUU9kcmV3MmlmVm50bU9PN0R1UUtwUHFfWElXOGFYQjU3alZ6R3BvQ2RGTlgzclVsMy1GZzVDTlM1enFfMWhFa2dXc2NXdnhVa0t6V3dlZ2xob2dvQ05JcXVrd3Fhdlp4cUpBWU5WbVJfekZpbEYxM1ZycmtiZU9zZ2pxSmoxQlJHMGlPVnc3WUw2NXFpUlZ5ZTYwUQ?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 00:43:47 GMT",
+      "titleZh": "USS Lincoln returns to US after long deployment supporting war on Iran - Al Jazeera",
+      "summaryZh": "USS Lincoln returns to US after long deployment supporting war on Iran&nbsp;&nbsp;Al Jazeera"
     },
     {
       "id": "aljazeera-news-9-https://news.google.com/",
@@ -139,12 +152,12 @@
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
       "type": "news",
-      "title": "Iran war updates: Trump says no attack before vote; talks ongoing - Al Jazeera",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOaEJtdy04elJIYVJINU1pSlBYREd4eHA4TDBGN2M2UWxfR2pNOXFRQXVRRnFfemZnaU9ybEhSZWxDSk14TWpULXR6N1JiMm5mZllkNWRYRlB6NW9qR0RSRTIxZ0FpSkJvSEJQTV9fQ25TWHJOYkl2b3dJY211QWdSZU42aUdQTkJKekRkcXRMMDRzaVkwTHpVWE05YXJxYTc0YTBKVFliUTE3dFdwTDVXb09wMkJ0a1VRLXZwctIBwgFBVV95cUxNeDlSRzNBdUZVNnlsOUJpX3U4Y2p5Vk4wZWo5aXhmenBOTW01dFZILXV1U1RKWlJ5Qm9jYVUxcnVWZUpPVW9uNU9OX21VTnRRM1J1QU01cHdKU1NBUnRra3BrREJqeS1SZDBpUWkyZkoyU2J4Z0hUbm1aRGFIMjlJVE03MmpoV0l3b1hhaWw2c0piMUlxd1FGU3JDM3Ixdm1KNVR0VnZKbW83SE5mSzJ6UFN5VE9QSW54LVEtZk9nZ2E3Zw?oc=5\" target=\"_blank\">Iran war updates: Trump says no attack before vote; talks ongoing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaEJtdy04elJIYVJINU1pSlBYREd4eHA4TDBGN2M2UWxfR2pNOXFRQXVRRnFfemZnaU9ybEhSZWxDSk14TWpULXR6N1JiMm5mZllkNWRYRlB6NW9qR0RSRTIxZ0FpSkJvSEJQTV9fQ25TWHJOYkl2b3dJY211QWdSZU42aUdQTkJKekRkcXRMMDRzaVkwTHpVWE05YXJxYTc0YTBKVFliUTE3dFdwTDVXb09wMkJ0a1VRLXZwctIBwgFBVV95cUxNeDlSRzNBdUZVNnlsOUJpX3U4Y2p5Vk4wZWo5aXhmenBOTW01dFZILXV1U1RKWlJ5Qm9jYVUxcnVWZUpPVW9uNU9OX21VTnRRM1J1QU01cHdKU1NBUnRra3BrREJqeS1SZDBpUWkyZkoyU2J4Z0hUbm1aRGFIMjlJVE03MmpoV0l3b1hhaWw2c0piMUlxd1FGU3JDM3Ixdm1KNVR0VnZKbW83SE5mSzJ6UFN5VE9QSW54LVEtZk9nZ2E3Zw?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 10:14:38 GMT",
-      "titleZh": "Iran war updates: Trump says no attack before vote; talks ongoing - Al Jazeera",
-      "summaryZh": "Iran war updates: Trump says no attack before vote; talks ongoing&nbsp;&nbsp;Al Jazeera"
+      "title": "Iran war updates: Yemeni forces launch offensive to seize Houthi-held areas - Al Jazeera",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdmhaOWQ3S3FWZ3VDUmJjX0M4a19hSGF0WXo0R2V3NkZiZ2ZzOTJ3MDZhbjEwam5FT01JclpEcTZCNTJPWnVWRTVXYzljN2lDdVI1TkdRYlFWc21hQkFqUVdTVW01dkFfbk1iNmJQeC1WWUdmOW5GLTV6ZTB4M2t2bXNib1JoaXpzY2ZQMVNyVnlwTnBqSkVGSmFXemJuZV8xblFvSjNZMjZuLTlOR1l4TGp1VUhvUE9mSDlkLXJBSmloQdIBxwFBVV95cUxPNkdZNy1ScmkxWHFtcVREQWRQeF9iNzJBSkxRWUN1cG94MWVtYWY2cUpDNkE5VmtaQkdqTVJtMWg2OTFKeEdneWZlZTJEM3lUUTA4UWppWXh1SW5weDZsQzRJRUd0Q1N2Sm11cHlfTjB6SlVBaVpzRXZWUHBEQ1dPUE5fX21ENUZOT2hyZ0N2SVNCb25wU3dqM0JHWENlMEY2SjEyNlBXUTJib1ZhLTdFZkhfU092WEdRVGNLTXNtWWd4WVE3bk9B?oc=5\" target=\"_blank\">Iran war updates: Yemeni forces launch offensive to seize Houthi-held areas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdmhaOWQ3S3FWZ3VDUmJjX0M4a19hSGF0WXo0R2V3NkZiZ2ZzOTJ3MDZhbjEwam5FT01JclpEcTZCNTJPWnVWRTVXYzljN2lDdVI1TkdRYlFWc21hQkFqUVdTVW01dkFfbk1iNmJQeC1WWUdmOW5GLTV6ZTB4M2t2bXNib1JoaXpzY2ZQMVNyVnlwTnBqSkVGSmFXemJuZV8xblFvSjNZMjZuLTlOR1l4TGp1VUhvUE9mSDlkLXJBSmloQdIBxwFBVV95cUxPNkdZNy1ScmkxWHFtcVREQWRQeF9iNzJBSkxRWUN1cG94MWVtYWY2cUpDNkE5VmtaQkdqTVJtMWg2OTFKeEdneWZlZTJEM3lUUTA4UWppWXh1SW5weDZsQzRJRUd0Q1N2Sm11cHlfTjB6SlVBaVpzRXZWUHBEQ1dPUE5fX21ENUZOT2hyZ0N2SVNCb25wU3dqM0JHWENlMEY2SjEyNlBXUTJib1ZhLTdFZkhfU092WEdRVGNLTXNtWWd4WVE3bk9B?oc=5",
+      "publishedAt": "Mon, 05 Oct 2026 06:07:58 GMT",
+      "titleZh": "Iran war updates: Yemeni forces launch offensive to seize Houthi-held areas - Al Jazeera",
+      "summaryZh": "Iran war updates: Yemeni forces launch offensive to seize Houthi-held areas&nbsp;&nbsp;Al Jazeera"
     },
     {
       "id": "bbc-news-2-https://news.google.com/",
@@ -199,7 +212,7 @@
       "summaryZh": "特朗普表示同意取消对伊朗的打击，前提是能“迅速”达成协议&nbsp;&nbsp;BBC"
     },
     {
-      "id": "reuters-news-1-https://news.google.com/",
+      "id": "reuters-news-2-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -275,6 +288,19 @@
           "source": "Reuters",
           "sourceSite": "reuters.com",
           "type": "news",
+          "title": "Iran says US response to its proposal to reopen Hormuz was 'insufficient' - Reuters",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaDM4RVFjdmpFdUszUHFFbm5tWGM1R21NMEI2aFNqN2NOUGZPZzVPQ3d6QnUwY3VkWm96Q0tXQVFfTFF6c21hYzgzQWwyQVhJam0zZW45cGNuc282RkYzVEIyOEJlTkljM0l5MkdTRHRzRE1rdExZV2o4aFBiTURQMXd0UlFsTVlLdVlwVDZJcGpBNWZkb0RhalloX21XclFXTWJnN3pTSzZPNy1tS1o0SDNjLVlmZ2ZkVldj?oc=5\" target=\"_blank\">Iran says US response to its proposal to reopen Hormuz was 'insufficient'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaDM4RVFjdmpFdUszUHFFbm5tWGM1R21NMEI2aFNqN2NOUGZPZzVPQ3d6QnUwY3VkWm96Q0tXQVFfTFF6c21hYzgzQWwyQVhJam0zZW45cGNuc282RkYzVEIyOEJlTkljM0l5MkdTRHRzRE1rdExZV2o4aFBiTURQMXd0UlFsTVlLdVlwVDZJcGpBNWZkb0RhalloX21XclFXTWJnN3pTSzZPNy1tS1o0SDNjLVlmZ2ZkVldj?oc=5",
+          "publishedAt": "Sun, 11 Oct 2026 17:11:12 GMT",
+          "titleZh": "Iran says US response to its proposal to reopen Hormuz was 'insufficient' - Reuters",
+          "summaryZh": "Iran says US response to its proposal to reopen Hormuz was 'insufficient'&nbsp;&nbsp;Reuters"
+        },
+        {
+          "id": "reuters-news-1-https://news.google.com/",
+          "sourceId": "reuters",
+          "source": "Reuters",
+          "sourceSite": "reuters.com",
+          "type": "news",
           "title": "US military says it disabled cargo vessel trying to run Iran blockade - Reuters",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPV2Nqd2RXZnpaY3lzeHVxN2Y0VC1ZZEpTSlFVeFpYbW1nQUZqRE5kSGt1NXo0TTFQQmtLSnFFX045Qk1pc2lpMWxXaGxfVkxxazIwNVdVYl82TWJZa2VURkhNWllYX1I1Vk00OFZoNzNNRmRQLURKVFpKbVVaVzZ4SjloWnB0SE1WTi1MWEp3TWttQ1h3MkpDcktydGU4MzdvVDlJS0V3Zk8xRkpp?oc=5\" target=\"_blank\">US military says it disabled cargo vessel trying to run Iran blockade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV2Nqd2RXZnpaY3lzeHVxN2Y0VC1ZZEpTSlFVeFpYbW1nQUZqRE5kSGt1NXo0TTFQQmtLSnFFX045Qk1pc2lpMWxXaGxfVkxxazIwNVdVYl82TWJZa2VURkhNWllYX1I1Vk00OFZoNzNNRmRQLURKVFpKbVVaVzZ4SjloWnB0SE1WTi1MWEp3TWttQ1h3MkpDcktydGU4MzdvVDlJS0V3Zk8xRkpp?oc=5",
@@ -283,7 +309,7 @@
           "summaryZh": "US military says it disabled cargo vessel trying to run Iran blockade&nbsp;&nbsp;Reuters"
         },
         {
-          "id": "reuters-news-1-https://news.google.com/",
+          "id": "reuters-news-2-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -386,17 +412,30 @@
       "source": "Al Jazeera",
       "items": [
         {
-          "id": "aljazeera-news-1-https://news.google.com/",
+          "id": "aljazeera-news-2-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
           "type": "news",
-          "title": "Iran war live: 12 killed in Riyadh, Saudi-led coalition vows to respond - Al Jazeera",
-          "description": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOG4wRG0xOU5UdG45YWVFYzNfSE5xMGJPY3M3bTMwT0NJLWFnSGJpd211eHBTVGNSNXlBekVHZFJIZ3FFLW1pV0RLSlhIdmxRZE1OTHRJNTg1SW1qemxqTTdMZk5zZjdYeE40bTB3Q2t2b2ktWHBXNHc5bGdaZXQ4dDlwY3Axc3dYaDBaMllmUUVvQmxmTFU2SVM0bldoVWZPUkN6bVhPMXNHdDVFeDZSSGFtQjdXdXFFSUNIbklTTnlWd9IBxwFBVV95cUxQTUdPNUxLbldYa1ZvckFxelBsWFBkaEFSN0NITWpqT21xU1V4aU1hdEphWGFqMXdSZ05lWFBqNUdhNjVDdHJUSW1hcjk3QWxTMEk2cWF5S0NlUTZMX3lYSTZJTC1TNUhOdDBwSXprM284RWlmZmJtRHB5T0FQQ1A1d0IxeVhXei1KREozV2dyMTFXMVRzWXRxNGRHMU5wMzZXMFBVLXM3Sy16cE93Z2wydU9sSnpOMkVVZ29uSXFjTnJXSjJGOTFF?oc=5\" target=\"_blank\">Iran war live: 12 killed in Riyadh, Saudi-led coalition vows to respond</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQQkRLWlFxeDRfeGxUcGJ6dTM2X3l2cldSWlB4MDJIN3lpWXlRUE1sdE8tbHhtQzY5Ul9WRzJ0bk4taEVCOF9JVGkwN2d4S0xIQmJHbmlFZFlDZ3VDdXk1U3B6bHE4SExtTWZIcURVWkFmaXdNZ1QtdWdoNVR3Z2FBOHNxVmFwQTY2TXpUOWlja3hvdXdLekhv?oc=5\" target=\"_blank\">Live Updates: Trump says he is considering whether U.S. should join fight against Houthis after Saudi airport strike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxNcHNrVF9CQnMzNHlWUU5Db011eERJUHJoQTdzQzZfdllQUWZmZjBBSzdkaWViSG9UN1BmZklLTzB5SzYzcmhGd0dNVU9iM1F2dVJnMHBxaGlYMXh2cC1tZHpFV0dmSExIOGhkVUxXQ25hVlVtbzV0YUxLWU9NZTNobzJFaTR6UzkzNVdKazkxWUh4TW1aMUl4c3dhRk9TQkVnWXFNanFCUm1pdzFYWERZZ2ZvdjRvR2FyUzNvV0xXc2dZYy1KR3dBR0c3Q1ZWc0xCZnNkSVVtaVdkX2FXY3k2aUthREZSYmNlVFYtMWlwdW1vSDlBT1EzdWpibWJFcEFlNDk4VGd1VDVxYVFKdEwxRmZvN0l2RHc?oc=5\" target=\"_blank\">Middle East latest: Houthis tell airlines and passengers to stay away from Saudi airports after attack kills 12</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sky News</font></li></ol>",
+          "title": "Hormuz attacks intensify as efforts to end war on Iran stall - Al Jazeera",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOajZFRE5qcjI5WGVBUWVORmRYZ01xNzFGS0RvR01PLVY4UEx1dUFwQ3FkZlA4QWNOeTJSR0NUVUZQcVR1UjdaVmNBRU1yZ1ZuT2gyWDkzRlA1MUE0MXkwU3NEdWJWbzNodU9nY1pLU0VyT0pRQ0FjbVdEcFFSVEMxNnNHSjRHdmNUZmVGNjd3ZV9YTTJpc2U4dTRJUHBJOUlMendhONIBqgFBVV95cUxOVTdCRlJ6b1lUaVNqQlB0cERHWTB3TG5sRl9nSURfalAzZEJOTi1Ba3dkNmQ5ZGFoelJVMUhDY0l3QzQ2bWhFcUlfalkycDIyRFFiNGpaMGdSRl9pRHFpTGh6YXZJb0MwdGx1T1E1SDd3NjhkNmc0QlZibTdVbzBQNUdYQ0k4eHQ2TjJ6Y05lMW5FRHVEd3Nfdi1KZE1CdmthbDNMeHZjelVoUQ?oc=5\" target=\"_blank\">Hormuz attacks intensify as efforts to end war on Iran stall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOajZFRE5qcjI5WGVBUWVORmRYZ01xNzFGS0RvR01PLVY4UEx1dUFwQ3FkZlA4QWNOeTJSR0NUVUZQcVR1UjdaVmNBRU1yZ1ZuT2gyWDkzRlA1MUE0MXkwU3NEdWJWbzNodU9nY1pLU0VyT0pRQ0FjbVdEcFFSVEMxNnNHSjRHdmNUZmVGNjd3ZV9YTTJpc2U4dTRJUHBJOUlMendhONIBqgFBVV95cUxOVTdCRlJ6b1lUaVNqQlB0cERHWTB3TG5sRl9nSURfalAzZEJOTi1Ba3dkNmQ5ZGFoelJVMUhDY0l3QzQ2bWhFcUlfalkycDIyRFFiNGpaMGdSRl9pRHFpTGh6YXZJb0MwdGx1T1E1SDd3NjhkNmc0QlZibTdVbzBQNUdYQ0k4eHQ2TjJ6Y05lMW5FRHVEd3Nfdi1KZE1CdmthbDNMeHZjelVoUQ?oc=5",
+          "publishedAt": "Sun, 11 Oct 2026 14:05:52 GMT",
+          "titleZh": "Hormuz attacks intensify as efforts to end war on Iran stall - Al Jazeera",
+          "summaryZh": "Hormuz attacks intensify as efforts to end war on Iran stall&nbsp;&nbsp;Al Jazeera"
+        },
+        {
+          "id": "aljazeera-news-0-https://news.google.com/",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "sourceSite": "aljazeera.com",
+          "type": "news",
+          "title": "Iran war live: Injuries after new Houthi attack on Saudi Arabia’s airport - Al Jazeera",
+          "description": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOG4wRG0xOU5UdG45YWVFYzNfSE5xMGJPY3M3bTMwT0NJLWFnSGJpd211eHBTVGNSNXlBekVHZFJIZ3FFLW1pV0RLSlhIdmxRZE1OTHRJNTg1SW1qemxqTTdMZk5zZjdYeE40bTB3Q2t2b2ktWHBXNHc5bGdaZXQ4dDlwY3Axc3dYaDBaMllmUUVvQmxmTFU2SVM0bldoVWZPUkN6bVhPMXNHdDVFeDZSSGFtQjdXdXFFSUNIbklTTnlWd9IBxwFBVV95cUxQTUdPNUxLbldYa1ZvckFxelBsWFBkaEFSN0NITWpqT21xU1V4aU1hdEphWGFqMXdSZ05lWFBqNUdhNjVDdHJUSW1hcjk3QWxTMEk2cWF5S0NlUTZMX3lYSTZJTC1TNUhOdDBwSXprM284RWlmZmJtRHB5T0FQQ1A1d0IxeVhXei1KREozV2dyMTFXMVRzWXRxNGRHMU5wMzZXMFBVLXM3Sy16cE93Z2wydU9sSnpOMkVVZ29uSXFjTnJXSjJGOTFF?oc=5\" target=\"_blank\">Iran war live: Injuries after new Houthi attack on Saudi Arabia’s airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQX1ZaSjhHakhEb2hLUXUxdWZVb1pVQXJicTgtVENldndaRTI4VG5iaFJyV0sxSTRieVliX0c3SV81SEYtNmFxOXd2YUM2bDh6Tjk0cnBCVWM0RWNJeE4xLUVKXy10ZUM5cVNHc2tZYXR2R1A5U21MRVVjb0hMcHp5VTNfc29FTWFUaW51MVhnemJfRW9CMk8wb29HWVpzQ3pENDZscW43SEVxNHhUcUxrN3JBaUo4bWtENEE?oc=5\" target=\"_blank\">12 killed, hundreds injured in Saudi Arabia airport attack as Houthi strikes intensify</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTTAxdXE1eURtVlVzVXVYOTctZVNjbTlfb2FLU3FwQ0JXcGE0ekpEZGJ3NGlxVEVyNElCdjRxdmpVRGNMMFpMWVNJMlBJb051YzBYYWMxZGZXbEliVXIzd2llaExzbzduM1BXV1V0TEkycDdQYmM4bTVVMUFrUkZIYTlNWEJFSmo1NXYxWmV0XzN6UFVnazNoOGx1YlZ5M1ZWV2g1NzRoTVJlT0dHQ3RlNTZFS0t3cmtMRlNtTUNJSkE2XzdWNTdJeUV4SzMwMEN1azEwU0xYeVdnajVzeld1T1BoM2ZYT3Vla19oOXVJRl9VSVpjb1HSAfsBQVVfeXFMTkZjV085eFNNbGtTUk1aYzB2YV9xQTBMX3JabTZwel9VbkdJWmhKWDlrNG1PUlRvUzhCMWFxaHRRQUZfa0lEN3FCeHo0dlpHYVhJaDllVHRjc2xPWmJoVW8tV2kzeXlCZmpGQ1d0VklSQjIwUHZMaWpYbV9VdXNuMVhOekl2NC1ja09uZTNRZ2JCYml3VzllWDM1TGs2cFk5V2UtcE9INDB1NFBIXzgwcy1oeERRMGZUdmZUeURheXBacG4xOHg2MW5ZXzdtaEd3aEw4ZkRwd2tRSU8xS2dmUTZ1RkhBMFQ1cktwZDJZXzFwdG5Kc0NENXBpZms?oc=5\" target=\"_blank\">US-Iran War Live Updates: Saudi Arabia's Dammam airport attacked, aviation authority says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font></li></ol>",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOG4wRG0xOU5UdG45YWVFYzNfSE5xMGJPY3M3bTMwT0NJLWFnSGJpd211eHBTVGNSNXlBekVHZFJIZ3FFLW1pV0RLSlhIdmxRZE1OTHRJNTg1SW1qemxqTTdMZk5zZjdYeE40bTB3Q2t2b2ktWHBXNHc5bGdaZXQ4dDlwY3Axc3dYaDBaMllmUUVvQmxmTFU2SVM0bldoVWZPUkN6bVhPMXNHdDVFeDZSSGFtQjdXdXFFSUNIbklTTnlWd9IBxwFBVV95cUxQTUdPNUxLbldYa1ZvckFxelBsWFBkaEFSN0NITWpqT21xU1V4aU1hdEphWGFqMXdSZ05lWFBqNUdhNjVDdHJUSW1hcjk3QWxTMEk2cWF5S0NlUTZMX3lYSTZJTC1TNUhOdDBwSXprM284RWlmZmJtRHB5T0FQQ1A1d0IxeVhXei1KREozV2dyMTFXMVRzWXRxNGRHMU5wMzZXMFBVLXM3Sy16cE93Z2wydU9sSnpOMkVVZ29uSXFjTnJXSjJGOTFF?oc=5",
           "publishedAt": "Sun, 11 Oct 2026 11:00:05 GMT",
-          "titleZh": "Iran war live: 12 killed in Riyadh, Saudi-led coalition vows to respond - Al Jazeera",
-          "summaryZh": "Iran war live: 12 killed in Riyadh, Saudi-led coalition vows to respond&nbsp;&nbsp;Al JazeeraLive Updates: Trump says he is considering whether U.S. should join fight against Houthis after Saudi airport strike&nbsp;&nbsp"
+          "titleZh": "Iran war live: Injuries after new Houthi attack on Saudi Arabia’s airport - Al Jazeera",
+          "summaryZh": "Iran war live: Injuries after new Houthi attack on Saudi Arabia’s airport&nbsp;&nbsp;Al Jazeera12 killed, hundreds injured in Saudi Arabia airport attack as Houthi strikes intensify&nbsp;&nbsp;The Washington PostUS-Iran "
         },
         {
           "id": "aljazeera-news-4-https://news.google.com/",
@@ -449,19 +488,6 @@
           "publishedAt": "Sat, 10 Oct 2026 13:13:11 GMT",
           "titleZh": "‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran - Al Jazeera",
           "summaryZh": "‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran&nbsp;&nbsp;Al Jazeera"
-        },
-        {
-          "id": "aljazeera-news-7-https://news.google.com/",
-          "sourceId": "aljazeera",
-          "source": "Al Jazeera",
-          "sourceSite": "aljazeera.com",
-          "type": "news",
-          "title": "Iran war updates: Saudi-led coalition hits Houthis; Putin, Trump talk Iran - Al Jazeera",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPT1ZDbTBzS2w5TzZUNTQ2TFhqTnFRd1VoRUZDYnhTWE9VSmZkTDlaMkZXc0xLX18ycl94ZnJnanJ3SnJueXpWOUpIRVZFbklFb0lCdUNDSFY3Rk9rNTJTSE1UYzhYYVNSZDNpeHBUb1Q5QS1OR05NWWdJOXlKcGhTWlRsN2hmTHluRkVYM25VSHNSQzZtSThPWmk4U2ZFOEJzNEtmUEtmcXlPQjRaWktUM295a1RmUWtPOFBXbzB30gHDAUFVX3lxTE85QjZwYndUd1RiczR0WFg2akJ5aVdIdS1sbUMyYUxGTjFyUG1idjhsRmlhb0VNWlIteDROYm1VTkF3MXZPYzZ1cEE1RDFXc3NzWW1DTnliQWVVQWlCUF9BNHFMWHBROUZxdVhNYTdIZkNtbWFROFNtZlFnUy1hdHp4eDQyUmlkVWZ1aVJBbVBIalRWeHM2VHh2bzJKdm9iNjdsdldFa2tvZzBTTHZXYm1ORmhZdUw2WVhxSk9hWEVpSFdHaw?oc=5\" target=\"_blank\">Iran war updates: Saudi-led coalition hits Houthis; Putin, Trump talk Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT1ZDbTBzS2w5TzZUNTQ2TFhqTnFRd1VoRUZDYnhTWE9VSmZkTDlaMkZXc0xLX18ycl94ZnJnanJ3SnJueXpWOUpIRVZFbklFb0lCdUNDSFY3Rk9rNTJTSE1UYzhYYVNSZDNpeHBUb1Q5QS1OR05NWWdJOXlKcGhTWlRsN2hmTHluRkVYM25VSHNSQzZtSThPWmk4U2ZFOEJzNEtmUEtmcXlPQjRaWktUM295a1RmUWtPOFBXbzB30gHDAUFVX3lxTE85QjZwYndUd1RiczR0WFg2akJ5aVdIdS1sbUMyYUxGTjFyUG1idjhsRmlhb0VNWlIteDROYm1VTkF3MXZPYzZ1cEE1RDFXc3NzWW1DTnliQWVVQWlCUF9BNHFMWHBROUZxdVhNYTdIZkNtbWFROFNtZlFnUy1hdHp4eDQyUmlkVWZ1aVJBbVBIalRWeHM2VHh2bzJKdm9iNjdsdldFa2tvZzBTTHZXYm1ORmhZdUw2WVhxSk9hWEVpSFdHaw?oc=5",
-          "publishedAt": "Fri, 09 Oct 2026 13:26:03 GMT",
-          "titleZh": "Iran war updates: Saudi-led coalition hits Houthis; Putin, Trump talk Iran - Al Jazeera",
-          "summaryZh": "Iran war updates: Saudi-led coalition hits Houthis; Putin, Trump talk Iran&nbsp;&nbsp;Al Jazeera"
         }
       ]
     },
@@ -473,17 +499,30 @@
   ],
   "commentary": [
     {
-      "id": "nytimes-commentary-2-https://news.google.com/",
+      "id": "nytimes-commentary-7-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
       "type": "commentary",
-      "title": "She’s Been to Gaza. She Met With the Iranians. Now She Has a Warning. - The New York Times",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOX0wzWW1oNmIzdVY0M3UwN3k2WkhGQnVJYWlMck0xemFudWlralkwRXlNUTd2cHE2emhPczdCQktKV0RULXZlY3NYUTNKWWZBRXFZeXRZSWdMcXNNaEFSRUhEcXlCd3JDSXM5VHh0RFRDbDNMVExwUFF1OE1LemVacFl3?oc=5\" target=\"_blank\">She’s Been to Gaza. She Met With the Iranians. Now She Has a Warning.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX0wzWW1oNmIzdVY0M3UwN3k2WkhGQnVJYWlMck0xemFudWlralkwRXlNUTd2cHE2emhPczdCQktKV0RULXZlY3NYUTNKWWZBRXFZeXRZSWdMcXNNaEFSRUhEcXlCd3JDSXM5VHh0RFRDbDNMVExwUFF1OE1LemVacFl3?oc=5",
-      "publishedAt": "Sat, 10 Oct 2026 09:15:08 GMT",
-      "titleZh": "She’s Been to Gaza. She Met With the Iranians. Now She Has a Warning. - The New York Times",
-      "summaryZh": "She’s Been to Gaza. She Met With the Iranians. Now She Has a Warning.&nbsp;&nbsp;The New York Times"
+      "title": "Democrats Press Pentagon on Iran Civilian Deaths - The New York Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQX1ZEc01pRG5vQ3RfaFNqOVNWNmZuZlk4RmtIZFhfMjlOSTdublF6aFFKVjNGWjlQYlRVMHBoeVJ1SC0zQ0t4WWhZYkYybUh2Z25qYUE1X3pJVEFCYlZhdU10U3pqa0piY0tXTjJZME1KQnM3blZLOTNMR3JyNnB6MWs3SE9SM19HcFNfMDNMUVBKSDkyOVVyU0FqRW5vM3JoR3c?oc=5\" target=\"_blank\">Democrats Press Pentagon on Iran Civilian Deaths</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX1ZEc01pRG5vQ3RfaFNqOVNWNmZuZlk4RmtIZFhfMjlOSTdublF6aFFKVjNGWjlQYlRVMHBoeVJ1SC0zQ0t4WWhZYkYybUh2Z25qYUE1X3pJVEFCYlZhdU10U3pqa0piY0tXTjJZME1KQnM3blZLOTNMR3JyNnB6MWs3SE9SM19HcFNfMDNMUVBKSDkyOVVyU0FqRW5vM3JoR3c?oc=5",
+      "publishedAt": "Sun, 11 Oct 2026 18:28:38 GMT",
+      "titleZh": "Democrats Press Pentagon on Iran Civilian Deaths - The New York Times",
+      "summaryZh": "Democrats Press Pentagon on Iran Civilian Deaths&nbsp;&nbsp;The New York Times"
+    },
+    {
+      "id": "nytimes-commentary-5-https://news.google.com/",
+      "sourceId": "nytimes",
+      "source": "The New York Times",
+      "sourceSite": "nytimes.com",
+      "type": "commentary",
+      "title": "Pentagon Again Increases Number of U.S. Casualties in Iran War - The New York Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQNXl5UlVxZURveWxEVGg4R3dwbXItWHl3WC1EaUYwVTh1MlVIY01Mb08yQ3liamhIYkpTY0ZUMi11dkNNRWZqQUxvRW02Vkt4M0N4YlotT2x3SHcxdUdHQWptazZIUDNXazEySEExMHpDWHM5dGYyS2w3blhqOEJiVGIzZ3BXM28?oc=5\" target=\"_blank\">Pentagon Again Increases Number of U.S. Casualties in Iran War</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNXl5UlVxZURveWxEVGg4R3dwbXItWHl3WC1EaUYwVTh1MlVIY01Mb08yQ3liamhIYkpTY0ZUMi11dkNNRWZqQUxvRW02Vkt4M0N4YlotT2x3SHcxdUdHQWptazZIUDNXazEySEExMHpDWHM5dGYyS2w3blhqOEJiVGIzZ3BXM28?oc=5",
+      "publishedAt": "Sun, 11 Oct 2026 00:01:38 GMT",
+      "titleZh": "Pentagon Again Increases Number of U.S. Casualties in Iran War - The New York Times",
+      "summaryZh": "Pentagon Again Increases Number of U.S. Casualties in Iran War&nbsp;&nbsp;The New York Times"
     },
     {
       "id": "foreignaffairs-commentary-0-https://news.google.com/",
@@ -497,6 +536,19 @@
       "publishedAt": "Fri, 09 Oct 2026 08:00:00 GMT",
       "titleZh": "Iran’s Theory of Victory - Foreign Affairs",
       "summaryZh": "Iran’s Theory of Victory&nbsp;&nbsp;Foreign Affairs"
+    },
+    {
+      "id": "nytimes-commentary-2-https://news.google.com/",
+      "sourceId": "nytimes",
+      "source": "The New York Times",
+      "sourceSite": "nytimes.com",
+      "type": "commentary",
+      "title": "Pentagon Draws Up New Iran Strike Plans as Trump Hesitates - The New York Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5NRE9XT1JnZUZoWXpuNXBzS3Z3MnNOQUlJWV84dXhkczZuRDdSOUFvNWRqSjlpTlUzNXlaUHJxblNtb0stWHRST2czR190bWtkaXFNV09IbE9OYTUxYzlhNUNneHJiUjBzbFRCeTcxTE13X1RaSTd4YnZLcFUwUVU?oc=5\" target=\"_blank\">Pentagon Draws Up New Iran Strike Plans as Trump Hesitates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NRE9XT1JnZUZoWXpuNXBzS3Z3MnNOQUlJWV84dXhkczZuRDdSOUFvNWRqSjlpTlUzNXlaUHJxblNtb0stWHRST2czR190bWtkaXFNV09IbE9OYTUxYzlhNUNneHJiUjBzbFRCeTcxTE13X1RaSTd4YnZLcFUwUVU?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 20:41:23 GMT",
+      "titleZh": "Pentagon Draws Up New Iran Strike Plans as Trump Hesitates - The New York Times",
+      "summaryZh": "Pentagon Draws Up New Iran Strike Plans as Trump Hesitates&nbsp;&nbsp;The New York Times"
     },
     {
       "id": "foreignpolicy-commentary-0-https://news.google.com/",
@@ -538,7 +590,7 @@
       "summaryZh": "Will Congress ever assert itself on Iran?&nbsp;&nbsp;The Economist"
     },
     {
-      "id": "nytimes-commentary-3-https://news.google.com/",
+      "id": "nytimes-commentary-4-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -551,30 +603,17 @@
       "summaryZh": "Iran War, Trump, Taxes: 5 Takeaways From the First Iowa Senate Debate&nbsp;&nbsp;The New York Times"
     },
     {
-      "id": "nytimes-commentary-4-https://news.google.com/",
+      "id": "nytimes-commentary-1-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
       "type": "commentary",
-      "title": "Video: Californians Criticize Trump for Saying Iran Could ‘Take Out’ Los Angeles and San Diego - The New York Times",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ09iZmdmbS1RR3VvZnhFUmlibEp1V3FtMnZ2NHk5aXNjclJKcnpkN2Q3TS1INHJVektlMTNlb1JWZHRpS0VpeldOcVRLTzhuUGdfdlY2THpfZXU0RkNOZVk0YUM0N0NEc1N0b0w4Zl80WEJ3a1cyYWRjUUZXWWNhRGxvZ3d6LUZIdTNLYTZzbWR4eWMtS0JiUnA3b3RvZzY5c2duVk1uR0dvdw?oc=5\" target=\"_blank\">Video: Californians Criticize Trump for Saying Iran Could ‘Take Out’ Los Angeles and San Diego</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ09iZmdmbS1RR3VvZnhFUmlibEp1V3FtMnZ2NHk5aXNjclJKcnpkN2Q3TS1INHJVektlMTNlb1JWZHRpS0VpeldOcVRLTzhuUGdfdlY2THpfZXU0RkNOZVk0YUM0N0NEc1N0b0w4Zl80WEJ3a1cyYWRjUUZXWWNhRGxvZ3d6LUZIdTNLYTZzbWR4eWMtS0JiUnA3b3RvZzY5c2duVk1uR0dvdw?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 13:55:46 GMT",
-      "titleZh": "Video: Californians Criticize Trump for Saying Iran Could ‘Take Out’ Los Angeles and San Diego - The New York Times",
-      "summaryZh": "Video: Californians Criticize Trump for Saying Iran Could ‘Take Out’ Los Angeles and San Diego&nbsp;&nbsp;The New York Times"
-    },
-    {
-      "id": "nytimes-commentary-6-https://news.google.com/",
-      "sourceId": "nytimes",
-      "source": "The New York Times",
-      "sourceSite": "nytimes.com",
-      "type": "commentary",
-      "title": "Iranian Oil, a Minor Player and the Limits of U.S. Sanctions - The New York Times",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQZzFKamVMcUVHSXE4OUpnODBFUFZxNE02U2JpQmZWcjdkSk5TdHl6QlFYZHlyRDgwYTlON3htNVJHOHRCRHBCWmJmU2tBd2tnOHVBV3VqTVViVFdDM0xwam9BMmlFZWVLSDBFU2dlZjhZVk1vS2ZBTU9xWk56Nmtzb2Qtd2poejlrSUZ2YVhkQVZENXRX?oc=5\" target=\"_blank\">Iranian Oil, a Minor Player and the Limits of U.S. Sanctions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZzFKamVMcUVHSXE4OUpnODBFUFZxNE02U2JpQmZWcjdkSk5TdHl6QlFYZHlyRDgwYTlON3htNVJHOHRCRHBCWmJmU2tBd2tnOHVBV3VqTVViVFdDM0xwam9BMmlFZWVLSDBFU2dlZjhZVk1vS2ZBTU9xWk56Nmtzb2Qtd2poejlrSUZ2YVhkQVZENXRX?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 09:02:02 GMT",
-      "titleZh": "Iranian Oil, a Minor Player and the Limits of U.S. Sanctions - The New York Times",
-      "summaryZh": "Iranian Oil, a Minor Player and the Limits of U.S. Sanctions&nbsp;&nbsp;The New York Times"
+      "title": "Video: How the Iran War Is Reaching U.S. Bases - The New York Times",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPTTFiVEJSZWxMdmltbU42Y09rUFI5UGhESFdpNU5MQjEzTlk2d2hxMUtrVXlRcEVYN3RyZFZZd0VrVWVPRzhoeUFIMWF6YURlcGxKV0F2aFBxbGFCR3JIN3cyczBLSTA2bHhSRTBGZm1WZVI4VmRnOXRVWm9DMDEzRTByVXUxNzNIWXZScVZUaDNPTk9RQUE?oc=5\" target=\"_blank\">Video: How the Iran War Is Reaching U.S. Bases</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTTFiVEJSZWxMdmltbU42Y09rUFI5UGhESFdpNU5MQjEzTlk2d2hxMUtrVXlRcEVYN3RyZFZZd0VrVWVPRzhoeUFIMWF6YURlcGxKV0F2aFBxbGFCR3JIN3cyczBLSTA2bHhSRTBGZm1WZVI4VmRnOXRVWm9DMDEzRTByVXUxNzNIWXZScVZUaDNPTk9RQUE?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 16:23:58 GMT",
+      "titleZh": "Video: How the Iran War Is Reaching U.S. Bases - The New York Times",
+      "summaryZh": "Video: How the Iran War Is Reaching U.S. Bases&nbsp;&nbsp;The New York Times"
     },
     {
       "id": "foreignpolicy-commentary-1-https://news.google.com/",
@@ -590,7 +629,7 @@
       "summaryZh": "How to Avoid Disaster in the Next Iran War&nbsp;&nbsp;Foreign Policy"
     },
     {
-      "id": "nytimes-commentary-1-https://news.google.com/",
+      "id": "nytimes-commentary-0-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -603,7 +642,7 @@
       "summaryZh": "What, Exactly, Did Trump Say About Iran Taking Out Los Angeles and San Diego?&nbsp;&nbsp;The New York Times"
     },
     {
-      "id": "nytimes-commentary-5-https://news.google.com/",
+      "id": "nytimes-commentary-3-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -629,7 +668,7 @@
       "summaryZh": "Iran’s weakening grip on the Strait of Hormuz&nbsp;&nbsp;The Economist"
     },
     {
-      "id": "nytimes-commentary-7-https://news.google.com/",
+      "id": "nytimes-commentary-6-https://news.google.com/",
       "sourceId": "nytimes",
       "source": "The New York Times",
       "sourceSite": "nytimes.com",
@@ -640,19 +679,6 @@
       "publishedAt": "Mon, 05 Oct 2026 14:37:33 GMT",
       "titleZh": "War With Iran Is Forcing the World to Reckon With Geography’s Power - The New York Times",
       "summaryZh": "War With Iran Is Forcing the World to Reckon With Geography’s Power&nbsp;&nbsp;The New York Times"
-    },
-    {
-      "id": "nytimes-commentary-0-https://news.google.com/",
-      "sourceId": "nytimes",
-      "source": "The New York Times",
-      "sourceSite": "nytimes.com",
-      "type": "commentary",
-      "title": "Iran’s Top Security Official Warns of Dire Economic Crisis - The New York Times",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBjTkdNTTJ1N3hoU1ZWVWJaZUdsZk5oMjZhOXBOSC1aSDFvOWRjVU1ET3hncElzUlpRQTJWbXY1bVQ5cTVCWDgyRVZ6a2tpeWFvZFRiNmN6Q1NqSDMzeHU1Yk5UeHJYVUJSU1R1Q0ZRM0MxNjlZRmNON3RjbnV5Tzg?oc=5\" target=\"_blank\">Iran’s Top Security Official Warns of Dire Economic Crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjTkdNTTJ1N3hoU1ZWVWJaZUdsZk5oMjZhOXBOSC1aSDFvOWRjVU1ET3hncElzUlpRQTJWbXY1bVQ5cTVCWDgyRVZ6a2tpeWFvZFRiNmN6Q1NqSDMzeHU1Yk5UeHJYVUJSU1R1Q0ZRM0MxNjlZRmNON3RjbnV5Tzg?oc=5",
-      "publishedAt": "Sun, 04 Oct 2026 13:56:57 GMT",
-      "titleZh": "Iran’s Top Security Official Warns of Dire Economic Crisis - The New York Times",
-      "summaryZh": "Iran’s Top Security Official Warns of Dire Economic Crisis&nbsp;&nbsp;The New York Times"
     },
     {
       "id": "foreignaffairs-commentary-2-https://news.google.com/",
@@ -824,17 +850,17 @@
       "summaryZh": "By Nearly Every Metric, the U.S. Is Losing the Iran War&nbsp;&nbsp;Foreign Policy"
     },
     {
-      "id": "foreignaffairs-commentary-6-https://news.google.com/",
+      "id": "foreignaffairs-commentary-7-https://news.google.com/",
       "sourceId": "foreignaffairs",
       "source": "Foreign Affairs",
       "sourceSite": "foreignaffairs.com",
       "type": "commentary",
-      "title": "Iran’s Second Front - Foreign Affairs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MajYtenJhVmpkRUhOUzRjVng2SHdLLXQ0ZUVhOFczaWNETXl4MDJpOWI3d0tIWGNpcU0wRklTanJDajBuRW9xTVoxNU1wQVEzRDFuTTV1NS1OOUMzWGVma3NkREZnUQ?oc=5\" target=\"_blank\">Iran’s Second Front</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MajYtenJhVmpkRUhOUzRjVng2SHdLLXQ0ZUVhOFczaWNETXl4MDJpOWI3d0tIWGNpcU0wRklTanJDajBuRW9xTVoxNU1wQVEzRDFuTTV1NS1OOUMzWGVma3NkREZnUQ?oc=5",
-      "publishedAt": "Fri, 11 Sep 2026 07:00:00 GMT",
-      "titleZh": "Iran’s Second Front - Foreign Affairs",
-      "summaryZh": "Iran’s Second Front&nbsp;&nbsp;Foreign Affairs"
+      "title": "The Impossible Middle East: After the Iran War, the Region Has No Good Options - Foreign Affairs",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBGWGJqd1dRbVFHdW5UQWZRMU9NN1c5X2dhZ19wR0IxbF9kbTFSbUVGenVyNUVIOVZtQ1ctZmRJN1dWMFgzTzlYT0ZQNGozenBtOGlNdEJRNUtFMmxwOW1qTUpxcFJPTVJOR25DUkpuTW9ubTA?oc=5\" target=\"_blank\">The Impossible Middle East: After the Iran War, the Region Has No Good Options</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foreign Affairs</font>",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGWGJqd1dRbVFHdW5UQWZRMU9NN1c5X2dhZ19wR0IxbF9kbTFSbUVGenVyNUVIOVZtQ1ctZmRJN1dWMFgzTzlYT0ZQNGozenBtOGlNdEJRNUtFMmxwOW1qTUpxcFJPTVJOR25DUkpuTW9ubTA?oc=5",
+      "publishedAt": "Thu, 27 Aug 2026 07:00:00 GMT",
+      "titleZh": "The Impossible Middle East: After the Iran War, the Region Has No Good Options - Foreign Affairs",
+      "summaryZh": "The Impossible Middle East: After the Iran War, the Region Has No Good Options&nbsp;&nbsp;Foreign Affairs"
     },
     {
       "id": "foreignpolicy-commentary-6-https://news.google.com/",
@@ -876,7 +902,7 @@
       "summaryZh": "Russia and Iran Threats Put Missile Defense Back on the Agenda&nbsp;&nbsp;Foreign Policy"
     },
     {
-      "id": "foreignaffairs-commentary-7-https://news.google.com/",
+      "id": "foreignaffairs-commentary-6-https://news.google.com/",
       "sourceId": "foreignaffairs",
       "source": "Foreign Affairs",
       "sourceSite": "foreignaffairs.com",
