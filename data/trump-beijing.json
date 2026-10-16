@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-16T08:51:35.046Z",
+  "generatedAt": "2026-10-16T16:19:51.205Z",
   "topic": "特朗普北京会谈",
-  "totalNews": 51,
-  "totalCommentary": 23,
+  "totalNews": 52,
+  "totalCommentary": 22,
   "totalSocial": 24,
   "totalMarkets": 11,
   "minPublishedAt": "2026-05-13T16:00:00.000Z",
@@ -16,30 +16,17 @@
   },
   "timeline": [
     {
-      "id": "general-news-0-https://news.google.com/",
-      "sourceId": "general",
-      "source": "The Jerusalem Post",
-      "sourceSite": "",
+      "id": "reuters-news-0-https://news.google.com/",
+      "sourceId": "reuters",
+      "source": "Reuters",
+      "sourceSite": "reuters.com",
       "type": "news",
-      "title": "Washington, Beijing, Moscow holding denuclearization talks, Donald Trump says - The Jerusalem Post",
-      "description": "Washington, Beijing, Moscow holding denuclearization talks, Donald Trump says The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4RnhzZnBYWVBET09WMUd5bV9xanh5WG5aOGJNUlUtZHBZU2FRZU1DSmxXZWRiOGViT2YxQkNMZ0pFMmVZNDQ0aVhNbVlmZzdIRF90a0ZISlFfNWZCbmVv?oc=5",
-      "publishedAt": "Fri, 16 Oct 2026 04:44:55 GMT",
-      "titleZh": "Washington, Beijing, Moscow holding denuclearization talks, Donald Trump says - The Jerusalem Post",
-      "summaryZh": "Washington, Beijing, Moscow holding denuclearization talks, Donald Trump says The Jerusalem Post"
-    },
-    {
-      "id": "general-news-3-https://news.google.com/",
-      "sourceId": "general",
-      "source": "South China Morning Post",
-      "sourceSite": "",
-      "type": "news",
-      "title": "Exclusive | Trump urged Xi to talk to Takaichi and lift export curbs on Japan, sources say - South China Morning Post",
-      "description": "Exclusive | Trump urged Xi to talk to Takaichi and lift export curbs on Japan, sources say South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeDhhb0NhaVJzWTgyZEx2ZUF6a0pmZ2FxUkZUdkJiMzFWYVpFY0pRb0ZEYjNLR0tURXczWi1pU05rQVoyM3ExNl91VzRCVXlsSUZBdXZoUU9yb0RFS1hXek1fLWtta0FXWVhuTEJIOUFZd0htbW5KeU1pR1ZIeGZzLVdUUDVDS1NkLW9sNUozSFAzRTQ5R0xncGVEOEhkaE5lVzd0MzYyeWotdG5fOFhRZ1RTOVN5VGhSOHRBS2Y4YnI5d1Za0gHEAUFVX3lxTE5hNFYzUXpKdkZvYkRKWnhKbGxNOC04Q1pLQzYtZnF5MXB3bndkOTVheEFKNmdtR1k1c3M0TUtxSUVEV0ZocmhjcDhQQnFzb1EtNG02ZFg5TjItNU5XcnY1WC1qeklrSHZnV25fOHNKXzdIV3pmRGNPYUhKMGtocjR6eU9wNzBzV05VM2cyX1NxZ3FkMVM1NHcxYVRYanZFSllsWVlXaXBsczQxUVRTN1lqWDZqM0NyOFYzOFQ2X2VaVUZicGw?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 07:00:00 GMT",
-      "titleZh": "Exclusive | Trump urged Xi to talk to Takaichi and lift export curbs on Japan, sources say - South China Morning Post",
-      "summaryZh": "Exclusive | Trump urged Xi to talk to Takaichi and lift export curbs on Japan, sources say South China Morning Post"
+      "title": "Trump says he is talking to Russia and China about denuclearization - Reuters",
+      "description": "Trump says he is talking to Russia and China about denuclearization Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUW1idXlSVm1fUVQtdFk1T0pYTU8tcEx2YTBiQnQ4M0ZmeDFDeGpXUUpqMEZRbC0zT0g4dkoySTlXM05fbkNRZE5RbzFZcEktTHpBYlJxcklTaHpkRHgzRnAyakp4cGVIQjRITGtWZG1XZTlNdF9LcmlVRjJIaDQweHRxR0NUQS1jeUYtc0NsWWlEMTNTcEd3dUhFZjZMYnhWbU9CZVNKWS1TTjBz?oc=5",
+      "publishedAt": "Fri, 16 Oct 2026 01:04:00 GMT",
+      "titleZh": "Trump says he is talking to Russia and China about denuclearization - Reuters",
+      "summaryZh": "Trump says he is talking to Russia and China about denuclearization Reuters"
     },
     {
       "id": "bbc-news-9-https://news.google.com/",
@@ -55,7 +42,7 @@
       "summaryZh": "特朗普习近平峰会：没有说出口的议题可能更重要 BBC"
     },
     {
-      "id": "general-news-1-https://news.google.com/",
+      "id": "general-news-0-https://news.google.com/",
       "sourceId": "general",
       "source": "PBS",
       "sourceSite": "",
@@ -69,19 +56,6 @@
     },
     {
       "id": "reuters-news-11-https://news.google.com/",
-      "sourceId": "reuters",
-      "source": "Reuters",
-      "sourceSite": "reuters.com",
-      "type": "news",
-      "title": "Trump warns Xi over Chinese support for Iran, receives assurances, US envoy says - Reuters",
-      "description": "Trump warns Xi over Chinese support for Iran, receives assurances, US envoy says Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3NaNENZd05ESDQwSFdrTGwyLUtGX3NzT1NiR0tzbWwtM282dHRxbkxLYTk2b1Rkd01xQldYM2ItTlNRV01wbnhDMWpZVkliRnBhMlFWYVg1VHh6bjRCVkQwVGFFamhhWWpJa0p5aHlVRkJpblI1UUZJeDN6VFg1Z1hhdGFBSklFN2ZyVjZ0b1IyNUpoMU5GN0tmTlZPMExVNFppU2ZSRGFwcW1QSElZaktmS3pXSElm?oc=5",
-      "publishedAt": "Sat, 26 Sep 2026 07:00:00 GMT",
-      "titleZh": "Trump warns Xi over Chinese support for Iran, receives assurances, US envoy says - Reuters",
-      "summaryZh": "Trump warns Xi over Chinese support for Iran, receives assurances, US envoy says Reuters"
-    },
-    {
-      "id": "reuters-news-10-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -120,7 +94,7 @@
       "summaryZh": "习近平获特朗普红地毡迎接，但并非事事如愿 BBC"
     },
     {
-      "id": "reuters-news-1-https://news.google.com/",
+      "id": "reuters-news-2-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -133,7 +107,7 @@
       "summaryZh": "China's rare earths dominance to overshadow Trump's talks with Xi Reuters"
     },
     {
-      "id": "general-news-2-https://news.google.com/",
+      "id": "general-news-1-https://news.google.com/",
       "sourceId": "general",
       "source": "EUobserver",
       "sourceSite": "",
@@ -146,7 +120,7 @@
       "summaryZh": "Critical minerals at core of Trump-Xi talks as US ups its game in race to rival Beijing EUobserver"
     },
     {
-      "id": "general-news-4-https://news.google.com/",
+      "id": "general-news-2-https://news.google.com/",
       "sourceId": "general",
       "source": "WSJ",
       "sourceSite": "",
@@ -159,7 +133,7 @@
       "summaryZh": "Exclusive | Trump Administration Presses China on Suspected Nuclear Tests in Confidential Talks WSJ"
     },
     {
-      "id": "reuters-news-0-https://news.google.com/",
+      "id": "reuters-news-1-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -198,7 +172,7 @@
       "summaryZh": "As Xi meets Trump, who’s winning their trade war? Al Jazeera"
     },
     {
-      "id": "general-news-16-https://news.google.com/",
+      "id": "general-news-14-https://news.google.com/",
       "sourceId": "general",
       "source": "Malay Mail",
       "sourceSite": "",
@@ -211,7 +185,20 @@
       "summaryZh": "Xi Jinping heads to Washington for Trump talks amid US-China tensions Malay Mail"
     },
     {
-      "id": "general-news-12-https://news.google.com/",
+      "id": "general-news-17-https://news.google.com/",
+      "sourceId": "general",
+      "source": "The Standard (HK)",
+      "sourceSite": "",
+      "type": "news",
+      "title": "Trump plans grand spectacle for potentially tense Xi talks - The Standard (HK)",
+      "description": "Trump plans grand spectacle for potentially tense Xi talks The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGxMc2RGSzZScnl4RzdiUjZ1Tng0VzY0Ui0tVlFfbzRYR0x6dTAtREV0cnJwYVJGekJZOEtwQlFQT0VZcE9HZ3U4SVdZOVVOWklTd1c3RzdUbUhnbjNjNTRqdU02VXBBTThKMktiRmhNNEVHUHhuLWp1X1lZTmt5ZnlPMHdBcFprUF90QU9zU0VNV3dWYXFsaFptMkFBaW9Kd1RRellXeC1ZT2hjTHFJ?oc=5",
+      "publishedAt": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "titleZh": "Trump plans grand spectacle for potentially tense Xi talks - The Standard (HK)",
+      "summaryZh": "Trump plans grand spectacle for potentially tense Xi talks The Standard (HK)"
+    },
+    {
+      "id": "general-news-10-https://news.google.com/",
       "sourceId": "general",
       "source": "South China Morning Post",
       "sourceSite": "",
@@ -224,7 +211,7 @@
       "summaryZh": "Shadow of Xi summit hangs over Trump’s high-stakes talks with Japan’s Takaichi South China Morning Post"
     },
     {
-      "id": "general-news-15-https://news.google.com/",
+      "id": "general-news-13-https://news.google.com/",
       "sourceId": "general",
       "source": "Hromadske",
       "sourceSite": "",
@@ -237,7 +224,7 @@
       "summaryZh": "Xi to visit US for talks with Trump as Washington, Beijing seek to extend trade truce Hromadske"
     },
     {
-      "id": "reuters-news-2-https://news.google.com/",
+      "id": "reuters-news-3-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -250,7 +237,7 @@
       "summaryZh": "Xi rolls into Trump summit with China's trade engine roaring Reuters"
     },
     {
-      "id": "general-news-5-https://news.google.com/",
+      "id": "general-news-3-https://news.google.com/",
       "sourceId": "general",
       "source": "DW.com",
       "sourceSite": "",
@@ -263,7 +250,7 @@
       "summaryZh": "As the Trump-Xi summit nears, Europe is caught in middle of US-China rivalry DW.com"
     },
     {
-      "id": "general-news-6-https://news.google.com/",
+      "id": "general-news-4-https://news.google.com/",
       "sourceId": "general",
       "source": "Baltimore Sun",
       "sourceSite": "",
@@ -276,7 +263,7 @@
       "summaryZh": "Trump-Xi talks likely to focus on trade, AI as Beijing prepares for DC summit Baltimore Sun"
     },
     {
-      "id": "general-news-7-https://news.google.com/",
+      "id": "general-news-5-https://news.google.com/",
       "sourceId": "general",
       "source": "Türkiye Today",
       "sourceSite": "",
@@ -289,7 +276,7 @@
       "summaryZh": "China says Xi will visit US this week for talks with Trump Türkiye Today"
     },
     {
-      "id": "general-news-8-https://news.google.com/",
+      "id": "general-news-6-https://news.google.com/",
       "sourceId": "general",
       "source": "Hong Kong Free Press HKFP",
       "sourceSite": "",
@@ -302,7 +289,7 @@
       "summaryZh": "China confirms Xi to visit US this week for Trump talks Hong Kong Free Press HKFP"
     },
     {
-      "id": "general-news-13-https://news.google.com/",
+      "id": "general-news-9-https://news.google.com/",
       "sourceId": "general",
       "source": "The Hindu",
       "sourceSite": "",
@@ -315,20 +302,7 @@
       "summaryZh": "China confirms Xi Jinping’s U.S. visit this week for talks with Donald Trump The Hindu"
     },
     {
-      "id": "general-news-17-https://news.google.com/",
-      "sourceId": "general",
-      "source": "Bangkok Post",
-      "sourceSite": "",
-      "type": "news",
-      "title": "China confirms Xi to visit US this week for Trump talks - Bangkok Post",
-      "description": "China confirms Xi to visit US this week for Trump talks Bangkok Post",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUi04ZXl4c2lLR1A4RjB4UjM0N2RHQXQ5WEg1ZE5VMlMxVmFSRDRBb202RUJSZ3BySjY3S09Sek9PNVZURF94NDYzU29yRW54Z0tOU2Z4RTBMM3Zyb1F1OGdnT2pkZ2dQUHA1ZE1NeTdvdFJFRFc2SFVNTDNNS2dfZHVVVDdQSU9GVXppOWJrMnBweDVzUVQ4UVFLdTAyQQ?oc=5",
-      "publishedAt": "Mon, 21 Sep 2026 07:00:00 GMT",
-      "titleZh": "China confirms Xi to visit US this week for Trump talks - Bangkok Post",
-      "summaryZh": "China confirms Xi to visit US this week for Trump talks Bangkok Post"
-    },
-    {
-      "id": "general-news-19-https://news.google.com/",
+      "id": "general-news-15-https://news.google.com/",
       "sourceId": "general",
       "source": "Kuwait Times",
       "sourceSite": "",
@@ -354,7 +328,7 @@
       "summaryZh": "Up in the air? Why Boeing’s massive China deal could hinge on Trump-Xi talks South China Morning Post"
     },
     {
-      "id": "general-news-18-https://news.google.com/",
+      "id": "general-news-16-https://news.google.com/",
       "sourceId": "general",
       "source": "The New Indian Express",
       "sourceSite": "",
@@ -367,7 +341,7 @@
       "summaryZh": "Top US, China negotiators to hold final preparatory talks ahead of Trump-Xi summit The New Indian Express"
     },
     {
-      "id": "general-news-11-https://news.google.com/",
+      "id": "general-news-12-https://news.google.com/",
       "sourceId": "general",
       "source": "AFR",
       "sourceSite": "",
@@ -380,7 +354,7 @@
       "summaryZh": "Why Beijing has the upper hand in Trump AI talks AFR"
     },
     {
-      "id": "reuters-news-3-https://news.google.com/",
+      "id": "reuters-news-4-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -393,7 +367,7 @@
       "summaryZh": "AI rivalry hangs over Trump-Xi talks Reuters"
     },
     {
-      "id": "general-news-14-https://news.google.com/",
+      "id": "general-news-11-https://news.google.com/",
       "sourceId": "general",
       "source": "CNBC",
       "sourceSite": "",
@@ -419,7 +393,20 @@
       "summaryZh": "US threat of ‘economic D-Day’ for Iran tests Trump’s China detente Al Jazeera"
     },
     {
-      "id": "reuters-news-5-https://news.google.com/",
+      "id": "general-news-19-https://news.google.com/",
+      "sourceId": "general",
+      "source": "East Asia Forum",
+      "sourceSite": "",
+      "type": "news",
+      "title": "China turns Trump’s ill-prepared summit towards Taiwan - East Asia Forum",
+      "description": "China turns Trump’s ill-prepared summit towards Taiwan East Asia Forum",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTjhOa1o4NWFoc3VfblBMTkN1VTgtclV3Q2hOR1VmX3JqQnFmRFcyc0pRR29UcTl6alNjVXNhbzF0WHFyNkthQlk4UTY3RDd0ZVBzRXoxTUgxajJlLTZiSHlaYUxmMTRKMzZXc0U0OTFMOW5CY28zNkdoQXZLa1B2eDVKZ3V4cVNnN2o1ejZJRFNsS01BdFE?oc=5",
+      "publishedAt": "Mon, 01 Jun 2026 07:00:00 GMT",
+      "titleZh": "China turns Trump’s ill-prepared summit towards Taiwan - East Asia Forum",
+      "summaryZh": "China turns Trump’s ill-prepared summit towards Taiwan East Asia Forum"
+    },
+    {
+      "id": "reuters-news-6-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -432,7 +419,7 @@
       "summaryZh": "Trump returns from China with stability and a stalemate Reuters"
     },
     {
-      "id": "reuters-news-6-https://news.google.com/",
+      "id": "reuters-news-7-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -445,7 +432,7 @@
       "summaryZh": "China says Trump visit deals are 'preliminary' Reuters"
     },
     {
-      "id": "reuters-news-9-https://news.google.com/",
+      "id": "reuters-news-10-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -458,7 +445,7 @@
       "summaryZh": "US CEOs follow Trump's footsteps with diplomacy in Beijing Reuters"
     },
     {
-      "id": "reuters-news-4-https://news.google.com/",
+      "id": "reuters-news-5-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -471,7 +458,7 @@
       "summaryZh": "Trump leaves Beijing with few wins but warm words for Xi Reuters"
     },
     {
-      "id": "reuters-news-7-https://news.google.com/",
+      "id": "reuters-news-8-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -484,7 +471,7 @@
       "summaryZh": "Pageantry over policy: Takeaways from Trump's China trip Reuters"
     },
     {
-      "id": "reuters-news-8-https://news.google.com/",
+      "id": "reuters-news-9-https://news.google.com/",
       "sourceId": "reuters",
       "source": "Reuters",
       "sourceSite": "reuters.com",
@@ -562,7 +549,7 @@
       "summaryZh": "Trump departs China touting deals, but little clarity on Iran or Taiwan Al Jazeera"
     },
     {
-      "id": "aljazeera-news-5-https://news.google.com/",
+      "id": "aljazeera-news-6-https://news.google.com/",
       "sourceId": "aljazeera",
       "source": "Al Jazeera",
       "sourceSite": "aljazeera.com",
@@ -640,6 +627,19 @@
       "summaryZh": "‘Never mess it up’: What Xi and Trump said on day one of Beijing talks Al Jazeera"
     },
     {
+      "id": "aljazeera-news-5-https://news.google.com/",
+      "sourceId": "aljazeera",
+      "source": "Al Jazeera",
+      "sourceSite": "aljazeera.com",
+      "type": "news",
+      "title": "Trump in China for talks with Xi Jinping - Al Jazeera",
+      "description": "Trump in China for talks with Xi Jinping Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU2RZQi1iYlpLTEdrcDBpUzVoYnlBaEVVaEV4bC1wc2ZMTjhPVHhoQjVEQmxMZjlmQzBGNlYyemdGZVNfY3lTSll1U1VsM2ctZHRuQ05fYWM5UWJhSThtVG5hNWxRNFJEU01MVkNqcnR3bnVCR2xTb214NVlnN2NnZE9fdkpYMTZJZmRjMtIBkgFBVV95cUxPZEtXVjd1VkxUR1IzQmRnT1ZsNVNSM3gtWXlieEhuWkpvZTZaSld6cmlaYVhMUWR6NjNMV0hZMDRPTzhiWm9jbjNKSkdnSGpyWXQ2TEVGU2tUTzluNzlaa2tWQ0ozV3BOdnJoUElZTk0xZUp1eVhjY2lRTjZwLWtHNXRTVWF3XzdISUtTdEZNczl0QQ?oc=5",
+      "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
+      "titleZh": "Trump in China for talks with Xi Jinping - Al Jazeera",
+      "summaryZh": "Trump in China for talks with Xi Jinping Al Jazeera"
+    },
+    {
       "id": "zaobao-news-0-https://news.google.com/",
       "sourceId": "zaobao",
       "source": "联合早报",
@@ -653,7 +653,7 @@
       "summaryZh": "会见随特朗普访华美企巨头 李强承诺政策环境稳定开放 联合早报"
     },
     {
-      "id": "general-news-9-https://news.google.com/",
+      "id": "general-news-7-https://news.google.com/",
       "sourceId": "general",
       "source": "Council on Foreign Relations",
       "sourceSite": "",
@@ -666,7 +666,7 @@
       "summaryZh": "Trump-Xi Talks Are Underway in Beijing Council on Foreign Relations"
     },
     {
-      "id": "general-news-10-https://news.google.com/",
+      "id": "general-news-8-https://news.google.com/",
       "sourceId": "general",
       "source": "中华人民共和国外交部",
       "sourceSite": "",
@@ -677,6 +677,19 @@
       "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
       "titleZh": "President Xi Jinping Holds Talks with U.S. President Donald J. Trump - 中华人民共和国外交部",
       "summaryZh": "President Xi Jinping Holds Talks with U.S. President Donald J. Trump 中华人民共和国外交部"
+    },
+    {
+      "id": "general-news-18-https://news.google.com/",
+      "sourceId": "general",
+      "source": "The Hill",
+      "sourceSite": "",
+      "type": "news",
+      "title": "China’s Xi warns Trump on Taiwan at Beijing summit - The Hill",
+      "description": "China’s Xi warns Trump on Taiwan at Beijing summit The Hill",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRGZuRW9aV19lUzBTZ21Bcm1FQ252Z1dUTG1xM1hSOHBkeWVkSzF0Z0tSek93MWlqSnFORGdwNlpUbzFBQUU0NExTZkRKTEZETFBrU2hiQ2tYcjNWZzZESy0tRFliOGVUQzFMOEh6b0U2MXgta3REQTlKV3VpM2xYVVBOcTk0dzBqZks5X29heW1tbmfSAZgBQVVfeXFMTU5qdXFudzg1ZjRjMEFqdXptNjFjZ01OSEZ1TENBVmNLX0h5d2FyZlhVTTJPakFTR3VRUXN0aHFGSjJ5VWp6dlNsMUZjSGZEZ2NwNE01SnB4MVAxSzJDU3NvaXlhd19rZmFRQmV2YWdCVldZMXg4NktIMl9QRnJ4aVQxRTZiZjVQeGRDbTZsTkN3dEN0RFhNaVA?oc=5",
+      "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
+      "titleZh": "China’s Xi warns Trump on Taiwan at Beijing summit - The Hill",
+      "summaryZh": "China’s Xi warns Trump on Taiwan at Beijing summit The Hill"
     }
   ],
   "bySource": [
@@ -685,20 +698,20 @@
       "source": "Reuters",
       "items": [
         {
-          "id": "reuters-news-11-https://news.google.com/",
+          "id": "reuters-news-0-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
           "type": "news",
-          "title": "Trump warns Xi over Chinese support for Iran, receives assurances, US envoy says - Reuters",
-          "description": "Trump warns Xi over Chinese support for Iran, receives assurances, US envoy says Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3NaNENZd05ESDQwSFdrTGwyLUtGX3NzT1NiR0tzbWwtM282dHRxbkxLYTk2b1Rkd01xQldYM2ItTlNRV01wbnhDMWpZVkliRnBhMlFWYVg1VHh6bjRCVkQwVGFFamhhWWpJa0p5aHlVRkJpblI1UUZJeDN6VFg1Z1hhdGFBSklFN2ZyVjZ0b1IyNUpoMU5GN0tmTlZPMExVNFppU2ZSRGFwcW1QSElZaktmS3pXSElm?oc=5",
-          "publishedAt": "Sat, 26 Sep 2026 07:00:00 GMT",
-          "titleZh": "Trump warns Xi over Chinese support for Iran, receives assurances, US envoy says - Reuters",
-          "summaryZh": "Trump warns Xi over Chinese support for Iran, receives assurances, US envoy says Reuters"
+          "title": "Trump says he is talking to Russia and China about denuclearization - Reuters",
+          "description": "Trump says he is talking to Russia and China about denuclearization Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUW1idXlSVm1fUVQtdFk1T0pYTU8tcEx2YTBiQnQ4M0ZmeDFDeGpXUUpqMEZRbC0zT0g4dkoySTlXM05fbkNRZE5RbzFZcEktTHpBYlJxcklTaHpkRHgzRnAyakp4cGVIQjRITGtWZG1XZTlNdF9LcmlVRjJIaDQweHRxR0NUQS1jeUYtc0NsWWlEMTNTcEd3dUhFZjZMYnhWbU9CZVNKWS1TTjBz?oc=5",
+          "publishedAt": "Fri, 16 Oct 2026 01:04:00 GMT",
+          "titleZh": "Trump says he is talking to Russia and China about denuclearization - Reuters",
+          "summaryZh": "Trump says he is talking to Russia and China about denuclearization Reuters"
         },
         {
-          "id": "reuters-news-10-https://news.google.com/",
+          "id": "reuters-news-11-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -711,7 +724,7 @@
           "summaryZh": "Trump says he will meet Xi in China in November Reuters"
         },
         {
-          "id": "reuters-news-1-https://news.google.com/",
+          "id": "reuters-news-2-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -724,7 +737,7 @@
           "summaryZh": "China's rare earths dominance to overshadow Trump's talks with Xi Reuters"
         },
         {
-          "id": "reuters-news-0-https://news.google.com/",
+          "id": "reuters-news-1-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -737,7 +750,7 @@
           "summaryZh": "US says China trade truce extended as Trump welcomes Xi Reuters"
         },
         {
-          "id": "reuters-news-2-https://news.google.com/",
+          "id": "reuters-news-3-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -750,7 +763,7 @@
           "summaryZh": "Xi rolls into Trump summit with China's trade engine roaring Reuters"
         },
         {
-          "id": "reuters-news-3-https://news.google.com/",
+          "id": "reuters-news-4-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -763,7 +776,7 @@
           "summaryZh": "AI rivalry hangs over Trump-Xi talks Reuters"
         },
         {
-          "id": "reuters-news-5-https://news.google.com/",
+          "id": "reuters-news-6-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -776,7 +789,7 @@
           "summaryZh": "Trump returns from China with stability and a stalemate Reuters"
         },
         {
-          "id": "reuters-news-6-https://news.google.com/",
+          "id": "reuters-news-7-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -789,7 +802,7 @@
           "summaryZh": "China says Trump visit deals are 'preliminary' Reuters"
         },
         {
-          "id": "reuters-news-9-https://news.google.com/",
+          "id": "reuters-news-10-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -802,7 +815,7 @@
           "summaryZh": "US CEOs follow Trump's footsteps with diplomacy in Beijing Reuters"
         },
         {
-          "id": "reuters-news-4-https://news.google.com/",
+          "id": "reuters-news-5-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -815,7 +828,7 @@
           "summaryZh": "Trump leaves Beijing with few wins but warm words for Xi Reuters"
         },
         {
-          "id": "reuters-news-7-https://news.google.com/",
+          "id": "reuters-news-8-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -828,7 +841,7 @@
           "summaryZh": "Pageantry over policy: Takeaways from Trump's China trip Reuters"
         },
         {
-          "id": "reuters-news-8-https://news.google.com/",
+          "id": "reuters-news-9-https://news.google.com/",
           "sourceId": "reuters",
           "source": "Reuters",
           "sourceSite": "reuters.com",
@@ -1061,7 +1074,7 @@
           "summaryZh": "Trump departs China touting deals, but little clarity on Iran or Taiwan Al Jazeera"
         },
         {
-          "id": "aljazeera-news-5-https://news.google.com/",
+          "id": "aljazeera-news-6-https://news.google.com/",
           "sourceId": "aljazeera",
           "source": "Al Jazeera",
           "sourceSite": "aljazeera.com",
@@ -1085,6 +1098,19 @@
           "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
           "titleZh": "‘Never mess it up’: What Xi and Trump said on day one of Beijing talks - Al Jazeera",
           "summaryZh": "‘Never mess it up’: What Xi and Trump said on day one of Beijing talks Al Jazeera"
+        },
+        {
+          "id": "aljazeera-news-5-https://news.google.com/",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "sourceSite": "aljazeera.com",
+          "type": "news",
+          "title": "Trump in China for talks with Xi Jinping - Al Jazeera",
+          "description": "Trump in China for talks with Xi Jinping Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU2RZQi1iYlpLTEdrcDBpUzVoYnlBaEVVaEV4bC1wc2ZMTjhPVHhoQjVEQmxMZjlmQzBGNlYyemdGZVNfY3lTSll1U1VsM2ctZHRuQ05fYWM5UWJhSThtVG5hNWxRNFJEU01MVkNqcnR3bnVCR2xTb214NVlnN2NnZE9fdkpYMTZJZmRjMtIBkgFBVV95cUxPZEtXVjd1VkxUR1IzQmRnT1ZsNVNSM3gtWXlieEhuWkpvZTZaSld6cmlaYVhMUWR6NjNMV0hZMDRPTzhiWm9jbjNKSkdnSGpyWXQ2TEVGU2tUTzluNzlaa2tWQ0ozV3BOdnJoUElZTk0xZUp1eVhjY2lRTjZwLWtHNXRTVWF3XzdISUtTdEZNczl0QQ?oc=5",
+          "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
+          "titleZh": "Trump in China for talks with Xi Jinping - Al Jazeera",
+          "summaryZh": "Trump in China for talks with Xi Jinping Al Jazeera"
         }
       ]
     },
@@ -1114,32 +1140,6 @@
         {
           "id": "general-news-0-https://news.google.com/",
           "sourceId": "general",
-          "source": "The Jerusalem Post",
-          "sourceSite": "",
-          "type": "news",
-          "title": "Washington, Beijing, Moscow holding denuclearization talks, Donald Trump says - The Jerusalem Post",
-          "description": "Washington, Beijing, Moscow holding denuclearization talks, Donald Trump says The Jerusalem Post",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4RnhzZnBYWVBET09WMUd5bV9xanh5WG5aOGJNUlUtZHBZU2FRZU1DSmxXZWRiOGViT2YxQkNMZ0pFMmVZNDQ0aVhNbVlmZzdIRF90a0ZISlFfNWZCbmVv?oc=5",
-          "publishedAt": "Fri, 16 Oct 2026 04:44:55 GMT",
-          "titleZh": "Washington, Beijing, Moscow holding denuclearization talks, Donald Trump says - The Jerusalem Post",
-          "summaryZh": "Washington, Beijing, Moscow holding denuclearization talks, Donald Trump says The Jerusalem Post"
-        },
-        {
-          "id": "general-news-3-https://news.google.com/",
-          "sourceId": "general",
-          "source": "South China Morning Post",
-          "sourceSite": "",
-          "type": "news",
-          "title": "Exclusive | Trump urged Xi to talk to Takaichi and lift export curbs on Japan, sources say - South China Morning Post",
-          "description": "Exclusive | Trump urged Xi to talk to Takaichi and lift export curbs on Japan, sources say South China Morning Post",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeDhhb0NhaVJzWTgyZEx2ZUF6a0pmZ2FxUkZUdkJiMzFWYVpFY0pRb0ZEYjNLR0tURXczWi1pU05rQVoyM3ExNl91VzRCVXlsSUZBdXZoUU9yb0RFS1hXek1fLWtta0FXWVhuTEJIOUFZd0htbW5KeU1pR1ZIeGZzLVdUUDVDS1NkLW9sNUozSFAzRTQ5R0xncGVEOEhkaE5lVzd0MzYyeWotdG5fOFhRZ1RTOVN5VGhSOHRBS2Y4YnI5d1Za0gHEAUFVX3lxTE5hNFYzUXpKdkZvYkRKWnhKbGxNOC04Q1pLQzYtZnF5MXB3bndkOTVheEFKNmdtR1k1c3M0TUtxSUVEV0ZocmhjcDhQQnFzb1EtNG02ZFg5TjItNU5XcnY1WC1qeklrSHZnV25fOHNKXzdIV3pmRGNPYUhKMGtocjR6eU9wNzBzV05VM2cyX1NxZ3FkMVM1NHcxYVRYanZFSllsWVlXaXBsczQxUVRTN1lqWDZqM0NyOFYzOFQ2X2VaVUZicGw?oc=5",
-          "publishedAt": "Thu, 08 Oct 2026 07:00:00 GMT",
-          "titleZh": "Exclusive | Trump urged Xi to talk to Takaichi and lift export curbs on Japan, sources say - South China Morning Post",
-          "summaryZh": "Exclusive | Trump urged Xi to talk to Takaichi and lift export curbs on Japan, sources say South China Morning Post"
-        },
-        {
-          "id": "general-news-1-https://news.google.com/",
-          "sourceId": "general",
           "source": "PBS",
           "sourceSite": "",
           "type": "news",
@@ -1151,7 +1151,7 @@
           "summaryZh": "WATCH: Trump says Perdue 'was probably talking about Taiwan' in saying Trump offered Xi arms sales PBS"
         },
         {
-          "id": "general-news-2-https://news.google.com/",
+          "id": "general-news-1-https://news.google.com/",
           "sourceId": "general",
           "source": "EUobserver",
           "sourceSite": "",
@@ -1164,7 +1164,7 @@
           "summaryZh": "Critical minerals at core of Trump-Xi talks as US ups its game in race to rival Beijing EUobserver"
         },
         {
-          "id": "general-news-4-https://news.google.com/",
+          "id": "general-news-2-https://news.google.com/",
           "sourceId": "general",
           "source": "WSJ",
           "sourceSite": "",
@@ -1177,7 +1177,7 @@
           "summaryZh": "Exclusive | Trump Administration Presses China on Suspected Nuclear Tests in Confidential Talks WSJ"
         },
         {
-          "id": "general-news-16-https://news.google.com/",
+          "id": "general-news-14-https://news.google.com/",
           "sourceId": "general",
           "source": "Malay Mail",
           "sourceSite": "",
@@ -1190,7 +1190,20 @@
           "summaryZh": "Xi Jinping heads to Washington for Trump talks amid US-China tensions Malay Mail"
         },
         {
-          "id": "general-news-12-https://news.google.com/",
+          "id": "general-news-17-https://news.google.com/",
+          "sourceId": "general",
+          "source": "The Standard (HK)",
+          "sourceSite": "",
+          "type": "news",
+          "title": "Trump plans grand spectacle for potentially tense Xi talks - The Standard (HK)",
+          "description": "Trump plans grand spectacle for potentially tense Xi talks The Standard (HK)",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGxMc2RGSzZScnl4RzdiUjZ1Tng0VzY0Ui0tVlFfbzRYR0x6dTAtREV0cnJwYVJGekJZOEtwQlFQT0VZcE9HZ3U4SVdZOVVOWklTd1c3RzdUbUhnbjNjNTRqdU02VXBBTThKMktiRmhNNEVHUHhuLWp1X1lZTmt5ZnlPMHdBcFprUF90QU9zU0VNV3dWYXFsaFptMkFBaW9Kd1RRellXeC1ZT2hjTHFJ?oc=5",
+          "publishedAt": "Wed, 23 Sep 2026 07:00:00 GMT",
+          "titleZh": "Trump plans grand spectacle for potentially tense Xi talks - The Standard (HK)",
+          "summaryZh": "Trump plans grand spectacle for potentially tense Xi talks The Standard (HK)"
+        },
+        {
+          "id": "general-news-10-https://news.google.com/",
           "sourceId": "general",
           "source": "South China Morning Post",
           "sourceSite": "",
@@ -1203,7 +1216,7 @@
           "summaryZh": "Shadow of Xi summit hangs over Trump’s high-stakes talks with Japan’s Takaichi South China Morning Post"
         },
         {
-          "id": "general-news-15-https://news.google.com/",
+          "id": "general-news-13-https://news.google.com/",
           "sourceId": "general",
           "source": "Hromadske",
           "sourceSite": "",
@@ -1216,7 +1229,7 @@
           "summaryZh": "Xi to visit US for talks with Trump as Washington, Beijing seek to extend trade truce Hromadske"
         },
         {
-          "id": "general-news-5-https://news.google.com/",
+          "id": "general-news-3-https://news.google.com/",
           "sourceId": "general",
           "source": "DW.com",
           "sourceSite": "",
@@ -1229,7 +1242,7 @@
           "summaryZh": "As the Trump-Xi summit nears, Europe is caught in middle of US-China rivalry DW.com"
         },
         {
-          "id": "general-news-6-https://news.google.com/",
+          "id": "general-news-4-https://news.google.com/",
           "sourceId": "general",
           "source": "Baltimore Sun",
           "sourceSite": "",
@@ -1242,7 +1255,7 @@
           "summaryZh": "Trump-Xi talks likely to focus on trade, AI as Beijing prepares for DC summit Baltimore Sun"
         },
         {
-          "id": "general-news-7-https://news.google.com/",
+          "id": "general-news-5-https://news.google.com/",
           "sourceId": "general",
           "source": "Türkiye Today",
           "sourceSite": "",
@@ -1255,7 +1268,7 @@
           "summaryZh": "China says Xi will visit US this week for talks with Trump Türkiye Today"
         },
         {
-          "id": "general-news-8-https://news.google.com/",
+          "id": "general-news-6-https://news.google.com/",
           "sourceId": "general",
           "source": "Hong Kong Free Press HKFP",
           "sourceSite": "",
@@ -1268,7 +1281,7 @@
           "summaryZh": "China confirms Xi to visit US this week for Trump talks Hong Kong Free Press HKFP"
         },
         {
-          "id": "general-news-13-https://news.google.com/",
+          "id": "general-news-9-https://news.google.com/",
           "sourceId": "general",
           "source": "The Hindu",
           "sourceSite": "",
@@ -1281,20 +1294,7 @@
           "summaryZh": "China confirms Xi Jinping’s U.S. visit this week for talks with Donald Trump The Hindu"
         },
         {
-          "id": "general-news-17-https://news.google.com/",
-          "sourceId": "general",
-          "source": "Bangkok Post",
-          "sourceSite": "",
-          "type": "news",
-          "title": "China confirms Xi to visit US this week for Trump talks - Bangkok Post",
-          "description": "China confirms Xi to visit US this week for Trump talks Bangkok Post",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUi04ZXl4c2lLR1A4RjB4UjM0N2RHQXQ5WEg1ZE5VMlMxVmFSRDRBb202RUJSZ3BySjY3S09Sek9PNVZURF94NDYzU29yRW54Z0tOU2Z4RTBMM3Zyb1F1OGdnT2pkZ2dQUHA1ZE1NeTdvdFJFRFc2SFVNTDNNS2dfZHVVVDdQSU9GVXppOWJrMnBweDVzUVQ4UVFLdTAyQQ?oc=5",
-          "publishedAt": "Mon, 21 Sep 2026 07:00:00 GMT",
-          "titleZh": "China confirms Xi to visit US this week for Trump talks - Bangkok Post",
-          "summaryZh": "China confirms Xi to visit US this week for Trump talks Bangkok Post"
-        },
-        {
-          "id": "general-news-19-https://news.google.com/",
+          "id": "general-news-15-https://news.google.com/",
           "sourceId": "general",
           "source": "Kuwait Times",
           "sourceSite": "",
@@ -1307,7 +1307,7 @@
           "summaryZh": "China confirms Xi visit to US for Trump talks Kuwait Times"
         },
         {
-          "id": "general-news-18-https://news.google.com/",
+          "id": "general-news-16-https://news.google.com/",
           "sourceId": "general",
           "source": "The New Indian Express",
           "sourceSite": "",
@@ -1320,7 +1320,7 @@
           "summaryZh": "Top US, China negotiators to hold final preparatory talks ahead of Trump-Xi summit The New Indian Express"
         },
         {
-          "id": "general-news-11-https://news.google.com/",
+          "id": "general-news-12-https://news.google.com/",
           "sourceId": "general",
           "source": "AFR",
           "sourceSite": "",
@@ -1333,7 +1333,7 @@
           "summaryZh": "Why Beijing has the upper hand in Trump AI talks AFR"
         },
         {
-          "id": "general-news-14-https://news.google.com/",
+          "id": "general-news-11-https://news.google.com/",
           "sourceId": "general",
           "source": "CNBC",
           "sourceSite": "",
@@ -1346,7 +1346,20 @@
           "summaryZh": "Trump ratchets up rhetoric against Beijing as U.S.-China officials meet for Xi's Washington visit CNBC"
         },
         {
-          "id": "general-news-9-https://news.google.com/",
+          "id": "general-news-19-https://news.google.com/",
+          "sourceId": "general",
+          "source": "East Asia Forum",
+          "sourceSite": "",
+          "type": "news",
+          "title": "China turns Trump’s ill-prepared summit towards Taiwan - East Asia Forum",
+          "description": "China turns Trump’s ill-prepared summit towards Taiwan East Asia Forum",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTjhOa1o4NWFoc3VfblBMTkN1VTgtclV3Q2hOR1VmX3JqQnFmRFcyc0pRR29UcTl6alNjVXNhbzF0WHFyNkthQlk4UTY3RDd0ZVBzRXoxTUgxajJlLTZiSHlaYUxmMTRKMzZXc0U0OTFMOW5CY28zNkdoQXZLa1B2eDVKZ3V4cVNnN2o1ejZJRFNsS01BdFE?oc=5",
+          "publishedAt": "Mon, 01 Jun 2026 07:00:00 GMT",
+          "titleZh": "China turns Trump’s ill-prepared summit towards Taiwan - East Asia Forum",
+          "summaryZh": "China turns Trump’s ill-prepared summit towards Taiwan East Asia Forum"
+        },
+        {
+          "id": "general-news-7-https://news.google.com/",
           "sourceId": "general",
           "source": "Council on Foreign Relations",
           "sourceSite": "",
@@ -1359,7 +1372,7 @@
           "summaryZh": "Trump-Xi Talks Are Underway in Beijing Council on Foreign Relations"
         },
         {
-          "id": "general-news-10-https://news.google.com/",
+          "id": "general-news-8-https://news.google.com/",
           "sourceId": "general",
           "source": "中华人民共和国外交部",
           "sourceSite": "",
@@ -1370,6 +1383,19 @@
           "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
           "titleZh": "President Xi Jinping Holds Talks with U.S. President Donald J. Trump - 中华人民共和国外交部",
           "summaryZh": "President Xi Jinping Holds Talks with U.S. President Donald J. Trump 中华人民共和国外交部"
+        },
+        {
+          "id": "general-news-18-https://news.google.com/",
+          "sourceId": "general",
+          "source": "The Hill",
+          "sourceSite": "",
+          "type": "news",
+          "title": "China’s Xi warns Trump on Taiwan at Beijing summit - The Hill",
+          "description": "China’s Xi warns Trump on Taiwan at Beijing summit The Hill",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRGZuRW9aV19lUzBTZ21Bcm1FQ252Z1dUTG1xM1hSOHBkeWVkSzF0Z0tSek93MWlqSnFORGdwNlpUbzFBQUU0NExTZkRKTEZETFBrU2hiQ2tYcjNWZzZESy0tRFliOGVUQzFMOEh6b0U2MXgta3REQTlKV3VpM2xYVVBOcTk0dzBqZks5X29heW1tbmfSAZgBQVVfeXFMTU5qdXFudzg1ZjRjMEFqdXptNjFjZ01OSEZ1TENBVmNLX0h5d2FyZlhVTTJPakFTR3VRUXN0aHFGSjJ5VWp6dlNsMUZjSGZEZ2NwNE01SnB4MVAxSzJDU3NvaXlhd19rZmFRQmV2YWdCVldZMXg4NktIMl9QRnJ4aVQxRTZiZjVQeGRDbTZsTkN3dEN0RFhNaVA?oc=5",
+          "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
+          "titleZh": "China’s Xi warns Trump on Taiwan at Beijing summit - The Hill",
+          "summaryZh": "China’s Xi warns Trump on Taiwan at Beijing summit The Hill"
         }
       ]
     }
@@ -1400,19 +1426,6 @@
       "publishedAt": "Thu, 15 Oct 2026 12:50:21 GMT",
       "titleZh": "Donald Trump turns to Vladimir Putin for relief at the pump - The Economist",
       "summaryZh": "Donald Trump turns to Vladimir Putin for relief at the pump The Economist"
-    },
-    {
-      "id": "ft-commentary-2-https://news.google.com/",
-      "sourceId": "ft",
-      "source": "Financial Times",
-      "sourceSite": "ft.com",
-      "type": "commentary",
-      "title": "Zelenskyy defies Trump as Ukraine resumes strikes on Russian refineries - Financial Times",
-      "description": "Zelenskyy defies Trump as Ukraine resumes strikes on Russian refineries Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnNwRlc5RTM4bnJwZW9fRkpkMGJlM0o1RkxuNUZJVlV6dXgxZGZaMkthMFlXMHVoSXI1RUJlTHN4V21hNlJnaWt1REtZUFhIM1hIcFVBMFlqNzZvaDV6Z29BY19fZ09FQkd2NDRybFI3bER3cTAwaDZjVk92VlFLWFBfR3I?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 04:01:29 GMT",
-      "titleZh": "Zelenskyy defies Trump as Ukraine resumes strikes on Russian refineries - Financial Times",
-      "summaryZh": "Zelenskyy defies Trump as Ukraine resumes strikes on Russian refineries Financial Times"
     },
     {
       "id": "ft-commentary-1-https://news.google.com/",
@@ -1994,143 +2007,143 @@
       "symbol": "TSLA",
       "company": "Tesla",
       "representative": "Elon Musk / Tesla",
-      "price": 362.44,
-      "previous": 375,
-      "change": -12.560000000000002,
-      "changePct": -3.349333333333334,
+      "price": 358.064,
+      "previous": 382.7,
+      "change": -24.635999999999967,
+      "changePct": -6.437418343349874,
       "currency": "USD",
       "exchange": "NMS",
-      "marketTime": "2026-10-15T20:00:00.000Z",
+      "marketTime": "2026-10-16T16:18:43.000Z",
       "status": "ok"
     },
     {
       "symbol": "AAPL",
       "company": "Apple",
       "representative": "Tim Cook / Apple",
-      "price": 342,
-      "previous": 340.42,
-      "change": 1.579999999999984,
-      "changePct": 0.4641325421538053,
+      "price": 344.685,
+      "previous": 336.64,
+      "change": 8.045000000000016,
+      "changePct": 2.389793250950575,
       "currency": "USD",
       "exchange": "NMS",
-      "marketTime": "2026-10-15T20:00:01.000Z",
+      "marketTime": "2026-10-16T16:18:42.000Z",
       "status": "ok"
     },
     {
       "symbol": "NVDA",
       "company": "Nvidia",
       "representative": "Jensen Huang / Nvidia",
-      "price": 217.23,
-      "previous": 230.48,
-      "change": -13.25,
-      "changePct": -5.748871919472406,
+      "price": 217.345,
+      "previous": 229.28,
+      "change": -11.935000000000002,
+      "changePct": -5.205425680390789,
       "currency": "USD",
       "exchange": "NMS",
-      "marketTime": "2026-10-15T20:00:00.000Z",
+      "marketTime": "2026-10-16T16:18:43.000Z",
       "status": "ok"
     },
     {
       "symbol": "MSFT",
       "company": "Microsoft",
       "representative": "Microsoft",
-      "price": 539.44,
-      "previous": 522.61,
-      "change": 16.83000000000004,
-      "changePct": 3.2203746579667514,
+      "price": 528.83,
+      "previous": 535.07,
+      "change": -6.240000000000009,
+      "changePct": -1.1662025529370006,
       "currency": "USD",
       "exchange": "NMS",
-      "marketTime": "2026-10-15T20:00:01.000Z",
+      "marketTime": "2026-10-16T16:18:43.000Z",
       "status": "ok"
     },
     {
       "symbol": "GOOGL",
       "company": "Alphabet",
       "representative": "Google / Alphabet",
-      "price": 349.22,
-      "previous": 348.29,
-      "change": 0.9300000000000068,
-      "changePct": 0.2670188635906879,
+      "price": 343.54,
+      "previous": 351.66,
+      "change": -8.120000000000005,
+      "changePct": -2.3090485127680154,
       "currency": "USD",
       "exchange": "NMS",
-      "marketTime": "2026-10-15T20:00:01.000Z",
+      "marketTime": "2026-10-16T16:18:42.000Z",
       "status": "ok"
     },
     {
       "symbol": "AMZN",
       "company": "Amazon",
       "representative": "Amazon",
-      "price": 254.76,
-      "previous": 254.06,
-      "change": 0.6999999999999886,
-      "changePct": 0.2755254664252494,
+      "price": 252.745,
+      "previous": 262.43,
+      "change": -9.685000000000002,
+      "changePct": -3.6905079449758036,
       "currency": "USD",
       "exchange": "NMS",
-      "marketTime": "2026-10-15T20:00:01.000Z",
+      "marketTime": "2026-10-16T16:18:43.000Z",
       "status": "ok"
     },
     {
       "symbol": "JPM",
       "company": "JPMorgan Chase",
       "representative": "Jamie Dimon / JPMorgan",
-      "price": 335.53,
-      "previous": 331.42,
-      "change": 4.109999999999957,
-      "changePct": 1.2401182789209935,
+      "price": 340.645,
+      "previous": 332.99,
+      "change": 7.654999999999973,
+      "changePct": 2.2988678338688766,
       "currency": "USD",
       "exchange": "NYQ",
-      "marketTime": "2026-10-15T20:00:02.000Z",
+      "marketTime": "2026-10-16T16:18:42.000Z",
       "status": "ok"
     },
     {
       "symbol": "BA",
       "company": "Boeing",
       "representative": "Boeing",
-      "price": 188.73,
-      "previous": 187.75,
-      "change": 0.9799999999999898,
-      "changePct": 0.5219707057256936,
+      "price": 189.03,
+      "previous": 190.37,
+      "change": -1.3400000000000034,
+      "changePct": -0.7038924200241653,
       "currency": "USD",
       "exchange": "NYQ",
-      "marketTime": "2026-10-15T20:00:03.000Z",
+      "marketTime": "2026-10-16T16:18:39.000Z",
       "status": "ok"
     },
     {
       "symbol": "GM",
       "company": "General Motors",
       "representative": "GM",
-      "price": 83.66,
-      "previous": 82.25,
-      "change": 1.4099999999999966,
-      "changePct": 1.7142857142857102,
+      "price": 84.75,
+      "previous": 82.73,
+      "change": 2.019999999999996,
+      "changePct": 2.44167774688746,
       "currency": "USD",
       "exchange": "NYQ",
-      "marketTime": "2026-10-15T20:00:03.000Z",
+      "marketTime": "2026-10-16T16:18:41.000Z",
       "status": "ok"
     },
     {
       "symbol": "F",
       "company": "Ford",
       "representative": "Ford",
-      "price": 12.31,
-      "previous": 12.25,
-      "change": 0.0600000000000005,
-      "changePct": 0.489795918367351,
+      "price": 12.605,
+      "previous": 12.17,
+      "change": 0.4350000000000005,
+      "changePct": 3.5743631881676294,
       "currency": "USD",
       "exchange": "NYQ",
-      "marketTime": "2026-10-15T20:00:03.000Z",
+      "marketTime": "2026-10-16T16:18:40.000Z",
       "status": "ok"
     },
     {
       "symbol": "CAT",
       "company": "Caterpillar",
       "representative": "Caterpillar",
-      "price": 735.64,
-      "previous": 796.18,
-      "change": -60.539999999999964,
-      "changePct": -7.603808184078973,
+      "price": 735.708,
+      "previous": 800.47,
+      "change": -64.76200000000006,
+      "changePct": -8.090496833110555,
       "currency": "USD",
       "exchange": "NYQ",
-      "marketTime": "2026-10-15T20:00:03.000Z",
+      "marketTime": "2026-10-16T16:18:43.000Z",
       "status": "ok"
     }
   ],
@@ -2153,7 +2166,7 @@
       },
       {
         "feed": "https://news.google.com/rss/search?q=Trump+state+visit+China+Beijing+CEOs&hl=en-US&gl=US&ceid=US:en",
-        "count": 97,
+        "count": 95,
         "status": "ok"
       },
       {
@@ -2180,31 +2193,31 @@
         "feed": "gdelt:Trump Beijing talks",
         "count": 0,
         "status": "failed",
-        "error": "fetch failed"
+        "error": "GDELT fetch failed: 429"
       },
       {
         "feed": "gdelt:Trump Xi Beijing summit",
         "count": 0,
         "status": "failed",
-        "error": "fetch failed"
+        "error": "GDELT fetch failed: 429"
       },
       {
         "feed": "gdelt:Trump China state visit CEOs",
         "count": 0,
         "status": "failed",
-        "error": "fetch failed"
+        "error": "GDELT fetch failed: 429"
       },
       {
         "feed": "gdelt:特朗普 北京 会谈",
         "count": 0,
         "status": "failed",
-        "error": "fetch failed"
+        "error": "GDELT fetch failed: 429"
       },
       {
         "feed": "gdelt:特朗普 访华 美国企业家",
         "count": 0,
         "status": "failed",
-        "error": "fetch failed"
+        "error": "GDELT fetch failed: 429"
       }
     ],
     "commentary": [
@@ -2242,12 +2255,12 @@
       },
       {
         "feed": "https://news.google.com/rss/search?q=特朗普+北京+会谈+微博+大V&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "count": 39,
+        "count": 41,
         "status": "ok"
       },
       {
         "feed": "https://news.google.com/rss/search?q=特朗普+访华+企业家+微博&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "count": 70,
+        "count": 68,
         "status": "ok"
       }
     ]
