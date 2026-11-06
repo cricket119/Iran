@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T19:52:03.830Z",
+  "generatedAt": "2026-11-06T00:54:30.168Z",
   "topic": "特朗普北京会谈",
   "totalNews": 42,
   "totalCommentary": 19,
@@ -12,7 +12,7 @@
     "commentary": "fallback",
     "commentaryReason": "OpenAI API failed: 429 {\n  \"error\": {\n    \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n    \"type\": \"insufficient_quota\",\n    \"param\": null,\n    \"code\": \"credit_balance_exhausted\"\n  }\n}",
     "social": "fallback",
-    "socialReason": "OpenAI API failed: 429 {\n  \"error\": {\n    \"message\": \"You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.\",\n    \"type\": \"insufficient_quota\",\n    \"param\": null,\n    \"code\": \"credit_balance_exhausted\"\n  }\n}"
+    "socialReason": "OpenAI API failed: 503 no healthy upstream"
   },
   "timeline": [
     {
@@ -29,7 +29,7 @@
       "summaryZh": "Opinion | How Trump’s weakened grip on Congress complicates talks with China South China Morning Post"
     },
     {
-      "id": "general-news-18-https://news.google.com/",
+      "id": "general-news-19-https://news.google.com/",
       "sourceId": "general",
       "source": "تسنیم",
       "sourceSite": "",
@@ -42,7 +42,7 @@
       "summaryZh": "China Discussing Possible Meeting between Xi, Putin, Trump, Says Beijing تسنیم"
     },
     {
-      "id": "general-news-15-https://news.google.com/",
+      "id": "general-news-16-https://news.google.com/",
       "sourceId": "general",
       "source": "The Guardian",
       "sourceSite": "",
@@ -120,7 +120,7 @@
       "summaryZh": "习近平获特朗普红地毡迎接，但并非事事如愿 BBC"
     },
     {
-      "id": "general-news-16-https://news.google.com/",
+      "id": "general-news-17-https://news.google.com/",
       "sourceId": "general",
       "source": "NPR",
       "sourceSite": "",
@@ -133,20 +133,7 @@
       "summaryZh": "Trump and Xi meet at moment of global consequence NPR"
     },
     {
-      "id": "general-news-19-https://news.google.com/",
-      "sourceId": "general",
-      "source": "CNBC",
-      "sourceSite": "",
-      "type": "news",
-      "title": "Trump faces Xi as strains with allies complicate U.S. pressure on China - CNBC",
-      "description": "Trump faces Xi as strains with allies complicate U.S. pressure on China CNBC",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nTE1jQ1c0VXNzUExWdXV3bGxhSWU0X1hlcnFqUXNYSEVzTkVNN1Z2NGRMMGVGTDNQdUhtQTFHWHhuaEZ6UGFmdnFYNGJfOVFaYzBfZHNVOERLVHR1enNRczZrZU1hOHh2M2dpZFJNc1BvQ0XSAXhBVV95cUxNZTRGcG5hMzVfcUQtTkVpQmltOEJmN1hMT0hBUWVQcVV1UkRRek11R2ZXZXhPTFhYYTNoRlI4UjZWNUFLV3lIa0FQT2wyYkNtSFA3bGtPTTYzY0N4d2JIdFd5Mk4wMmJnRzFNY2hTeEpDaVJMTmxzQUE?oc=5",
-      "publishedAt": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "titleZh": "Trump faces Xi as strains with allies complicate U.S. pressure on China - CNBC",
-      "summaryZh": "Trump faces Xi as strains with allies complicate U.S. pressure on China CNBC"
-    },
-    {
-      "id": "general-news-17-https://news.google.com/",
+      "id": "general-news-18-https://news.google.com/",
       "sourceId": "general",
       "source": "The New York Times",
       "sourceSite": "",
@@ -302,7 +289,7 @@
       "summaryZh": "Trump-Xi meeting: Beijing trip ends with Zhongnanhai tour BBC"
     },
     {
-      "id": "bbc-news-3-https://news.google.com/",
+      "id": "bbc-news-5-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -356,15 +343,15 @@
     {
       "id": "general-news-10-https://news.google.com/",
       "sourceId": "general",
-      "source": "CNBC",
+      "source": "AP News",
       "sourceSite": "",
       "type": "news",
-      "title": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
-      "description": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVGtCaV9hM2dFZXpwajNOVjd3Ujg5TWlRODEzQjdvb1d3NjdERy1iWkJTZWlYRnh3ZFhFNG9pNVF5WFFiSkszSklvLW5pNWZYQjdRTTBicG1vRGVPbnltR2dvbC05djVYbzF6X2xhdVBPckhmTkE1S2plVlBIMllhZ29vQ2RSNXZHTXcycmdyTzTSAZYBQVVfeXFMUHFPcFMydTFFS21aSDJqMjQ5ZVZ3TDQtSEEyYWd3Z1pOYTd0QzB1eGFCY0gxV0tFdTYyYUV2Z3RCeUYtLXVZbE10SlF5TFpIc0hzRzdVcjdadkR3MkFBemdPZnl3cjJ6MU5hcnk5ckFkLW4wNXR2WEhDNnR2aGpDellnRGtTLWptbjlTMnRNWFM4UHJqZnB3?oc=5",
+      "title": "Takeaways from Trump's trip to China: Taiwan, a new framework for relationship and flattery for Xi - AP News",
+      "description": "Takeaways from Trump's trip to China: Taiwan, a new framework for relationship and flattery for Xi AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWnFqZ0NHY2YweHc5aGYyX00yVHdzeGx2TjZxeG1uaTdaU2FkYi04R2t6UXJfRXR3eXBSNDFfdkRFXy02UGlTQkdGR0k2V0JtOUMteFFORk40UzJaQ3RFNFhPRk9lX3BDSzZqcGRIQmNibk55TDFZNmdDTjROc3NyMGtNQndlaXJULTRaNndlSUh0UkZTS3pJ?oc=5",
       "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
-      "titleZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
-      "summaryZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC"
+      "titleZh": "Takeaways from Trump's trip to China: Taiwan, a new framework for relationship and flattery for Xi - AP News",
+      "summaryZh": "Takeaways from Trump's trip to China: Taiwan, a new framework for relationship and flattery for Xi AP News"
     },
     {
       "id": "general-news-11-https://news.google.com/",
@@ -382,6 +369,19 @@
     {
       "id": "general-news-12-https://news.google.com/",
       "sourceId": "general",
+      "source": "CNBC",
+      "sourceSite": "",
+      "type": "news",
+      "title": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
+      "description": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVGtCaV9hM2dFZXpwajNOVjd3Ujg5TWlRODEzQjdvb1d3NjdERy1iWkJTZWlYRnh3ZFhFNG9pNVF5WFFiSkszSklvLW5pNWZYQjdRTTBicG1vRGVPbnltR2dvbC05djVYbzF6X2xhdVBPckhmTkE1S2plVlBIMllhZ29vQ2RSNXZHTXcycmdyTzTSAZYBQVVfeXFMUHFPcFMydTFFS21aSDJqMjQ5ZVZ3TDQtSEEyYWd3Z1pOYTd0QzB1eGFCY0gxV0tFdTYyYUV2Z3RCeUYtLXVZbE10SlF5TFpIc0hzRzdVcjdadkR3MkFBemdPZnl3cjJ6MU5hcnk5ckFkLW4wNXR2WEhDNnR2aGpDellnRGtTLWptbjlTMnRNWFM4UHJqZnB3?oc=5",
+      "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
+      "titleZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
+      "summaryZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC"
+    },
+    {
+      "id": "general-news-13-https://news.google.com/",
+      "sourceId": "general",
       "source": "The Guardian",
       "sourceSite": "",
       "type": "news",
@@ -393,7 +393,7 @@
       "summaryZh": "What was actually achieved at Trump and Xi’s ‘stalemate summit’ in Beijing? The Guardian"
     },
     {
-      "id": "general-news-13-https://news.google.com/",
+      "id": "general-news-14-https://news.google.com/",
       "sourceId": "general",
       "source": "Financial Times",
       "sourceSite": "",
@@ -419,7 +419,7 @@
       "summaryZh": "Xi tells Trump that mishandling of Taiwan could lead to 'dangerous' place Reuters"
     },
     {
-      "id": "bbc-news-4-https://news.google.com/",
+      "id": "bbc-news-3-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -432,7 +432,7 @@
       "summaryZh": "Trump China trip: What to know as president meets Xi Jinping BBC"
     },
     {
-      "id": "bbc-news-5-https://news.google.com/",
+      "id": "bbc-news-4-https://news.google.com/",
       "sourceId": "bbc",
       "source": "BBC",
       "sourceSite": "bbc.com",
@@ -549,7 +549,7 @@
       "summaryZh": "Xi holds talks with Trump in Beijing English.gov.cn"
     },
     {
-      "id": "general-news-14-https://news.google.com/",
+      "id": "general-news-15-https://news.google.com/",
       "sourceId": "general",
       "source": "AFR",
       "sourceSite": "",
@@ -743,7 +743,7 @@
           "summaryZh": "Trump-Xi meeting: Beijing trip ends with Zhongnanhai tour BBC"
         },
         {
-          "id": "bbc-news-3-https://news.google.com/",
+          "id": "bbc-news-5-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -769,7 +769,7 @@
           "summaryZh": "特朗普访华结果分析：美国盯着3B，中国盯着3T，谁占了上风？ BBC"
         },
         {
-          "id": "bbc-news-4-https://news.google.com/",
+          "id": "bbc-news-3-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -782,7 +782,7 @@
           "summaryZh": "Trump China trip: What to know as president meets Xi Jinping BBC"
         },
         {
-          "id": "bbc-news-5-https://news.google.com/",
+          "id": "bbc-news-4-https://news.google.com/",
           "sourceId": "bbc",
           "source": "BBC",
           "sourceSite": "bbc.com",
@@ -890,7 +890,7 @@
           "summaryZh": "Opinion | How Trump’s weakened grip on Congress complicates talks with China South China Morning Post"
         },
         {
-          "id": "general-news-18-https://news.google.com/",
+          "id": "general-news-19-https://news.google.com/",
           "sourceId": "general",
           "source": "تسنیم",
           "sourceSite": "",
@@ -903,7 +903,7 @@
           "summaryZh": "China Discussing Possible Meeting between Xi, Putin, Trump, Says Beijing تسنیم"
         },
         {
-          "id": "general-news-15-https://news.google.com/",
+          "id": "general-news-16-https://news.google.com/",
           "sourceId": "general",
           "source": "The Guardian",
           "sourceSite": "",
@@ -929,7 +929,7 @@
           "summaryZh": "Work underway to organize trilateral talks between Putin, Trump, Xi in China: Kremlin A News"
         },
         {
-          "id": "general-news-16-https://news.google.com/",
+          "id": "general-news-17-https://news.google.com/",
           "sourceId": "general",
           "source": "NPR",
           "sourceSite": "",
@@ -942,20 +942,7 @@
           "summaryZh": "Trump and Xi meet at moment of global consequence NPR"
         },
         {
-          "id": "general-news-19-https://news.google.com/",
-          "sourceId": "general",
-          "source": "CNBC",
-          "sourceSite": "",
-          "type": "news",
-          "title": "Trump faces Xi as strains with allies complicate U.S. pressure on China - CNBC",
-          "description": "Trump faces Xi as strains with allies complicate U.S. pressure on China CNBC",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nTE1jQ1c0VXNzUExWdXV3bGxhSWU0X1hlcnFqUXNYSEVzTkVNN1Z2NGRMMGVGTDNQdUhtQTFHWHhuaEZ6UGFmdnFYNGJfOVFaYzBfZHNVOERLVHR1enNRczZrZU1hOHh2M2dpZFJNc1BvQ0XSAXhBVV95cUxNZTRGcG5hMzVfcUQtTkVpQmltOEJmN1hMT0hBUWVQcVV1UkRRek11R2ZXZXhPTFhYYTNoRlI4UjZWNUFLV3lIa0FQT2wyYkNtSFA3bGtPTTYzY0N4d2JIdFd5Mk4wMmJnRzFNY2hTeEpDaVJMTmxzQUE?oc=5",
-          "publishedAt": "Wed, 23 Sep 2026 07:00:00 GMT",
-          "titleZh": "Trump faces Xi as strains with allies complicate U.S. pressure on China - CNBC",
-          "summaryZh": "Trump faces Xi as strains with allies complicate U.S. pressure on China CNBC"
-        },
-        {
-          "id": "general-news-17-https://news.google.com/",
+          "id": "general-news-18-https://news.google.com/",
           "sourceId": "general",
           "source": "The New York Times",
           "sourceSite": "",
@@ -1022,15 +1009,15 @@
         {
           "id": "general-news-10-https://news.google.com/",
           "sourceId": "general",
-          "source": "CNBC",
+          "source": "AP News",
           "sourceSite": "",
           "type": "news",
-          "title": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
-          "description": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVGtCaV9hM2dFZXpwajNOVjd3Ujg5TWlRODEzQjdvb1d3NjdERy1iWkJTZWlYRnh3ZFhFNG9pNVF5WFFiSkszSklvLW5pNWZYQjdRTTBicG1vRGVPbnltR2dvbC05djVYbzF6X2xhdVBPckhmTkE1S2plVlBIMllhZ29vQ2RSNXZHTXcycmdyTzTSAZYBQVVfeXFMUHFPcFMydTFFS21aSDJqMjQ5ZVZ3TDQtSEEyYWd3Z1pOYTd0QzB1eGFCY0gxV0tFdTYyYUV2Z3RCeUYtLXVZbE10SlF5TFpIc0hzRzdVcjdadkR3MkFBemdPZnl3cjJ6MU5hcnk5ckFkLW4wNXR2WEhDNnR2aGpDellnRGtTLWptbjlTMnRNWFM4UHJqZnB3?oc=5",
+          "title": "Takeaways from Trump's trip to China: Taiwan, a new framework for relationship and flattery for Xi - AP News",
+          "description": "Takeaways from Trump's trip to China: Taiwan, a new framework for relationship and flattery for Xi AP News",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWnFqZ0NHY2YweHc5aGYyX00yVHdzeGx2TjZxeG1uaTdaU2FkYi04R2t6UXJfRXR3eXBSNDFfdkRFXy02UGlTQkdGR0k2V0JtOUMteFFORk40UzJaQ3RFNFhPRk9lX3BDSzZqcGRIQmNibk55TDFZNmdDTjROc3NyMGtNQndlaXJULTRaNndlSUh0UkZTS3pJ?oc=5",
           "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
-          "titleZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
-          "summaryZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC"
+          "titleZh": "Takeaways from Trump's trip to China: Taiwan, a new framework for relationship and flattery for Xi - AP News",
+          "summaryZh": "Takeaways from Trump's trip to China: Taiwan, a new framework for relationship and flattery for Xi AP News"
         },
         {
           "id": "general-news-11-https://news.google.com/",
@@ -1048,6 +1035,19 @@
         {
           "id": "general-news-12-https://news.google.com/",
           "sourceId": "general",
+          "source": "CNBC",
+          "sourceSite": "",
+          "type": "news",
+          "title": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
+          "description": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVGtCaV9hM2dFZXpwajNOVjd3Ujg5TWlRODEzQjdvb1d3NjdERy1iWkJTZWlYRnh3ZFhFNG9pNVF5WFFiSkszSklvLW5pNWZYQjdRTTBicG1vRGVPbnltR2dvbC05djVYbzF6X2xhdVBPckhmTkE1S2plVlBIMllhZ29vQ2RSNXZHTXcycmdyTzTSAZYBQVVfeXFMUHFPcFMydTFFS21aSDJqMjQ5ZVZ3TDQtSEEyYWd3Z1pOYTd0QzB1eGFCY0gxV0tFdTYyYUV2Z3RCeUYtLXVZbE10SlF5TFpIc0hzRzdVcjdadkR3MkFBemdPZnl3cjJ6MU5hcnk5ckFkLW4wNXR2WEhDNnR2aGpDellnRGtTLWptbjlTMnRNWFM4UHJqZnB3?oc=5",
+          "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
+          "titleZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
+          "summaryZh": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access CNBC"
+        },
+        {
+          "id": "general-news-13-https://news.google.com/",
+          "sourceId": "general",
           "source": "The Guardian",
           "sourceSite": "",
           "type": "news",
@@ -1059,7 +1059,7 @@
           "summaryZh": "What was actually achieved at Trump and Xi’s ‘stalemate summit’ in Beijing? The Guardian"
         },
         {
-          "id": "general-news-13-https://news.google.com/",
+          "id": "general-news-14-https://news.google.com/",
           "sourceId": "general",
           "source": "Financial Times",
           "sourceSite": "",
@@ -1124,7 +1124,7 @@
           "summaryZh": "Xi holds talks with Trump in Beijing English.gov.cn"
         },
         {
-          "id": "general-news-14-https://news.google.com/",
+          "id": "general-news-15-https://news.google.com/",
           "sourceId": "general",
           "source": "AFR",
           "sourceSite": "",
@@ -1390,19 +1390,6 @@
   ],
   "social": [
     {
-      "id": "social-social-16-https://news.google.com/",
-      "sourceId": "social",
-      "source": "AsiaOne.com",
-      "sourceSite": "",
-      "type": "social",
-      "title": "Trump's political humbling signals short-term gain, long-term pain for China, China News - AsiaOne.com",
-      "description": "Trump's political humbling signals short-term gain, long-term pain for China, China News AsiaOne.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNF9LT1hEUENMcU1sNXp0U1BiN0Y4QnAzMW9mSk0tV29tR3dTMGNldjYwY3pnX0ZfX0NUTG9NTlFVeHFCVG9MVnc3WXlybm82VDRSU3dBNjJ6cDRhV2J1SWxadi01aTFMTWhCNktvaDc4U1NVTHlEbDh1bFBsSnJWejhiRlJ2QkNPbS16MVcySlpmX1BQUzlJZ1RJMFZWWUNRZlE?oc=5",
-      "publishedAt": "Thu, 05 Nov 2026 08:30:02 GMT",
-      "titleZh": "Trump's political humbling signals short-term gain, long-term pain for China, China News - AsiaOne.com",
-      "summaryZh": "Trump's political humbling signals short-term gain, long-term pain for China, China News AsiaOne.com"
-    },
-    {
       "id": "social-social-0-https://news.google.com/",
       "sourceId": "social",
       "source": "CNBC",
@@ -1429,20 +1416,7 @@
       "summaryZh": "After Xi’s Warning on Taiwan, He and Trump Strike Positive Tone The New York Times"
     },
     {
-      "id": "social-social-10-https://news.google.com/",
-      "sourceId": "social",
-      "source": "PBS",
-      "sourceSite": "",
-      "type": "social",
-      "title": "Trump's comment about negotiations on Taiwan heightens concerns over China - PBS",
-      "description": "Trump's comment about negotiations on Taiwan heightens concerns over China PBS",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTjFITUViN25WbFMxYU9VY1BRZ2x4YTg4eVlqa2lQR1dsTU5tcElQOXVTQ2xLNEQxQXJWVlc4NzhQclhkY3FseVczM0Q1aTBhNjZBTHRITnlzeDBiekZYdnpVd2s5cVZlUGFkVmVqem5CcjBFTVl2ck03WVhHNE9YaHI4Qm45ck0zcy1oV25LVl9fYVhvb2dRSHM2MUNhNkxEMWd3bHB1bUZ5SmQ2ZEJiUw?oc=5",
-      "publishedAt": "Sat, 16 May 2026 07:00:00 GMT",
-      "titleZh": "Trump's comment about negotiations on Taiwan heightens concerns over China - PBS",
-      "summaryZh": "Trump's comment about negotiations on Taiwan heightens concerns over China PBS"
-    },
-    {
-      "id": "social-social-11-https://news.google.com/",
+      "id": "social-social-7-https://news.google.com/",
       "sourceId": "social",
       "source": "BBC",
       "sourceSite": "",
@@ -1455,7 +1429,33 @@
       "summaryZh": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi BBC"
     },
     {
-      "id": "social-social-7-https://news.google.com/",
+      "id": "social-social-11-https://news.google.com/",
+      "sourceId": "social",
+      "source": "PBS",
+      "sourceSite": "",
+      "type": "social",
+      "title": "Trump's comment about negotiations on Taiwan heightens concerns over China - PBS",
+      "description": "Trump's comment about negotiations on Taiwan heightens concerns over China PBS",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTjFITUViN25WbFMxYU9VY1BRZ2x4YTg4eVlqa2lQR1dsTU5tcElQOXVTQ2xLNEQxQXJWVlc4NzhQclhkY3FseVczM0Q1aTBhNjZBTHRITnlzeDBiekZYdnpVd2s5cVZlUGFkVmVqem5CcjBFTVl2ck03WVhHNE9YaHI4Qm45ck0zcy1oV25LVl9fYVhvb2dRSHM2MUNhNkxEMWd3bHB1bUZ5SmQ2ZEJiUw?oc=5",
+      "publishedAt": "Sat, 16 May 2026 07:00:00 GMT",
+      "titleZh": "Trump's comment about negotiations on Taiwan heightens concerns over China - PBS",
+      "summaryZh": "Trump's comment about negotiations on Taiwan heightens concerns over China PBS"
+    },
+    {
+      "id": "social-social-18-https://news.google.com/",
+      "sourceId": "social",
+      "source": "BBC",
+      "sourceSite": "",
+      "type": "social",
+      "title": "特朗普访华：MAGA运动中的中国批评者如何看待他这次北京之行 - BBC",
+      "description": "特朗普访华：MAGA运动中的中国批评者如何看待他这次北京之行 BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WaUU0eE90bTBvRk5YYjdfcVZ5RGVGeHY4OVo4N1NueHFfWWZhNUQtakxnMnFWS3Q4d0ZLTXNxakplU2E4OEh3M2hMYklhUi16eFhuOFJGdDRpUG5sU1JNR0ZJNThKQdIBa0FVX3lxTFBWZmo1YUpMbGg5YkIycE50NlFxd0ZubVMzTmlOVjVsTWItYUVNWnNCVXBWZHRRSXU5YVF5QVlRSVdUelhJSWE5NjRkb3ktb3lzMTVmMWkwbXhELVJsTVVuVWpEdnM4R2F5Wnhr?oc=5",
+      "publishedAt": "Sat, 16 May 2026 07:00:00 GMT",
+      "titleZh": "特朗普访华：MAGA运动中的中国批评者如何看待他这次北京之行 - BBC",
+      "summaryZh": "特朗普访华：MAGA运动中的中国批评者如何看待他这次北京之行 BBC"
+    },
+    {
+      "id": "social-social-8-https://news.google.com/",
       "sourceId": "social",
       "source": "BBC",
       "sourceSite": "",
@@ -1559,7 +1559,7 @@
       "summaryZh": "China’s Xi warns Trump on Taiwan at Beijing summit The Hill"
     },
     {
-      "id": "social-social-8-https://news.google.com/",
+      "id": "social-social-9-https://news.google.com/",
       "sourceId": "social",
       "source": "BBC",
       "sourceSite": "",
@@ -1572,7 +1572,7 @@
       "summaryZh": "Trump China trip: What to know as president meets Xi Jinping BBC"
     },
     {
-      "id": "social-social-9-https://news.google.com/",
+      "id": "social-social-10-https://news.google.com/",
       "sourceId": "social",
       "source": "NBC News",
       "sourceSite": "",
@@ -1611,7 +1611,7 @@
       "summaryZh": "Xi warns Trump of ‘clashes’ if Taiwan is mishandled in ‘red-line’ talks AFR"
     },
     {
-      "id": "social-social-17-https://news.google.com/",
+      "id": "social-social-16-https://news.google.com/",
       "sourceId": "social",
       "source": "BBC",
       "sourceSite": "",
@@ -1624,7 +1624,7 @@
       "summaryZh": "特朗普时隔九年再度访华，中国年轻一代的“美国梦”在褪色吗？ BBC"
     },
     {
-      "id": "social-social-18-https://news.google.com/",
+      "id": "social-social-17-https://news.google.com/",
       "sourceId": "social",
       "source": "新浪财经",
       "sourceSite": "",
@@ -1642,143 +1642,143 @@
       "symbol": "TSLA",
       "company": "Tesla",
       "representative": "Elon Musk / Tesla",
-      "price": 344.62,
+      "price": 343.69,
       "previous": 403.3,
-      "change": -58.68000000000001,
-      "changePct": -14.549962806843542,
+      "change": -59.610000000000014,
+      "changePct": -14.780560376890655,
       "currency": "USD",
       "exchange": "NMS",
-      "marketTime": "2026-11-05T19:50:51.000Z",
+      "marketTime": "2026-11-05T21:00:01.000Z",
       "status": "ok"
     },
     {
       "symbol": "AAPL",
       "company": "Apple",
       "representative": "Tim Cook / Apple",
-      "price": 345.53,
+      "price": 344.17,
       "previous": 348.91,
-      "change": -3.3800000000000523,
-      "changePct": -0.9687311914247376,
+      "change": -4.740000000000009,
+      "changePct": -1.3585165228855605,
       "currency": "USD",
       "exchange": "NMS",
-      "marketTime": "2026-11-05T19:50:50.000Z",
+      "marketTime": "2026-11-05T21:00:01.000Z",
       "status": "ok"
     },
     {
       "symbol": "NVDA",
       "company": "Nvidia",
       "representative": "Jensen Huang / Nvidia",
-      "price": 184.645,
+      "price": 181.6,
       "previous": 213.66,
-      "change": -29.014999999999986,
-      "changePct": -13.579986895066924,
+      "change": -32.06,
+      "changePct": -15.0051483665637,
       "currency": "USD",
       "exchange": "NMS",
-      "marketTime": "2026-11-05T19:50:50.000Z",
+      "marketTime": "2026-11-05T21:00:01.000Z",
       "status": "ok"
     },
     {
       "symbol": "MSFT",
       "company": "Microsoft",
       "representative": "Microsoft",
-      "price": 540.04,
+      "price": 535.93,
       "previous": 530.14,
-      "change": 9.899999999999977,
-      "changePct": 1.8674312445769,
+      "change": 5.789999999999964,
+      "changePct": 1.092164333949516,
       "currency": "USD",
       "exchange": "NMS",
-      "marketTime": "2026-11-05T19:50:51.000Z",
+      "marketTime": "2026-11-05T21:00:01.000Z",
       "status": "ok"
     },
     {
       "symbol": "GOOGL",
       "company": "Alphabet",
       "representative": "Google / Alphabet",
-      "price": 285.24,
+      "price": 282.57,
       "previous": 283.82,
-      "change": 1.420000000000016,
-      "changePct": 0.5003171023888436,
+      "change": -1.25,
+      "changePct": -0.44041998449721653,
       "currency": "USD",
       "exchange": "NMS",
-      "marketTime": "2026-11-05T19:50:50.000Z",
+      "marketTime": "2026-11-05T21:00:01.000Z",
       "status": "ok"
     },
     {
       "symbol": "AMZN",
       "company": "Amazon",
       "representative": "Amazon",
-      "price": 261.01,
+      "price": 260.21,
       "previous": 243.79,
-      "change": 17.22,
-      "changePct": 7.063456253332786,
+      "change": 16.419999999999987,
+      "changePct": 6.735304975593744,
       "currency": "USD",
       "exchange": "NMS",
-      "marketTime": "2026-11-05T19:50:51.000Z",
+      "marketTime": "2026-11-05T21:00:02.000Z",
       "status": "ok"
     },
     {
       "symbol": "JPM",
       "company": "JPMorgan Chase",
       "representative": "Jamie Dimon / JPMorgan",
-      "price": 337.17,
+      "price": 337.34,
       "previous": 343.58,
-      "change": -6.409999999999968,
-      "changePct": -1.8656499214156728,
+      "change": -6.240000000000009,
+      "changePct": -1.8161709063391378,
       "currency": "USD",
       "exchange": "NYQ",
-      "marketTime": "2026-11-05T19:50:51.000Z",
+      "marketTime": "2026-11-05T21:00:02.000Z",
       "status": "ok"
     },
     {
       "symbol": "BA",
       "company": "Boeing",
       "representative": "Boeing",
-      "price": 171.76,
+      "price": 172.5,
       "previous": 172.65,
-      "change": -0.8900000000000148,
-      "changePct": -0.515493773530272,
+      "change": -0.15000000000000568,
+      "changePct": -0.08688097306690164,
       "currency": "USD",
       "exchange": "NYQ",
-      "marketTime": "2026-11-05T19:50:49.000Z",
+      "marketTime": "2026-11-05T21:00:03.000Z",
       "status": "ok"
     },
     {
       "symbol": "GM",
       "company": "General Motors",
       "representative": "GM",
-      "price": 89.36,
+      "price": 89.33,
       "previous": 85.72,
-      "change": 3.6400000000000006,
-      "changePct": 4.246383574428372,
+      "change": 3.6099999999999994,
+      "changePct": 4.211385907606159,
       "currency": "USD",
       "exchange": "NYQ",
-      "marketTime": "2026-11-05T19:50:41.000Z",
+      "marketTime": "2026-11-05T21:00:03.000Z",
       "status": "ok"
     },
     {
       "symbol": "F",
       "company": "Ford",
       "representative": "Ford",
-      "price": 12.435,
+      "price": 12.53,
       "previous": 12.36,
-      "change": 0.07500000000000107,
-      "changePct": 0.606796116504863,
+      "change": 0.16999999999999993,
+      "changePct": 1.375404530744336,
       "currency": "USD",
       "exchange": "NYQ",
-      "marketTime": "2026-11-05T19:50:49.000Z",
+      "marketTime": "2026-11-05T21:03:05.000Z",
       "status": "ok"
     },
     {
       "symbol": "CAT",
       "company": "Caterpillar",
       "representative": "Caterpillar",
-      "price": 562.43,
+      "price": 553.64,
       "previous": 647.39,
-      "change": -84.96000000000004,
-      "changePct": -13.123464990191389,
+      "change": -93.75,
+      "changePct": -14.481224609586185,
       "currency": "USD",
       "exchange": "NYQ",
-      "marketTime": "2026-11-05T19:50:50.000Z",
+      "marketTime": "2026-11-05T21:00:02.000Z",
       "status": "ok"
     }
   ],
@@ -1786,7 +1786,7 @@
     "news": [
       {
         "feed": "https://news.google.com/rss/search?q=Trump+Beijing+talks&hl=en-US&gl=US&ceid=US:en",
-        "count": 43,
+        "count": 44,
         "status": "ok"
       },
       {
@@ -1801,22 +1801,22 @@
       },
       {
         "feed": "https://news.google.com/rss/search?q=Trump+state+visit+China+Beijing+CEOs&hl=en-US&gl=US&ceid=US:en",
-        "count": 54,
-        "status": "ok"
-      },
-      {
-        "feed": "https://news.google.com/rss/search?q=Trump+Xi+summit+business+leaders+Beijing&hl=en-US&gl=US&ceid=US:en",
         "count": 52,
         "status": "ok"
       },
       {
+        "feed": "https://news.google.com/rss/search?q=Trump+Xi+summit+business+leaders+Beijing&hl=en-US&gl=US&ceid=US:en",
+        "count": 43,
+        "status": "ok"
+      },
+      {
         "feed": "https://news.google.com/rss/search?q=特朗普+北京+会谈&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "count": 26,
+        "count": 25,
         "status": "ok"
       },
       {
         "feed": "https://news.google.com/rss/search?q=中美+北京+会谈+特朗普&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "count": 36,
+        "count": 35,
         "status": "ok"
       },
       {
@@ -1833,7 +1833,7 @@
         "feed": "gdelt:Trump Xi Beijing summit",
         "count": 0,
         "status": "failed",
-        "error": "fetch failed"
+        "error": "GDELT fetch failed: 429"
       },
       {
         "feed": "gdelt:Trump China state visit CEOs",
@@ -1857,7 +1857,7 @@
     "commentary": [
       {
         "feed": "https://news.google.com/rss/search?q=Trump+Beijing+China+talks+analysis&hl=en-US&gl=US&ceid=US:en",
-        "count": 27,
+        "count": 26,
         "status": "ok"
       },
       {
@@ -1867,7 +1867,7 @@
       },
       {
         "feed": "https://news.google.com/rss/search?q=Trump+China+talks+site:foreignpolicy.com&hl=en-US&gl=US&ceid=US:en",
-        "count": 83,
+        "count": 84,
         "status": "ok"
       },
       {
@@ -1889,12 +1889,12 @@
       },
       {
         "feed": "https://news.google.com/rss/search?q=特朗普+北京+会谈+微博+大V&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "count": 13,
+        "count": 14,
         "status": "ok"
       },
       {
         "feed": "https://news.google.com/rss/search?q=特朗普+访华+企业家+微博&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "count": 21,
+        "count": 23,
         "status": "ok"
       }
     ]
